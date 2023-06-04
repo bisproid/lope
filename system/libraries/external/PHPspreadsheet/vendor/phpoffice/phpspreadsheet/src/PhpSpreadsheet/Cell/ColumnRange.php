@@ -1,117 +1,125 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-cKpJ5W==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Cell;
+
+use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
+
+class ColumnRange implements AddressRange
+{
+    /**
+     * @var ?Worksheet
+     */
+    protected $worksheet;
+
+    /**
+     * @var int
+     */
+    protected $from;
+
+    /**
+     * @var int
+     */
+    protected $to;
+
+    public function __construct(string $from, ?string $to = null, ?Worksheet $worksheet = null)
+    {
+        $this->validateFromTo(
+            Coordinate::columnIndexFromString($from),
+            Coordinate::columnIndexFromString($to ?? $from)
+        );
+        $this->worksheet = $worksheet;
+    }
+
+    public static function fromColumnIndexes(int $from, int $to, ?Worksheet $worksheet = null): self
+    {
+        return new self(Coordinate::stringFromColumnIndex($from), Coordinate::stringFromColumnIndex($to), $worksheet);
+    }
+
+    /**
+     * @param array<int|string> $array
+     */
+    public static function fromArray(array $array, ?Worksheet $worksheet = null): self
+    {
+        array_walk(
+            $array,
+            function (&$column): void {
+                $column = is_numeric($column) ? Coordinate::stringFromColumnIndex((int) $column) : $column;
+            }
+        );
+        /** @var string $from */
+        /** @var string $to */
+        [$from, $to] = $array;
+
+        return new self($from, $to, $worksheet);
+    }
+
+    private function validateFromTo(int $from, int $to): void
+    {
+        // Identify actual top and bottom values (in case we've been given bottom and top)
+        $this->from = min($from, $to);
+        $this->to = max($from, $to);
+    }
+
+    public function columnCount(): int
+    {
+        return $this->to - $this->from + 1;
+    }
+
+    public function shiftDown(int $offset = 1): self
+    {
+        $newFrom = $this->from + $offset;
+        $newFrom = ($newFrom < 1) ? 1 : $newFrom;
+
+        $newTo = $this->to + $offset;
+        $newTo = ($newTo < 1) ? 1 : $newTo;
+
+        return self::fromColumnIndexes($newFrom, $newTo, $this->worksheet);
+    }
+
+    public function shiftUp(int $offset = 1): self
+    {
+        return $this->shiftDown(0 - $offset);
+    }
+
+    public function from(): string
+    {
+        return Coordinate::stringFromColumnIndex($this->from);
+    }
+
+    public function to(): string
+    {
+        return Coordinate::stringFromColumnIndex($this->to);
+    }
+
+    public function fromIndex(): int
+    {
+        return $this->from;
+    }
+
+    public function toIndex(): int
+    {
+        return $this->to;
+    }
+
+    public function toCellRange(): CellRange
+    {
+        return new CellRange(
+            CellAddress::fromColumnAndRow($this->from, 1, $this->worksheet),
+            CellAddress::fromColumnAndRow($this->to, AddressRange::MAX_ROW)
+        );
+    }
+
+    public function __toString(): string
+    {
+        $from = $this->from();
+        $to = $this->to();
+
+        if ($this->worksheet !== null) {
+            $title = str_replace("'", "''", $this->worksheet->getTitle());
+
+            return "'{$title}'!{$from}:{$to}";
+        }
+
+        return "{$from}:{$to}";
+    }
+}

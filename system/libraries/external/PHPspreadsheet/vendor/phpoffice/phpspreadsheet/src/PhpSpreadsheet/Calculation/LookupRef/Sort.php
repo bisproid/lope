@@ -1,221 +1,342 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPuFEBIW+U9OFjoQu2vMapVBfNA4e3rsuBed8yxwofnXfTsoPQ4LKQhjz8I7bYC5tlDk8IG40
-ZUNF74c7v+8dPSHgj0fonzDn5AbrMfTHoO7nL/yIXoQwlr6JXq6Uawg9U0UiA15imbpudK1d3JHh
-YU9qVVMer0oV7354iAym7NfEnxrnLYkJ29c1KCVUCTn6O9QE+VbI0kJQvEG4YeHVG37J33bWUrns
-PNRpRqqVTgtM+Fw5c/RwLm0ckbffpJEWQp+lkUGu/lPwQ6qdSKR5RGoopm4PzjtOaQyDBr3IXKAf
-05p9RoLMUJBxmmkjNGZdrbviMIHcqQ6liPHmf4Gl7qNi8TLlVDSBNhVqP2DfsCa6KqWh/CcXPY6P
-H2JE6xHKaJA4Qtrugc2ogP2JacWPIRqTDSKAcpEutcuk1h3QXU3Or1d4ewymrV1dhis2SC5B6OIZ
-6LJbk21O7skuOfIJL7nWSb1RJNUPzDfMrh647Sjvs5ZOm9ElK8KcsfK1cQUry7cNsno9fu0vdC9N
-Uql/hdPwZNrUYNh5Q7/zuUVd94Cbayb56TvFHG6q+x9ImeOazgAYkNtRprrFHKX9IgckeTk8a/ml
-IaiD7N95hpPAn5V72E5XisAh0CpJO1EDuMNGhrzLMXQ3pxY+ut+4pn8BpMkreMyWDOVaBOeN888r
-vsBsFO/X6JPfY3ldCH2isfCrfL2q86nyw/Ya/70wb+m8tWzFn5e/4YreUOXXSlbF7vvaizm/sTRt
-CIIxJzG1A+4cJh0F0evqvDVSJ7gmgZAk+ELH2Mhfi4+Z+PiQb5q4h41/lqYzM0NV0d5I6Lz2VRiN
-/ODcGUyZXQX3dUQidCXd/ns4JNf458DXXvHcpccgQhC0CFfwntLQpwa0gSpXLz0o8ka6U6RsdWBb
-qGbTCS0Ynp5w4K/6LxnzIvgTRkQjsP100a5mycc3/MNULGX2sgwPaNttv6bPHsB3pdFYa1hYeyVR
-WmmeyiW4nVJCGRBcqeJpsSCcI/YTuYqkJW3wSYoBCvCzlOr+ziBysGP/mIc8Ea8MiQVeZCSpKYag
-uflL7Xza9p98tJUSdIwVRKAjmoP7RH6lOGIKZbxhpnlAA9LCITH7XIMU1DVyLumFMuFBrUDAS3Xk
-hzOQ5tisgDEdHmB0fTO0GZb+jlTbLcJ1c5URZcm/7wqiHuzBTjItgCe0u07UROQaSCrp3D5S58pL
-CtEtYZjpIr3Ycq9rk1b+LYi4wxrt4tAu1TgKU4wIx4pZAXKRaAB6mZI5xxmml0NSAn9LAkj7taf3
-VUD0IllJDyMG2aa+4JsZSfHdAJRoYS6WYi+J5QvtM4Qiyll5fa6WUnS38zwBuIgOOMRYMj7ZiWxG
-oOQR6+QenC8oOpQeVz40YQQZJxzv+J/qRhNrwAYDrBal9iKEgI+7Or2Pa7ak27lfQYmsEOShPs7E
-R7FjZ6pHHdZhkTj3uQud0URzPhxNT1ViVTwcpSMYJ0HNaFCWjvJU+9uoPcID9IsdlM+ATcLJsweR
-4RDZMIl32w3gHzHKtSvK1dUOBSA7nE7LI0WDFcICBH8McEPjDmTqz9M2orni/9QNSstvDdIBJBN0
-3jm0inhHJUkCbIoAKSywCH1MqiDlfyZQfYJ619Zwf09HggFdVCwjTG2jmii3avKI5cZ3Y7iZvUc2
-aaFYhxsOcvipKHXf94FqohVAllYDH4HSnn7qRxp9algThB8g/+0jZRZ9fzveqv+kmrgIdf6JWfoU
-foTz+KKuieHsTtA6xIQ3d4I9bnFuEb9z3LCcGvb0gu0AMVGtaeCMZec/kuLH8LsAlIbpS3fFNINK
-x5V3PLuNKt9dbDxbQT95Z1KSOiSbw1f0ZFiKuYO7XiuCRgVFWjgqaYppMziZl7g0DyCLodQgWAwf
-O5DE+6O1FydKEUXr0GT9TDdCfX0kkiX85vJKbL84okCMhoZdy7z6eeUBs9vuZbSZ6jiBuwIuH5EQ
-fR43dGjnnrdbUazn8p+511R2k/VbyH53K9OPdolz9v/DikDm2h4z7Apd3+nWCqL/PkQuJK6UyFmc
-Uw++KAMU/n5CDuF7m0QrUSiIq+aAiMx8dGCX8J0Xe73srqJWdcdZ+GTlXDcy+lkje5ejSHnlFIgX
-n2X/HPGD/onmhdKoNSRy7js8PivpznjfErxV0v6fTcPGpOOM+g1LFymjUVgvSQarVXzXkIEoy4/O
-tYilhKyJPBT6jW8RUyBYQRPd4qzXLDOskznpHXvjneXWq/WWfFie7yhxWd21FK74J5euazGd3/Cb
-f1jgSCyjKACYNjkHKj/DNv1nPccM/H1BeuyWRTUg0QPbe66VcrdNg26wvySuYP/hzuvVrCW2ZMl/
-oHLWdzaiEIH3Osp0175KHl2SpeyCTG0EWM7KgSbFFVE9+IVws+eoBoo9Nlyqw7fN9FuubSTL3jlm
-xPXm0ZzgvatY0E9DyeJQ6BYUQVe6Q9cIskHr/i3E3oQr3WPY+YO9p6BO5vK6vjFXlPe2d0WAaosp
-BPXtmug4W1DC6tZ4VGagacFGNtVlimLlrDji8NlmS7yIr8nWRu0IKicx8RfQ6RGDQ5daa1m3wGih
-/V80hRQ4u6+/Eer3bSU+CkRMKqvagbcJ7Ebv9TW8xOO7oV8nsXT5quhGs+Ae9cz9SXejhQ0ODYTO
-WhnyjkMBjmlYzOZ44QnXYVCRJWradd2gvoqMoCn22oEic0CaK37hPD/SMkxrqbxHzU4j3sLul30K
-gF6ODXTIqlT6qnWww6WasfPDkMcOrDTZ0/+UmGvSLy24PqwPait31/TCnwd4KJ8H82Jm0y0PgVkt
-rMOiLa1gikfWDnBaB176Xb00ng7jpWyCxmxFNhKkQzK7dCQZVfhYQo7cuMgOB+nw/o2WjW7y3RUm
-Z03hfe5Q2T1tWCsnGMolxSPQ51MfcQv3dFHh+pAKnxpw/T/TN55nSopcZ+rK82A3YTBtJ8DNS8/Z
-iU4mEATa2A1UbouM6Ou+w6799/ysErEpWbjXYtrtM82qW6Yl3tuj2zlsApPYQQnSv2pm2Px1nVF4
-rrmEgXOqX7rq9FBZZSN+Lt5TT4nROrXRoyFv2I70gEmhCzZaW1ffGzFPDt6FYN7pGi6GUXx9jjJ1
-Zcy6O8/VKgT09xPnDRfOjB5ScAKerjFGdkr4HQZVnsBnNd4oz0CBtpfPfvr6FaToy+y3OuhARl8/
-xjrnwoxYk0/q6/CnBODCg1F/ybesPe619O9sfv8KQ6kgTg83btvJhorUZiEZFaruhLUFYHC0YpGz
-/nF9BYWI5mHA2FjWRz1PgSE9nlP8TSdispU4GWFgjHxpmPzeus+pNiiYDSKTwkU0c2z4pcv/0oF5
-1b2nkjTLbaetjLWvmj366zS/RjiQOxMFTvPYFpXlwyC6Aid70gfJAWKPK87/Jw2PeMk36skVJmhS
-7TgsnojvaP1I2rwjxvZg9qsgrUgMFo5XKoPNI93nzLgxdvH+iUl6H/q274BztizCIUk7svVatRQV
-taWCpkk82XumvfC8Prz4Y8Szq4+uSxnFta9+odaVeDOcsp5StYdIa0JWZ3gn+DF7Oh30AiCqSh3O
-7rBUcSEjBHk4OE4g1nlLC6FWQXMYiC0uVDWsoi6U3meEzxgydxhj26W7UpzqkJe6XNYfrDSdzl29
-gHrd/KB8K12xlcwkFOJgNXlPNP9Br8mXnXTET/MC30va+hVo0e2G+fvPTXXN8hh2o7IwRI9NE5Ww
-2NPOgeYN+7bDATHlCn4sMnGDGDJwwfmxKKg7A/USmYypWMAW2ZTigmP9vhchziyXN9ZEMMBgJ/Gj
-NtgKjgo4xLmFbV9nZTQ/2KPLxkm9sS/xv2HKtDCnX3a8JAOoEzPgAiOzUboWXHWb/ufTz5SWvE93
-qQwyk2eHQQd5XliWIfJBDEvtkd4W+/6cHkXcvykLfz0UXWYT8icjZKer1BYu+q6LnHsQvwVwyggB
-q8xsDHPa0iBELbhrVtkuYBIBgd2uWF1KhVFeObYRCifYH8+b6xyT/5+cTyzZhTHNWSpAQu7cPTEq
-PXVlmfX6cVK20JhGkKC1d5mfxVDjzFVWvZk9nS2vRCSPflD32PUCyfOCdE4ErYZn5HQ8NYMANYOa
-PW9gajL0x/NKEx6WqWjOU98bTPOL7XDpqQm19tnGhQLEIWp/qA36OR3NkBo5INrYTIks9r7yG0YV
-ffENdL44d42t0AremlQ5n6IbACzq5qTd2uTtmYdVeUyN7KJRwyhvHGeEZlCp770SGQGFC3Fv0C/N
-C9VTnnLH6UdctSNGo3VPSQvmMXrVRO9UZDnvhF3FDrHP5cYaIGeItb5p+ELHnPClIb1zUlUbdxya
-Z88nyStL8bEn70E1Ckx9ZkVMe+4XkbKzCvwCqRKutnp2oEb4LVf0ertLTcMCnqyx0xND1ai9gCXw
-6XKTrGXY9z5/2qz3oB6fZfueOsVkRPtEEYepZc36U4szGKWIMLBOeQyJP4ERvU9YcH0k7veSKHsc
-VvAGMrRGNI5HzpdsQwG9bN0wLtb5LdONq92wNqpmz/aiFGPunkRazXETUnfFOo504tMReztGvxaK
-Qa+Oe94txl8YPDRZ41TogeUriXNXrW5PgJWjp7c4m0VnrrshLDLneBdDGH9+yNFiEW3C1pypdPXy
-1Qr/a8fpLJ2Ax9el061CQDzKNaT3hz6avk6Ui9LJOs9yW+dA6uI0aR5iCqMyla3+ih5iH09op6iW
-3hUi3PC43/txeDuu0giHwpfxiKgmSmLQLt5BWLl0TUjIZW6eP4LKex5MNpTBHs39MhJQmHc0U18i
-XZdZc8sk8WS4KYW9eTdiOYI8orpWUSMjYTtfkNn0Cr3vQeqjpS3GC2uaD8Wuj9bZAX3AiDv+nsrl
-guR7hBDIee/xxJYSJUIL2ep3Z3xn1p4N/8BfJl61WjDyUISs3snN8e0WeqRkCICXUEdii4ka8BJk
-Eg0bTLR36pym+uMrwxfjjo3UOHnoo1oKaopzGEfS1gdEKSFot+cXqOPnklFFiqvRxEBeiNyoXDV8
-IB/4i9kXY6//I1Me3lygA1gQohtSHjp50LPvNTUSMsIF4hWzQz9czeWYJ83+JF0G7BbQHK3BQfZy
-6aemQB18A1NDwTV77me+aAi4T3jWLIB6uC//PvFTIMWxI3ftpvVZNFW4qIwe5nka9B06C+UWkxNz
-fqGACwtwa+0l7HYMdRpHGkNY1N+HOqWTBcVMmH3qkNbe6IKAeYNa82ZVwr+QpDOVa+o6nE7fa86u
-LHlfVw4xpQ6E3T1dtGygtoyCtyEDosPBDyjvBh0vYhECvABhGeXq8qP2fNHzW2uI4FnX8gXFkYv0
-iP5L+HvNTsD4jmLzJR1ZHdbaYdbSlDJqe6yGBtQ0FZZKVeXfQv1rjq38lUMtdQcCoWrFR9/62srg
-E2hddqTqYUO5LwkxSxS3VQk3bzpHwhiacwoSuxUTFZKsA1+q2Rxwy7bzExsEz0kfh1cpWtS/3+KJ
-DQ42W5tPEHiwfE+OzQnbGEV9kqWPf989CMC1oA7qoI7EIUZBLNjetY5K6/D8pz2R0ZdJVydsu8pQ
-3idPBlWXJeWYp0vsE+2IubUgiZHDOiA3Ao2Z2NcHBUrzL7hbR1u4wzsY8bDBoonu+kfqTNKc7K9T
-saLbKh77+inHyNTZ2cKrKKGmAPUsZ7UVLuvFOkr6juOA1nuvvgJEOrQMQlh5RTaBxMlPAttD+0UA
-C1Fb3JqkVjp9IPk2RqFvXlsLak1y/rgQBhYsWzOBaCW9KilQCGgNaBj0diHiVF7KdnKkAr74c+NY
-CRqtpHMx8LXRfPP/CxrNOscpPrxwuQqE//+V8WSrrmSOgVi1AI53LC7yhAZUuSYKy2X6f/VtHIL7
-dz+lYsmBy11PCWEq5UrJekgbKg2A9iLyEKXG9nHI5HjRPbNUYFiGTiCmxRuLfCczYRXJxrjvgGlh
-+t65ilfGxOH0u90U4KDy5lXzVo/tS320x9fvqjqsBSZVJh01kfcjOctTPMQb78yS9PMBM1Hlvenw
-wY4C8ZlYx+v0O33xYuI+DiDPRsJ9hWieaOy7GFQbhbDhJMq9FffT1w8TNe4R1vTwsHww/nrWGf3d
-+avSxLesk4HQy5ZCF+R2FTHFRZIzctEnQgQuWnOgIZS/cQI7sNDIuaXQjgLmDkTOP9qCTwkWALqx
-/wOxgV9XusNStSXnMPm8qWazBCsDUubVQ++2jEe36THLJYsldi0v5d3qaTlWBEhwuMsiKbotr547
-Kzq1HrTlyKl/V70oRM40robTKjTsDL8u+S5KebIRDNii9C9bRzp0xAqClw2eG1fLy7Mii+ss9J5D
-z3U9Pb0P5kfnnVRA93b57RBc8OIjOQDisK7Dt9HtJGEHWRak5h1gsbLVt+ebaPk5B/Uf48WeQm+l
-MeR8x4PM9cVRChfml5rKpVg3/+2+Nuj7c9gXBknrIsGujQ67T/0/P3ApnVhhZDQu7fDiS0H46bUX
-TIksPLL8MjCClLsLpss6riZYHXL93zSNvdFIJ3W2Y/+XOhD0HlpETKKpCQg2DsIa8JzN4aqztHIu
-Pt8QfuXQQ1EAUIX8mIUT/ZzAA/HhJkzI7hvmz57iqiAJh2n9HV/C85k/9ww9g2Hf685L0wwKB+Jv
-c02YpTwaSXv6NRw1UD4Vhde29pSviBMNFUzhtiAqyvM/xgbmViaRRq87DIsMjSwRg6oKi1fC42W8
-nSs+3a4bWr4PEg5d7+b11iz0IArkfwWUcEExnu21miNo6+YNyEEeCG3KWQrQBjHM05NInSvotpXp
-CjJ+2g4mvje7/1LypaNY7L6X3h9T3gPkSubYGKwZxW77ZL/jgFfrGcYwJpXPSrwovr7kdf5hVxy1
-w2nRGoLgpYf6retfD3MLtkPVhIzn9BHI+hWVEi/lrAV+Hd9uxFzH03EsBKbzRYK4te6wVOL8m4E3
-j5cDLMNyBrSq3dzZkcBfKoUgFWBQNwqabD87mCc2wCUBaPz8NCLOlHcgJawJZaGLSKM8EyztTngw
-bEAHlJursEymPYaf3CpWE/KnyNcMIv51VbClZaLXxTXp75CeJnQthV3Mcw5mf+YpIqbh1zsFeGxQ
-Pu4DhG0JdUSDV50SA6FlFNGFiurhvkg5GOfOne5ZzncLWIwJh7bYiYjkPqeTli2c89LcseymfDMb
-pdnjOnWEs5vTOhxLbD49zzrUf5/Y90q5AkCLDue6S2ZrSBj5oOhvvs9iA5Do+U0TM8UhTXdxTxU8
-Y7YZy6Zr1pRNPipOqDNaO6+j8XI2bi1M5MEHsUkxnvC6G3I61zXjySsC1+78W6jUma61bzVsuOki
-hg5xQZ7QgLD5odEcFlgutbvKa9I8WvdVqTMK9Mi5lSjC97vVFtFwSeVhb4L4/16quN98IxLFSoqK
-xMi2SqEy5DAcSo77uTYwRha8Ss2kiifOfdm8ROjQ9Q1WfJzCurSHWAgd5oTpwvT3lbe/el0JWX69
-8SCiIyG6vPeXeK35PCsVkO/93kIqnRXbNT1yscpxERpbDgmjloRt3ecK6APO9ZZX2uctLjKNpa+l
-1Kf3yht5pgTmgwQAlDnnbdu6GBM6j0KAr6m7MYX38s62vAuuIOcniDg+U3/+JRRjDJBDoYpfTlDS
-Jg3cupjgLXUWu+o49L2PuKyj9eacMq3zIXeei7wQxhR9B/L8E/THXTWqyKAih40LFaHsuAFP32yA
-YM+2Mrur2nkixpQrCTUQnvZZanAZmEjvCGrCYfN4ctPNOf+Qlu1jUr4NRzMtZf8cEaX7Q/RnfDIw
-z+XzLlNwfKybxe3VlIpnvtKREffRIXRZWqJrGxNsoTfwZeJpJ9NxW2PYud+aaNl+p/g/bWRTaDJC
-Y078pr0CJ3xnL89pepwpoDrBbti00zkPcO3BQrVNxXPmOSTShg2ZGfu/wPiODdbVLPZDzfi384pD
-HoGOA54wCQp0PHxD46WdDU7Gj0xCCf1SWk5TRW3QWmdsagmI/mxwNRHQ4L9C88OERlZxQa0kaxiR
-V+XJLO6e+4UAb3+Lldt9I2RcnAzwGr/hikwhKh6D8ti/fhcsLeApUjfAVEX7HTMEDM9WyZbwcPp1
-9KOI57xfkqjDIHN3TjNiYaF0o8t+VJ+P6Ubr/NH2Ld+JotutA/y1Yh2hGmBAX4zM77gOik33vdcQ
-GLGvms2/I+f2ywKo8kJzZGRSMAcPzBB4lqtdr78GOgkiYvxJH75ufHDeBhen5MyT4qytNAnPH42u
-VPiv2EdURvaKYk75u8Gvp+mklwep4zGVB8FqtUHPo5EoqckahttLrFseIwerfacUSfESYffPt0jQ
-BjMZlMD26MX69qn6C532cOihuQy5Zw6PuOcfyXPTUWm57lMU9IDIRab3qsEvJf0wZTVuESU8pntD
-hOSPV/RUhCTLWaFqz4V8U//P4OwGp50pDjmB/n9Hhb0/dNHxKmTA0jOm+U+mWutOInMCewHvCTEr
-zdywgxAHgeEcT1trXieuxI4mYl5bIEuKCJdOjNcNq29Nrxo2ww6FtvI6L0h+MLYg1O/uwpr5bD4q
-JwDXoRbooIIufZ8XUTl4s91AKA8ekkOZg3GHfl0rTZwEB4Pe6l0ExUblf2gYYbcpmIQDvQ6IXdHl
-+QweyZHPB+JnzmEQ274XrUJG4YYbw7sKUJyCg0WNKEWweZ/fGJvtdpT09jB8F+97a8X6J9qW4ySV
-iybVelQwMW+l9Fh0r9NspiK4DVYmruez5QUY6BT3S6sJNXbF2WR7NJYOSL6aLs5hsBv0Rnx9tRRM
-kI6SS9HdPL/keJes+usEWgJJlw/lcYrGvWZSAGAr39PckBadML7IuFlQJFd98ouo3rxkUAi9yiM8
-gyXtV9Wg3vYb3nzU7V4sTAELNLHcvlEjX5dqoc5In6VQjEqjtmi4cEvHRpsBEDrHj9O+cm3yW/Jc
-7Tlo04Zld0jWb3IBDy6gT0hmyJqc+vKU8LV5ZZAIIgMRvS/ylI8mCWj2OkTHOXXp8wam27XorVLC
-rSOF7OXeqpw52m2g8VnfIhlnqck3+tRGY+ykTt0A45piGDiMczkB8s8ZhalQFnadGSmRxohDvpSG
-GlkKTOwSVbkobc+t6HiC0SBd4zbBPeGUB2j9/SVSsuQerOfy+ugB3IiNKGiz5+BKyy3E54tkJiaE
-OK3QYfNzXK8alP2JPhnQ6SPnxdSJSOufL5cbxS09Xhsx4iZFqQzV4v4gX0hK6qTnZ/Pe9EubmjKN
-sVdlQv0dE0xGNCrfJXA9PzQItWhxUH51oQ+jsn9HDJYWwjWbyNB1nhvmDuC7LsN/6bWLisNwy7GS
-09mG6/HsckAV8UqHDwslwn8IY9Jzn77DTxUl27VSaFX9lbTHTwrtUhm1LcXNL75SBoRJ5eTRa/2g
-ATuikE0cO13D3zR4dbSShZhUIN88nW/Vd7KfZXUxHZCqhWPCZPwsOsmfU0Bg5OVgAwpgCCn12RFU
-SKjn0kGSlym9Db4KJG9DRbLKRGx2noyTiEzU2PCUOwrCDKDIEaSoLoWdlg5lp+tySrtk+MveDoTr
-f2zu/iT8cuGPUqTB5jM7+olad8N8vjd32SK1cVfaAeOcKM7h2gAGP+vaHqlEdpbsVe9Y1GzkL57n
-2UsSLyTffpw4cVrQKVt3Wi9p57fOq/YUvKKfXjlAm6QH5mW62heBlH7gltqj5xNe7uJ52W9iJja3
-o+3d+/4LUAoJl0xlwYnd1gyaKFLJ6OKVntySbV5pl1jH3eDPN1nULeyC/LViRki4P+2/DUKl/N5x
-1Ug0zUhG9czvJV+VpoZGETN8mypY2CmE3Xf2m6IAAu3h6mK0iZZN9vBVZIDHdf8MYxNDWbTLSr3u
-TLKNLIdmFvgqkRhJZG4/v3qa6wMuHsr8P0eeErDSRYPiPEBUkbxbs8Ugpi1DfNElYDqsxKNP4bET
-PbNGRScOUxxGi05qJ+S/7AbQbN5r/eFI4MzHBCTVbUpwHjrWBOJHcro9H4HO0jIvdpTlBHbGsYua
-3d7knkoBw2xBbJNsuE3cXbJfADOsmg7ydT5jCtlzcXkrYvqG5OM9U5RA+64b/zlLNyDmwbrU80Bk
-w5UTp0alSEK1yhhSlV4N5T4s7Q2b97NankrIKExHanAquBgbL/aRTGTBNLTpy7RPAS36eBZEr3eI
-D95mjWMxhUswnSzVyPPKhWDvGvdMT931G/N28kJZD3Vi9edlJOLaYNdxMl6bjyTsnGIJJKePFgiU
-1QNBzrkE2FI5stEC4wyqcsZWYUPxNY7TqI5CCNEQoyor0NItX9ah7m/0XfkwDOamsVLXwRh+6kaD
-MrmqVzmkL4JSOq5aWCMgrYvUpqEPINY58G91U21ZWaI9ZFiisSr/B1sImsVPIsSTBYPWKSXpqOcK
-44AikN23hnojkYnzBLhEENH2KBVzwJiRw6hLI9XS+SjYNjDnm0gP/SQfUGiwnHxLQuEkYT5+TV+Y
-NVY7ygfNKriMDSZO2YR/Bl3iCqCpRUDBvosiAZ+Ey3hai1AI1zOSo2BYkcNdMI6jN4T9ADk6bcGf
-5m4rh2EinsKFoSZGFJijiaWsNNqnP1Oc2KZrPQN49bEafeZZ7uBGuXlShLPjct06nt+NqQpRvY8w
-zkMnigX+Ed4uKCzvuRcaddCXeuKpBZVG2x77eDzLZIPFx0DYHiKddgEEhg/yyO1kjkEDFWhsBXtg
-gqiNmzTnnVxp+m7w7xbkSyhNxsV9uf0gfk841IUFhMlffuNLAfqvkckq2E4aYGYm4679PRVv5n7j
-W3rOLHdp2DkPGZ32ZnaumuklrNuPuhLp/ZcDMJGvkVtfIKJv2evUEk9wEzs/eoCA0TFnYzG3VvLe
-QSjVsRxzSo7o7dUVQ7B2t4JmOYpF+fdZHYUl+69yGSEXZKh57Q7XvE5BaK2RR+mcfIF1H+U7y96F
-tI5UQmgIte0pzhkCTq97C7vpp8943CXasCgd0m0WEIpsQy89y2Rg8kzn9lUdAoSguei12ZtsNTkB
-OaeqlqwxqwvqiAEX19AYTsz2FxpLB7hICuLYzXSFn1lpQysGkBMDW8HROHtGxHAO56lZGED8zdCJ
-+gHkEdWxx1xk0ma8FMU7vF+ow9QhlvbNXwdvt7fcxKVBIkjIE9jED25upLIZihs2AjDWUeMQ4k0T
-BB5hxGqrnE1/z3DVsBllPfInoz6kCsR/l6O+RQ9zTxnaVhZbV5C3LRlk0KzvFY7+CWlSbfy316dC
-Qu+sc60P3kokzDlIuab3lFENMWKI3H5RCkXGOEeJJIyncMRp7K+yCHLTbgTgm0MuP3ZJP0Rl1vvY
-zTCl7oCOCsmbEDfOWESlu6tdcrLiUyfiP8sylwzkzF2WTXVPfQWFFIumpKpGJdX7xP8uMmNCYc7M
-28/8SS9zX+53FQZs6BH9HAACyY1/W4xCLvlZOOHmjKeClFx1CpKrySEzNHy3UBcRKnPd6+zIfjNj
-14+jyR4miCzkSuaRIHMl8yrFRTO6tzHZ5veKYqcPXwk8wfzgoy1ednEISc4G4XUm7qKnGpD1FZiP
-JaznV2wxCxB1su0eE94ipGG+4vAFaE3AZ/9IPNLVy+kp5sZ6IN8zD1nhChXYdUQ3ZptBwnEwp5og
-QfvYmuid1k+RyTwzGTP6UFVX+rVyk4so8+T68Q4SngDl4vjqRiLjBs4ISzTaD7PKO0heSayepSqP
-XFN5UzRWZRk+zRfkpsXl6MZgArW6I3u5mPX/CaZCrUctLFCefR85P6ghe2j0MnGCFYYJHQ7gCp+D
-qm1uNS4MrCRkTdntTanEFM8/VykAv/REZvkL5O0e/d5FHW3tZQTlIfcdG1Hargenhkv4euMV++A0
-p4nuId7sLz2EnjTKV3KGyKXIhmsNEi+gQKvU82ZSfqWbcqhVZp915nRLd0pry7WAx6Ym8ijxxJ17
-EfSEdijsIW6osIac/vCUwGMWk5hh3v9vBoCDiBSYSTuDbovB6GeI872ZWvVxPhUIyjnlyZeH4CLl
-ve+z1p/4sBoMiEnV0cVPUbLYLq6vHLXWbluTauXCxK3fcnYseoKFYIOFJCO/dczBTqoHfQQTSuaC
-iPZqz/9YLRzpGpu8nRZtA7Ox0F2Nahr/ODueSBrZsqaxkW/UnYdv1sfibPLA36uufpbw8CjJbRf9
-1HN+iGezn7T8POgJwmj/k31632WD7a/Jm5C0eVW4D1eZ89N4q8Ta660qIHnAgTi3H1X2c9zftM8W
-mSLgnoeuOdlTEroHtpYVhfVy9UWVsKPoi/hkHqx8JMCefZg6mmosXtzMZv3z0LMlmZkv8TT/lj9R
-UonYSyEAlIV6pP4OueWOzs1a0MTHWZaF0RNz4AYvaNh0q2WtnO4650J670SYxrWcbXKDxD8/N2w1
-AQW+ecuf8Gc1NDnX95yJVTyeLe5qUMjPnKUSZo04bFIsIu/ny9rGUZbzV7yXmKDg9GKPR8NLOdwz
-jTuFKxYfOCHzNW1Tu4fGvTM6I8jOjcM6jUjceTyiCh0dtXeYaGORizrLoyPHEhQfWfRRim9ogrgn
-anCPK3x26oQWOU4O7h5EZOYHm6Exdv60LIQoAmwBZk+NjvAK6+gnKhz1vs1i1EH3p1+jl4L6f/cA
-YMMq4MF5OlkQ0rwdqZucCjtWCkPkNLzMJpwEC6IkC7wrLK2E6YiWZz5+Mau5X7WdPJeGGCnU00lH
-GrzH5xyIWXHblJr8Z4JfLsdTvbeh/rKVTKqkWuqK3L55fLCeiFmtq7d8fmJ3Z1jHrvbEixFudbIQ
-HJDsDNdJ8H5rANsttagZKshFr/sFwIQ2oseeupqUV6HaGJVSJN2hRQ8Pjp454olpJFEGloJkaLhC
-DvVIoqR9EqDz9JSCJUygK8cj0s0Mc11KfMnZbR/RNSKEim4TEBS3lZVxZjgRTMqFCl86E81ZbRRN
-AWuk5FXmZIbr1CqPdcHxO+4vdRzJXZtm4uj5VDa9vokfH/YNyR7DKllsJ4BnkR5ORKNhCAq7p9Mj
-OQIJrUfu9z3SYkdvFhxADrmi/3RfQb3cWRMHeRR//UP/3glnICCAiuhqknAlREfTwMBEBVcBvEyt
-Mvj58vis2zrC9Fp8AgoRe4bs7fu5QNj8o8PuQUNGuYyLOixMjOmd8GNUwPozrR8PIynegjM9PwVF
-OdHBpeaOh9KAarVFU8LEcYc/hDFyPwMcrwH7STuRC7qqRnN8oigFsEutCFEXo+kfMLBm4iuG59Dt
-0Z7EHdWmGDeDyh98q5HjB3RoyllDxPdmG6SHqrfnvI1ip5AHcZTsOqPVsYBGnmLf3PMevHXgUk65
-q7ISqNuxsouCHwk17vUoPCw6YRUgY/xL+GVHke8Mjctd8RxQf0FjQc1YFzpu51SjhwTtuacRFTeC
-47CxpKeL+f3mEVgtdMpg7qCDvp/fRWeso8xCpNGLCyIyPmGnUa+ZXMPNbIpPjQi6NIVd4utApwE3
-TS2Z+0TQJJ2c2leodGdKYkxvcBPzbOVrYTBwbc+VX549odXqUfxxbOLyJ4dCcK9vMk/rlwbv71pi
-bPeHx55zhFZ1gfGB12AcotpWp4WE4iSfQhg2GwIlOHUm+gtLzmvQyAMCjsNiSBN5Jzm3Gv7lBHsN
-s4VQ9RdHND/PH7qqopJhcC/YoCb0I3AzCrlaHkHAQr8pI2+jUpT88rBP8GhjBPdDq8koPJONTZtu
-gMdEVbuCUNIvgaH3vRri88XXHSnM/8UL5vV+GTI4zvUfPkMoSB2TftD0W7vup3R2GlV910gDlyCR
-fmzXYWHw33bFnbLdaQg3J/AYQmwe/RPfkxLFmHyN+Y0SEfbLfXKwZStCGEMib2/OAGujc3C7xIOI
-9LRHQWc84+n910uld/OoB42o2TbY69O0yEP1EWzIuZ2A+dAZJSAkTC1ls8qV6atMm7xJYNVDt/2j
-/fZTZSA0bBsyJQSb/bXC73d52dgnGh+c3Tt0NHXi7s31JaRkBxVdzwCzFy7ADDXUm04pr1mjpLZF
-AxKSi2IsipQdxDXfaycCuzXVLYabkfthHlnimp5a0V8V4kpgIPdw8lc7vMnmAUSY4DBI3fw6ro1K
-oPnB9ygCQtu5FkXMS2h8vF9ejQ53tJYJuvvv5ilU9fox/8pq5b3twmjk6tiE0tSZTffJqHJTI7b/
-r/UcQ0p2PBeaQCXV+k0iYp8cKunZVjiQ3tevXyhIC170+gGwE0HqJsNk9CBX+0TBSzJOa0iT+Mq9
-InER+9TXDNdcM607DskCHAipnBLExkG5yWkWB8dS7OID37anHl8gb8FZz7Ge4Ka+v3kuHr9CuUJ3
-Uies5H4a/CQec81r6aVCIvGEvzbn5cQhpmo1psDzyP26eYbJAaR7PmV478FwQWD6KlJjxn1Pta+3
-7YkSc6+8Sk5xIu+Jmuna+Xa/HqUskef4Z4U2NhKlH6UzyvTt8WxErbyFjwAcGcLWlDQTGLHDsb9P
-KGtlzURs7naMMUI3qiYdIp9SJYzs2ZbuwsoqfsOC6LClxYzB5gIu4Uo3b061azrvYJtPkaqnUT+P
-N28cCCynbk64rWJoV0i3hh2EuKOtFtgpRnz2gWYShvC1oykEtL/oPF2lStlfGKV2iJlaRtMTvLgX
-FV4G3IfuOcmKTyL/umXKZMBwiJGtI+/0DbMlX7whmwwKGysX1BdW4PsSBiTVpaUuHlt5vfDZvIeO
-nN5y3ae4cURfb+aPLb72iMwzG6ckR3VQjSih1cAG081bvxZ4eF0P0eBKHhHeTJd+A7hjgBgar1t6
-pI/uQ0BfZx0rDiHZcFUEKiCOxZe/C8usToZnA4m34APP01AqyzyLH9+KDNpGanHMeA5VNi3rKT9a
-wAavNg5ZHAOQbyLE2DefKZBZywS2ZirnWg/nCjrB5RnyR/fRDZ46KkicOgfe0fAK3GWVRQ5E61ai
-ttyDw0iYqQviSStWTLyzrfjHJTrpsI+sCGpi0YnOgtstm4eDgyfL+o8qXzEBBBxTLs0qS0ASkR30
-8U0AapNpOuYNhpG4XzFZxGH++VfEZ6dm4nkn683fB/YRPBJF7NX9A7Pa/tq25UQ/IZdTfPvUq1ZR
-ebY3b0kIn6hF10LbUPI+eYuZgQkr1hl0abHUf5Gh2z3IubpeRYJ3OmLBpeoWDxGgNIQPmEjhJDp/
-0x2GfAJu2PMwr76AhVwKXv60PglndNB/qaafKKhF+7CqaKmxEkeZEUx2jkJxVI/jqmec2IDb9Bug
-WvTmkoE3k0s2d7mFl59ZTqie4xjWnttP+ORjMT8dVzRETll5tMWqT1n2JhcVN0kJE7L1OxYD6nCb
-a5wnc8hLMWX7LD3AZuQCwLSOd71suY+94VnPXuubAKEUSjRjOFZj/kGbMIRkyF/xQZg8uXP6KkA3
-RuzCKQsLOayT7MM6srF/ivLXq20dYdc7KHXFX2j5vB8lGMJ0agBS3qHSpxWmIVRcAv3jiWJ81Mmr
-LDtgrrPjA6mTbiLBwgqmqkxI2DM42hyKI0fHbMWA2DHZUQznf3Dsqfk/xRssX9Jrco3lICbabHq8
-yxWDaey2xwaoo5CbwU2eJliE1bIFuDgTcvnBevu7FvgEx2geu+ujiBqYmmJ7YOClnThE+37sfA7O
-cRvF3K2hcgpod4W3e3QGatjsKw9IG/Sq2pNuUJjp32iZMGlYtGg6mAHgmX5ZMe1ACtE3AOtbHz6W
-wc3s8PSewr/OUs11flCo9KA/nxSqc8uCRy+dvwRZHRvnJoiC3TV79AUNE/zkFluz8SsaXc8qtnDv
-BHdTNOsnCcAPzFB+g4Aosy3nElbd/cKXTkuqum8RdfG5ntrpdQExwIjjVG6IxNYiz2goi2f8g/ur
-MO1H4HVBpigqKlyHNf5JbkVXxAwaLIbifYrmZBxUSkvSsYUAWGopUmh/NJ898QuJN7T7iw+MQYjS
-WjwYfSS+TpfBISMRxJ8eWf7dO7q4o92kha/dbUmMw6JeB4vqY2jk16phuBhTPBUQo4lKSXhN7l0P
-TJuw/p/6PncRrQ+tr+mLUp7trCXXUwT/W9LfAK3hZezxiRmLXWNp8gv1nW85pObrTaMOQbaiZzIB
-TgfeWGGlrND7Gf+nV+4gEnS7FYDvcoBV6vvHWaovKh/Ic2xaHXq6t58pMNiMoQzDHaWYSaBrbs6R
-u8/NDmuoYlwfTuUZ0LKlYsQ0hxlcXlu=
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\LookupRef;
+
+use PhpOffice\PhpSpreadsheet\Calculation\Calculation;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+use PhpOffice\PhpSpreadsheet\Cell\Coordinate;
+use PhpOffice\PhpSpreadsheet\Shared\StringHelper;
+
+class Sort extends LookupRefValidations
+{
+    public const ORDER_ASCENDING = 1;
+    public const ORDER_DESCENDING = -1;
+
+    /**
+     * SORT
+     * The SORT function returns a sorted array of the elements in an array.
+     * The returned array is the same shape as the provided array argument.
+     * Both $sortIndex and $sortOrder can be arrays, to provide multi-level sorting.
+     *
+     * @param mixed $sortArray The range of cells being sorted
+     * @param mixed $sortIndex The column or row number within the sortArray to sort on
+     * @param mixed $sortOrder Flag indicating whether to sort ascending or descending
+     *                          Ascending = 1 (self::ORDER_ASCENDING)
+     *                          Descending = -1 (self::ORDER_DESCENDING)
+     * @param mixed $byColumn Whether the sort should be determined by row (the default) or by column
+     *
+     * @return mixed The sorted values from the sort range
+     */
+    public static function sort($sortArray, $sortIndex = 1, $sortOrder = self::ORDER_ASCENDING, $byColumn = false)
+    {
+        if (!is_array($sortArray)) {
+            // Scalars are always returned "as is"
+            return $sortArray;
+        }
+
+        $sortArray = self::enumerateArrayKeys($sortArray);
+
+        $byColumn = (bool) $byColumn;
+        $lookupIndexSize = $byColumn ? count($sortArray) : count($sortArray[0]);
+
+        try {
+            // If $sortIndex and $sortOrder are scalars, then convert them into arrays
+            if (is_scalar($sortIndex)) {
+                $sortIndex = [$sortIndex];
+                $sortOrder = is_scalar($sortOrder) ? [$sortOrder] : $sortOrder;
+            }
+            // but the values of those array arguments still need validation
+            $sortOrder = (empty($sortOrder) ? [self::ORDER_ASCENDING] : $sortOrder);
+            self::validateArrayArgumentsForSort($sortIndex, $sortOrder, $lookupIndexSize);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        // We want a simple, enumrated array of arrays where we can reference column by its index number.
+        $sortArray = array_values(array_map('array_values', $sortArray));
+
+        return ($byColumn === true)
+            ? self::sortByColumn($sortArray, $sortIndex, $sortOrder)
+            : self::sortByRow($sortArray, $sortIndex, $sortOrder);
+    }
+
+    /**
+     * SORTBY
+     * The SORTBY function sorts the contents of a range or array based on the values in a corresponding range or array.
+     * The returned array is the same shape as the provided array argument.
+     * Both $sortIndex and $sortOrder can be arrays, to provide multi-level sorting.
+     *
+     * @param mixed $sortArray The range of cells being sorted
+     * @param mixed $args
+     *              At least one additional argument must be provided, The vector or range to sort on
+     *              After that, arguments are passed as pairs:
+     *                    sort order: ascending or descending
+     *                         Ascending = 1 (self::ORDER_ASCENDING)
+     *                         Descending = -1 (self::ORDER_DESCENDING)
+     *                    additional arrays or ranges for multi-level sorting
+     *
+     * @return mixed The sorted values from the sort range
+     */
+    public static function sortBy($sortArray, ...$args)
+    {
+        if (!is_array($sortArray)) {
+            // Scalars are always returned "as is"
+            return $sortArray;
+        }
+
+        $sortArray = self::enumerateArrayKeys($sortArray);
+
+        $lookupArraySize = count($sortArray);
+        $argumentCount = count($args);
+
+        try {
+            $sortBy = $sortOrder = [];
+            for ($i = 0; $i < $argumentCount; $i += 2) {
+                $sortBy[] = self::validateSortVector($args[$i], $lookupArraySize);
+                $sortOrder[] = self::validateSortOrder($args[$i + 1] ?? self::ORDER_ASCENDING);
+            }
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        return self::processSortBy($sortArray, $sortBy, $sortOrder);
+    }
+
+    private static function enumerateArrayKeys(array $sortArray): array
+    {
+        array_walk(
+            $sortArray,
+            function (&$columns): void {
+                if (is_array($columns)) {
+                    $columns = array_values($columns);
+                }
+            }
+        );
+
+        return array_values($sortArray);
+    }
+
+    /**
+     * @param mixed $sortIndex
+     * @param mixed $sortOrder
+     */
+    private static function validateScalarArgumentsForSort(&$sortIndex, &$sortOrder, int $sortArraySize): void
+    {
+        if (is_array($sortIndex) || is_array($sortOrder)) {
+            throw new Exception(ExcelError::VALUE());
+        }
+
+        $sortIndex = self::validatePositiveInt($sortIndex, false);
+
+        if ($sortIndex > $sortArraySize) {
+            throw new Exception(ExcelError::VALUE());
+        }
+
+        $sortOrder = self::validateSortOrder($sortOrder);
+    }
+
+    /**
+     * @param mixed $sortVector
+     */
+    private static function validateSortVector($sortVector, int $sortArraySize): array
+    {
+        if (!is_array($sortVector)) {
+            throw new Exception(ExcelError::VALUE());
+        }
+
+        // It doesn't matter if it's a row or a column vectors, it works either way
+        $sortVector = Functions::flattenArray($sortVector);
+        if (count($sortVector) !== $sortArraySize) {
+            throw new Exception(ExcelError::VALUE());
+        }
+
+        return $sortVector;
+    }
+
+    /**
+     * @param mixed $sortOrder
+     */
+    private static function validateSortOrder($sortOrder): int
+    {
+        $sortOrder = self::validateInt($sortOrder);
+        if (($sortOrder == self::ORDER_ASCENDING || $sortOrder === self::ORDER_DESCENDING) === false) {
+            throw new Exception(ExcelError::VALUE());
+        }
+
+        return $sortOrder;
+    }
+
+    /**
+     * @param array $sortIndex
+     * @param mixed $sortOrder
+     */
+    private static function validateArrayArgumentsForSort(&$sortIndex, &$sortOrder, int $sortArraySize): void
+    {
+        // It doesn't matter if they're row or column vectors, it works either way
+        $sortIndex = Functions::flattenArray($sortIndex);
+        $sortOrder = Functions::flattenArray($sortOrder);
+
+        if (
+            count($sortOrder) === 0 || count($sortOrder) > $sortArraySize ||
+            (count($sortOrder) > count($sortIndex))
+        ) {
+            throw new Exception(ExcelError::VALUE());
+        }
+
+        if (count($sortIndex) > count($sortOrder)) {
+            // If $sortOrder has fewer elements than $sortIndex, then the last order element is repeated.
+            $sortOrder = array_merge(
+                $sortOrder,
+                array_fill(0, count($sortIndex) - count($sortOrder), array_pop($sortOrder))
+            );
+        }
+
+        foreach ($sortIndex as $key => &$value) {
+            self::validateScalarArgumentsForSort($value, $sortOrder[$key], $sortArraySize);
+        }
+    }
+
+    private static function prepareSortVectorValues(array $sortVector): array
+    {
+        // Strings should be sorted case-insensitive; with booleans converted to locale-strings
+        return array_map(
+            function ($value) {
+                if (is_bool($value)) {
+                    return ($value) ? Calculation::getTRUE() : Calculation::getFALSE();
+                } elseif (is_string($value)) {
+                    return StringHelper::strToLower($value);
+                }
+
+                return $value;
+            },
+            $sortVector
+        );
+    }
+
+    /**
+     * @param array[] $sortIndex
+     * @param int[] $sortOrder
+     */
+    private static function processSortBy(array $sortArray, array $sortIndex, $sortOrder): array
+    {
+        $sortArguments = [];
+        $sortData = [];
+        foreach ($sortIndex as $index => $sortValues) {
+            $sortData[] = $sortValues;
+            $sortArguments[] = self::prepareSortVectorValues($sortValues);
+            $sortArguments[] = $sortOrder[$index] === self::ORDER_ASCENDING ? SORT_ASC : SORT_DESC;
+        }
+        $sortArguments = self::applyPHP7Patch($sortArray, $sortArguments);
+
+        $sortVector = self::executeVectorSortQuery($sortData, $sortArguments);
+
+        return self::sortLookupArrayFromVector($sortArray, $sortVector);
+    }
+
+    /**
+     * @param int[] $sortIndex
+     * @param int[] $sortOrder
+     */
+    private static function sortByRow(array $sortArray, array $sortIndex, array $sortOrder): array
+    {
+        $sortVector = self::buildVectorForSort($sortArray, $sortIndex, $sortOrder);
+
+        return self::sortLookupArrayFromVector($sortArray, $sortVector);
+    }
+
+    /**
+     * @param int[] $sortIndex
+     * @param int[] $sortOrder
+     */
+    private static function sortByColumn(array $sortArray, array $sortIndex, array $sortOrder): array
+    {
+        $sortArray = Matrix::transpose($sortArray);
+        $result = self::sortByRow($sortArray, $sortIndex, $sortOrder);
+
+        return Matrix::transpose($result);
+    }
+
+    /**
+     * @param int[] $sortIndex
+     * @param int[] $sortOrder
+     */
+    private static function buildVectorForSort(array $sortArray, array $sortIndex, array $sortOrder): array
+    {
+        $sortArguments = [];
+        $sortData = [];
+        foreach ($sortIndex as $index => $sortIndexValue) {
+            $sortValues = array_column($sortArray, $sortIndexValue - 1);
+            $sortData[] = $sortValues;
+            $sortArguments[] = self::prepareSortVectorValues($sortValues);
+            $sortArguments[] = $sortOrder[$index] === self::ORDER_ASCENDING ? SORT_ASC : SORT_DESC;
+        }
+        $sortArguments = self::applyPHP7Patch($sortArray, $sortArguments);
+
+        $sortData = self::executeVectorSortQuery($sortData, $sortArguments);
+
+        return $sortData;
+    }
+
+    private static function executeVectorSortQuery(array $sortData, array $sortArguments): array
+    {
+        $sortData = Matrix::transpose($sortData);
+
+        // We need to set an index that can be retained, as array_multisort doesn't maintain numeric keys.
+        $sortDataIndexed = [];
+        foreach ($sortData as $key => $value) {
+            $sortDataIndexed[Coordinate::stringFromColumnIndex($key + 1)] = $value;
+        }
+        unset($sortData);
+
+        $sortArguments[] = &$sortDataIndexed;
+
+        array_multisort(...$sortArguments);
+
+        // After the sort, we restore the numeric keys that will now be in the correct, sorted order
+        $sortedData = [];
+        foreach (array_keys($sortDataIndexed) as $key) {
+            $sortedData[] = Coordinate::columnIndexFromString($key) - 1;
+        }
+
+        return $sortedData;
+    }
+
+    private static function sortLookupArrayFromVector(array $sortArray, array $sortVector): array
+    {
+        // Building a new array in the correct (sorted) order works; but may be memory heavy for larger arrays
+        $sortedArray = [];
+        foreach ($sortVector as $index) {
+            $sortedArray[] = $sortArray[$index];
+        }
+
+        return $sortedArray;
+
+//        uksort(
+//            $lookupArray,
+//            function (int $a, int $b) use (array $sortVector) {
+//                return $sortVector[$a] <=> $sortVector[$b];
+//            }
+//        );
+//
+//        return $lookupArray;
+    }
+
+    /**
+     * Hack to handle PHP 7:
+     * From PHP 8.0.0, If two members compare as equal in a sort, they retain their original order;
+     *      but prior to PHP 8.0.0, their relative order in the sorted array was undefined.
+     * MS Excel replicates the PHP 8.0.0 behaviour, retaining the original order of matching elements.
+     * To replicate that behaviour with PHP 7, we add an extra sort based on the row index.
+     */
+    private static function applyPHP7Patch(array $sortArray, array $sortArguments): array
+    {
+        if (PHP_VERSION_ID < 80000) {
+            $sortArguments[] = range(1, count($sortArray));
+            $sortArguments[] = SORT_ASC;
+        }
+
+        return $sortArguments;
+    }
+}

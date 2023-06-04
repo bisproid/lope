@@ -1,184 +1,338 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPy5vtHZgvILVWwb8Exil9LF+6KWXc8XA5/y2+/Zq47jcBkCh8AFtqBPqlTQO0To7jAPuwVsy
-3TqkLLcFEwvK6YtFIt8M45BJ9/KsfHaLWIoBkEFQ6TB42jkSFr2xSAke2O/KtyT3/N4B/FNz20mG
-tezry0YIrP7wprJOZedIfe2vvnEGBCCzJHdPIhk8n/ryoT2t97bNVOyVd2nppvNf8PnJyyrE4Jrn
-a4+7OeNi8gidbakcWW71ZOhn8Z91grW8H/bxiK5uHf+vY8P4F/o2FK3YW6f70HdstTYHhmqlKDA5
-Gga0N6PoEUnaTqkFjyEVLETMOs17/vi0lXgqaSNYG9pwDTFWXjVeIHtTdyngcmxY16y+/+1VDc9p
-2QoDavxYp2nWbDD2LC/pE83TIdIU/ekvb1SrtEzxaQYk8KlTA4q8EKzKbasg/9Rztlq8jy0XL0iZ
-+qkUNh7M4c/lUbHxZHUg1u6omMynZjENYO563olVECRdiVXR6ZQ8hm7PoYBlSdVPT5Jc6+CHZicp
-TyUiR1fYWh9bYpyHVef6ZivnMJjtB68Dg+9tb0S25Uiz3vQ1SI6r7Ux2MjOzcbsBAoCWWZGbDDhp
-6kXMZnPyeO+13RKANoX4Ln3qCiRBfT8sKF+AJ+Fma459Jysc8PJEuEf3TzjIWacbsYThB2cOBJjc
-yiZvorTnvyThJWcjmRhlp66QhoHZ/2pHBDq8RjZXFhfTcGv9iVd2n91O/fag/nSEcZP50SB2HHTS
-SD9McHfTE3+mnTA7thq6zYZyUgl3DbUgp/KwC7K/qh7PlKExMqznQx+JNGQ7xcwJLxMQEhBoI4aC
-Szs7NSpfUa1zw4wNB9xOzUJCRWnJqzfxmVGAN1d0gP4zRfATjRjW9bnAV9N2O2UIQFDDIOHgZnAP
-BkpxlQwyc7fD07Npre1aJk0phT37/BEvexBXZh2vnZWzXbxPGvAhA86EVuicVlqzi0pMTnnIH4tI
-JOVbIUlqE4fAgOJF/qSFH4qgaBYBKwTLSlzsV57USEZjV/AHUoiwtg7MOW/cEIeIIw2DrWPqx5B8
-7xGfbmiiTRRoQJDsqunmOWkf0B54Au8u2JlS7/3aMmy2fFDpigDgFngHBbt8HwfQGYV2FV73JrDB
-NQ3Z7bHU1CrgzjEs8Q3xb4HwmkavUrInjtVLGwWx8dTu+5d+XpqbfzlmOdZ5bPWJYQNhX/Nm004Z
-LAPkSuWMcDvQ2U+IZ6f5HwYxLiLb7KaNfsld39bVcnoW0qq9XzI1c6mf2mKG37dSuVVf1g+zze+q
-LJ7Omw4ekM+B5Q2Nx5I3lkPj7L2aIExxBTNGYxV5hIjl/sIo+mDvYfFoa2lOzJBv9gastKzeWGJa
-WLbBvyWz6a/Qxa+gOtOfC9oW+gUQgbhYnOqfXQv161cx5r9F9uAw+ymfEygiGYqGj5mcASFAv0jW
-X8gvbjUcGKlqRWB7hur0awse4j+a3A73ZHKIHIzTkujHzEtMPgDI/TFkffDjayqGgt8UefDYUKez
-QyPgKBOBLgMIu8lEj8XUT7rxOffyt2h0O1IXnww9jG0z56m8zl1j1qAzlMUAP4s2lQ2JWNwko1gT
-+iUqjts0aDr8e/UmZXTaRu/5tot65EedkiFOyYB5IDQLM0Gi8efDuTI49fSaU+jvPyVck7JLYImU
-r+DURriQ7SiafE83jTs7R+iQSoBCYPs8IQZXioF/uk0ZaVu4gjgeNcwHNdpLLC3e/w/QNYHBbJX6
-GhwpFO1dXeJPwkRvLZ1+MTyf5pud17hhUxUd8uJUZLyDXlLOwX6NSbmcTMR4N+Hk1ayVqJk6xS//
-+uaK5XWi+sUUvzQ+EzkOtbPTkwxsr8scj+P6h0QwZFnNS/8MihgYGPY2QFOHze+szgFbtPulRnW7
-JIR3OXBO2tgqjDTTo0RgE6Zf2ogvhX8ez+n0G3sv41eq2+BxIXKREyncd43u7j/wRF+vdZWzRmTF
-1joMg9XhT/TuYt+9Opsr1qe+rBvq2/rjDuPqbwHQQybCA2l3s/ZpNB60OK2Nw4EMEzdD7HKYln8e
-CcvMo+OwbNcPiqTasZW+ckZzgl0x7WNfTWaGeF5NekG0bCoLpQyuL0Q8RYAOsw2xdhEHLMPy6oSb
-0CbDeWw7HQG3UjxxxmEZQOi8GTGY8RMr3yvLHJsc/37f/2uDBoiS6thy5AK17Li3dKLGiIEwSPA0
-J93YabnDErc10RNcwp4L7HfqExKMEeabj86aCmWWzj6jTuYzqa/IDUqSRjtEjJJQ/COqi94Mds3j
-3seaorjnRCZ2vydM9quUaiFZIc/cvO4jxbTmVY9+uRaCfkwBQapLaw4YvgIwIpTlW2lT4KtR1PqG
-UBR1EAWsNxScn6bQ/F1GTjtXGw/za870zuj8FGBG5CzKhAxXoPYLhdRD7D9WbFQ7DzGcl2x7m/pK
-N7YtprWmb2wCe0SeFblmk85x1ztBuowP4cfH1GvZDO4Xna3f1xEP8RDLAYIeZsyCZJAv9tYtx16/
-NWLQUjiTmcb5+FazYUR/4sh6U5En2cHb85flvWDcqEca9Y0i1thN4HpBH5KECfPHY93gdRoLNkSI
-XBrp2Aa5R16lMsLwinrjufKVs6DC3IwiEMBWCbDukvzeTmkKV4TIMiHNswG+3ICoksL8dCOgawZS
-A1sVxMQwbwuuXuBHIJzjjUxQ9NMiGl5BHeZ8KJDVEcawd7v5qsaq5jlfhJDONKetc41eT/kOkDc7
-IgusR7fOrKjoTjLgaDKrZhEytE40JJi81jMZnso+rAJ1+7rh5awlksvPWzs6ZbMjA/zHQk/2YcsU
-RYfTgLvywAIDp6hT9R+CDfcEKVOm4ImwW0i1LlrboYvCjENX19uqWYCLfMm0GghJAxOTH3a2a9Q8
-PqOxO2Az1F15Ym9vZ2bNJHHie5d0FX3WkiZdQbeYBdrWjeg3oiG9ZhD5mX0upYdlLA7Z3YfjAlyX
-0IOZxBL80RR0AbBPYHVEN0LVLe0/iYrtBfTD56wUwYqjnMI7Q5Kng0QAoF1Bw6/4ibRATlfQqSZs
-fbYEGd82ReSMFhX4uOx0VpNHpU8BJ4x9IwYYAP9S1Uv7ESDgCpAmNkagoOdJj7/G8RL6RHAn0SgF
-NS1bw0+pShdVyePD90qQa0T9gJHrg5j7U/mJzJqr3L8xYcGS8N0efBJgJHV1goLiTvpps+CM8UZ+
-jdbrzN2oAsO5iDOrxtBmLiE/hgbQcAgMrukdHwIX649pLw2zX6j8I33u7vrNfV8iJuaRnYjEXpxI
-d5afJRk4UzCwbuY958MBAmKLvS2J/CXUcUCTO3Az7Vuh07hleMB8F/XVE+JKVBjYizZZGE2qbHlw
-GuK/MtPbXC4oSCbd7yUEK/YSID/CucE7yhTGcpPlk83YDparUFqrvZO04/TkG9x12XM7IXi3AdK4
-KaQ3N58kbwj5M3DSTGnLMInZ0+ZIxl0Hm/bCfSJ/6DyBufTmRJzR3/OkR6z1WvcS1IbVpLWaO+28
-MLrn8ZjUC6vqMN7v40QeysJkk2DeOqa97W5fnoEcl1YG02PN88qLh8m8/8G4sqPwbKHdfSG/4MVb
-295z+lt4wrDeBJ8AtPVQwPkEx+tfvq6umIbrny29tJQBuc0Vc7p1LmL4esxVEtFwF/B6CEZVNJ0D
-u/QZZvBEmImYMyUx2N7DdwI8mjwWGDq1fG+9MMNbAFzbYmOh5/QXHQuMWEn7hXI+2jGMugEROH/Y
-N9X1UqEbimqgXEnAbTWWVEWX/Af54180nrpwed6y+Is1CYEVrRq1+JA/2uqROG0G4WulQarJ9SHk
-lmC2wxk7Ie2USaes9BYA18rk3MqJ/QsNVPoc+PZmzd4sldXthM6nKhX0FI8BhUN0dBIGtDGnzOPo
-+f+EhiG8HdC1pFYwMYpCRAX/7ev3vD07TmP3IPBmHQC6iSghuldXyP/y/wcvtiJGmqxiemOf+4um
-39zs/9APXZ8lo2ARNkpc0EbSbjjLaq8H0+5V089e7rjYMqu1UORm9rAkA2X96nG7GXzJLeoFFSOI
-Vv9lo4rOu/CcMkDx7J/ES6wlNd5ZdDOli+yqNNvO8Biarr5GqwIGNbBpVFXuoydKqe7qOAbfbz0G
-Tc0+kUBEAjf8495BlPY0q2+gg3ZnzGeRU0WoM265gnxpVvZeNlR+Qu3QB2nIFwvDnOmcXRYycvmD
-eT6B+nltjSgjDD/oHKLz4D0XHW1OJifOXNLmoeUhLTuIr124hv0hGVxsHzcKakQnU1jIdMvSnhJq
-UKUc7OtFJKaa0qOkNK9ZORYXlEOp5r2rtO0Uk07ZkB31qc7BwbrhHLY4186xA60uq4Lo7bMxILYr
-TBSh/d3Cuq0cer/oNPqgKRhvJ435mToxfx14m5vPOzB1a1x6Cq1qi+vVjqbEgluZo+Y/oA12Q5a5
-Kia6ilWVFHyNP4T1Xn9gRAEMd2EEv3TF80M0zoBWCLnD4qlrX8yeGFqixjCTnG6/IhKloddUbE0e
-6LR1/o+yXYJtGS3S4DTeijMak3aMlD9sdzU8vsxbc+fVFzRTY8bJZZYfmB4wYXaPDSKlwfTaXDCT
-eTUOxviBB5pyqUOXYR+ooSMzXGBCXmDHGcAJZ4bCnb1ON+rjr2pJiUxE5u2AOqzHvg+GUEbPWK9d
-3f1IHRm4bFT35qjtGf9ALlgxgJaKEJb42px0iB6spB1yULInT1MDoqOBHd5n9KQ3Kyi3NGeda6Cm
-9LzG6ozzZ5dSGxtB/rEKtbTWP2zPhbOTgNIO0wBzR0BPOh/Fc4Q0zHYNYWkOMf6gazw69gLjQ3jk
-JzDoiBs8jRK3oGUKHgdejFXTLhiF6LISmqMEqxeH+bd/axT0aspoMb0kiwKmZf7F60KfRkTZekr3
-RjcsSsk69itrF/asrKy+8JJdhn8P/5PvpsjbrfTd5e/jWUjJRfZgLkmRC3DkQmwivDFciFb0XiNG
-dfLa6aDGeM0Nr7Fe/ULe5vZrAiESffdu0fVH3qFt1BG3YuG777d46dp+Lba9MMVTzkH/RXuDET3S
-SCLz0ptoD99xRBwYUmnsSuDa3TeFMokK/aOH/YitKMbxwOlIMlManGrU/xK8e1cra7HqRp4UCHbH
-pJylSFZcQ//TGAzDI8U95w8bawCuhGOi4tQzu2CjZ+oxPOxDpFI6zIxaSkGP2yVILKQw+XUNLY5Y
-esWLU/+hyXcOL88PuMNiNx4ftBZ6AnE9WVkC34/jCkhe7hLBFgB7kIP6DWPMN6icy/eMqqtJf7wN
-cjIN66HflP5UWulU6i2khzjFZP/5fcn8ZcfAxvpMBZzKvN1qIsQH8fNYzo5i1SbfrxV755fW8OjZ
-7ELyO2ZohhfurL5ovcRNcrgnJip7ewGlFeZIMwAUzOxlBUIvVt8b2PAV3G/d+nq9rr7IAvU3WQVQ
-rj0eYxYTfOmDu4C1brHktrX69XKDgKLE+38Ym+WYGfJc9SFhkB2qPVYp6fZSqX/R5zaMQoRegCJs
-o9GFRjcaA3EHAhhs/tjEjxqrB8VSeNSwtTaDpFTa6xz8/+LOuA3dnfNxnO7GRs5dzftCOLIJAxgG
-Ceit5eN8IN8FSPV72V214/skE0O8tNz+Kba5weiG4PF0Dtz2omU4aRYJ3B0nHi9MUus39S8rjRRa
-keE2PoXAjlyNyxho+z2l/1ne/tZcPHGqAeBGaCo8yb5BhEg6HkKl9ef866dOi029KvyvD8785g5A
-MFsC1SWGXCeiGUfBruuKJ4EuxZAigYJ3rxMl7ic90pz0XS+mXSF/fnyux8ZEs3LvC/sOiI4JuAii
-+wL8pOfjEBbq7tGrm7aiC67O8eqbQXrk4HZyeD6cCTS5PfqKePvDnhgAoo2Xwt4sh7tSU6PBnLAM
-qEjEmWJ1/VhUvOG7XdcMQ6dpPiWOmKI5/KqE423OJHNNuVMzhTW4HiPdMSt/sIDk4KC6xUp6br4f
-3tBnx20d4SuzetRmHwpqQNv4Hytu4r2YYABrPkRFWagfaP1BqO42PR87n/hZ46OI6fDq5I9CQeDM
-V34Fjsf2JStscutgDj2zHqU27aNDVtReGsCIN/hlvL+0q7qLDbJ/f9Nq+tz1ObPSps+zvuUFRm2S
-9EtpCr/UZvl7zLG0iwgnL4OB9pEFVTrDKKJN98G4B3rahGQ8i9fBFnF6J22GGS3i/gxNno2ngFIo
-xCimY3rmwxlFMHQ0ldErx/GXkzuUb02tv6faBycosY+tVYQ92cVD8V06pkMULbypsGQhj+aIfuZF
-QjetYgfPuq4hfqG6sYitIqpser86pxrotyh9qEu1z3HLet7qedOoegfc7ZMjxvpFXD9exsGijcUc
-KXTEIvDutz5KOrWVReVVeV7VdWC/WcfQg7tXYdC+GaFn/Q3y/CzhiDVMbOK3+1qd1vh8NgxYSVzL
-h7c1CxYR1Mt6TTITdP4VjOWEIYPnJ8SQOLRjnqUAhf9FOoBKXSNl+PwxKbI9nSV38K6/ZrFLEy8b
-/2CDsmrrS1SPb1H75YC4ZTUAjbd/O1dq2o9VaxCJYKAnmxVIHHmCXzFs98W7XMV19FZlYTlswGmL
-tvl5ywLluuprTeolf5DBA8MEZhCq3YZuZ0JzBayrteNX+4g9vVpjfbSdyMyp/Gh3ceZb0lkvzvYB
-UNZM8aOhwCHkgfXXQEwSUlKJe4OBRQjZ251qGmqYWZzk1hwMhw9KsXcG3vKZJ3TvAfjiPUW6V7VG
-Gnl1x/zHhiggmMfMStpSkflYPaTVi66FxOSbA/z6DJtRET45hv/k2H2XV74MUzRNgm6XZggZ8B+I
-lhkTy6IcwOaHA/XtzfHdyhitszRoAjaaI8DMelQ+EW4zhEVNvwX7bU+OCleji3d9I3IJ1wZEgWpm
-TpkjxezOqEqp+Hd9cjIkmqvrBf4pWlM4sS1f9WpXrwcgQla835lPoaoDH+iSItF/8nCLZNf1eICw
-kl2PHhrLbV1mMZZ5mmg8GFcLROSClizixDWqT0Ml1JajaCqQzRR/XrQR+wSajQUvcOlrll+PcsiF
-TbPD/y3a+cirG1Y4eXNZL+1Ot+sxCkOVwle1RxvVQTU3buXyaPq5NqXAAH3GRiIrSL7Q8xizjKVJ
-CQ/V8vmzPAGtGeT10la7B/R8GwsIybr9e1q7qIFeUOa3UHybtL5g/v+ftuW/WwYsv2lenyp/Zk8U
-JfohabjJurHbC1owbz6TSx3jSRVa55/rcTzsj6ThoAsK07JMcXKsbBls3RLIHZjJJPs2PlQ5zWND
-YX5AvUDAh3h8sLs1IRHlDWgYU/yHtZh6vEHK/Z4aIr0YHdNUnbI+//M2ElTLZMfLLZNdkQOf2sJM
-EU3iYepffB35N9pTna117zc0XxHqOVJY67T5G9SDzDk8qjGiC/E2DYnr+h39UTH/FWve3cFj9FgS
-Vqd30diUtfL14pcV/dRltGTgFO+cI6nY2N7rLi5qbAufvw/YE5PdBo2bxyT1PObDqAH2PQmTNaYJ
-E6DrjVwAzDPO8P1iQFqt1WGB+pAujb9n383saNorFVKJibDH2xv7fhsd7AUNTtUAZKsKnapWRoaD
-5uin7psC5BeHUcsVf3zogP5UPPeUBIDKrE3Xuw5wux5bmumsZpCDNuNaTRc7kvGK/s/q919rJrNn
-FLZZitYeFZOCfCV++cHg7kTOkHH+IVaXNObv5t7UnSqt8YeF9+cpwZ2IiHzFgQPhJbvbBF4axGbz
-D4oPSWxba8wNwpI9Jsbx4gv4T4KpJd8NJ/EEllGI8S21nZyartmumM+8o4qhfYXATU4H9GeGUm6r
-hu4MzKcvKQdnCVPkk2LUjQ3CvD2DFmk6V33j9j8f1ngQuFrTdcrBWn1bWm+45xNosbTUmEwYJM0h
-Hr3snBSxK6TwJljMunEz2nOLITILKIuiW+xX+pu91CdpihEmGkmaUcJa4jtY5xbWC1tt4U49ULvO
-bp0hTHBv/3QdHjBLJVGEQ55+OrLf4VE4roEvd0UB5fdRtJK5/Sbw5UHzrV1MFPTRUHq0t9dWhGAK
-GPh22XhkOQnL/AzBIJl39sIQUenikS+f6OKcJ4sU26bKa+GbGL//X09SEXIaiqFcpXL9LWAYrCwo
-Yy1v8pS784MNSkQobQePbLfM3Z6YM9enhlcyrLzQJpbJK0eXzkSD9av+2snfJ89f1/TSrEvpLVyH
-Zljp0/3YGgKF9eyGPiMVvniAOe1CYrKYwRSWk8fDj74SVMj8LXyhTfzQ9Q75NR2cjwZkRWacswTJ
-V5RpbgNEWaVyIzsQxQdXO8oB1788+quw3KvDivzX8eJDJlcGXu4V0AtY0itfT56WatrB5Fz8ASb2
-lfDQDkECsoI8NuIK8SpEO3aG0d0+YWzGk1yiv9x6kFLE8x9Ab3hEdj7x3yZAy3gmUASRohJIgUgl
-pGhC6KXuAQ2d5LObUEkD5bFK9cZMUWCGgzNN4yrfBrKpFkK+kUzRL2Dgr6cUyRbRIlCnODMQb/gk
-WQnXAayWrPPycbxxzQAZ89xPCzcuK6iI9CWPIH3u86dV5DvEn6vpBw/QOpfAPc0spCJ3BXWgOXk/
-57yEP+760EmNUfZ9iDfj7IL9vcyJZKgoRis+nce/phZy+TLTeoiOmVbJ//F1U0b1VpK6bWXkdaqi
-T1xWGJ5VUWFq2jFCcyfUIKDlRqkl0ri5/vfqRBjmk2lXiVDvVgxGIjRPAOal0MsKfis7s15PsRIs
-y4F6h6faeXsv8RwL2O0BdJ09TPQ7PdGvK51xgpVqkw0So0anlgS9a9jHR1gen/KHUDKmLFiRTOQT
-lSQUw6OmtjsncAm4aV7NDz40gvMEzwIaFPY053zCAXKuD+oXTeueqfuc+Xwt3tTD0IyFVyO0Hbs3
-ZU1WoGDOBR4MMeub3k5ycTlqQFno5/RHBnCkhsjwf16hJR6ohW3wjsTR9EsrY5IK9evb7z2nPh1F
-4AIVTD0F140SpGlrN3eS71ReLSZJvMyV3hGORRE9OMN26REm7/KeIlRn68gAwh0ICyIfZpt/e1Fp
-h8btX/EJ+r8IAIc5HSMBfEkbNVfPL8eMm4EV8XVdGPeW11enhC1pwIDt5hU5jhAChlpTocsAhTUS
-b36gUUq5/40BnPyEJmPZTKbsTs/gNQukONVQDROrrw2ftfV6ag++XPfVJt/3Qo+2USRFi4hW1k9m
-vtMW0PjVGWI8Z30mG9cvJ+NRLwhL6ShchRGtz+xruhl16QgPpcWcZXRkrgKfpDddmziSuP9YaI+z
-qvv+AZLuMM7GZbU2U+K0ZGOZkuVePDHur+0B9ttQgnL2aP8pOKXnqY2PFRrBMn4daH8ltgqruqW6
-QcvO1SyWpsfjE2JV28sc7pC7De7VOGx75Pdu/QjxyUBcRzf5M17wLmLCH7grz5sRlWeiFUnLxjqE
-GdFYewQGcdM/5S4nxRmcZPrvWPjwkk5ZK2FdaK7slM9iqz/CGognY1SuB45mcOtjUbnbgkWTUTtP
-kW66oRxssLpIHT0OCnhEa4qChcjBtuTLBEKV42/V+i1X24sueYr1ioXxZBHjiPoseXIFha5nSehK
-LEFb5ZjGUx+LSabbLVBZUjDg8RurGk9/u7PRTTBCgu2iKLlV6F+A0RWlL1qjRqE9eqNMDf6qIPBq
-ONeqU7TFVsPN/g5ndsj2oAlR2N8IUudjgbCXbZ6CRq7zuK7qhUsSZw2vBJbhwiPHaxhbfUIx29Xv
-OM2jbrVhpn4C9iVvdIRwBXiNXLbdUNDuGQeR2vSqOfrTIs0LwKq05B9XWquUh3NQoOkMWQlD1HuN
-+1h2AdMYcSGnEpHLZj0coU98cZLZ1L6OyIapg6SPvDL+b0BEZqICookPR7+TxHTMKgV9XaiCQYt7
-6Py+1bDJkwatCdrF77wSG5+zylMp1dsAYoSP568HW+axaAV4kvyauqAerEAJdq6tAARgt6xMTKAg
-4CyQ6osO84BhjwO738wKWgN29jWo6fLwJXoHRwofFq4BKVIJurm9/an6t1uAAEi9wyZv7AgvKPtZ
-1re6quHupty6r7jUQhKCs/LAmLzV6ScSW62BfQYsJ4E9Zo2fXsYuini/ZhyXOYgFDQY+aNYWI4OS
-rdtLvao8KKA03FojbICD7E+SqPqCug+OLN8I38rcGb4x3ZiaimXZe1B/vuswXAJ9JRUeqQsgfZVb
-o0Z0+g76PRdiJUKHTBnOMd51dX+RKf0U4Uxhu+c4C7HtO0FjQ6PWlWQlmawEk42zg2dCV0AyaDg3
-worA19fJcF8pUcRnKquAWMHvLuDFvLwXIUj6Lwpnpf0cjRGMX+4AZKgoaHyQW/07/7NH11I2MNI6
-dkX2RFErjoKhVllhZn9cS44e84QDtoqgaGDKc36YR473K27zkWgaP4HJSt8p2JfPqj2deyfyOQdP
-jES44ent0uXOJnKXdJHagFWtwocG31k8PysotGXXLNgFZHZ1EiIiWX+f3/84/oYnpD5SVAmxvskq
-0EjoIhCJi58W2FPGN78tjLhl3e+uhRXPUB8qqOXjfHq2wqCO1h/KHHvQffd+teTEYCuNnckK1DO9
-YvfFBRBpKFEc5+ZhCtv5kthA37jMTYPSvx8zX4dIhtZqJdeLC8hrjcfw8JBvBGZHnGQA4cu6OJfx
-RiKwDNHOVmRcorc2Dl2Y2web2vS+bj2Qe9d/DdZxMKplzPW5+4GJL9Bo6JS5hJbzBl2kbE05z56y
-J9Y9PIVRaEpH5jNgNqIwKeQ+kfiCZH8Z+txgitaxkvChP5kf0FzVOc+vs8ngUIVINC/wEtdHmQfB
-lgfaAQeInf5w6RtvzAfblsNdGqnZQFSFIl0uzQ0rYjqeNIIRn2o548Tno3GHsDOT2qocu4PvB1pH
-a6A0VOj4yDwZZkSEwDclitWC0f/AXhuGdDVVWLbRoVlZYLZkhNDNhqkwRGkN1N0mZerKHPgA2m8i
-DtSAZEi3nWV1DrMcHSWjSZkU3WgnWZQlCSMCBUg4XyictgBbMSNe7fmZLe+2OY5OgBwyx86ZxTgz
-8EwjgdAbUECQ0WvCY+r8yYYdS7l2drgKff2z4OAKIs4vL3H6utjkWaYcWar582LcHKN9YQHO6BcT
-XbDsB5nJ+RlQSBp0ekGWXBz6FOS5VQZEaMJm3F+PyKFhvBjwjYoExM5MIG0HSRH5Hmwlt2nLa4Y8
-gguMPEGpw/K74VWXk/u/mNx2WLHci/fkgEtTRZqtHXG/HN6uLKAsWltbD1h1vLiJDuzc0cRkpstS
-jGePLtXEAoDoXcTXKtcLCBzfmlI6uwMBl04wrf25GQUzX5hQ0FFPAdaZTmaeyrUdq3RJ9KL1pHK6
-zn/hpPveGtwqQxaOAg4ByvVcH/lzxKgJPpwmzDrS7EyYAJjJmUwMNxjjQP62CNYpzHRrzz/13Dfa
-z5zMn9BNanR64tgHJPBDKDRSIf8DpfScYp6sAjDnYyqcjR8XYx1Xn9Tsp0MyEy3iWjKzouLLuGOk
-K3bd6zY5zDetCJY1KMjwAvrph5JMbpMKCtVv2lGISMNL8u0JZlrD3uETtTp7dbS2exMzYhLsqrw0
-AiHphqJZAW7+PhO0utiipDLBDyzHioQYZhDgXHEf3dNUT4T3I61FaGY44tEi6nut4sbsagYJvcOO
-BnCifgwK7nspUuJL8RJeIVrfOD8J8uAEoEt7yLdv0CBcx4I/H4tUuWf4SDpifNWe3cnJy0soHifc
-qw6fOBjrJ7rT7FLsofzLovow4M3ykj1UN3GAj7752KM4hNVCeUyS7YdTqB9sghgA4aKecGL5sOHY
-wkQ5AZb1hZ1kxpqv/z6CaaWmJvq4NKg8BvEzDLXkL3+5aW9HleXX2SU+k85bsw5ges67/RzOUh2O
-ARRh2gWssF0LTt9Fd+aMfSy0Jo2Qn8HDKH36S1C1eo1yeGfJB5FAguTJoScYT7dMVyOox8R8EMli
-USw9WX9W516HLy/ZmAd0LsnMcEaNGpSC0QWnW2n9AftIsZx9WWDx62FG9hNWPhAW46gsNKYGyDic
-pmGwUiYvhfTvnuGB/BBXNObAJctkX+tRxcHslrYyIzKATmVcwD+0Q5ZgpEWWjgiIHfcswuH8hudo
-vObqBsQSCzZ1vizW1yHU+XjLNFPr/cE8l2tjReYyusXORtol5lEVr2Vo0o1nNns954M6gw3ahV7z
-yF4+Yt85SQ4rnB9vEuiHBusI3nLdJ71wIgRr4cuHlzdBh4FvsudICgmffnKXuKVI20fShe6Yq2Lh
-CdOwpz9R4xyhA+cjVdWbFrapr9Epzwnv8mdZ5OStlxFoNYClpZggxT9JZnnrJKcAhDWlWaszaHiD
-bZcPE2rJfTvA5zL8xsmUWdMuoIRtYgiJ3dJARWCVPchvi3dfDlTGW5ZoH0oFz2rni0G9xeuRy5kE
-ET/QopXrR91EKBVd3mD4tA91aJlubLQHjRUTOwvqooa9t5ogaYMhybR4qW+XuiNeijGfrKldrFhO
-fDUGHWM/Ad91XPHe9a4g1+zdkdSgfG7c+ZWCJ6nL7OvotVUGn3JF/w1uMTZ2T7rBvv71bTqxW2hq
-5N/0kTlXqkJSaVgSg3IBoDwE+e6uB49xjMKuYVlj9ufO6mqjEtGbMMqSvnFrBkjCf+rSk5Q54iis
-Da4gTFBwiByevXie2JShl5hq8DXDM8aaaWe177Yy9oAShlLc86ZMGnN7za0CU/btmXKVP5GOzgG+
-7StJUfyupgEtA0JfwtvE3oyMFnZYzcvj0Ct8GVXJ4nw2Dmq8QXTZeDsJ9gLzEQ479wokcDA/PN1D
-4ea4AogJdh4veExNzfiYJAOOt1ZzXEkiBdy0mdhMIUlR+RQVDBQzls0h3dKVbwxTNaeoQOk8EHVz
-+u+ChBgjY5E5gV9F9mMoUWqW+eY83oN/mhiBJl80MX6fi+3FKKkLJljCGZc9VCNj4bwAUhC+E2tt
-AvCuETpvBN8TFOGd66cTCJYcGHQzuoxGkDdMi6d92jSXF/d8JQLsISHa1iORXxUr0f4a/Mc31Xg/
-ve2gbG2p/8c+jSpa6hYdnFRO0XJpq78JtHOTEsV14UMLcW3Xhf7coSUuBWWfwQ8HQ1SVOuilwkQs
-2hg4bMyRbrETvGP4V4FO79kJhBePoYlZOaBVTX3QaHFg6dmJsTEAvYwan7QYjJuNoX1HIJ+rguAy
-WBuKT/JHdQkwm94J8pMhAGVz0OBsyBPRYsnT6N7rpiWbaoyu3ALi6wRZCZL7mEiD36f+03wB77u/
-OhU8Io2xj3OmIdIslQg58V83+x8STJ3mAzBNTJfFrRFOZeRatZyYeMjD+J13PtWNUKu8l88X7KQY
-WQndj5XW
+<?php
+
+/**
+ * Parser that uses PHP 5's DOM extension (part of the core).
+ *
+ * In PHP 5, the DOM XML extension was revamped into DOM and added to the core.
+ * It gives us a forgiving HTML parser, which we use to transform the HTML
+ * into a DOM, and then into the tokens.  It is blazingly fast (for large
+ * documents, it performs twenty times faster than
+ * HTMLPurifier_Lexer_DirectLex,and is the default choice for PHP 5.
+ *
+ * @note Any empty elements will have empty tokens associated with them, even if
+ * this is prohibited by the spec. This is cannot be fixed until the spec
+ * comes into play.
+ *
+ * @note PHP's DOM extension does not actually parse any entities, we use
+ *       our own function to do that.
+ *
+ * @warning DOM tends to drop whitespace, which may wreak havoc on indenting.
+ *          If this is a huge problem, due to the fact that HTML is hand
+ *          edited and you are unable to get a parser cache that caches the
+ *          the output of HTML Purifier while keeping the original HTML lying
+ *          around, you may want to run Tidy on the resulting output or use
+ *          HTMLPurifier_DirectLex
+ */
+
+class HTMLPurifier_Lexer_DOMLex extends HTMLPurifier_Lexer
+{
+
+    /**
+     * @type HTMLPurifier_TokenFactory
+     */
+    private $factory;
+
+    public function __construct()
+    {
+        // setup the factory
+        parent::__construct();
+        $this->factory = new HTMLPurifier_TokenFactory();
+    }
+
+    /**
+     * @param string $html
+     * @param HTMLPurifier_Config $config
+     * @param HTMLPurifier_Context $context
+     * @return HTMLPurifier_Token[]
+     */
+    public function tokenizeHTML($html, $config, $context)
+    {
+        $html = $this->normalize($html, $config, $context);
+
+        // attempt to armor stray angled brackets that cannot possibly
+        // form tags and thus are probably being used as emoticons
+        if ($config->get('Core.AggressivelyFixLt')) {
+            $char = '[^a-z!\/]';
+            $comment = "/<!--(.*?)(-->|\z)/is";
+            $html = preg_replace_callback($comment, array($this, 'callbackArmorCommentEntities'), $html);
+            do {
+                $old = $html;
+                $html = preg_replace("/<($char)/i", '&lt;\\1', $html);
+            } while ($html !== $old);
+            $html = preg_replace_callback($comment, array($this, 'callbackUndoCommentSubst'), $html); // fix comments
+        }
+
+        // preprocess html, essential for UTF-8
+        $html = $this->wrapHTML($html, $config, $context);
+
+        $doc = new DOMDocument();
+        $doc->encoding = 'UTF-8'; // theoretically, the above has this covered
+
+        $options = 0;
+        if ($config->get('Core.AllowParseManyTags') && defined('LIBXML_PARSEHUGE')) {
+            $options |= LIBXML_PARSEHUGE;
+        }
+
+        set_error_handler(array($this, 'muteErrorHandler'));
+        // loadHTML() fails on PHP 5.3 when second parameter is given
+        if ($options) {
+            $doc->loadHTML($html, $options);
+        } else {
+            $doc->loadHTML($html);
+        }
+        restore_error_handler();
+
+        $body = $doc->getElementsByTagName('html')->item(0)-> // <html>
+                      getElementsByTagName('body')->item(0);  // <body>
+
+        $div = $body->getElementsByTagName('div')->item(0); // <div>
+        $tokens = array();
+        $this->tokenizeDOM($div, $tokens, $config);
+        // If the div has a sibling, that means we tripped across
+        // a premature </div> tag.  So remove the div we parsed,
+        // and then tokenize the rest of body.  We can't tokenize
+        // the sibling directly as we'll lose the tags in that case.
+        if ($div->nextSibling) {
+            $body->removeChild($div);
+            $this->tokenizeDOM($body, $tokens, $config);
+        }
+        return $tokens;
+    }
+
+    /**
+     * Iterative function that tokenizes a node, putting it into an accumulator.
+     * To iterate is human, to recurse divine - L. Peter Deutsch
+     * @param DOMNode $node DOMNode to be tokenized.
+     * @param HTMLPurifier_Token[] $tokens   Array-list of already tokenized tokens.
+     * @return HTMLPurifier_Token of node appended to previously passed tokens.
+     */
+    protected function tokenizeDOM($node, &$tokens, $config)
+    {
+        $level = 0;
+        $nodes = array($level => new HTMLPurifier_Queue(array($node)));
+        $closingNodes = array();
+        do {
+            while (!$nodes[$level]->isEmpty()) {
+                $node = $nodes[$level]->shift(); // FIFO
+                $collect = $level > 0 ? true : false;
+                $needEndingTag = $this->createStartNode($node, $tokens, $collect, $config);
+                if ($needEndingTag) {
+                    $closingNodes[$level][] = $node;
+                }
+                if ($node->childNodes && $node->childNodes->length) {
+                    $level++;
+                    $nodes[$level] = new HTMLPurifier_Queue();
+                    foreach ($node->childNodes as $childNode) {
+                        $nodes[$level]->push($childNode);
+                    }
+                }
+            }
+            $level--;
+            if ($level && isset($closingNodes[$level])) {
+                while ($node = array_pop($closingNodes[$level])) {
+                    $this->createEndNode($node, $tokens);
+                }
+            }
+        } while ($level > 0);
+    }
+
+    /**
+     * Portably retrieve the tag name of a node; deals with older versions
+     * of libxml like 2.7.6
+     * @param DOMNode $node
+     */
+    protected function getTagName($node)
+    {
+        if (isset($node->tagName)) {
+            return $node->tagName;
+        } else if (isset($node->nodeName)) {
+            return $node->nodeName;
+        } else if (isset($node->localName)) {
+            return $node->localName;
+        }
+        return null;
+    }
+
+    /**
+     * Portably retrieve the data of a node; deals with older versions
+     * of libxml like 2.7.6
+     * @param DOMNode $node
+     */
+    protected function getData($node)
+    {
+        if (isset($node->data)) {
+            return $node->data;
+        } else if (isset($node->nodeValue)) {
+            return $node->nodeValue;
+        } else if (isset($node->textContent)) {
+            return $node->textContent;
+        }
+        return null;
+    }
+
+
+    /**
+     * @param DOMNode $node DOMNode to be tokenized.
+     * @param HTMLPurifier_Token[] $tokens   Array-list of already tokenized tokens.
+     * @param bool $collect  Says whether or start and close are collected, set to
+     *                    false at first recursion because it's the implicit DIV
+     *                    tag you're dealing with.
+     * @return bool if the token needs an endtoken
+     * @todo data and tagName properties don't seem to exist in DOMNode?
+     */
+    protected function createStartNode($node, &$tokens, $collect, $config)
+    {
+        // intercept non element nodes. WE MUST catch all of them,
+        // but we're not getting the character reference nodes because
+        // those should have been preprocessed
+        if ($node->nodeType === XML_TEXT_NODE) {
+            $data = $this->getData($node); // Handle variable data property
+            if ($data !== null) {
+              $tokens[] = $this->factory->createText($data);
+            }
+            return false;
+        } elseif ($node->nodeType === XML_CDATA_SECTION_NODE) {
+            // undo libxml's special treatment of <script> and <style> tags
+            $last = end($tokens);
+            $data = $node->data;
+            // (note $node->tagname is already normalized)
+            if ($last instanceof HTMLPurifier_Token_Start && ($last->name == 'script' || $last->name == 'style')) {
+                $new_data = trim($data);
+                if (substr($new_data, 0, 4) === '<!--') {
+                    $data = substr($new_data, 4);
+                    if (substr($data, -3) === '-->') {
+                        $data = substr($data, 0, -3);
+                    } else {
+                        // Highly suspicious! Not sure what to do...
+                    }
+                }
+            }
+            $tokens[] = $this->factory->createText($this->parseText($data, $config));
+            return false;
+        } elseif ($node->nodeType === XML_COMMENT_NODE) {
+            // this is code is only invoked for comments in script/style in versions
+            // of libxml pre-2.6.28 (regular comments, of course, are still
+            // handled regularly)
+            $tokens[] = $this->factory->createComment($node->data);
+            return false;
+        } elseif ($node->nodeType !== XML_ELEMENT_NODE) {
+            // not-well tested: there may be other nodes we have to grab
+            return false;
+        }
+        $attr = $node->hasAttributes() ? $this->transformAttrToAssoc($node->attributes) : array();
+        $tag_name = $this->getTagName($node); // Handle variable tagName property
+        if (empty($tag_name)) {
+            return (bool) $node->childNodes->length;
+        }
+        // We still have to make sure that the element actually IS empty
+        if (!$node->childNodes->length) {
+            if ($collect) {
+                $tokens[] = $this->factory->createEmpty($tag_name, $attr);
+            }
+            return false;
+        } else {
+            if ($collect) {
+                $tokens[] = $this->factory->createStart($tag_name, $attr);
+            }
+            return true;
+        }
+    }
+
+    /**
+     * @param DOMNode $node
+     * @param HTMLPurifier_Token[] $tokens
+     */
+    protected function createEndNode($node, &$tokens)
+    {
+        $tag_name = $this->getTagName($node); // Handle variable tagName property
+        $tokens[] = $this->factory->createEnd($tag_name);
+    }
+
+    /**
+     * Converts a DOMNamedNodeMap of DOMAttr objects into an assoc array.
+     *
+     * @param DOMNamedNodeMap $node_map DOMNamedNodeMap of DOMAttr objects.
+     * @return array Associative array of attributes.
+     */
+    protected function transformAttrToAssoc($node_map)
+    {
+        // NamedNodeMap is documented very well, so we're using undocumented
+        // features, namely, the fact that it implements Iterator and
+        // has a ->length attribute
+        if ($node_map->length === 0) {
+            return array();
+        }
+        $array = array();
+        foreach ($node_map as $attr) {
+            $array[$attr->name] = $attr->value;
+        }
+        return $array;
+    }
+
+    /**
+     * An error handler that mutes all errors
+     * @param int $errno
+     * @param string $errstr
+     */
+    public function muteErrorHandler($errno, $errstr)
+    {
+    }
+
+    /**
+     * Callback function for undoing escaping of stray angled brackets
+     * in comments
+     * @param array $matches
+     * @return string
+     */
+    public function callbackUndoCommentSubst($matches)
+    {
+        return '<!--' . strtr($matches[1], array('&amp;' => '&', '&lt;' => '<')) . $matches[2];
+    }
+
+    /**
+     * Callback function that entity-izes ampersands in comments so that
+     * callbackUndoCommentSubst doesn't clobber them
+     * @param array $matches
+     * @return string
+     */
+    public function callbackArmorCommentEntities($matches)
+    {
+        return '<!--' . str_replace('&', '&amp;', $matches[1]) . $matches[2];
+    }
+
+    /**
+     * Wraps an HTML fragment in the necessary HTML
+     * @param string $html
+     * @param HTMLPurifier_Config $config
+     * @param HTMLPurifier_Context $context
+     * @return string
+     */
+    protected function wrapHTML($html, $config, $context, $use_div = true)
+    {
+        $def = $config->getDefinition('HTML');
+        $ret = '';
+
+        if (!empty($def->doctype->dtdPublic) || !empty($def->doctype->dtdSystem)) {
+            $ret .= '<!DOCTYPE html ';
+            if (!empty($def->doctype->dtdPublic)) {
+                $ret .= 'PUBLIC "' . $def->doctype->dtdPublic . '" ';
+            }
+            if (!empty($def->doctype->dtdSystem)) {
+                $ret .= '"' . $def->doctype->dtdSystem . '" ';
+            }
+            $ret .= '>';
+        }
+
+        $ret .= '<html><head>';
+        $ret .= '<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />';
+        // No protection if $html contains a stray </div>!
+        $ret .= '</head><body>';
+        if ($use_div) $ret .= '<div>';
+        $ret .= $html;
+        if ($use_div) $ret .= '</div>';
+        $ret .= '</body></html>';
+        return $ret;
+    }
+}
+
+// vim: et sw=4 sts=4

@@ -1,93 +1,170 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-KL8bE9/l/s6WHGdGohYJ0kUss38Kjvlh2De=
+<?php
+
+/**
+ * @todo Unit test
+ */
+class HTMLPurifier_ContentSets
+{
+
+    /**
+     * List of content set strings (pipe separators) indexed by name.
+     * @type array
+     */
+    public $info = array();
+
+    /**
+     * List of content set lookups (element => true) indexed by name.
+     * @type array
+     * @note This is in HTMLPurifier_HTMLDefinition->info_content_sets
+     */
+    public $lookup = array();
+
+    /**
+     * Synchronized list of defined content sets (keys of info).
+     * @type array
+     */
+    protected $keys = array();
+    /**
+     * Synchronized list of defined content values (values of info).
+     * @type array
+     */
+    protected $values = array();
+
+    /**
+     * Merges in module's content sets, expands identifiers in the content
+     * sets and populates the keys, values and lookup member variables.
+     * @param HTMLPurifier_HTMLModule[] $modules List of HTMLPurifier_HTMLModule
+     */
+    public function __construct($modules)
+    {
+        if (!is_array($modules)) {
+            $modules = array($modules);
+        }
+        // populate content_sets based on module hints
+        // sorry, no way of overloading
+        foreach ($modules as $module) {
+            foreach ($module->content_sets as $key => $value) {
+                $temp = $this->convertToLookup($value);
+                if (isset($this->lookup[$key])) {
+                    // add it into the existing content set
+                    $this->lookup[$key] = array_merge($this->lookup[$key], $temp);
+                } else {
+                    $this->lookup[$key] = $temp;
+                }
+            }
+        }
+        $old_lookup = false;
+        while ($old_lookup !== $this->lookup) {
+            $old_lookup = $this->lookup;
+            foreach ($this->lookup as $i => $set) {
+                $add = array();
+                foreach ($set as $element => $x) {
+                    if (isset($this->lookup[$element])) {
+                        $add += $this->lookup[$element];
+                        unset($this->lookup[$i][$element]);
+                    }
+                }
+                $this->lookup[$i] += $add;
+            }
+        }
+
+        foreach ($this->lookup as $key => $lookup) {
+            $this->info[$key] = implode(' | ', array_keys($lookup));
+        }
+        $this->keys   = array_keys($this->info);
+        $this->values = array_values($this->info);
+    }
+
+    /**
+     * Accepts a definition; generates and assigns a ChildDef for it
+     * @param HTMLPurifier_ElementDef $def HTMLPurifier_ElementDef reference
+     * @param HTMLPurifier_HTMLModule $module Module that defined the ElementDef
+     */
+    public function generateChildDef(&$def, $module)
+    {
+        if (!empty($def->child)) { // already done!
+            return;
+        }
+        $content_model = $def->content_model;
+        if (is_string($content_model)) {
+            // Assume that $this->keys is alphanumeric
+            $def->content_model = preg_replace_callback(
+                '/\b(' . implode('|', $this->keys) . ')\b/',
+                array($this, 'generateChildDefCallback'),
+                $content_model
+            );
+            //$def->content_model = str_replace(
+            //    $this->keys, $this->values, $content_model);
+        }
+        $def->child = $this->getChildDef($def, $module);
+    }
+
+    public function generateChildDefCallback($matches)
+    {
+        return $this->info[$matches[0]];
+    }
+
+    /**
+     * Instantiates a ChildDef based on content_model and content_model_type
+     * member variables in HTMLPurifier_ElementDef
+     * @note This will also defer to modules for custom HTMLPurifier_ChildDef
+     *       subclasses that need content set expansion
+     * @param HTMLPurifier_ElementDef $def HTMLPurifier_ElementDef to have ChildDef extracted
+     * @param HTMLPurifier_HTMLModule $module Module that defined the ElementDef
+     * @return HTMLPurifier_ChildDef corresponding to ElementDef
+     */
+    public function getChildDef($def, $module)
+    {
+        $value = $def->content_model;
+        if (is_object($value)) {
+            trigger_error(
+                'Literal object child definitions should be stored in '.
+                'ElementDef->child not ElementDef->content_model',
+                E_USER_NOTICE
+            );
+            return $value;
+        }
+        switch ($def->content_model_type) {
+            case 'required':
+                return new HTMLPurifier_ChildDef_Required($value);
+            case 'optional':
+                return new HTMLPurifier_ChildDef_Optional($value);
+            case 'empty':
+                return new HTMLPurifier_ChildDef_Empty();
+            case 'custom':
+                return new HTMLPurifier_ChildDef_Custom($value);
+        }
+        // defer to its module
+        $return = false;
+        if ($module->defines_child_def) { // save a func call
+            $return = $module->getChildDef($def);
+        }
+        if ($return !== false) {
+            return $return;
+        }
+        // error-out
+        trigger_error(
+            'Could not determine which ChildDef class to instantiate',
+            E_USER_ERROR
+        );
+        return false;
+    }
+
+    /**
+     * Converts a string list of elements separated by pipes into
+     * a lookup array.
+     * @param string $string List of elements
+     * @return array Lookup array of elements
+     */
+    protected function convertToLookup($string)
+    {
+        $array = explode('|', str_replace(' ', '', $string));
+        $ret = array();
+        foreach ($array as $k) {
+            $ret[$k] = true;
+        }
+        return $ret;
+    }
+}
+
+// vim: et sw=4 sts=4

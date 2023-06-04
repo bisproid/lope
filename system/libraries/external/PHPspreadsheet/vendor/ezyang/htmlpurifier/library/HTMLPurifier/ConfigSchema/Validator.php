@@ -1,157 +1,248 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+/**
+ * Performs validations on HTMLPurifier_ConfigSchema_Interchange
+ *
+ * @note If you see '// handled by InterchangeBuilder', that means a
+ *       design decision in that class would prevent this validation from
+ *       ever being necessary. We have them anyway, however, for
+ *       redundancy.
+ */
+class HTMLPurifier_ConfigSchema_Validator
+{
+
+    /**
+     * @type HTMLPurifier_ConfigSchema_Interchange
+     */
+    protected $interchange;
+
+    /**
+     * @type array
+     */
+    protected $aliases;
+
+    /**
+     * Context-stack to provide easy to read error messages.
+     * @type array
+     */
+    protected $context = array();
+
+    /**
+     * to test default's type.
+     * @type HTMLPurifier_VarParser
+     */
+    protected $parser;
+
+    public function __construct()
+    {
+        $this->parser = new HTMLPurifier_VarParser();
+    }
+
+    /**
+     * Validates a fully-formed interchange object.
+     * @param HTMLPurifier_ConfigSchema_Interchange $interchange
+     * @return bool
+     */
+    public function validate($interchange)
+    {
+        $this->interchange = $interchange;
+        $this->aliases = array();
+        // PHP is a bit lax with integer <=> string conversions in
+        // arrays, so we don't use the identical !== comparison
+        foreach ($interchange->directives as $i => $directive) {
+            $id = $directive->id->toString();
+            if ($i != $id) {
+                $this->error(false, "Integrity violation: key '$i' does not match internal id '$id'");
+            }
+            $this->validateDirective($directive);
+        }
+        return true;
+    }
+
+    /**
+     * Validates a HTMLPurifier_ConfigSchema_Interchange_Id object.
+     * @param HTMLPurifier_ConfigSchema_Interchange_Id $id
+     */
+    public function validateId($id)
+    {
+        $id_string = $id->toString();
+        $this->context[] = "id '$id_string'";
+        if (!$id instanceof HTMLPurifier_ConfigSchema_Interchange_Id) {
+            // handled by InterchangeBuilder
+            $this->error(false, 'is not an instance of HTMLPurifier_ConfigSchema_Interchange_Id');
+        }
+        // keys are now unconstrained (we might want to narrow down to A-Za-z0-9.)
+        // we probably should check that it has at least one namespace
+        $this->with($id, 'key')
+            ->assertNotEmpty()
+            ->assertIsString(); // implicit assertIsString handled by InterchangeBuilder
+        array_pop($this->context);
+    }
+
+    /**
+     * Validates a HTMLPurifier_ConfigSchema_Interchange_Directive object.
+     * @param HTMLPurifier_ConfigSchema_Interchange_Directive $d
+     */
+    public function validateDirective($d)
+    {
+        $id = $d->id->toString();
+        $this->context[] = "directive '$id'";
+        $this->validateId($d->id);
+
+        $this->with($d, 'description')
+            ->assertNotEmpty();
+
+        // BEGIN - handled by InterchangeBuilder
+        $this->with($d, 'type')
+            ->assertNotEmpty();
+        $this->with($d, 'typeAllowsNull')
+            ->assertIsBool();
+        try {
+            // This also tests validity of $d->type
+            $this->parser->parse($d->default, $d->type, $d->typeAllowsNull);
+        } catch (HTMLPurifier_VarParserException $e) {
+            $this->error('default', 'had error: ' . $e->getMessage());
+        }
+        // END - handled by InterchangeBuilder
+
+        if (!is_null($d->allowed) || !empty($d->valueAliases)) {
+            // allowed and valueAliases require that we be dealing with
+            // strings, so check for that early.
+            $d_int = HTMLPurifier_VarParser::$types[$d->type];
+            if (!isset(HTMLPurifier_VarParser::$stringTypes[$d_int])) {
+                $this->error('type', 'must be a string type when used with allowed or value aliases');
+            }
+        }
+
+        $this->validateDirectiveAllowed($d);
+        $this->validateDirectiveValueAliases($d);
+        $this->validateDirectiveAliases($d);
+
+        array_pop($this->context);
+    }
+
+    /**
+     * Extra validation if $allowed member variable of
+     * HTMLPurifier_ConfigSchema_Interchange_Directive is defined.
+     * @param HTMLPurifier_ConfigSchema_Interchange_Directive $d
+     */
+    public function validateDirectiveAllowed($d)
+    {
+        if (is_null($d->allowed)) {
+            return;
+        }
+        $this->with($d, 'allowed')
+            ->assertNotEmpty()
+            ->assertIsLookup(); // handled by InterchangeBuilder
+        if (is_string($d->default) && !isset($d->allowed[$d->default])) {
+            $this->error('default', 'must be an allowed value');
+        }
+        $this->context[] = 'allowed';
+        foreach ($d->allowed as $val => $x) {
+            if (!is_string($val)) {
+                $this->error("value $val", 'must be a string');
+            }
+        }
+        array_pop($this->context);
+    }
+
+    /**
+     * Extra validation if $valueAliases member variable of
+     * HTMLPurifier_ConfigSchema_Interchange_Directive is defined.
+     * @param HTMLPurifier_ConfigSchema_Interchange_Directive $d
+     */
+    public function validateDirectiveValueAliases($d)
+    {
+        if (is_null($d->valueAliases)) {
+            return;
+        }
+        $this->with($d, 'valueAliases')
+            ->assertIsArray(); // handled by InterchangeBuilder
+        $this->context[] = 'valueAliases';
+        foreach ($d->valueAliases as $alias => $real) {
+            if (!is_string($alias)) {
+                $this->error("alias $alias", 'must be a string');
+            }
+            if (!is_string($real)) {
+                $this->error("alias target $real from alias '$alias'", 'must be a string');
+            }
+            if ($alias === $real) {
+                $this->error("alias '$alias'", "must not be an alias to itself");
+            }
+        }
+        if (!is_null($d->allowed)) {
+            foreach ($d->valueAliases as $alias => $real) {
+                if (isset($d->allowed[$alias])) {
+                    $this->error("alias '$alias'", 'must not be an allowed value');
+                } elseif (!isset($d->allowed[$real])) {
+                    $this->error("alias '$alias'", 'must be an alias to an allowed value');
+                }
+            }
+        }
+        array_pop($this->context);
+    }
+
+    /**
+     * Extra validation if $aliases member variable of
+     * HTMLPurifier_ConfigSchema_Interchange_Directive is defined.
+     * @param HTMLPurifier_ConfigSchema_Interchange_Directive $d
+     */
+    public function validateDirectiveAliases($d)
+    {
+        $this->with($d, 'aliases')
+            ->assertIsArray(); // handled by InterchangeBuilder
+        $this->context[] = 'aliases';
+        foreach ($d->aliases as $alias) {
+            $this->validateId($alias);
+            $s = $alias->toString();
+            if (isset($this->interchange->directives[$s])) {
+                $this->error("alias '$s'", 'collides with another directive');
+            }
+            if (isset($this->aliases[$s])) {
+                $other_directive = $this->aliases[$s];
+                $this->error("alias '$s'", "collides with alias for directive '$other_directive'");
+            }
+            $this->aliases[$s] = $d->id->toString();
+        }
+        array_pop($this->context);
+    }
+
+    // protected helper functions
+
+    /**
+     * Convenience function for generating HTMLPurifier_ConfigSchema_ValidatorAtom
+     * for validating simple member variables of objects.
+     * @param $obj
+     * @param $member
+     * @return HTMLPurifier_ConfigSchema_ValidatorAtom
+     */
+    protected function with($obj, $member)
+    {
+        return new HTMLPurifier_ConfigSchema_ValidatorAtom($this->getFormattedContext(), $obj, $member);
+    }
+
+    /**
+     * Emits an error, providing helpful context.
+     * @throws HTMLPurifier_ConfigSchema_Exception
+     */
+    protected function error($target, $msg)
+    {
+        if ($target !== false) {
+            $prefix = ucfirst($target) . ' in ' . $this->getFormattedContext();
+        } else {
+            $prefix = ucfirst($this->getFormattedContext());
+        }
+        throw new HTMLPurifier_ConfigSchema_Exception(trim($prefix . ' ' . $msg));
+    }
+
+    /**
+     * Returns a formatted context string.
+     * @return string
+     */
+    protected function getFormattedContext()
+    {
+        return implode(' in ', array_reverse($this->context));
+    }
+}
+
+// vim: et sw=4 sts=4

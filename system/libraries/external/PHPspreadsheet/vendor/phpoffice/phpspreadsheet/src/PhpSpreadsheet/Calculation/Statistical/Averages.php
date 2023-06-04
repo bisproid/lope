@@ -1,136 +1,260 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-imRnVpIBadHAiwgjakL/eaLvhei=
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Statistical;
+
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+
+class Averages extends AggregateBase
+{
+    /**
+     * AVEDEV.
+     *
+     * Returns the average of the absolute deviations of data points from their mean.
+     * AVEDEV is a measure of the variability in a data set.
+     *
+     * Excel Function:
+     *        AVEDEV(value1[,value2[, ...]])
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string (string if result is an error)
+     */
+    public static function averageDeviations(...$args)
+    {
+        $aArgs = Functions::flattenArrayIndexed($args);
+
+        // Return value
+        $returnValue = 0.0;
+
+        $aMean = self::average(...$args);
+        if ($aMean === ExcelError::DIV0()) {
+            return ExcelError::NAN();
+        } elseif ($aMean === ExcelError::VALUE()) {
+            return ExcelError::VALUE();
+        }
+
+        $aCount = 0;
+        foreach ($aArgs as $k => $arg) {
+            $arg = self::testAcceptedBoolean($arg, $k);
+            // Is it a numeric value?
+            // Strings containing numeric values are only counted if they are string literals (not cell values)
+            //    and then only in MS Excel and in Open Office, not in Gnumeric
+            if ((is_string($arg)) && (!is_numeric($arg)) && (!Functions::isCellValue($k))) {
+                return ExcelError::VALUE();
+            }
+            if (self::isAcceptedCountable($arg, $k)) {
+                $returnValue += abs($arg - $aMean);
+                ++$aCount;
+            }
+        }
+
+        // Return
+        if ($aCount === 0) {
+            return ExcelError::DIV0();
+        }
+
+        return $returnValue / $aCount;
+    }
+
+    /**
+     * AVERAGE.
+     *
+     * Returns the average (arithmetic mean) of the arguments
+     *
+     * Excel Function:
+     *        AVERAGE(value1[,value2[, ...]])
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string (string if result is an error)
+     */
+    public static function average(...$args)
+    {
+        $returnValue = $aCount = 0;
+
+        // Loop through arguments
+        foreach (Functions::flattenArrayIndexed($args) as $k => $arg) {
+            $arg = self::testAcceptedBoolean($arg, $k);
+            // Is it a numeric value?
+            // Strings containing numeric values are only counted if they are string literals (not cell values)
+            //    and then only in MS Excel and in Open Office, not in Gnumeric
+            if ((is_string($arg)) && (!is_numeric($arg)) && (!Functions::isCellValue($k))) {
+                return ExcelError::VALUE();
+            }
+            if (self::isAcceptedCountable($arg, $k)) {
+                $returnValue += $arg;
+                ++$aCount;
+            }
+        }
+
+        // Return
+        if ($aCount > 0) {
+            return $returnValue / $aCount;
+        }
+
+        return ExcelError::DIV0();
+    }
+
+    /**
+     * AVERAGEA.
+     *
+     * Returns the average of its arguments, including numbers, text, and logical values
+     *
+     * Excel Function:
+     *        AVERAGEA(value1[,value2[, ...]])
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string (string if result is an error)
+     */
+    public static function averageA(...$args)
+    {
+        $returnValue = null;
+
+        $aCount = 0;
+        // Loop through arguments
+        foreach (Functions::flattenArrayIndexed($args) as $k => $arg) {
+            if ((is_bool($arg)) && (!Functions::isMatrixValue($k))) {
+            } else {
+                if ((is_numeric($arg)) || (is_bool($arg)) || ((is_string($arg) && ($arg != '')))) {
+                    if (is_bool($arg)) {
+                        $arg = (int) $arg;
+                    } elseif (is_string($arg)) {
+                        $arg = 0;
+                    }
+                    $returnValue += $arg;
+                    ++$aCount;
+                }
+            }
+        }
+
+        if ($aCount > 0) {
+            return $returnValue / $aCount;
+        }
+
+        return ExcelError::DIV0();
+    }
+
+    /**
+     * MEDIAN.
+     *
+     * Returns the median of the given numbers. The median is the number in the middle of a set of numbers.
+     *
+     * Excel Function:
+     *        MEDIAN(value1[,value2[, ...]])
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function median(...$args)
+    {
+        $aArgs = Functions::flattenArray($args);
+
+        $returnValue = ExcelError::NAN();
+
+        $aArgs = self::filterArguments($aArgs);
+        $valueCount = count($aArgs);
+        if ($valueCount > 0) {
+            sort($aArgs, SORT_NUMERIC);
+            $valueCount = $valueCount / 2;
+            if ($valueCount == floor($valueCount)) {
+                $returnValue = ($aArgs[$valueCount--] + $aArgs[$valueCount]) / 2;
+            } else {
+                $valueCount = floor($valueCount);
+                $returnValue = $aArgs[$valueCount];
+            }
+        }
+
+        return $returnValue;
+    }
+
+    /**
+     * MODE.
+     *
+     * Returns the most frequently occurring, or repetitive, value in an array or range of data
+     *
+     * Excel Function:
+     *        MODE(value1[,value2[, ...]])
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function mode(...$args)
+    {
+        $returnValue = ExcelError::NA();
+
+        // Loop through arguments
+        $aArgs = Functions::flattenArray($args);
+        $aArgs = self::filterArguments($aArgs);
+
+        if (!empty($aArgs)) {
+            return self::modeCalc($aArgs);
+        }
+
+        return $returnValue;
+    }
+
+    protected static function filterArguments($args)
+    {
+        return array_filter(
+            $args,
+            function ($value) {
+                // Is it a numeric value?
+                return  (is_numeric($value)) && (!is_string($value));
+            }
+        );
+    }
+
+    //
+    //    Special variant of array_count_values that isn't limited to strings and integers,
+    //        but can work with floating point numbers as values
+    //
+    private static function modeCalc($data)
+    {
+        $frequencyArray = [];
+        $index = 0;
+        $maxfreq = 0;
+        $maxfreqkey = '';
+        $maxfreqdatum = '';
+        foreach ($data as $datum) {
+            $found = false;
+            ++$index;
+            foreach ($frequencyArray as $key => $value) {
+                if ((string) $value['value'] == (string) $datum) {
+                    ++$frequencyArray[$key]['frequency'];
+                    $freq = $frequencyArray[$key]['frequency'];
+                    if ($freq > $maxfreq) {
+                        $maxfreq = $freq;
+                        $maxfreqkey = $key;
+                        $maxfreqdatum = $datum;
+                    } elseif ($freq == $maxfreq) {
+                        if ($frequencyArray[$key]['index'] < $frequencyArray[$maxfreqkey]['index']) {
+                            $maxfreqkey = $key;
+                            $maxfreqdatum = $datum;
+                        }
+                    }
+                    $found = true;
+
+                    break;
+                }
+            }
+
+            if ($found === false) {
+                $frequencyArray[] = [
+                    'value' => $datum,
+                    'frequency' => 1,
+                    'index' => $index,
+                ];
+            }
+        }
+
+        if ($maxfreq <= 1) {
+            return ExcelError::NA();
+        }
+
+        return $maxfreqdatum;
+    }
+}

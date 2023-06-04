@@ -1,129 +1,267 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-nojH1JM+LcyxJxXxyN9sWHTmaQU3jtpL
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Financial;
+
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+
+class Depreciation
+{
+    /**
+     * DB.
+     *
+     * Returns the depreciation of an asset for a specified period using the
+     * fixed-declining balance method.
+     * This form of depreciation is used if you want to get a higher depreciation value
+     * at the beginning of the depreciation (as opposed to linear depreciation). The
+     * depreciation value is reduced with every depreciation period by the depreciation
+     * already deducted from the initial cost.
+     *
+     * Excel Function:
+     *        DB(cost,salvage,life,period[,month])
+     *
+     * @param mixed $cost Initial cost of the asset
+     * @param mixed $salvage Value at the end of the depreciation.
+     *                             (Sometimes called the salvage value of the asset)
+     * @param mixed $life Number of periods over which the asset is depreciated.
+     *                           (Sometimes called the useful life of the asset)
+     * @param mixed $period The period for which you want to calculate the
+     *                          depreciation. Period must use the same units as life.
+     * @param mixed $month Number of months in the first year. If month is omitted,
+     *                         it defaults to 12.
+     *
+     * @return float|string
+     */
+    public static function DB($cost, $salvage, $life, $period, $month = 12)
+    {
+        $cost = Functions::flattenSingleValue($cost);
+        $salvage = Functions::flattenSingleValue($salvage);
+        $life = Functions::flattenSingleValue($life);
+        $period = Functions::flattenSingleValue($period);
+        $month = Functions::flattenSingleValue($month);
+
+        try {
+            $cost = self::validateCost($cost);
+            $salvage = self::validateSalvage($salvage);
+            $life = self::validateLife($life);
+            $period = self::validatePeriod($period);
+            $month = self::validateMonth($month);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($cost === 0.0) {
+            return 0.0;
+        }
+
+        //    Set Fixed Depreciation Rate
+        $fixedDepreciationRate = 1 - ($salvage / $cost) ** (1 / $life);
+        $fixedDepreciationRate = round($fixedDepreciationRate, 3);
+
+        //    Loop through each period calculating the depreciation
+        // TODO Handle period value between 0 and 1 (e.g. 0.5)
+        $previousDepreciation = 0;
+        $depreciation = 0;
+        for ($per = 1; $per <= $period; ++$per) {
+            if ($per == 1) {
+                $depreciation = $cost * $fixedDepreciationRate * $month / 12;
+            } elseif ($per == ($life + 1)) {
+                $depreciation = ($cost - $previousDepreciation) * $fixedDepreciationRate * (12 - $month) / 12;
+            } else {
+                $depreciation = ($cost - $previousDepreciation) * $fixedDepreciationRate;
+            }
+            $previousDepreciation += $depreciation;
+        }
+
+        return $depreciation;
+    }
+
+    /**
+     * DDB.
+     *
+     * Returns the depreciation of an asset for a specified period using the
+     * double-declining balance method or some other method you specify.
+     *
+     * Excel Function:
+     *        DDB(cost,salvage,life,period[,factor])
+     *
+     * @param mixed $cost Initial cost of the asset
+     * @param mixed $salvage Value at the end of the depreciation.
+     *                                (Sometimes called the salvage value of the asset)
+     * @param mixed $life Number of periods over which the asset is depreciated.
+     *                                (Sometimes called the useful life of the asset)
+     * @param mixed $period The period for which you want to calculate the
+     *                                depreciation. Period must use the same units as life.
+     * @param mixed $factor The rate at which the balance declines.
+     *                                If factor is omitted, it is assumed to be 2 (the
+     *                                double-declining balance method).
+     *
+     * @return float|string
+     */
+    public static function DDB($cost, $salvage, $life, $period, $factor = 2.0)
+    {
+        $cost = Functions::flattenSingleValue($cost);
+        $salvage = Functions::flattenSingleValue($salvage);
+        $life = Functions::flattenSingleValue($life);
+        $period = Functions::flattenSingleValue($period);
+        $factor = Functions::flattenSingleValue($factor);
+
+        try {
+            $cost = self::validateCost($cost);
+            $salvage = self::validateSalvage($salvage);
+            $life = self::validateLife($life);
+            $period = self::validatePeriod($period);
+            $factor = self::validateFactor($factor);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($period > $life) {
+            return ExcelError::NAN();
+        }
+
+        // Loop through each period calculating the depreciation
+        // TODO Handling for fractional $period values
+        $previousDepreciation = 0;
+        $depreciation = 0;
+        for ($per = 1; $per <= $period; ++$per) {
+            $depreciation = min(
+                ($cost - $previousDepreciation) * ($factor / $life),
+                ($cost - $salvage - $previousDepreciation)
+            );
+            $previousDepreciation += $depreciation;
+        }
+
+        return $depreciation;
+    }
+
+    /**
+     * SLN.
+     *
+     * Returns the straight-line depreciation of an asset for one period
+     *
+     * @param mixed $cost Initial cost of the asset
+     * @param mixed $salvage Value at the end of the depreciation
+     * @param mixed $life Number of periods over which the asset is depreciated
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function SLN($cost, $salvage, $life)
+    {
+        $cost = Functions::flattenSingleValue($cost);
+        $salvage = Functions::flattenSingleValue($salvage);
+        $life = Functions::flattenSingleValue($life);
+
+        try {
+            $cost = self::validateCost($cost, true);
+            $salvage = self::validateSalvage($salvage, true);
+            $life = self::validateLife($life, true);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($life === 0.0) {
+            return ExcelError::DIV0();
+        }
+
+        return ($cost - $salvage) / $life;
+    }
+
+    /**
+     * SYD.
+     *
+     * Returns the sum-of-years' digits depreciation of an asset for a specified period.
+     *
+     * @param mixed $cost Initial cost of the asset
+     * @param mixed $salvage Value at the end of the depreciation
+     * @param mixed $life Number of periods over which the asset is depreciated
+     * @param mixed $period Period
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function SYD($cost, $salvage, $life, $period)
+    {
+        $cost = Functions::flattenSingleValue($cost);
+        $salvage = Functions::flattenSingleValue($salvage);
+        $life = Functions::flattenSingleValue($life);
+        $period = Functions::flattenSingleValue($period);
+
+        try {
+            $cost = self::validateCost($cost, true);
+            $salvage = self::validateSalvage($salvage);
+            $life = self::validateLife($life);
+            $period = self::validatePeriod($period);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($period > $life) {
+            return ExcelError::NAN();
+        }
+
+        $syd = (($cost - $salvage) * ($life - $period + 1) * 2) / ($life * ($life + 1));
+
+        return $syd;
+    }
+
+    private static function validateCost($cost, bool $negativeValueAllowed = false): float
+    {
+        $cost = FinancialValidations::validateFloat($cost);
+        if ($cost < 0.0 && $negativeValueAllowed === false) {
+            throw new Exception(ExcelError::NAN());
+        }
+
+        return $cost;
+    }
+
+    private static function validateSalvage($salvage, bool $negativeValueAllowed = false): float
+    {
+        $salvage = FinancialValidations::validateFloat($salvage);
+        if ($salvage < 0.0 && $negativeValueAllowed === false) {
+            throw new Exception(ExcelError::NAN());
+        }
+
+        return $salvage;
+    }
+
+    private static function validateLife($life, bool $negativeValueAllowed = false): float
+    {
+        $life = FinancialValidations::validateFloat($life);
+        if ($life < 0.0 && $negativeValueAllowed === false) {
+            throw new Exception(ExcelError::NAN());
+        }
+
+        return $life;
+    }
+
+    private static function validatePeriod($period, bool $negativeValueAllowed = false): float
+    {
+        $period = FinancialValidations::validateFloat($period);
+        if ($period <= 0.0 && $negativeValueAllowed === false) {
+            throw new Exception(ExcelError::NAN());
+        }
+
+        return $period;
+    }
+
+    private static function validateMonth($month): int
+    {
+        $month = FinancialValidations::validateInt($month);
+        if ($month < 1) {
+            throw new Exception(ExcelError::NAN());
+        }
+
+        return $month;
+    }
+
+    private static function validateFactor($factor): float
+    {
+        $factor = FinancialValidations::validateFloat($factor);
+        if ($factor <= 0.0) {
+            throw new Exception(ExcelError::NAN());
+        }
+
+        return $factor;
+    }
+}

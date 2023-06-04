@@ -1,106 +1,490 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Worksheet;
+
+/**
+ * <code>
+ * Header/Footer Formatting Syntax taken from Office Open XML Part 4 - Markup Language Reference, page 1970:.
+ *
+ * There are a number of formatting codes that can be written inline with the actual header / footer text, which
+ * affect the formatting in the header or footer.
+ *
+ * Example: This example shows the text "Center Bold Header" on the first line (center section), and the date on
+ * the second line (center section).
+ *         &CCenter &"-,Bold"Bold&"-,Regular"Header_x000A_&D
+ *
+ * General Rules:
+ * There is no required order in which these codes must appear.
+ *
+ * The first occurrence of the following codes turns the formatting ON, the second occurrence turns it OFF again:
+ * - strikethrough
+ * - superscript
+ * - subscript
+ * Superscript and subscript cannot both be ON at same time. Whichever comes first wins and the other is ignored,
+ * while the first is ON.
+ * &L - code for "left section" (there are three header / footer locations, "left", "center", and "right"). When
+ * two or more occurrences of this section marker exist, the contents from all markers are concatenated, in the
+ * order of appearance, and placed into the left section.
+ * &P - code for "current page #"
+ * &N - code for "total pages"
+ * &font size - code for "text font size", where font size is a font size in points.
+ * &K - code for "text font color"
+ * RGB Color is specified as RRGGBB
+ * Theme Color is specifed as TTSNN where TT is the theme color Id, S is either "+" or "-" of the tint/shade
+ * value, NN is the tint/shade value.
+ * &S - code for "text strikethrough" on / off
+ * &X - code for "text super script" on / off
+ * &Y - code for "text subscript" on / off
+ * &C - code for "center section". When two or more occurrences of this section marker exist, the contents
+ * from all markers are concatenated, in the order of appearance, and placed into the center section.
+ *
+ * &D - code for "date"
+ * &T - code for "time"
+ * &G - code for "picture as background"
+ * &U - code for "text single underline"
+ * &E - code for "double underline"
+ * &R - code for "right section". When two or more occurrences of this section marker exist, the contents
+ * from all markers are concatenated, in the order of appearance, and placed into the right section.
+ * &Z - code for "this workbook's file path"
+ * &F - code for "this workbook's file name"
+ * &A - code for "sheet tab name"
+ * &+ - code for add to page #.
+ * &- - code for subtract from page #.
+ * &"font name,font type" - code for "text font name" and "text font type", where font name and font type
+ * are strings specifying the name and type of the font, separated by a comma. When a hyphen appears in font
+ * name, it means "none specified". Both of font name and font type can be localized values.
+ * &"-,Bold" - code for "bold font style"
+ * &B - also means "bold font style".
+ * &"-,Regular" - code for "regular font style"
+ * &"-,Italic" - code for "italic font style"
+ * &I - also means "italic font style"
+ * &"-,Bold Italic" code for "bold italic font style"
+ * &O - code for "outline style"
+ * &H - code for "shadow style"
+ * </code>
+ */
+class HeaderFooter
+{
+    // Header/footer image location
+    const IMAGE_HEADER_LEFT = 'LH';
+    const IMAGE_HEADER_CENTER = 'CH';
+    const IMAGE_HEADER_RIGHT = 'RH';
+    const IMAGE_FOOTER_LEFT = 'LF';
+    const IMAGE_FOOTER_CENTER = 'CF';
+    const IMAGE_FOOTER_RIGHT = 'RF';
+
+    /**
+     * OddHeader.
+     *
+     * @var string
+     */
+    private $oddHeader = '';
+
+    /**
+     * OddFooter.
+     *
+     * @var string
+     */
+    private $oddFooter = '';
+
+    /**
+     * EvenHeader.
+     *
+     * @var string
+     */
+    private $evenHeader = '';
+
+    /**
+     * EvenFooter.
+     *
+     * @var string
+     */
+    private $evenFooter = '';
+
+    /**
+     * FirstHeader.
+     *
+     * @var string
+     */
+    private $firstHeader = '';
+
+    /**
+     * FirstFooter.
+     *
+     * @var string
+     */
+    private $firstFooter = '';
+
+    /**
+     * Different header for Odd/Even, defaults to false.
+     *
+     * @var bool
+     */
+    private $differentOddEven = false;
+
+    /**
+     * Different header for first page, defaults to false.
+     *
+     * @var bool
+     */
+    private $differentFirst = false;
+
+    /**
+     * Scale with document, defaults to true.
+     *
+     * @var bool
+     */
+    private $scaleWithDocument = true;
+
+    /**
+     * Align with margins, defaults to true.
+     *
+     * @var bool
+     */
+    private $alignWithMargins = true;
+
+    /**
+     * Header/footer images.
+     *
+     * @var HeaderFooterDrawing[]
+     */
+    private $headerFooterImages = [];
+
+    /**
+     * Create a new HeaderFooter.
+     */
+    public function __construct()
+    {
+    }
+
+    /**
+     * Get OddHeader.
+     *
+     * @return string
+     */
+    public function getOddHeader()
+    {
+        return $this->oddHeader;
+    }
+
+    /**
+     * Set OddHeader.
+     *
+     * @param string $oddHeader
+     *
+     * @return $this
+     */
+    public function setOddHeader($oddHeader)
+    {
+        $this->oddHeader = $oddHeader;
+
+        return $this;
+    }
+
+    /**
+     * Get OddFooter.
+     *
+     * @return string
+     */
+    public function getOddFooter()
+    {
+        return $this->oddFooter;
+    }
+
+    /**
+     * Set OddFooter.
+     *
+     * @param string $oddFooter
+     *
+     * @return $this
+     */
+    public function setOddFooter($oddFooter)
+    {
+        $this->oddFooter = $oddFooter;
+
+        return $this;
+    }
+
+    /**
+     * Get EvenHeader.
+     *
+     * @return string
+     */
+    public function getEvenHeader()
+    {
+        return $this->evenHeader;
+    }
+
+    /**
+     * Set EvenHeader.
+     *
+     * @param string $eventHeader
+     *
+     * @return $this
+     */
+    public function setEvenHeader($eventHeader)
+    {
+        $this->evenHeader = $eventHeader;
+
+        return $this;
+    }
+
+    /**
+     * Get EvenFooter.
+     *
+     * @return string
+     */
+    public function getEvenFooter()
+    {
+        return $this->evenFooter;
+    }
+
+    /**
+     * Set EvenFooter.
+     *
+     * @param string $evenFooter
+     *
+     * @return $this
+     */
+    public function setEvenFooter($evenFooter)
+    {
+        $this->evenFooter = $evenFooter;
+
+        return $this;
+    }
+
+    /**
+     * Get FirstHeader.
+     *
+     * @return string
+     */
+    public function getFirstHeader()
+    {
+        return $this->firstHeader;
+    }
+
+    /**
+     * Set FirstHeader.
+     *
+     * @param string $firstHeader
+     *
+     * @return $this
+     */
+    public function setFirstHeader($firstHeader)
+    {
+        $this->firstHeader = $firstHeader;
+
+        return $this;
+    }
+
+    /**
+     * Get FirstFooter.
+     *
+     * @return string
+     */
+    public function getFirstFooter()
+    {
+        return $this->firstFooter;
+    }
+
+    /**
+     * Set FirstFooter.
+     *
+     * @param string $firstFooter
+     *
+     * @return $this
+     */
+    public function setFirstFooter($firstFooter)
+    {
+        $this->firstFooter = $firstFooter;
+
+        return $this;
+    }
+
+    /**
+     * Get DifferentOddEven.
+     *
+     * @return bool
+     */
+    public function getDifferentOddEven()
+    {
+        return $this->differentOddEven;
+    }
+
+    /**
+     * Set DifferentOddEven.
+     *
+     * @param bool $differentOddEvent
+     *
+     * @return $this
+     */
+    public function setDifferentOddEven($differentOddEvent)
+    {
+        $this->differentOddEven = $differentOddEvent;
+
+        return $this;
+    }
+
+    /**
+     * Get DifferentFirst.
+     *
+     * @return bool
+     */
+    public function getDifferentFirst()
+    {
+        return $this->differentFirst;
+    }
+
+    /**
+     * Set DifferentFirst.
+     *
+     * @param bool $differentFirst
+     *
+     * @return $this
+     */
+    public function setDifferentFirst($differentFirst)
+    {
+        $this->differentFirst = $differentFirst;
+
+        return $this;
+    }
+
+    /**
+     * Get ScaleWithDocument.
+     *
+     * @return bool
+     */
+    public function getScaleWithDocument()
+    {
+        return $this->scaleWithDocument;
+    }
+
+    /**
+     * Set ScaleWithDocument.
+     *
+     * @param bool $scaleWithDocument
+     *
+     * @return $this
+     */
+    public function setScaleWithDocument($scaleWithDocument)
+    {
+        $this->scaleWithDocument = $scaleWithDocument;
+
+        return $this;
+    }
+
+    /**
+     * Get AlignWithMargins.
+     *
+     * @return bool
+     */
+    public function getAlignWithMargins()
+    {
+        return $this->alignWithMargins;
+    }
+
+    /**
+     * Set AlignWithMargins.
+     *
+     * @param bool $alignWithMargins
+     *
+     * @return $this
+     */
+    public function setAlignWithMargins($alignWithMargins)
+    {
+        $this->alignWithMargins = $alignWithMargins;
+
+        return $this;
+    }
+
+    /**
+     * Add header/footer image.
+     *
+     * @param string $location
+     *
+     * @return $this
+     */
+    public function addImage(HeaderFooterDrawing $image, $location = self::IMAGE_HEADER_LEFT)
+    {
+        $this->headerFooterImages[$location] = $image;
+
+        return $this;
+    }
+
+    /**
+     * Remove header/footer image.
+     *
+     * @param string $location
+     *
+     * @return $this
+     */
+    public function removeImage($location = self::IMAGE_HEADER_LEFT)
+    {
+        if (isset($this->headerFooterImages[$location])) {
+            unset($this->headerFooterImages[$location]);
+        }
+
+        return $this;
+    }
+
+    /**
+     * Set header/footer images.
+     *
+     * @param HeaderFooterDrawing[] $images
+     *
+     * @return $this
+     */
+    public function setImages(array $images)
+    {
+        $this->headerFooterImages = $images;
+
+        return $this;
+    }
+
+    /**
+     * Get header/footer images.
+     *
+     * @return HeaderFooterDrawing[]
+     */
+    public function getImages()
+    {
+        // Sort array
+        $images = [];
+        if (isset($this->headerFooterImages[self::IMAGE_HEADER_LEFT])) {
+            $images[self::IMAGE_HEADER_LEFT] = $this->headerFooterImages[self::IMAGE_HEADER_LEFT];
+        }
+        if (isset($this->headerFooterImages[self::IMAGE_HEADER_CENTER])) {
+            $images[self::IMAGE_HEADER_CENTER] = $this->headerFooterImages[self::IMAGE_HEADER_CENTER];
+        }
+        if (isset($this->headerFooterImages[self::IMAGE_HEADER_RIGHT])) {
+            $images[self::IMAGE_HEADER_RIGHT] = $this->headerFooterImages[self::IMAGE_HEADER_RIGHT];
+        }
+        if (isset($this->headerFooterImages[self::IMAGE_FOOTER_LEFT])) {
+            $images[self::IMAGE_FOOTER_LEFT] = $this->headerFooterImages[self::IMAGE_FOOTER_LEFT];
+        }
+        if (isset($this->headerFooterImages[self::IMAGE_FOOTER_CENTER])) {
+            $images[self::IMAGE_FOOTER_CENTER] = $this->headerFooterImages[self::IMAGE_FOOTER_CENTER];
+        }
+        if (isset($this->headerFooterImages[self::IMAGE_FOOTER_RIGHT])) {
+            $images[self::IMAGE_FOOTER_RIGHT] = $this->headerFooterImages[self::IMAGE_FOOTER_RIGHT];
+        }
+        $this->headerFooterImages = $images;
+
+        return $this->headerFooterImages;
+    }
+
+    /**
+     * Implement PHP __clone to create a deep clone, not just a shallow copy.
+     */
+    public function __clone()
+    {
+        $vars = get_object_vars($this);
+        foreach ($vars as $key => $value) {
+            if (is_object($value)) {
+                $this->$key = clone $value;
+            } else {
+                $this->$key = $value;
+            }
+        }
+    }
+}

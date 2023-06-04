@@ -1,397 +1,581 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPwHMCQ9SI8gLQLQaWUFRNgLgWSez8OP6pBJ8Q+8VtdJh/nwmQBLd0pxS10UEEBDc2APwH6Sq
-g9AjmpV2u9p2/aICGOFM8HmnPee2s4T3BMCAcWP2ttxjQF6jl5wuSpVjvvVyD8VWc7FiByrt8znb
-SR02hSycfjddGTGOWk2LT6SOsNt4f/jl4T6R6ZA38/GL2L3liXtC7xhZFhp2mBWmTHQDc9CiOQTN
-KtfJN/zyiXRFqvX/ACp6+xPwIuybzSod8WM+070frCZ3X8gz9ofYnVt/KW4PzjtOaQyDBr3IXKAf
-05ooSWEop3A1xunHtVldLhFmAjzWfUuBqDaQBYyam8nSgiy3Y675IpPUknd6++Huu+stABqfmdJ7
-VKEoCTyJKpablKLhRWVt2/s838eDREWfqXeLnQxy3pFqoIuS9E6WcmdOPAcPkBcegRVMEYY7qAp2
-g47rE+KuKkMJyfMsCeRUumd+oxfGblXkVD4i49DQnLAbIbPoqSpSnh1WKUGVKraESr/USLIZ7E7L
-Nb1sD/st861UfIi4RedImmLuCcZ9fvtFoOaaAAq+3F7HfsPnIlET+3Fw/rsUxgLdQlqv/9kKJATW
-A8YFBFyjXu2Lp3x2hhcXYYyO7+PAZuTqELcmzn0v41dyVhTYZ+eGpnMEjEGQyHxSOuq46Cp31qaR
-zh+vJiNMN8fWo5kjaMwdTtcO2uJEJcLrCzbsnwe5BnILkQb7m+Ynywi0DbbS1iq1TLK4p79Vc7na
-jD+k1gahyOJT51Yvz/ZT1dwYQn0Th0HveqOSGv1HO0m5s579UtT9R0WoyaZOeVpuil4SVSgjzMhr
-tT7UCxvXfuOaU8vuOe0eya7qQ1URsGwOeGQZyiofluTecRNePyx8jTxKyMQOQKi96ESlmfCsIm3l
-XSpXTR/AdOE43FQxiy3wbBovhtwiT1HzRhSOhMBziaS/ZqFlrj+99UDowTI2C66kiuAwbCpNG8rI
-S82r1UwvvCBb/GJGByBVoeJieAYYs5MgWbpUZoN/WtHWm+Y7GbUpbhgFY4UBhtCrXpg30DqonaZP
-J3eAEwlva5uCMotHwFviKPOC4eOiJlUSmjSFZOxVaMprwDNiJcobxCblcS/2PVV0q4cq8mMEKJrg
-M91Fe2CTW8Q9M3THRMipxQnDMqN3FkNkoQJE3ChXXluQFLliPi0Hsg7ZJ+sw4HzQ8nHd9WtSg17H
-/9VAwJA7aWC/ZYHC19ShYijI2ZLtiB4eLJujfNBaJHVYXDLFi5wktp2BiZRf3JgK7l4cnnblMDuv
-M/39iiknPpNVSnkAh7UaoLRe+HMoiTsmhBG2irm2GX6eY7X/8E+MC/wr0r3kn2m0AGPMmjV0JCx5
-J24zs41TetgPkCgxbfbxottNJ+EqA0huRsILaUyRpP9RWn2Cqa6hrsTLVoz5zx9kITM/zEJpE2Iq
-Tmmo/oBDs+/X8kqV8oVxbo+dj2RxlsLcbHYslKIk58CK0RXH6mfqvdJSaMhQ/KjMM9i89Jz+grK2
-NP0311ky/QGnomkeg8OhCGfHkHE1kBFN39lEszvYx4xJHXxWFfV8MpUCrUPkSy0o6K68deueGyF8
-Vvw5JFa1m+T5Db6bv3rCEiUGJqU4az4PMrZTlDxeSXX8UXt/ipkxWHKTCRqXgueJlSCwt4SYVt8k
-Rxm8e3XcMt+xETMTJI1UeaoApfOIAFzXZwA7C1Ettz0RfiPZ5NyXjEZMw6UOiyG2xHqvfV87ZejA
-YeEQ9ZIJ1mb+Bdaplk8Pp1ntBrHO8kBWP3TJ73hK74BRPvAJkcgduhpohBCN8cx1ioLJdj6gAh+r
-XgCgRnU40TQZqdRdOJBoMXfTvwwzKKmq69dOh1NgAjgGxlhw1rSwTlDKQXoMQzRlD29zqXGB1QMc
-HADBj9f0nmMWWkEkRi4aRM55B/PySNQ0+Z5s6uIe6XoLXqJH0KM8Ix26mxXwCwrauSEZMivguLO3
-JegVB4GWgHTXDGj/UqlnjMYoBKj6n6kdHykqK6WHmUECad7LNWyMm7zsX+Aihzry4h/97aKDefwg
-SDEJX/SJW0SLt719GSTrBZj0H27HzQ+jC0b5GQt5JozjETH/5S09ln8c7Ztyng5MyxQYkZHhRSEe
-Ta6cvJgPt+2ujwist8taZeJUKTrsD0fAFflIV7fMbSEF7+lrboa+nRQqAmKUsTqepF/xTIK+Jv0b
-ZxG8lrZqw96JmgCmV9yklK/SG1MFo7JcgL0avnEg5fTpnTMJm1b70o7pvB+aO2qGthIT0DLVTyH2
-FOK4ewOAGdL39pIU7kscBO+h6YyjX71jwS/YkWOFkuOBzS/a59p3OqCiuV0Rd9/aZimoC6bXLak1
-6ah0HwYoNMG9zpJcDFv6tCsW0oqofRC8OQ6XsJF2ztuaawuCmwZD0U4AiR0bOkAy064CA//ucOCu
-mM392oC+peiP2V24NMPhEQoUQ5d3fHp8qvVUM9oEW2/J/W/VYzJhRMhsbLSWlCF4NbVBgs5U4MZ0
-5I3XD2jp8YSUhEkRnmPcq/ieZEPJsTunUQXbvM1+dtxRvVw4cMWFJd7FBkrR3LWNGFHiIwMmFY7h
-hqrrukgiAmBaIExhJwGaOFCYLsLPMdLwN3jBBwufG/qd7Yoy0jBE3tgW4RTdhmPXxYLI4xBoWM35
-W0ZSw4C/Pts3lAMcmm+nw/hiIoUMtLDEtHkxXYUYuVJmTHnU9R9RTySuU2q5mPBx3ski7SjHRZCq
-tbIdyEYRqvaOOhkmSxSgxme1dGX4SomNA+R9+yXzXGqxJwbLn+S6Cc4e+bcRAhwpymts5ccBjv5y
-5r0YbKm7kE1pwDkN3oJJXD83zhzcgOgSfEn4R5TnBglkUtWADPuf6HkMDzLiLxubJLXJBaIiickU
-tpNk6g1o6c41VCn6RMf0hOwA0lXKCk1PS4HEPdcQHg3xRHz+M0yQ8/vxzNZBiYdmDLO8Wv4n41CX
-3PlOVlyWSBgoK6Mfwq6LzrOBOXykwk3fPIHaFGKTog/YEDOxdf3mLdRkxOPhK33XM6nQ0Z1GFpTP
-xRBqH72UO3gccxpyORVos9Yz0wgjZY3yYy1mwdfFEEl46eQIe1U/dl6XIk9I3h+XV2TeTirXtX+x
-/1yXs7pQQ9zJ9aIlsKOamQ65uyFvWUAjb5ZPc1HXVsx/+IUHpJia1NQx4H0aMesrH79KziHr1gDH
-GyxHb2ekf3La+mJp9NEzyTuLhrFeGMATyY33foPBK3rO6094OhPoAhWMYcP+S31yyHGP0UhV2GGW
-qxJ87lFBeR/nQrG63p4MKMD/k61mASAI9xi3xZc/oJCA6klmJll0S3lprOqhoCeYMs5p5gGXMGw3
-Zrn3IqYJBqGYLOGlsj6EOf+sV4D/kmgVdqnMdUIr0sQhSBuKCm9kpZkE+knSDvK7hptrJVVLWj3X
-E2ba2cnHnV8KgYjYdP5cAuISghxyvgj/lp4JK2XMJW8XTewf1FpzdIaB4FX2ID5rfpIgorHcos5R
-HHNP1TRn/hxi8nEgtlBNsls+jRmds9p+WJGY7hWKmiJgxWo8Li1pBmxHsOCU/Lw4xMoIX6BnSnCM
-VjHgK+T0EQbLKHmP4ojNq3uvWHlZ9WiXrxeD5kt7cAveb9TZRxnCaTKYo0qXODi+tJueunFdbeH4
-MvAZicmOjIj3maUwnWxPJGyGXb1pR44STQzs5Yl9az+qJ98rkBGCq4GIkbejP2ZPQK9AFcdlsCih
-Cu8PrmRMo6EPkI9OLdx+/TUGJa6bthAb56n1KqdQcvaXG5Agq8Y1nbyx0IDTMYstzkANCvU3Dw00
-vQ4D7WCPD43Nw5AmjvRgtda0EXXFLItza8XRDO2uK/Bf/SjfpGI3NpOKoWlgLh3X6frymKHbe06P
-xzMPnZK+AVtaIeop3Dyd4fE/PNvltZzPmSbRi6vbQmpK5xWRs9j5thO3337BI03UXRDjz3yhlQZ5
-U4aWmov5T+In7TELAWwBJ9TuJmZILPUHVCqrASDP0fPv/PUQ8/hHDy25uLlU0gr5PF06SvlDuc3t
-A4xrVdhwtoS+hEL+wRBvmTr5j6iiPf1vkl8ry0HqhuniAg8+TiAimKUJgfJdla1cJe2tTu/ox4H3
-EZ8sWlYynJa2nBvUM97vnsN3R0himwZu4LEQkmVoeOeNSM93Dd9T0Lx/myDsJsdwk2evMHUv/i2f
-1aj7dTJ06ueaXkDhWAMRx03TVeuAGiULjEzaq4ndgmNP1p7C31GPX7QxEE22zuJa+ZGAm5l7mQ3e
-O5Vg4V4kgDug5T3H5r7Ks/JT3Ag4Qd3Wmi/6FHtKfAgi83rlLRzafiasP3TyP+ya3HCjLccUaoyS
-RfePsmbtXfPzoj13YZawp5i/BGIlXtbu1TmLjEk0vJf/DQJYwgjcmVvqtpKveBnEHsx2z8+bnUYB
-nD9Co9Ww8ZwDhZ5v6w/xybU/kQEFHnt9GmTzfgQd9F7bkh/QxnloXvErurHLDn4TpLpqYm01dsWj
-nY6Ou5+8MlZSD3Y9ILfcqVEyOm14wagsLWO0xvEhAx3jLDXClLBlE61bnlN3chSjJ+soQqZtvqNn
-IKP+AgBPzwOzv4iQfd8TE99CXiWwPmbdVzwiPtfoqtuEGcTAwYupPMVjXbJbBO69ksQa5K43yT5u
-nG2UhUA4qmZX4tZvRd8OHgcmdIxPaJruu42ZnafYKFBPqTt4Y6T0rY49otl2Fek4uewaBdKTGEfN
-S0Y0zAJaxy76wbor0c7EWl4Mg/FBT0BIInUoJ05mNWpnHbkDxLtX6JD6LEVLpjgKo3QguMwZ/GJB
-DHaqX0xhAZx+vAXs7CkGxH3dXO7pd9LsMBeaZh1obDCIFtIcaYIH/miAUvbEH13BAR52lDM5rLgV
-6huJj7J6kIwYs4Sh8RknZfFnwOoRqqGPV/NlYDI0dnasN3B0NRimsM10RuRhxDwDFzYEZxOZQZPL
-ZaW7kkbPh4Y0hIUI4EQ6PFX9dbuVqHmfqQsBQcDPhnJ/1CZng6zg4OjLeXfgBJt7EV2kVV6g2F50
-6XlqozUU1mj+4JftQ+1EUr/7QZL+xJkZakSX9EAVqNKOnQYrgXbmkQpRO+Sr6fqQlJvNapDG9dGa
-AM74oE2HtKmQ59G8IvozWFU8Q1uzroZTq7yeCBAbaQsv0dLrSV4LuUB0srYp+CX3AqXYPs8EM2uB
-BVgequrLZ7WGH6qkREj5TNPd4Id/aJzMkpPgYvUBqdoHU+FhxUgcWQK6Ik51UDYH3woTVVHLCLKf
-OqYtOSuflyw8FbHuahpyoBu3kaeEyYohdLs6qlEkkF7jldK1ReAUC0ryzHPeiffEyUbDfxjJ+sdS
-JB8mNVpkPgHBbxcS2m01jQAm4Ci3fislp94vcMqFICXdoCILHUxWTm9PvdAFbFItYHHTcqDhSWxq
-ukLKqVrk+BY/govAeY8ORzyiQycnOnFN6fP4CqOYyY+fz73EEvZvdRdA8yyACP/hz9XiJxec64KV
-M73X/FSFQwfz4fcwgKfYeudq0f6uE6AFYfMWTPMiEhMm03TEcPQ9yBzMBW9e33HwU8hzxfg/vEm6
-TP5uh6pY4kSupxg/Iy+FYPgK4M4PY4QhSMMy+M6nyU2MUvKrPEzWSarhdqC4/AVnAa90qXYXA4uu
-6pE/4P0fiWFCz4J6sr+uCt8RVjlB0ZL7QPBBZMxVfp/8UZbw2whBawkeMb7WUSPNC4tRA8t83t3J
-JPgletg8bZd5qaopOu+ku6oOOo1q7ldPrjR5eIMW9ciZQ8Ng+45NJHECl3uI6D255e1fBwzVhkf6
-H4SHdjPi4PnbNl79CsB6SdNQH+BlGVmMON8EHmAyx4xTtpLXnSOtbXEVd9HTaPxijEEA1NU9OFHS
-fMKRGZWHNBqNYPZLPHki+2P5LFQ/4ETaWqM+l03Vf2kCnFDVwXx9flUIoqsv1Kajsepoz5k0t/j0
-LyCfg0TFGDhD+oxkNAwwLJXEX6AaDJXD0iGwBykm2XMxZwG5+QzFeZQA6liKjzrp62Tp80ph97jy
-YzXJ06VaYI1kGtqhEYn4GBuk02ls9PQdLzCoCaxcPfkuvDIPPw20sOthXFCVU+T/+3ZQLMuzQVw/
-8mdfIvU1Jhjv8uRVLO3BRr4EHDFC4mnb97I0i5OJ7fGLRjbfHNtf4GT1v6tOfk8D4OKwDKMik23B
-jP7MZ0+Lojw3mzbuNP8svKPgHVeEV3vyI1PT6DrZMGYbB0niMxvU+bwjhrHK9OBiOmuaANrbk4nK
-lXaNll+Q32ZRQz4m5pg+RJYuRyKwjwAPDUjLSLlWs4YdTtHcD5hyaRkGEbooloVl0yctvCReeZTB
-9n5aMq8RTv6F4b/gdVjgese8DSx/gKDjrd8GZ68eESBPr1l1VZIek8Fn+0ecDIvZi7pAGE5kpkfu
-BrpQrRkLm+ROVeo1X9DkdhGDj6ZQFhMsvIcI9fjE7uYXMd3pTQ7VU2w+IF+dSO/5siRys4o13bRQ
-68tmK08/0xVY2PNvIs39zP4IOv9VxPOPFYewrOIt9siubqYedXWTN9BG/T0erfGkPlQER+13UbUV
-9N68+EVnWg/CWS7eu8wDlIMkwP5bT+HaAVLTZ3kPHYMy7/zO/2vDjDnGt+wrrLoEKh3rdzQks+IC
-d9BmnnQ/HFsatKO8e04YTAktNyq913Oqg5e4Gva6c6b4/W3vC4B3q1Nfds6h2XKBma7oE6+WmRgf
-S3Ks5WbKYNrgq3ZiI/sS7tCQb+ZTpCg4YTR5J4Q56RCeoqyX0cKHy1dw0DkBet94gNzxmKlWSX0c
-wBih1Be/FKlmHgA8Tfm3+kZ6LgEgRvkLT/69QEfa9Ntcb6LqIZ8YxFH71SWASTtplILqeZTlaqJU
-yyqEksrZoG05Q6ZGOYqfb1p0vuGAYRTJtlXX8IGB8KobpoT29B+cGLFqpjv9R1Fvkg97N+XVwHDj
-Qp1c+W1lL+IE/M8XJpx63NR8oLv6iR6K9vgLGc+YsNrw45KUGJQXRsU17Y7XfK/NIt1tvX5TGY+e
-+UUWgUABVpqApQbPc8QYGkhxZyfd1MctV2vQXtWRMYEj+jmsEu/ESOal+pdb4MyODrgTQJ1951NX
-ETM/7+gihi9eWILLn9E7ZYfeFW8s5pycuhvRSH9Nl+iD92DrKaH5FLcIll6dZUv0cqb4J3fYJ4to
-vf1Les0t9jJtz0OJ5j40suFl5wg8YJBkOe21ITOwTzk3/vZOiYlV7uIx5qEIWtCutfs3z5THwzTS
-pROKYYNpqf7FNnQ7vBdEbhhoRGnHCs7vD1ipcwugdudQdoSE1lqbWUehzmzuy5aHbEu2XFXPHvDn
-WuB5KU74xM0Vr6RzrI8/JLC972Aui7yPWEJiHGuZXwzrSmIZavNO/MQZIM50qKiog8CSWG8xazWh
-uVV4kVPGGuBtWiU6OMuY7RAZnJNiHIHhPzatjI5DGEL8gyycYkkyKfJRDNHT7U74yNfwZ/O6XkpV
-J81gbmbLLCik1FhhoUeexYBOG3J8MVWrVJRkQAgb9yr+rVeuf3TAyp8ca404nZkZetu/j8dhVrgm
-NQfr7RNIE8vgThIdS7nE9p6iBuoZyFuRoGR15DyGxGGDbit9j6WKfzVT4lAowRtSm54pvsowBRyL
-8o6xyRGthDHX//B1bXjuYSgQAHfFwg2TfYBC5EIr4mR1leMrbsETmrAKzGblkeagLkIepN9QP/X8
-APOTnpNz0SEJT1eXMiNRlIqvIf+5WGZkEFoLZuLHhaCg4Rn3KxQNqnN2RTaIdCxtBXVTgnKeoYRn
-kzpA6q1FzUiwDShE4gQJXD5ylcF5tC1RfKN9L8poLxa0VkpNFXcJX/wRvR5SjKkDQC44ItTCj5k4
-TarVnS9XUcnOsqpVq+dMk0fLDWqr5Z0FJmpqzBsMiQZSzPxBzvOsh+LliJywLCb7nELhyfNQUAdd
-kVo4z3OwaCS1tfBkuWdZP8qu12eGrDqrmLBY8aawuBFGAMXPckQNx9wByl5Oe6xOdT1hsXJmQNLx
-wNRdZCZdC9WuWcV8rYU9fxImoHQSEE5D4lh3UhVI+VhLvs4e+3uGxC/S0XiOa29WoPlyDM0+aTGu
-BtriraFqt732l6BzDbaPMV1dqFA32OL0UXfKPS3nKR+YJ4txRUODZacZT+LCTGwSvnL4C4yCYjv8
-e9MnylaNYc2/Hfn7hGLUc5eeMQfK5G9y8pSN9wG/orAoYlVvJwzEJkyouTzAhBFAmU2BVFe6BNDS
-suz+jOnoOFXedX3ZnL++h6BcQLvRZQfmq40szKruwSrNzJek1fysOVEQY+WQ94alFfEuBtessC4Z
-fEm74+rGad3VizBb02qgvGxhl8RWcFfQs7V/kqymWGeJmZMUaXhbr17fvxgoavp3ITVawJMS4byv
-x7eZkkNIZ+7R0v1t5MhPgY3bX6sXwn1ZW56tABSVUma9GjseyCgW6EL6w49jAlOqOI0VXmgfjJhc
-mZ/G18bdQAU3uT6txFnE4RmaRMT61ix3gunN30LzU0MxS/MHkqiWrIW+By1LgPThn7mWa2CXGW4G
-IN+fbRaCv9dUfayCEG+mSvTa8X+BCZ9JedSKttBGB5OCZwutHUOVsu4uvZSCkoI8aYytt8nnbb7T
-c357fT0tTjGsfTXmWZPS06Q7kyq4QA+j1fRhb0eG/I3rcAeLso3YtwEH4hqErJl7waiJNI/UNXAe
-iOJpOWC/lm7gDKm6nGAIqdwUbZCABJ2DBNS2hBuBD9DPH+5f6qcWMQ2o3wh6JfoJ083d9g8ebDg1
-59kVKrGI/0/zxNFu5ctFjnzShmbE9AojfNYMv67nPhGlYr0QUN74s8u3itRn2Qwry+9SYew2E1Dq
-tvEnHmybTbpgShYA83gQuT7PUM14A4gO+M9S0hS1+/YA0sCNEpU1DRdApi/D52KSn+BtixUUAvGG
-EuArYwOEhgxeT88NEPku5a2d16yHnzYA6Ejx+/j9R8DllHArqjTfkoqNu8iXs+NSLTx170N5M8DQ
-i+6xZl+C4F4nE+rGi1/tm7gGlLKTR8EZ8c2irfBNSMDfp3/+YziwrLgOqXLDNVlrU+9RcEQq35Za
-M4ucF/62e9s2OnJQX619i028ezLBCgldGwZyX7Y7BuMGjWTkDF7gsVgg9LzAgT/F+KzMMVFcLB7r
-HNwfRGKI+IyjYSwN8ZzeId6uKz/kCqRba2NXaq/l7X7DWSX1IDW8ZOREhg21xHWs8YPtM54R5k0h
-bvyiWo58Ui2t1y2xKajF/ZXYB4MdXwgc2xGxv6npPGxg4sZ8QrPshQKPip5Wi/HNT7Tzo4i01vs3
-mOUGsYFFFGJNsucvMJB4pPBHSyiwG6dnrN/Pio1Wy96MUxkYWoBvd5M8cM74XIUyhXxyuhcK4nng
-QEW1Q9v9DI+JCjjiNa6HDKT3LepHjf9FhoFJ7wtfdCcs36sbN3sF/A0SqMi06D9y2AykZm8ARplY
-NrkthM7QY43oIX1SNrceYPDnzDdrdcUGaQ4aQhvVMVaGd+u8eMx5eFEJorOASDrFCtxCss27Rzia
-tKPfy9antMAb12ILniy2g0OUbgl4QASZpPaDanBw3mz1oa4AoXEGUPM5ZyG4IH+h5M/B0VE43Seh
-iQ6IRYdOv2nvxDScfszB2WfG1bBA8+OtfUCtcDCx2hb3oLccV+C5/P4dVwa9rGqr5d6V5jshQH+o
-fo3Fpdk4OYqXnIV9sb6ZcsT2+alBpMnM1obCOL3gz/GbUfZMhLbeh2veO1yXOoKz9o41Kd1FUJxZ
-U8dFt4BueExK+riKllN+bTg4WBHmGYFA1i7NC0GRc5zaAfQZPuNbmNLlbffkQPg0/qn/cit+x/Aj
-KgFEB9Hoe2st5R6VChWJs9iApRd61LdrqJvgX6BZgP2VHfmghjk5+ge9M9zIOmSiYM/cedzKmd2H
-kQkwTRnq8V5FbtRgVDRrACYg2OiPfJ5wptmmahozkgSZrk1niNT7yU8wcrSIqYLlawCBeBnHwWIu
-hy1kXT2YHLohhRRi2x9h2ZrsNnXapoUHESZW40tMckb9UsneESL1+ydieC7QXgHbZ7vmKC9NRR3M
-tx09l8uxz7HFdRv+EFhRRxBvJFuGNQQc0BflduzFcjvG+sDGIsBYAUrwXhilTaUFeaJrGAwaSQmi
-/+Lorb9XNKclzzlnnkMvbEQjaT851hsVWJWd5fm86zSrINnugEwG0OWbSUJZ9r6+5TrjDjhF6MEf
-Jv0dUbfTcDzxROtTKpQR6pEljbfp38BeMlNogaGNVIFBVU8UpZ4DIA2Xuq06FPGCFxPCW3H0KUdC
-LUkt8aHkZJU6aS0TH3R2/0w5mSdaoNOZbewI6WZtdQCSMyzKlm+Q1tn6UuVU7p6YHCi+n/39132I
-qlQX7Sp8M4TXp/kJN9oDgc91mhemdjwRQTztXJLkMF5WIvTn0TmsVJJQzGdPzTaoAgPWYvIU1XcD
-GiRwzL+fB5sdfNT12uyzbRz8XnEOTYlO57PkNmy2VR7phLFq9HD3niRIcMr44nzID1dYw1xiRDES
-0spVOZuhLSJJM+qQU7NV1hdyBD48CzM38i8N/A6ODoTnJiOMcuTcylVrCVF61fav21SC/yvqW+s/
-hynvUESaJFt2Pf5W0lXK0/5QSY/e+A2dgYrlcU1USTRvtjI2GPl5Ipb1ordfPKWW7xp2Tf3qdTWJ
-DJDNxFCx5UffFnvNP5e6stt35srWy4jypVjBCALGVlHUuTHMAV4HTyopY9o94X/zPLnY1MxemVLp
-8rkUPhwqlaBI53ivSI1uL6IlCBug5ebCDhVycgoCPKqAsyd1pMz2WDIXcW7l0nXhWAD4+1EoCIOa
-TmgbzzwKN5e1SszZ73DXnjvxCrxMmzkCUY9Ke5iUCqG8aq3GfDVisuHlyicqyjChAQQIXOKB9Ieu
-iwSH/oT3a0WBernCoAN5dnExIwjpR0EEZKklgJzMxY4Fl2TQZzITbFM5Q5SIvJSxIWR4lGsgpmdG
-Io10jGeSbwOUS/q3iyeDOtaYdG71pdm/PEVpV/ARnp0t5ZxX4cQr1uJWba1F4hN9p9eZM4O6OCBy
-uOdgfDBHP7lMA1U+xDo4QamSirlUrYB3ZXa/tyPXjrb9yciwcIcuiAO/WhUAFjKNoQrc0DSSaALv
-BcGE0cjxV0WD/BIzwCOTM6F/0q9gprMJOrjDi6jCMY/BvjmQn7Va3vMJG8bdeCnkT7MonLspr9Kz
-Xr+zimIMdC7fLq7f5iA8izVxAsTi8K3BtcVJrcrAnBPklKke5gdx8wh+54lEzFczrmYaYH/mzBfm
-fMr475ux16f8TIscXNk4VRgqKRtqHQ3lWX86BWK12aNBs+Z8DSzVsVrQi62z4BZpRnRDk15DHGir
-tNNOjFuc7XsDPDPsmHhr+VEGAR0V0OcpdHYTWVz7OB1i9SnMBjA7KjlFueqFWi0zaGQ1olJ7UYtQ
-xw1nKh2D914SiqrKmKt+KHTwfRLxCSKKxs4R8NtNsKyvwKRqkF3Fk/HgIxbr44FSI+sPn7h4HDaR
-DLhvuD84ATYspNN0k9wZzdkm1KzpXvga2E/yS+WQal0kpGqhpRV3D2zAXxxDINJPS6l7UXZtBAgK
-aBKKk/wGUIi5DUO5UMUcER2kMQPUbYHZ6UI32sdLjlwuJo9fgeGpWXA+sMErmkPQ8fBAHLXPMtiR
-Dsy/MLo94eVwlnDBw01mFqOL0ainEt/KsaVTXP77ca6tMDFsKh4kjsXIltXm8h9nTJPJ5/P6Ea+r
-pmZaU23wtgrBa1Qwso5+qbDEW2yl4CMkzx8rh/UrUnvWj+arMh98SFm6EePQucsH58/6OQZeVrj0
-Ndmtv2h3bNoj2DJxAsJcI5rSix0W32gIt+ZjNfZiLWXcqO2tSnGvxFaj+ExvIcfBu5XcHuJ1Os1o
-7PE/Uzqm2wNqpao/GZjd3aObc77CkaZYlR/jJAbhmXv1KiBqRuidDkhPmSgJ67NZ4vskgVzWzONW
-jSTbCuT4ogSDNb8lEaCvzw0wyhXktlcqHk/oUwDwGNpfE5xFV75NGIg5bxGnl/v7H+zTlHEWigjp
-tj+5N5wRd6ZCfkU8zayNUBn8vZxc2U7M0xW9JvK9Rpl8yODGwhyOj9neN16dAbwHELLwBw8EyqgE
-t2Bx5+qliTZLQ2IKugvXUDE11HivA8BxmN+eq6kRU1VXgaNL570mtJvkiLfSokjVPCcXt+4kcWjh
-UwMjMKglaneCUH9Gx+qw188NJTmCkxmUPsno9l1Hg+OTiMcY4Ezc0YISiDNQViS1zLyvI6eEUIvj
-eathqRoAkkLTidmFXW74qnMySmvaVFqL3l9xWP5gzjx6Py42YcQB37cWzq7uzc02IIMB7ay4BrkU
-LuyESOx8/JE6MWJQRwJxQr4JAUqdU0R+50j37p9VrH4A4mQ9CXdzow3cCMD4tobi0Y9TMAX2/IQM
-9O/vYAQOTvKff0c4GWOo4v0gWKvnoMqNDikog2HhJj9k1Vnel/vPH7n40Zuv+Abo4i3AR2CEvbbw
-Hid93yZZsvn8loz+E5FIis5uQoq3Xg87xA0UI0n7Y8fUT/zamyLvw+CPq+qGdL2b8EoW/ACbaap7
-C8buHhsyap31i0APbA73ouLj/YqEYtkWonJyrQEbV23u0iaA4c1rl7udYRHdHGiFVoWo0M6sP3I/
-wTXM4kTLZ8UyzMIoRkwFQHMgT4seUcwUpFAlQcJkpbmYr+khP1cJmQielAJrLJ8FnxNeqiKQrhLf
-uY7qiOzvUyfXIVUvwE5vXRlrve0hGWa/8Q3Jc540AzUqATYWxDXLjhXIyuQypKzxk2d3Mn6BmbxY
-zEnVglmhlRUxCxi44PhlHPAVitnOlAjFVhaLe8LxnA6rB7XtfZHoSvjVBwTbpbxX3VDVJdKoaPPm
-6JAAabTV/qzbcP2EQRcXUUdKwAsc+nv90k7ofI8L2yYV36SCH/ONMjUex+50Dr/Sp/Td/C87iHqk
-aTseKAB+HZLCTQuKezdyYorLMigY7kdEsUSGjN5BUePrruRSw5UzPA8i+MFczdHPaH6eocdMi/pJ
-2YqzwosuwvhyIKGMyFdrvwl6vmsQNGvyaSj1i4BVLkpjglcdr5k47a+3racT+DiURKqjLlJpRdum
-d43LSxPFA+gJcWW5WAMbXLh+HlMRT5aCwl07xfjo0mFGWjgVqhNU8AlqYf5e5yZRnJd5SPMHSQzP
-CeRulk+l0g2x+GnpaoNnkMGQo8o/2EHYSf1z83/RTUCrPJ8viMBI6IDHCA3cIXZ0aQlEuUWokJB5
-uDa6tmuZ5I0VX0zyNMyzfMxE4/hszoRISKxK0Al/2gjIrUU1ajPdM7+z5eJFQJsydhbaALz/LILg
-jh5PQqMBLmjCPODb2ytDY6zoPhjSL48ms2kgDEIPta7+a50AVVAwkYUa4XuWbMj8u+vDru2MbTar
-CTCI+6HR/IckvEem5cI7ocni5nvOqsemZELjZQcdv4h/QTpOO01+7Aj4godby/KuErVDJjVHZK+g
-Iufghx4L8sSkwNHK6f3wG1V8l9uiB8FjZpMfoWZDgsPPEc3vdjyttVbvfPGFpYqDmPrWKpQ8x+4+
-97QpTqDmWlOcfSfNNjb8UiRwYH5ZHAnBLcgPcaqVLUgw+0/0snvNWAbswR36rQUfD49fkkF9KbbU
-8+8WC2AtU5s78fKTyqT+XsFFrhlkB5x0NxjV3fwFloQv5L/qHxT9ThWJcUvxS6H8yOuasUOt+QQR
-eMpude+ZdRMqOeLOY0sU+Dih34F7ri9AAxY9JwJQdVhMsAnSEKJOSLHS72q2jOkOVdV9822Ih56x
-mF117kh83RSgvcKbtE5NKAf+vhgnOOr51Mwp1x+fIdDvOGVpEz9D6Vg6dCBZDR8etmiq/hzp9Wjy
-YzOQdeSi9H61SzxZjLhmoDRQZp1fJjIX9GSZ3M6WG/MujRf5sEWVFwGZwsq83RoEU5jXvkzBn+FJ
-P7k8EJcoHtk/i6mcSPGdrQLVaQ9uXc9dzViQh+7cXWH62mYIGR6POqZzwjq+rv0/jH8zt+gYcYJ0
-r8Vxd+vEpB4BHMx8idpCzVk0NH9+kCmctDlV2DOWSdvtKRpye3sVCFo09oY95GZtL6TLpX8EnaH6
-ESZtqEyoqR/nomS0Nwrqf9XNE+8Ngb3vjkwlX3Fpuc/3u0DfptwbbnTiLnAnn3wF+tLgDKiMUlX/
-fpEuyPR/rm40CwVR6PawDpxPop9LTRdq6y8Nqe4sCVGDZIHIafHozm989Kp64XByBDWEmyex83gF
-FQ2CM1KnEPpzWsMSOP7hPX00TgQHa6t/4ZbOINh9u8BmHlcaPzJ6KRbYrCMqtB8eS27vz18rN1MM
-WI4YBPaO8aOzqSv+0RbUOZ16ePeM9Jz6s0UYhYVWcqBBChnjpRp7yH6Vz52RBKpWhWbu2Fd13u10
-4am1hSKGC29vBCZs3l5EgyQCZ9q17Yo+5I9k74IACJFshXx40rAwk4PuPKEojrOddBVDQj+7/uo3
-LB8AO4MdT/3a1RL37ciZnk+F452z9aQKJTSv7UZPYEsu/1lrR29PxCpsCJ2CMj1cdDT68Xg28bcK
-Io+F9gldRrY56HrtdLe6e9sJjXLRSr/3Kqqnp3Bnt5tJGL5m0BVgyX15KzOo/6+SXTIZSZ03mcmt
-lAXSt2LzzPZ0Piu0dmAbci2ECF73MIgpzi3i5R+IxOI+brv2T0nNPeCLCHcIo1jDoj+lgIhd646l
-Jvz7MSApWH6DHZCSauXsHZ+EqYygzJLZYMFLZCB0v4g4mnZzRR3v3YelYYTUCHYbvYPwP2sJlA77
-Sf7cazEThUc09xMR1bY0/l0L2x/C3iHFuRywkUMoHx1x7E9WOo/XaRlPdZNpJz61LOQ8B4hFs1Cm
-RZWhipkW65ho/bXyPxJEqhVZMAq6YP3SC43ZCr/ycWpal4Vj7BYAu4AtjSsntuMgwACSPzuzKyK+
-Z/wtit3druP16GPDNXOgKv2ORi048jkNe39A8IDVQA5pSOCQeY7lg3iSvzkjuuR6EfwO1Gk9hGmG
-7csV/Lstj2t7kIpvjg2XIrWnarYIJ2TxwkWsBgrNKSmDgyGEmLZiQ6UCGCKvKprSJx5ljjao5Jsi
-XwkPN7rEQ4/yoqJnCjtUAd3PVsTTdrDEbcPlOCspH86sTmPLL+CI0sgsPVjPqZ+6PDpgsOSvd8qb
-fx8p94o8gxz6WR9TLLr+A/lyY2x+cBBZG4ZH1blZ40NDUTtf6DGHbzg+qXARPDKpnP2zEQMRpgp/
-fNloH7L/aP163Mvc7wfp7beTiBnKPMetNrv3COZ3OMm2wP5P1QbRtSwuCA43HTxsNfqSMRdjgHFj
-dCdUC2//E51/M5fpvm8AUQtTlq/8Gggh8/WZh0DI4IbR0qE0mHabuU3BGoIgaFCHXNxhVcb+tXR4
-jghOy0woz6l/KnG/Fkq/DDnoqBhan5YACupPLgsPPN4H8iZWvTvH9rSrCFhOj2PmQgQCIiSNzDU0
-Wjwc0np77Kh1xwmVCBPe5UWZimK0Bj1yTUMySR4R2Mhh/qjqCbSxTtMYOZEzxsL/iJQ0w0gNeRTl
-2EDTFRvfs2N3KLfzkfo7Wvgkinc3AyySV2AL/dV1iLD9TWZmbKOAepjgMI7mTyOwzr0148wJ53sf
-EPzL45wHHbjziUGpQkJZtzftebhfmMIJYR0D0CJy0/xKRF//tOPH/uwyOn0kp3fH7BcJTGnXJGBy
-b1puTztIdIxfbukGzI5ZKTTs/NHzAbckdMQudd4PfAzf2LE7sQPuHtp5gEViyRtpgLMoXWzQZPvL
-NSqT4GzqU+X6sxOLyqjjsqbmvAvYCiBj+Y8pZMUB3ZkeLM99FgOXId5aqHAwYPIqX/+JGm2OliB1
-Hi2nEUJzJWILCuFyv4wQLM5e5QbwZcmhJYRqgpgt4o9dGoEqrkhCCMzHEFvoGfc91P3vllpeOKSZ
-kbm0afn3t3V6HYlIwFgz44YuTvfzbwCKGybPCEEfHMRF7XmbNs4c7ZERbEnab+nUdOsWiIAgH97Z
-bXsGJvWEsXx/8bG1uL8I8eN1XxSHaKsTicnA98saZ0aMCUnWvQ+wNfOBJ1D5grMytoT/hIKvBJ2V
-Wp2d6j2hLPSWobYVx6Vk3MN7Kf/zMylRffl90ov4q60K8Je1UmfDju2JTD0z+QV5Hkx3HTI4BhoC
-gIonEhCT+8UoD3a3S6ifRg7YAmOnf83gs/bpBUzvVJG0VGdQWKxV95ZXQ3RtUHtxMRNk7YqbxH1A
-izAjwTBfK+uDCy/gK++FJmOMpmIxLIYAw7kQop/hSRTGsyXvGegMb37OWNinUrYEE9vzwjeCZYDc
-99Dn6Vvw5dVClr1rz7+qHjZ32ao0Z1kdzHByJx437RC3Iqm0VIKtadheBTY9GwVWWljx74dzph8H
-4g4FEDhafhsGmgrxskGcl8CbUr3BpYEcwyKGYpkHpise7567N8NuIyUtBUqtKBKj5ib5XSyesSgu
-dPgIF+NbLOooMQMB/CBLbjhPtKlOg3+utOdZwxFrrmXUZ4JX/h7vuvYjP3F1u6P80bVkPzps4zns
-/cBFAlZKiPcm51G6rMKK2zKK+0N1wtsO7HFPgCg42PuWXlA8qimbH0cw+Y2VG85yH9T8lhg+Kfkp
-VOtNLgtI0U5lYrVj9uU2d3rWXTp545MTDSDiCT4+aE5OWo0re281dhBoWQW7VKGxRRQMpYufJi8X
-Ti8+zW/7OAuqg9IK76WCR/RFhCHoYLMBfu8jIA/jNovDphoLYnwEpi1waO8MZKpcMBPjONloBZZv
-HCNcAxl4FjwGkByI6Uo1J5bgT9JWA2rmVXnAmF66Kh8cWt/5m8NJ+SVv+LIrwbMEzqDJ31N094nZ
-3Op8uvoQ5H8ZnRXRqqTJRa1dwix7mkevJPgLz2g3vEm6O7vLsIoyMBYKDloWZNpGeBfuMcciopUK
-byl6I0Tm7hp4gUIrvsxNy8KjncTN+YyLRHfXsQZVPLRENRWOhB/HueclyYyopbyN1HNv4gZDDhMF
-8E804+3HZ7kjdU6/JAtnEWdU9pc2IRyM8W3fQhabk8GbNzdEGf6UArZ15biOCY947aUn/6KBDzJS
-CDgVTY78kJJypojfJJr1gz8c/WYJ0eJo4+0AfVDxDWEvz1bQ9Ya/4tiE5726fsF6V0ZvLZ9oynV+
-tMiNlQPWq67tlE5Cn83P2N5yE5D7SmMYHa9jQsf8eWfIbplU43Pz/+5C0Cy1xJId5rp0oQGSrmaI
-2NVMdXdqeAYrcOQexvwGGBKi+gancjN5PZdoLdSMq5HsCOGQ10mmNuR8NcyFTuHjaX1NzvXkJUfx
-XrPBE9Zx2BAESWtoAeHnFUSgVfCUfaska4FdqCnHvwZk9b9BwWkgKCQs+94TLpJ7+ayxhBka/E5k
-gCywM3wouYvs3OSBnPIOY5FX+4MIMLEupInluGrIoQgx/GcAO3zWLy3DSOKN/CslSUIjQ/upwuAF
-aMWoWwO1Y/lxBkaVPdb0H+tFTzJ3B+s3+T1d3pvf5sMAv7w6UxUIrUp3tFi6oy848fI4c/+Bo/lr
-ccEAhj/UznanMtVi+mT4OKIpOgmQDKKEYqyviAJqF/oB4y/r3o/HU3dXrXot5atKaT5SjN+5pwVo
-kdoWLmjysj22AQz6H7/2yMRPqcYlXqNYyvNwwhQyl5lmrAV9u9Dh1aPKcsu071I6h+y9uuiZ6b3k
-noRDc7cmBfpLNWk5fh7LS1tDR7Qct+pOnU/DcXQFDB+SibgakpSs/elA8Ytsd1ke2hnAn0hcHfki
-iFm4/V9tR1GUImmpMSmOWpuDrXacLpAZwMyAhS2m6+P1Glq4qwYIRefSduIqmfGesmx2ss6PcoX/
-YAI64m6S0PiwBPqpKrl/8q2lsfllaDqk4Wd52kYNBnfANQAFY3Bq3+/MaWDNNRZIYvkP9li8/kiT
-icnyysPB/rG8o9GkKhMkBxYPMKVt+TC3AhJXr1jtP0LE7/mmLPxT7uPqV4wMFO3DMNI0wS1hLcMz
-ccWcfrmbfgNnN0+NQ7cpcReKX1NhgRc/jNwSMTJpA9cMIA2EkfM6lVR3Lg2W2npJYVU8SRwl4OXK
-Qh4QWO5vWSQSJ5WK8UP0JzJ8XxXrUrgqsE7doWMvYfCu/nbmwISsd68NJY6BLCXHqaw8EQPTbHqr
-8+dc4tTCxFxcrd/8BNfirdkqRABSaCH5dSD6L+3cLAiMyblFFbZ08r79lLi/mu6BcDRsYzvfTsFi
-fsszxbN1gd9S3WD2YemeUdfoUfASZaaqc/2hAO6Af1K4POHGiW5Y8/ejIZ7sqSXMLpDdfTPP4uiO
-pu2w5IHHMPcHeSSA5Tk3WVe60DgD201J3k6KLxYXvpj3EIBFEQ/6919YJRtc85PO/VUUzxqxDTmF
-/LuwO3ckP8tA/BO8e1UyVH3kC/fRiqfzpPrmPJUU+VgRZAyJ5NIieWghzc3/6iTDyUUW8NTLaIFy
-QudFu7J/0YpjKjGF9cJgYSBK9vfviHGRAr2FmJYoaOU4d2BdYJCb/OKVvEVQ3aHP0tXCY1/QBxNI
-vi23NzNo5H5sZWYSIMH5UD6u3eje7xcaW7I+c+3cdPFITZVZokXqcfcu++Jyyx8NvZrDDbncXyN9
-UdO2HfCDpXgLbBUlCc9HENHgqSHb+J+ze/EQQgasFSk2MLuaQaD1A6pa7S8zYBCW1RIV8JDidvs2
-s026A7hmXVGIqvKGAPE+SeeHprz/VS6i6sTgDC7QGG27/XwjZWNuFPMaXgB8RMK1oyiKWId14Rg/
-CE008fGjyk9u/uHucuFdBoO/SINBpfag0aIrmtk3eMRpPehVZifKHz7VMj4Bl3illFgbgpNCWmj9
-0TEo5i3FK7DGNZyPwIoKsdg8tgnHjCLn/gJYgSH8eRcDAwDZv4TlfANLabaFi62Y79FynflxwcV6
-GTLrHYKdsF4EuxMa+oJYE+A3SacI3IeRhTg9mxAlZq+tCX4m3kAnb6cHFI3TtnVy7COXUV3OX0ck
-f026zpjq8wuAi88V27d5chzcS89Inl5jzuES5QYlWvf0bDxdEWnng+qiVGVUiqoNufxyN2aa7k30
-tQA4Zv1FPP1Dp2kggiJdJx9aYLx3y4ipOqaS0VDyoxoYMpAAT/yBSAnVnts+P+WMwnFzPLvgBn9V
-yfq8eXPzcdXa4+HpKJe8fqE915zEjBIuurHmV7U4RZthr/775YmxmCf5i2nn6NFSvSJhyRVhlF8H
-lnWmDPEohAyxe4eZbKzFkSAn7C6Op+xHqE0w50GoGx5euczwki6xQoBje9Fb9Mz2QTeL1963KNRw
-zuyfe5M3v3dnIVkPZ48MAB7emMx+CNmayZ4zorjWoTiafxlRPYIckdAmpQLbNVxnAFR7+j/nN6ng
-IslgGID864YL2ZcngeYVhH0KiyquQCgsUlFNY2EZLz05uLFapg5kieLZOMt+zaZFs0qtTu99gO7Q
-fFr+aZiH9X0jHrOOfs98WcPwPqjhtx5iHBSLomUi0CjqgI4a+lhmEJB/rpU+LqNFPzva6n2YqHU/
-yRVDwC+OQuEI9TLdOAYwtprtp41eSQ3L+prqZjjNOQCHlzht+aX2sYlV8kz9/GI77ccYLButgOOJ
-fkI9eqItBVs9xlqVVF0b9hfWr6+MX609gFF/5z7IUklKA+HMc80rCmhSjAqs/tATkyYn4yWerXF8
-MZdx9sySWjbMjCNahQtUX06IxWQGV7S0iWU6jNhTLDThVWB9u1f6PD7OLAbiElOG1x3dbYkH4WCV
-6t5Tgd7Ci0uwl22V5Are+2c/VR/V5JLjKkFjkK5vDyx2oMpSJQzDM/OuuyQ20DmNqXYcNTnKYXhS
-qKE/t3b5j+4vpjolVqUKfFWj209dsQU1vK6yqe6qA2Fww9KV7xX5TGcjKkRktyquxE0WjdBD7j6M
-/q3VsLX7muI5dLuQptbEsqXWg25WSQK+am77kP/sA2ASUaIhit3szmxB1kwSDehAZEUmtZ0NyDu/
-j1IG3YaCB29OYF9Vb8rHJvVPhmYML6/XbD24PJTUdjPrr5AADIl2FOwx6sLjAcPFQp5PNBAYLn2l
-4TWjYm4IxR4qN0yLEaylzMVtdHb9+Rzl6p6bvUbBpzerQCcod6Dl8vCCkC1IHAqviOcNlEC+lzXc
-cOA5XIsLnTNc35zco12Wuk5MhLDV6uaEiRXtn56jvoxJRj50O6q/2t1ij4Pcj1KzjDX9YSCDkK/9
-S3/U3hCmmw+3tFwurz3frikOefInp8P/i7nRAJBk87LhIetdcQDqu3iPEDNxoQF3dB6efMoN+I43
-kuerjfIjX04r5RnGw3Y4DHJqlKklBFbbGWKJgLqoA2xBxBXNm4GkFoZLW1/6T+R3LnsR782tULM3
-Vp2xAVoe5BeEJge5nWBv8rO46fdvUIsYWR5n6/F1De80rzCey4N29qLOrVGK0XQ3gfI2VrlJJ7TB
-2fsmQ4fi24s8Yxlyk53qWc3ny81Ko2V3Tn7GsQC9hVIhEqt5pZGmEYuZDMYIjl1pzfapx58Yr2Vn
-h92qmh9SDbdSAUMGDoXoUibKv6JLGmChzPa15U/3oDfzO8RP9hN41uM8UGPbCf7t7VuJgx4kyIr5
-RHZ6E6c9BZQvPeFmRcdT7t9KnoQleu550YBuyju6X9LM9b+FK3vNdib6ePm76yMVH51ZvBhoktMk
-vBbCcnyuvD8hGdwJK6lSQT4zwpLTcwrf1/eXiXh6vdG+LDxC/JWPDIBjV3OrK6ioLg0vxZd81fnd
-Y1tJqnME5JrfI7OHgAdI5KQxo/ueDtFGvHWjZuQjIxgUPao67XrHRC3xhI/K1fEeX1YOPqVNHthx
-8rW6IhOSVihsSwjVW8E8MAQcik5EFi+K8wHsfuUFY7p9AuDTGyNkQEVodyqMw2D7P9+EjZj4V5cs
-3V/J6DF7LjgtZiDHYZC8gTXVPX8MeEa6fXpVivHB2jaHdo/8DvvTOSqPXSywLytUy2AJCrZ0JrRc
-a/E6wn6SRnbkIhjlMnTlo6/gHm/bS2zF2ABANi3yVk54v8F1fdsLN+SECp+kXkocrjxXu+TkoMwX
-XBvZ5q9Xc1g1nmTdnnnUhJUlqaXz4jLZ/OvserC3/qe3IyFFOMtSEHS+ExI2W3ag8VF6bosRRDHr
-P4TC+J+zEoEn/XSTlPSTtkJSJUsMrsDOmJs6aU9bCVDtGJkAulGTJTLY+uxUq8jIKmjXlpXkx93v
-+UIrPMRyuwL3V2P9l/KuLmHYxIMYSobhM6Kt/4Wz/vs7mUzRIjWhC5HZzMYabRbg5EGgU2YD/LdZ
-YFtDKmnD1BlD22RhE5odlNdwy3j8fczhxR/bviwrEhBL27WX9H5FkNKG1zKeLJFTNWMsVd16qyry
-8f6lLfcyOfQSA4uIEvI1exhkFQeHFpFdIUr0aSA/dcH8FTYfiY/KuRbPP8/H8p7DHnJzDJcE90Kg
-/LgczRZnRGJjGQdG8BIcOvbBWL6RULwLzbM73c2E3mFU7fyKqqa7QaBLWrnWxNj+LZWfGURPkAaE
-An90ARjLsq48VN4VzB6sR2yboIg5chSkDKbnRKiRFwi0aT2n5nEiXlhkB/8r1jOvFZxFUoZCQG8g
-4m3/1v0TN34JyBqFfs23wFwqxw9AohmYsnPGv8YAoNmFLMRUCSP7zMFdhOh2Pb5/QHvctkcQ5Ld3
-PAw7Cp901tw98HoB/xsLqpT5SlHxtskMSWm3cxaYjw070IMLC6Ev6bTCiHa4hwamYxXDyWb8jTqw
-T/urgEOqDuyW8ZaREHTN8CKRaVHeaSI9rqlbcBimlKIKzswK6WsLCFdbNUC/5L0NBJ2Iv2j1ZjZI
-2qhVgf0xOlvfswNiIvZN6RItNCvhPV7I40t1fnMoOjh6Y9A5Ob1fWOPZJ3KJwt7iM/9RYTKKbtYH
-/VaFdhKLYpHqwWJXSyHFLnvCH2iPdT+X7j5HklMQFoB0nSVEpl5vNRPQXE9NJEi/4DHKPrjCOzds
-LKMDDuBpcvDld/a11DX7yfg15RyGjaaQBjU5yAz0iuxWZY1cMZS4wu/G8yeIuodAHWufKwZ2rO4k
-wK1cplRvVG2gSebQ1xudhqDLByRmFa7TzGrHIYe+9XFUjwh7rUiER3kW2hO2pmF1GxpduVUMgw4N
-TaJkj2ae6uuhiwfUoQAp7KZTMsPLZeL9wnBNoTLo0EauaaD98yv9OioD/laVgrLrQ9tDRF9Guhec
-WjUva2hpMhmYAmU7Q5Mlx50UWLEcjDvBbKtrmIpRn13iciYjrih5DX5lwFq2suvQCaMycJ9bu8bs
-yVA9eUEEiz+vtKVcbdBLLqNv0WEjveZJPmxghWQ9DFImGJWUe8UgfVWenYERlkTT018c7IZ7hwKt
-ymw8fkA6cf35RgNuE1h4E8IIl4N5k0houoQkVA+pWjjFzu5Bc9NYJEH9KCo4ZTpB6+grRrYEWjVZ
-yi/3flPXH5G2TnyrMfzJqPJNi4IVdUgMZx0DE6JZq1B0L9rwlkb/pH61AcKGMsSZ9RRxBmXZ2QI1
-fS/KoO6Ygy8WyCMth4UuONexlVsylhFSPJ46YaJSYvHGeIdpaB5Ax04MnJ8cH8If9Z1mf7QkjQBJ
-afG6ALX2Er6ny57eaYhPBeRiz7mvZhSRuqgKWQ/Snlw9Kg+Jorf3JvUf5HvwJl+qTTpiTyz2b0Dw
-h4sqq4FjcGmsvtHYuUZLgMPzxhZVG36a4kuYsktVrdCa3LQ7iL2YCkA/0XPZxNanGD3h82YWdULv
-lboQJFuiCTm1xtWxU86ZUYS2Dl6U7kW2vS9lS94wCVDcGLIFoAxzEu8sEUZqf2h0c/Vwxcus/fgV
-0jFAAUo5Cx/fVwW3gUDSzUS5Yoqdr6XZEJLODSJ5kBWq+/fb05v4zLJ1Kg/8WTXlNY/rQ1p+tfP2
-Ac94Q6hUqwKvEOTyYNXHhCchdK8mxO4uCDx8IJIewDBF6Gqic3FBRUiAPMJnCfgrr4SMValfSy5i
-4SyZwrzCXV7neRtJGuLkronSN+5nvRlVGbpxKR37lpLl3OA5oZj9LDQRQ8ElKMFEuhy62JIJgbSu
-xMrL+6dOD/HFn+QmfZZGkU3qXUXtmeLOXhltYcafVNyn8DXlg4fkBop8J/3zwgMxw0m2ychMOtxz
-d24SSbzRmuONbJe13CWvzd1J0i5pY17Wv76RkFbsVB+97lqOgNr9dCagowqeAJEjznQjp4bVhPvA
-m7mzg360ZnQJ+8ypOv/KC99/4OcLY0Xbtt5Z+vLJKRktGwXdkZjKV5rTbEwAXjux6bpTbZFBupb4
-4y11Ovm8Von08b3YrzL8naCMKBwYIX8B/L7sYWHuGrweqWbpQgvVcDb91ZZSVczj9qJxkYd/llDY
-My0BvXQPsiXBoORZyyEOLs3lmLAWkz0HMnIky3jpNhjnNW/N/wRodIOU89rAhNI0w+QfTKjElwvf
-hEe8d0dROhvPHVvgirM8FZgyun7H65ia7lnniIZ56gRSzK9Ul5MZNTfK/JQsuqI24aXg8i+eIEk4
-wSUfF+RKmPVjoUPWGqvOtel5oCu4qcAxXHfznwZwO/V2Hy3vCe+Fu5RQKm+VfV/TOJbPSNj2jBNf
-ZWQOLPgn2I/5uazhG2rKqcW7i+DP0JGKre+kbpkeYVY8XRQw8IIHY5CFUgTyGHHd/XnLcOQarNoG
-itT5FfXrOjTOV5WU81p9tqNCeI2MUk4jTOgehAoyAUsUB0UpMp419JYvseGi9Zg0Sr1v7k5m5l7B
-DurgRNwczGHZoW+UDUqRp99OCJRhykh3JEQAg9BquPmXBDwq2rF3O6YVIQadDAwvgmVGk/yM0F0G
-Um7sFoTAKOJfueq7rxb6gNLFbvUbUYcnprish3AJzGBSJe9RZiIrZCRfETKNABLjir2LANjREb96
-obceQGXxot3hYsunqZsIzRjXeuwIO3ZfBCKkt9Zud0u5myY8zjaZRZPRAYXh75HGBPoKNIVSqlSN
-IT073XGcnmZzGTyIAh/0CElOYYQGHiyfl4CGLwwGRPltO1W85VC446vh2pLJpmRlUUkWtu7Oa3h0
-AF5wGHi6eHI7OTzGnu1hN8h8SxscVU148Oe8rv6B42dsuvAOfw/7ZujkyzrFjjZYIbRCh7ImVZhJ
-3XT1DCy12lswu9DVcieMTH4DVsNOTWzapPkVhdMqJTrvP6bsBJyRwgR5XUwIX0G4EE+VUKHIeEsR
-ASmx5rj+oY4eaLouLeV8/18/L7dwwJtO4IIP3+V4rzlBvGYgJPRFA62nDSAKkmksSSZ8ACW7G5Hw
-wThw5mZGouAyyDjnfGorWnKwuPQZQ4TZnRw6t1I3ZHxVWCh17vkLvqlccK6DbCWE6OW3WIuOyrMu
-OVAYTW72KfXnL95i2PSOie1NMpvTgqEmOFtNN5sCq8QND1DMYpUL7ZAeBKcs4P44IBYoAZwGlYNd
-Nff8Te+agQtivBFpDc0fmgp6SPVBSRKR1k8CLxmiUBuismhbhKM12TfdNXs3+EuqMd0XJWCdPjmA
-sJXoYa6VgalAdPcZwd99jfI36cfuxY7N8tDzyo3VFYYoirUvm3zqi10ty/47O8J4KqMhHwyZocsa
-DTzzSEbuc5y4tPA8396Ez4INyH9fTJloCUHI66YyHw2Imxo+wsVLoQkisnxSDt2ggyjEZ1WdK5zv
-HjFk1d1D/6865KRTUIG/ZkIH461UBlsjfDz+obwqMXktVVHH/D8SjU/wCLRRaiaM3+6eFsLF//e8
-qDkeOdSwSVvGr4IRCasw3xkhw8nTV6+EOc5QhCvbwj3UdxKEKqLCAyYAZZTclFze49VyDt24M5T4
-OoASDDy8geaDIeasPA+j7kM0tCdmaUyKz5vFtx2eHL8jW9BY57TfuBhoNQcC7wNrWoW08bcLV3rE
-CLA10OSERFu2RZYG6lhQ8SWrHlSdUNnMJT87ka9cQQWB0dIsIj8hV+u/eJAUkYZzSVMnGLAgoYdT
-ALdve/+KRcFj7BTmUJh88oRhqluiqWEM9ZfRI5AvFYqL5xWorX/rwsvwGPHq83dIZQ36YsCGxnn0
-LfGEAjTt3p07ww5bha+j4lIxROS3qbMJPd7vM9vDcl/UAB8qB/ImZyAf+LhJXkXaVFTYXZVY1DwB
-pB8mx7fOUTaquBR7XaistEo4wMtmSoStALb1TsGYkcDlzjrLM/WhCrgnpC3+2YtFJB+klMcOX//e
-uO/+XKQhVJXDgAnaBXPglKSX1ew+tYwxgKKM6PklByW+KZdxjZ75v3Ghxy4/Hysebi750rddrChH
-emM4FdSGkKGoqDGMKm/tStNQCH+zo9T9Ht657zvVVHFMJKHHB25u9sAPn1bEKU62om6zAIA1C/2c
-kai9BfXQSHbcHJX5vXmdAAvSxn/cLpAjH59+svTzPbv3IPahZt2U0gCMZpAHinj+rvfU2yA1tq+v
-V4vXAKy/aV4bQC/vtxA3mvlmKmXThfrFtcCgcAWqlhG4/PwXy1zPtGm2X8foLdEm9dg4qHoc9MAJ
-k5iRUnzFwyl5fN0zW+mNa5wI00JKFp7J0MFQCbmMciovYH3a+/Wq2y7RIgzaI1YGofVqxk3GGaek
-8GjcM7uWWckcK4iD2UqFuFVNOahFybRdv57VzxTMt1a4mozgSLK5P4O720TJgRkMD0M6pQteAdtq
-M9vI+dx1zeMMmt1kqitqxR/DUsesy0CAqPX2xjivNUyFycGcpf9spdZKDgJtsPS+AKEE4hD76n6E
-8htkKBLMr8i6ruSbNimsIUtSt3TS3miUH5pPOvd1lEc5oHEzG2EsgPgOzbL7RqiO7oobfbfUS0zE
-wthnKgp4xTf4oAvuwUXAlqOYP61Sl8h4/LNFvA5vJOL61lFTDF1aEzBZf2/V0KJNmpbDNRW6uYkH
-3wAYtbamj6hDFxf16dySHA01MyKpjqoqmg8Uw0HSD3UYu7p4QgkjLVxD8IzME1iOTiY0Wuxa5GyG
-WixSeW3LpEcaAQcnw4ttS2ZNf5vhl/LzW7C0CdvPV/2FjsryoDwutX9S21B6Bs+/alFLHRrEFRNq
-JIS0vxGLad1+Kk8ZXpgZq1+OB63mxMg9LS/0ZfBlZmLf1r6BIytrPhxHHKoM1xk1KgFonURLOgzX
-G04Qp3WYBKDJ5tLIbtkNgVncFg3FweLylsWgBoKafpJ/t2rI/mYTkc/ajQVMwYgfgwfC554528eO
-dnXiNOVRqjAceY3wimFTWTuMkQ3KIxirvt3Z8Tx30kQuNZ4CNUWUBmuueZbl2dvoF+7rnrtp2thr
-1gS4I19qivbLUW2VwazutpK/1EDko2YdilgDNWe4APT+R+/oAGRq69BqLEoQDdwF/e3DYnO5RrwL
-opTya/4A4pboKpGHp1h7gy9GWsTOJGeTjqmDlIyn65uMyx2p58HaPxkvVzjGERzvJ2rqJeenh+mG
-gYSRHZdGeCpMxrXLFRH4yy5736WHlGa3RZzyO9XDzjFaE+B5VfZzfNP0oMGp5HIJMPc1mBDQeZQ3
-2xQIq4v0VHlKYa8SrTlwkc6qOZBbz+XGHJ8gpxF97+BXOaGMXniKvcXF9Hv0bcW04d4vuruRYJD7
-BOzfbDe+MllxK6fEs0wa6L4iYKmTJt40o00PBmNQkqXf86tA0M+64bbtUhY/MjmtiE3z9WhdMkgM
-QU1rDOT6PxLGfFKieQ4GkL287jTRBfgqmskznkWDKxunyzw3UIXnjhebwK6wlWphh3OQo5P+2VXB
-GouKrcnMC1vYHF0GibMwuwHOWrlrC3O0PjKUq3DUsHDaABHTn3Y1q3TkT1za1E4O3FsRU78gwO56
-cHYWT09+8F3y4ZMWeLoycJwqCZLXqXIrTq23Cy93xA79lAtsarVQ5GMZAHTUV9METIZInEQQ+CGe
-Nt/+HKYtEh9SnJTUnjlwFvGhGEUXEArxvkXcNqKXAzZpbMOPqEesZe/vQryANqxIv6phoAoTUE2V
-WkYp8jPgaLBY86xpINbsL8L9sYA4jWF5gh4ddrRBitLnQCDHudaR97neravXpRftw+HqlrzKIrTP
-5UM58pY/eClk7lJ/F+ejn+lpTwn7BeHB7sSaxJuIjvuSb+niDzTsqm5SgaS6DOkXktBCGtjigdYn
-E6xomWfKo2vT8QfbbbyEtwR8lL0u6lJ0sJv6M/ZVJ+dztT2r99slpaiUDWePN7FeVI1MGzVch8mx
-2nHM3IwYYsshXvzQO/Jde/eGHrC6n74nfPQZmLg9ddMIv52ZlAU2+UMnq++oovSVCCVA7e/Di9Os
-R/mjU2Qk6PDu/tbo2doCSjsAdiF8hRHlhUfsUmidl6hHa9LIAlfICLCWDCWVhBXFm1cGAmH56pg6
-Z2kzlywAwTHH2k2yPgVP+fB54etH4P9cIepv60cuC8sCJYyha1CBO8ERJNFKETtsvKt91pal4RMC
-u2xJrJ/MzPKvV9+QuRkvipDp0t2fVLxOpEUjRWYKnFTtidwx07fQ/KrEVuo6cs/XOT1gchhpPIAr
-I+DiMPTY9RpQ+ambdm0lLmRkeY7/0ojffvHqe6S+hHlyb3DnJaq8ok9fFx025+9e+e1d7MMCm/2K
-IN45bXxGZLLYQk/IaH00MfArg8OB06y0/Vac+ScExhF56/WfXNOj+ltfkqXn8XkgDbtYgwysPF1+
-vm5cpuIjryrC3rcVPQ+rMreUrvNGbZFfP+aGCe6WCKvP/doe59xXAHdV3GQxvsuABnhZi2yTzU1r
-zwnHIXxFZBh0io5TLf0VqwXfzzIeJgA576PohC0Y8iw2YxOGWLFkMjFG8okM4jg/oktr5mLhSnNW
-i+mrKOnN0eP/T+wUIWfugAeHHWjSZZNdIn1u3AbEzQpxjIfoGGz1chKQ3kKSyVjj+/mq+QuGVZ/K
-6iteLqnRUIiRNQneUVkcMOLx3MReo//2PumLKYir/AM1TQrxnk/7VXNhuYLxn89JnL6ezV6HdUb+
-8A2qoG5Rhpz/RbIkudc0aejMkFoL43daEDX8FbG6NaSrVplsfkA09blcZpk5bkedhX2CHb7Df4Vb
-ywvHcKyb/gNnEZ8GkWCvWj1uok9FYvlB8KGq9cbko+bcmOnHomwCmITwJDFoEG4ClHS/5lw67F9z
-TvJem/zzJmj78rO6rcMxPCNkvI6izehfeWs8tv7AJFtyT3zVFp85dJTsedF6Y76mXX/l1lmxUvlo
-BPhFsLWZr8hJyXBcFQoTn1N68TMZgOT4VL6Dos2Z89QMFWyQ4mfr20UE7iF/4yif3h83aS7/s+UE
-Y/QNcLOXUypJqDVvR+iAhzEPyS37D/pxnDhLlWoJ3GfY+G5Ot9QU4OcDrEv2H/ZZtrxNRTVEZl85
-xz6KG3l+LEnJbkrKTmNERq//xlyY+AIsWEGz+dRU/zToPXiQntY1ds0m4miliV4lmzCvBffAG8Av
-AwQDVzMnI4cOd3exilS3h84x2eDExcWzmkTBrw6b+2CtZ79QLGAUYsW/36twW1e46N8IEssBDVQI
-LgZg9c8RbKT1wx4PTvGIauI7SLGG8Z5Z35FIIaHLYV+1BLa9IUPCtkV6t/T688HzcMT8BzojTmYK
-nBDGobi//SFRRyfYPOdJhODyrcSNi31SPMf89hA18meu/x9Y8MF/zafzsBZUj68OxvOSERQ3DMdV
-Tp45tvSwZQHT81sIdnN4iwLgm3Pjk+xY6Bncc1NLEvRhdagJKY9RPG1OZueEUwcUSYyzqreeTBbB
-anXRqArbpllqaeVPWcBZTv9unM3/thaDpXFhDtJKOc7F5R0+QaVxfYiM3+HmKzN6NRYMntdN0/+5
-BQoTrMRZ7QFOdcf5xMeET1lvaupHpw74uli7QwnudnO8Sq/o7Mp3EnjoNcmu0Yarx3TgjfgISzdW
-YY4T/UwthIOEcuSKxXBuM7vojpCADmiw+jcblsjGZ2uXJPKkHwVD0oyzcI812CUVumGSv+1pkZFg
-XiR7gCd6wMha195QJKskhG0TJ37nYdefvGPaeWUCcV/AZBy6A6ggiYhOt7Hi62i4sk8+T4xryXGK
-QC+GnXK7aweuv70f5n0Gql9GlEOESvYbtTw2uFvfG6ZJwaBjS+Bgu6cLSbFdZWOnx/HoD1N/sTrt
-eIzAqWvjYaJ2pLID3y4QncKwWzryQkub4w+ZaX+fsD6eICbMo2IZP3uZX09PRJCwITjnEa4tlOli
-hF/Ztv6AXP/rgq1bgZ9UEBbY5l7x2inqu/r2tIZJBfZTmKYGMTH9jnA3gdLGuOwfHlb6ZxhbLOZr
-HZ5e3es8o3Kw8/aFvDN06p0aibM/AnJisgDfGPFxpBeuz3z5A0A5ji4pkUkpsawlsuyTaC7c5Xpf
-HWHhG7bbnfBNjeUcaFi1qyuAb6gtIQ7AgM7sFfy7BkQkmQ+qHJ5Y3J69esCl1XpLY+91RuG49ue3
-Nzr1Fq5Q6473eiKqVKxqnv6pbUo1hIQefZalbh7okhUF+T104qTjxDW4rurwAI/SqYixDrGUFUa4
-WT6rQQZexGtgIaKGkRmFnuLbLK0UM4jM3b6LI6turZbiutnubkZy1d+6s+/AkdstJDXdTbHgDJNU
-anrI1zzzNY3Ww9kzVxp4rW==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Reader;
+
+use PhpOffice\PhpSpreadsheet\Cell\Coordinate;
+use PhpOffice\PhpSpreadsheet\Cell\DataType;
+use PhpOffice\PhpSpreadsheet\DefinedName;
+use PhpOffice\PhpSpreadsheet\Reader\Gnumeric\PageSetup;
+use PhpOffice\PhpSpreadsheet\Reader\Gnumeric\Properties;
+use PhpOffice\PhpSpreadsheet\Reader\Gnumeric\Styles;
+use PhpOffice\PhpSpreadsheet\Reader\Security\XmlScanner;
+use PhpOffice\PhpSpreadsheet\ReferenceHelper;
+use PhpOffice\PhpSpreadsheet\RichText\RichText;
+use PhpOffice\PhpSpreadsheet\Settings;
+use PhpOffice\PhpSpreadsheet\Shared\File;
+use PhpOffice\PhpSpreadsheet\Spreadsheet;
+use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
+use SimpleXMLElement;
+use XMLReader;
+
+class Gnumeric extends BaseReader
+{
+    const NAMESPACE_GNM = 'http://www.gnumeric.org/v10.dtd'; // gmr in old sheets
+
+    const NAMESPACE_XSI = 'http://www.w3.org/2001/XMLSchema-instance';
+
+    const NAMESPACE_OFFICE = 'urn:oasis:names:tc:opendocument:xmlns:office:1.0';
+
+    const NAMESPACE_XLINK = 'http://www.w3.org/1999/xlink';
+
+    const NAMESPACE_DC = 'http://purl.org/dc/elements/1.1/';
+
+    const NAMESPACE_META = 'urn:oasis:names:tc:opendocument:xmlns:meta:1.0';
+
+    const NAMESPACE_OOO = 'http://openoffice.org/2004/office';
+
+    /**
+     * Shared Expressions.
+     *
+     * @var array
+     */
+    private $expressions = [];
+
+    /**
+     * Spreadsheet shared across all functions.
+     *
+     * @var Spreadsheet
+     */
+    private $spreadsheet;
+
+    /** @var ReferenceHelper */
+    private $referenceHelper;
+
+    /** @var array */
+    public static $mappings = [
+        'dataType' => [
+            '10' => DataType::TYPE_NULL,
+            '20' => DataType::TYPE_BOOL,
+            '30' => DataType::TYPE_NUMERIC, // Integer doesn't exist in Excel
+            '40' => DataType::TYPE_NUMERIC, // Float
+            '50' => DataType::TYPE_ERROR,
+            '60' => DataType::TYPE_STRING,
+            //'70':        //    Cell Range
+            //'80':        //    Array
+        ],
+    ];
+
+    /**
+     * Create a new Gnumeric.
+     */
+    public function __construct()
+    {
+        parent::__construct();
+        $this->referenceHelper = ReferenceHelper::getInstance();
+        $this->securityScanner = XmlScanner::getInstance($this);
+    }
+
+    /**
+     * Can the current IReader read the file?
+     */
+    public function canRead(string $filename): bool
+    {
+        // Check if gzlib functions are available
+        if (File::testFileNoThrow($filename) && function_exists('gzread')) {
+            // Read signature data (first 3 bytes)
+            $fh = fopen($filename, 'rb');
+            if ($fh !== false) {
+                $data = fread($fh, 2);
+                fclose($fh);
+            }
+        }
+
+        return isset($data) && $data === chr(0x1F) . chr(0x8B);
+    }
+
+    private static function matchXml(XMLReader $xml, string $expectedLocalName): bool
+    {
+        return $xml->namespaceURI === self::NAMESPACE_GNM
+            && $xml->localName === $expectedLocalName
+            && $xml->nodeType === XMLReader::ELEMENT;
+    }
+
+    /**
+     * Reads names of the worksheets from a file, without parsing the whole file to a Spreadsheet object.
+     *
+     * @param string $filename
+     *
+     * @return array
+     */
+    public function listWorksheetNames($filename)
+    {
+        File::assertFile($filename);
+
+        $xml = new XMLReader();
+        $xml->xml($this->securityScanner->scanFile('compress.zlib://' . realpath($filename)), null, Settings::getLibXmlLoaderOptions());
+        $xml->setParserProperty(2, true);
+
+        $worksheetNames = [];
+        while ($xml->read()) {
+            if (self::matchXml($xml, 'SheetName')) {
+                $xml->read(); //    Move onto the value node
+                $worksheetNames[] = (string) $xml->value;
+            } elseif (self::matchXml($xml, 'Sheets')) {
+                //    break out of the loop once we've got our sheet names rather than parse the entire file
+                break;
+            }
+        }
+
+        return $worksheetNames;
+    }
+
+    /**
+     * Return worksheet info (Name, Last Column Letter, Last Column Index, Total Rows, Total Columns).
+     *
+     * @param string $filename
+     *
+     * @return array
+     */
+    public function listWorksheetInfo($filename)
+    {
+        File::assertFile($filename);
+
+        $xml = new XMLReader();
+        $xml->xml($this->securityScanner->scanFile('compress.zlib://' . realpath($filename)), null, Settings::getLibXmlLoaderOptions());
+        $xml->setParserProperty(2, true);
+
+        $worksheetInfo = [];
+        while ($xml->read()) {
+            if (self::matchXml($xml, 'Sheet')) {
+                $tmpInfo = [
+                    'worksheetName' => '',
+                    'lastColumnLetter' => 'A',
+                    'lastColumnIndex' => 0,
+                    'totalRows' => 0,
+                    'totalColumns' => 0,
+                ];
+
+                while ($xml->read()) {
+                    if (self::matchXml($xml, 'Name')) {
+                        $xml->read(); //    Move onto the value node
+                        $tmpInfo['worksheetName'] = (string) $xml->value;
+                    } elseif (self::matchXml($xml, 'MaxCol')) {
+                        $xml->read(); //    Move onto the value node
+                        $tmpInfo['lastColumnIndex'] = (int) $xml->value;
+                        $tmpInfo['totalColumns'] = (int) $xml->value + 1;
+                    } elseif (self::matchXml($xml, 'MaxRow')) {
+                        $xml->read(); //    Move onto the value node
+                        $tmpInfo['totalRows'] = (int) $xml->value + 1;
+
+                        break;
+                    }
+                }
+                $tmpInfo['lastColumnLetter'] = Coordinate::stringFromColumnIndex($tmpInfo['lastColumnIndex'] + 1);
+                $worksheetInfo[] = $tmpInfo;
+            }
+        }
+
+        return $worksheetInfo;
+    }
+
+    /**
+     * @param string $filename
+     *
+     * @return string
+     */
+    private function gzfileGetContents($filename)
+    {
+        $file = @gzopen($filename, 'rb');
+        $data = '';
+        if ($file !== false) {
+            while (!gzeof($file)) {
+                $data .= gzread($file, 1024);
+            }
+            gzclose($file);
+        }
+
+        return $data;
+    }
+
+    public static function gnumericMappings(): array
+    {
+        return array_merge(self::$mappings, Styles::$mappings);
+    }
+
+    private function processComments(SimpleXMLElement $sheet): void
+    {
+        if ((!$this->readDataOnly) && (isset($sheet->Objects))) {
+            foreach ($sheet->Objects->children(self::NAMESPACE_GNM) as $key => $comment) {
+                $commentAttributes = $comment->attributes();
+                //    Only comment objects are handled at the moment
+                if ($commentAttributes && $commentAttributes->Text) {
+                    $this->spreadsheet->getActiveSheet()->getComment((string) $commentAttributes->ObjectBound)
+                        ->setAuthor((string) $commentAttributes->Author)
+                        ->setText($this->parseRichText((string) $commentAttributes->Text));
+                }
+            }
+        }
+    }
+
+    /**
+     * @param mixed $value
+     */
+    private static function testSimpleXml($value): SimpleXMLElement
+    {
+        return ($value instanceof SimpleXMLElement) ? $value : new SimpleXMLElement('<?xml version="1.0" encoding="UTF-8"?><root></root>');
+    }
+
+    /**
+     * Loads Spreadsheet from file.
+     */
+    protected function loadSpreadsheetFromFile(string $filename): Spreadsheet
+    {
+        // Create new Spreadsheet
+        $spreadsheet = new Spreadsheet();
+        $spreadsheet->removeSheetByIndex(0);
+
+        // Load into this instance
+        return $this->loadIntoExisting($filename, $spreadsheet);
+    }
+
+    /**
+     * Loads from file into Spreadsheet instance.
+     */
+    public function loadIntoExisting(string $filename, Spreadsheet $spreadsheet): Spreadsheet
+    {
+        $this->spreadsheet = $spreadsheet;
+        File::assertFile($filename);
+
+        $gFileData = $this->gzfileGetContents($filename);
+
+        $xml2 = simplexml_load_string($this->securityScanner->scan($gFileData), 'SimpleXMLElement', Settings::getLibXmlLoaderOptions());
+        $xml = self::testSimpleXml($xml2);
+
+        $gnmXML = $xml->children(self::NAMESPACE_GNM);
+        (new Properties($this->spreadsheet))->readProperties($xml, $gnmXML);
+
+        $worksheetID = 0;
+        foreach ($gnmXML->Sheets->Sheet as $sheetOrNull) {
+            $sheet = self::testSimpleXml($sheetOrNull);
+            $worksheetName = (string) $sheet->Name;
+            if (is_array($this->loadSheetsOnly) && !in_array($worksheetName, $this->loadSheetsOnly, true)) {
+                continue;
+            }
+
+            $maxRow = $maxCol = 0;
+
+            // Create new Worksheet
+            $this->spreadsheet->createSheet();
+            $this->spreadsheet->setActiveSheetIndex($worksheetID);
+            //    Use false for $updateFormulaCellReferences to prevent adjustment of worksheet references in formula
+            //        cells... during the load, all formulae should be correct, and we're simply bringing the worksheet
+            //        name in line with the formula, not the reverse
+            $this->spreadsheet->getActiveSheet()->setTitle($worksheetName, false, false);
+
+            if (!$this->readDataOnly) {
+                (new PageSetup($this->spreadsheet))
+                    ->printInformation($sheet)
+                    ->sheetMargins($sheet);
+            }
+
+            foreach ($sheet->Cells->Cell as $cellOrNull) {
+                $cell = self::testSimpleXml($cellOrNull);
+                $cellAttributes = self::testSimpleXml($cell->attributes());
+                $row = (int) $cellAttributes->Row + 1;
+                $column = (int) $cellAttributes->Col;
+
+                $maxRow = max($maxRow, $row);
+                $maxCol = max($maxCol, $column);
+
+                $column = Coordinate::stringFromColumnIndex($column + 1);
+
+                // Read cell?
+                if ($this->getReadFilter() !== null) {
+                    if (!$this->getReadFilter()->readCell($column, $row, $worksheetName)) {
+                        continue;
+                    }
+                }
+
+                $this->loadCell($cell, $worksheetName, $cellAttributes, $column, $row);
+            }
+
+            if ($sheet->Styles !== null) {
+                (new Styles($this->spreadsheet, $this->readDataOnly))->read($sheet, $maxRow, $maxCol);
+            }
+
+            $this->processComments($sheet);
+            $this->processColumnWidths($sheet, $maxCol);
+            $this->processRowHeights($sheet, $maxRow);
+            $this->processMergedCells($sheet);
+            $this->processAutofilter($sheet);
+
+            $this->setSelectedCells($sheet);
+            ++$worksheetID;
+        }
+
+        $this->processDefinedNames($gnmXML);
+
+        $this->setSelectedSheet($gnmXML);
+
+        // Return
+        return $this->spreadsheet;
+    }
+
+    private function setSelectedSheet(SimpleXMLElement $gnmXML): void
+    {
+        if (isset($gnmXML->UIData)) {
+            $attributes = self::testSimpleXml($gnmXML->UIData->attributes());
+            $selectedSheet = (int) $attributes['SelectedTab'];
+            $this->spreadsheet->setActiveSheetIndex($selectedSheet);
+        }
+    }
+
+    private function setSelectedCells(?SimpleXMLElement $sheet): void
+    {
+        if ($sheet !== null && isset($sheet->Selections)) {
+            foreach ($sheet->Selections as $selection) {
+                $startCol = (int) ($selection->StartCol ?? 0);
+                $startRow = (int) ($selection->StartRow ?? 0) + 1;
+                $endCol = (int) ($selection->EndCol ?? $startCol);
+                $endRow = (int) ($selection->endRow ?? 0) + 1;
+
+                $startColumn = Coordinate::stringFromColumnIndex($startCol + 1);
+                $endColumn = Coordinate::stringFromColumnIndex($endCol + 1);
+
+                $startCell = "{$startColumn}{$startRow}";
+                $endCell = "{$endColumn}{$endRow}";
+                $selectedRange = $startCell . (($endCell !== $startCell) ? ':' . $endCell : '');
+                $this->spreadsheet->getActiveSheet()->setSelectedCell($selectedRange);
+
+                break;
+            }
+        }
+    }
+
+    private function processMergedCells(?SimpleXMLElement $sheet): void
+    {
+        //    Handle Merged Cells in this worksheet
+        if ($sheet !== null && isset($sheet->MergedRegions)) {
+            foreach ($sheet->MergedRegions->Merge as $mergeCells) {
+                if (strpos((string) $mergeCells, ':') !== false) {
+                    $this->spreadsheet->getActiveSheet()->mergeCells($mergeCells);
+                }
+            }
+        }
+    }
+
+    private function processAutofilter(?SimpleXMLElement $sheet): void
+    {
+        if ($sheet !== null && isset($sheet->Filters)) {
+            foreach ($sheet->Filters->Filter as $autofilter) {
+                if ($autofilter !== null) {
+                    $attributes = $autofilter->attributes();
+                    if (isset($attributes['Area'])) {
+                        $this->spreadsheet->getActiveSheet()->setAutoFilter((string) $attributes['Area']);
+                    }
+                }
+            }
+        }
+    }
+
+    private function setColumnWidth(int $whichColumn, float $defaultWidth): void
+    {
+        $columnDimension = $this->spreadsheet->getActiveSheet()
+            ->getColumnDimension(Coordinate::stringFromColumnIndex($whichColumn + 1));
+        if ($columnDimension !== null) {
+            $columnDimension->setWidth($defaultWidth);
+        }
+    }
+
+    private function setColumnInvisible(int $whichColumn): void
+    {
+        $columnDimension = $this->spreadsheet->getActiveSheet()
+            ->getColumnDimension(Coordinate::stringFromColumnIndex($whichColumn + 1));
+        if ($columnDimension !== null) {
+            $columnDimension->setVisible(false);
+        }
+    }
+
+    private function processColumnLoop(int $whichColumn, int $maxCol, ?SimpleXMLElement $columnOverride, float $defaultWidth): int
+    {
+        $columnOverride = self::testSimpleXml($columnOverride);
+        $columnAttributes = self::testSimpleXml($columnOverride->attributes());
+        $column = $columnAttributes['No'];
+        $columnWidth = ((float) $columnAttributes['Unit']) / 5.4;
+        $hidden = (isset($columnAttributes['Hidden'])) && ((string) $columnAttributes['Hidden'] == '1');
+        $columnCount = (int) ($columnAttributes['Count'] ?? 1);
+        while ($whichColumn < $column) {
+            $this->setColumnWidth($whichColumn, $defaultWidth);
+            ++$whichColumn;
+        }
+        while (($whichColumn < ($column + $columnCount)) && ($whichColumn <= $maxCol)) {
+            $this->setColumnWidth($whichColumn, $columnWidth);
+            if ($hidden) {
+                $this->setColumnInvisible($whichColumn);
+            }
+            ++$whichColumn;
+        }
+
+        return $whichColumn;
+    }
+
+    private function processColumnWidths(?SimpleXMLElement $sheet, int $maxCol): void
+    {
+        if ((!$this->readDataOnly) && $sheet !== null && (isset($sheet->Cols))) {
+            //    Column Widths
+            $defaultWidth = 0;
+            $columnAttributes = $sheet->Cols->attributes();
+            if ($columnAttributes !== null) {
+                $defaultWidth = $columnAttributes['DefaultSizePts'] / 5.4;
+            }
+            $whichColumn = 0;
+            foreach ($sheet->Cols->ColInfo as $columnOverride) {
+                $whichColumn = $this->processColumnLoop($whichColumn, $maxCol, $columnOverride, $defaultWidth);
+            }
+            while ($whichColumn <= $maxCol) {
+                $this->setColumnWidth($whichColumn, $defaultWidth);
+                ++$whichColumn;
+            }
+        }
+    }
+
+    private function setRowHeight(int $whichRow, float $defaultHeight): void
+    {
+        $rowDimension = $this->spreadsheet->getActiveSheet()->getRowDimension($whichRow);
+        if ($rowDimension !== null) {
+            $rowDimension->setRowHeight($defaultHeight);
+        }
+    }
+
+    private function setRowInvisible(int $whichRow): void
+    {
+        $rowDimension = $this->spreadsheet->getActiveSheet()->getRowDimension($whichRow);
+        if ($rowDimension !== null) {
+            $rowDimension->setVisible(false);
+        }
+    }
+
+    private function processRowLoop(int $whichRow, int $maxRow, ?SimpleXMLElement $rowOverride, float $defaultHeight): int
+    {
+        $rowOverride = self::testSimpleXml($rowOverride);
+        $rowAttributes = self::testSimpleXml($rowOverride->attributes());
+        $row = $rowAttributes['No'];
+        $rowHeight = (float) $rowAttributes['Unit'];
+        $hidden = (isset($rowAttributes['Hidden'])) && ((string) $rowAttributes['Hidden'] == '1');
+        $rowCount = (int) ($rowAttributes['Count'] ?? 1);
+        while ($whichRow < $row) {
+            ++$whichRow;
+            $this->setRowHeight($whichRow, $defaultHeight);
+        }
+        while (($whichRow < ($row + $rowCount)) && ($whichRow < $maxRow)) {
+            ++$whichRow;
+            $this->setRowHeight($whichRow, $rowHeight);
+            if ($hidden) {
+                $this->setRowInvisible($whichRow);
+            }
+        }
+
+        return $whichRow;
+    }
+
+    private function processRowHeights(?SimpleXMLElement $sheet, int $maxRow): void
+    {
+        if ((!$this->readDataOnly) && $sheet !== null && (isset($sheet->Rows))) {
+            //    Row Heights
+            $defaultHeight = 0;
+            $rowAttributes = $sheet->Rows->attributes();
+            if ($rowAttributes !== null) {
+                $defaultHeight = (float) $rowAttributes['DefaultSizePts'];
+            }
+            $whichRow = 0;
+
+            foreach ($sheet->Rows->RowInfo as $rowOverride) {
+                $whichRow = $this->processRowLoop($whichRow, $maxRow, $rowOverride, $defaultHeight);
+            }
+            // never executed, I can't figure out any circumstances
+            // under which it would be executed, and, even if
+            // such exist, I'm not convinced this is needed.
+            //while ($whichRow < $maxRow) {
+            //    ++$whichRow;
+            //    $this->spreadsheet->getActiveSheet()->getRowDimension($whichRow)->setRowHeight($defaultHeight);
+            //}
+        }
+    }
+
+    private function processDefinedNames(?SimpleXMLElement $gnmXML): void
+    {
+        //    Loop through definedNames (global named ranges)
+        if ($gnmXML !== null && isset($gnmXML->Names)) {
+            foreach ($gnmXML->Names->Name as $definedName) {
+                $name = (string) $definedName->name;
+                $value = (string) $definedName->value;
+                if (stripos($value, '#REF!') !== false) {
+                    continue;
+                }
+
+                [$worksheetName] = Worksheet::extractSheetTitle($value, true);
+                $worksheetName = trim($worksheetName, "'");
+                $worksheet = $this->spreadsheet->getSheetByName($worksheetName);
+                // Worksheet might still be null if we're only loading selected sheets rather than the full spreadsheet
+                if ($worksheet !== null) {
+                    $this->spreadsheet->addDefinedName(DefinedName::createInstance($name, $worksheet, $value));
+                }
+            }
+        }
+    }
+
+    private function parseRichText(string $is): RichText
+    {
+        $value = new RichText();
+        $value->createText($is);
+
+        return $value;
+    }
+
+    private function loadCell(
+        SimpleXMLElement $cell,
+        string $worksheetName,
+        SimpleXMLElement $cellAttributes,
+        string $column,
+        int $row
+    ): void {
+        $ValueType = $cellAttributes->ValueType;
+        $ExprID = (string) $cellAttributes->ExprID;
+        $type = DataType::TYPE_FORMULA;
+        if ($ExprID > '') {
+            if (((string) $cell) > '') {
+                $this->expressions[$ExprID] = [
+                    'column' => $cellAttributes->Col,
+                    'row' => $cellAttributes->Row,
+                    'formula' => (string) $cell,
+                ];
+            } else {
+                $expression = $this->expressions[$ExprID];
+
+                $cell = $this->referenceHelper->updateFormulaReferences(
+                    $expression['formula'],
+                    'A1',
+                    $cellAttributes->Col - $expression['column'],
+                    $cellAttributes->Row - $expression['row'],
+                    $worksheetName
+                );
+            }
+            $type = DataType::TYPE_FORMULA;
+        } else {
+            $vtype = (string) $ValueType;
+            if (array_key_exists($vtype, self::$mappings['dataType'])) {
+                $type = self::$mappings['dataType'][$vtype];
+            }
+            if ($vtype === '20') {        //    Boolean
+                $cell = $cell == 'TRUE';
+            }
+        }
+
+        $this->spreadsheet->getActiveSheet()->getCell($column . $row)->setValueExplicit((string) $cell, $type);
+        if (isset($cellAttributes->ValueFormat)) {
+            $this->spreadsheet->getActiveSheet()->getCell($column . $row)
+                ->getStyle()->getNumberFormat()
+                ->setFormatCode((string) $cellAttributes->ValueFormat);
+        }
+    }
+}

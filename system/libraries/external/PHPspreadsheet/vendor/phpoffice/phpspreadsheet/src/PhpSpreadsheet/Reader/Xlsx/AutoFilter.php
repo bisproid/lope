@@ -1,125 +1,149 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Reader\Xlsx;
+
+use PhpOffice\PhpSpreadsheet\Worksheet\AutoFilter\Column;
+use PhpOffice\PhpSpreadsheet\Worksheet\AutoFilter\Column\Rule;
+use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
+use SimpleXMLElement;
+
+class AutoFilter
+{
+    private $worksheet;
+
+    private $worksheetXml;
+
+    public function __construct(Worksheet $workSheet, SimpleXMLElement $worksheetXml)
+    {
+        $this->worksheet = $workSheet;
+        $this->worksheetXml = $worksheetXml;
+    }
+
+    public function load(): void
+    {
+        // Remove all "$" in the auto filter range
+        $autoFilterRange = preg_replace('/\$/', '', $this->worksheetXml->autoFilter['ref'] ?? '');
+        if (strpos($autoFilterRange, ':') !== false) {
+            $this->readAutoFilter($autoFilterRange, $this->worksheetXml);
+        }
+    }
+
+    private function readAutoFilter($autoFilterRange, $xmlSheet): void
+    {
+        $autoFilter = $this->worksheet->getAutoFilter();
+        $autoFilter->setRange($autoFilterRange);
+
+        foreach ($xmlSheet->autoFilter->filterColumn as $filterColumn) {
+            $column = $autoFilter->getColumnByOffset((int) $filterColumn['colId']);
+            //    Check for standard filters
+            if ($filterColumn->filters) {
+                $column->setFilterType(Column::AUTOFILTER_FILTERTYPE_FILTER);
+                $filters = $filterColumn->filters;
+                if ((isset($filters['blank'])) && ($filters['blank'] == 1)) {
+                    //    Operator is undefined, but always treated as EQUAL
+                    $column->createRule()->setRule(null, '')->setRuleType(Rule::AUTOFILTER_RULETYPE_FILTER);
+                }
+                //    Standard filters are always an OR join, so no join rule needs to be set
+                //    Entries can be either filter elements
+                foreach ($filters->filter as $filterRule) {
+                    //    Operator is undefined, but always treated as EQUAL
+                    $column->createRule()->setRule(null, (string) $filterRule['val'])->setRuleType(Rule::AUTOFILTER_RULETYPE_FILTER);
+                }
+
+                //    Or Date Group elements
+                $this->readDateRangeAutoFilter($filters, $column);
+            }
+
+            //    Check for custom filters
+            $this->readCustomAutoFilter($filterColumn, $column);
+            //    Check for dynamic filters
+            $this->readDynamicAutoFilter($filterColumn, $column);
+            //    Check for dynamic filters
+            $this->readTopTenAutoFilter($filterColumn, $column);
+        }
+        $autoFilter->setEvaluated(true);
+    }
+
+    private function readDateRangeAutoFilter(SimpleXMLElement $filters, Column $column): void
+    {
+        foreach ($filters->dateGroupItem as $dateGroupItem) {
+            //    Operator is undefined, but always treated as EQUAL
+            $column->createRule()->setRule(
+                null,
+                [
+                    'year' => (string) $dateGroupItem['year'],
+                    'month' => (string) $dateGroupItem['month'],
+                    'day' => (string) $dateGroupItem['day'],
+                    'hour' => (string) $dateGroupItem['hour'],
+                    'minute' => (string) $dateGroupItem['minute'],
+                    'second' => (string) $dateGroupItem['second'],
+                ],
+                (string) $dateGroupItem['dateTimeGrouping']
+            )->setRuleType(Rule::AUTOFILTER_RULETYPE_DATEGROUP);
+        }
+    }
+
+    private function readCustomAutoFilter(SimpleXMLElement $filterColumn, Column $column): void
+    {
+        if ($filterColumn->customFilters) {
+            $column->setFilterType(Column::AUTOFILTER_FILTERTYPE_CUSTOMFILTER);
+            $customFilters = $filterColumn->customFilters;
+            //    Custom filters can an AND or an OR join;
+            //        and there should only ever be one or two entries
+            if ((isset($customFilters['and'])) && ((string) $customFilters['and'] === '1')) {
+                $column->setJoin(Column::AUTOFILTER_COLUMN_JOIN_AND);
+            }
+            foreach ($customFilters->customFilter as $filterRule) {
+                $column->createRule()->setRule(
+                    (string) $filterRule['operator'],
+                    (string) $filterRule['val']
+                )->setRuleType(Rule::AUTOFILTER_RULETYPE_CUSTOMFILTER);
+            }
+        }
+    }
+
+    private function readDynamicAutoFilter(SimpleXMLElement $filterColumn, Column $column): void
+    {
+        if ($filterColumn->dynamicFilter) {
+            $column->setFilterType(Column::AUTOFILTER_FILTERTYPE_DYNAMICFILTER);
+            //    We should only ever have one dynamic filter
+            foreach ($filterColumn->dynamicFilter as $filterRule) {
+                //    Operator is undefined, but always treated as EQUAL
+                $column->createRule()->setRule(
+                    null,
+                    (string) $filterRule['val'],
+                    (string) $filterRule['type']
+                )->setRuleType(Rule::AUTOFILTER_RULETYPE_DYNAMICFILTER);
+                if (isset($filterRule['val'])) {
+                    $column->setAttribute('val', (string) $filterRule['val']);
+                }
+                if (isset($filterRule['maxVal'])) {
+                    $column->setAttribute('maxVal', (string) $filterRule['maxVal']);
+                }
+            }
+        }
+    }
+
+    private function readTopTenAutoFilter(SimpleXMLElement $filterColumn, Column $column): void
+    {
+        if ($filterColumn->top10) {
+            $column->setFilterType(Column::AUTOFILTER_FILTERTYPE_TOPTENFILTER);
+            //    We should only ever have one top10 filter
+            foreach ($filterColumn->top10 as $filterRule) {
+                $column->createRule()->setRule(
+                    (
+                        ((isset($filterRule['percent'])) && ((string) $filterRule['percent'] === '1'))
+                        ? Rule::AUTOFILTER_COLUMN_RULE_TOPTEN_PERCENT
+                        : Rule::AUTOFILTER_COLUMN_RULE_TOPTEN_BY_VALUE
+                    ),
+                    (string) $filterRule['val'],
+                    (
+                        ((isset($filterRule['top'])) && ((string) $filterRule['top'] === '1'))
+                        ? Rule::AUTOFILTER_COLUMN_RULE_TOPTEN_TOP
+                        : Rule::AUTOFILTER_COLUMN_RULE_TOPTEN_BOTTOM
+                    )
+                )->setRuleType(Rule::AUTOFILTER_RULETYPE_TOPTENFILTER);
+            }
+        }
+    }
+}

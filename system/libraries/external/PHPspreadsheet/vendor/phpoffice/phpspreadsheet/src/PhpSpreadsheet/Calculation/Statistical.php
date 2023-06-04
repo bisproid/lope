@@ -1,268 +1,1820 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright � 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Ybwx2DoniWkks0==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation;
+
+use PhpOffice\PhpSpreadsheet\Calculation\Statistical\Averages;
+use PhpOffice\PhpSpreadsheet\Calculation\Statistical\Conditional;
+use PhpOffice\PhpSpreadsheet\Calculation\Statistical\Confidence;
+use PhpOffice\PhpSpreadsheet\Calculation\Statistical\Counts;
+use PhpOffice\PhpSpreadsheet\Calculation\Statistical\Maximum;
+use PhpOffice\PhpSpreadsheet\Calculation\Statistical\Minimum;
+use PhpOffice\PhpSpreadsheet\Calculation\Statistical\Permutations;
+use PhpOffice\PhpSpreadsheet\Calculation\Statistical\StandardDeviations;
+use PhpOffice\PhpSpreadsheet\Calculation\Statistical\Trends;
+use PhpOffice\PhpSpreadsheet\Calculation\Statistical\Variances;
+
+/**
+ * @deprecated 1.18.0
+ */
+class Statistical
+{
+    const LOG_GAMMA_X_MAX_VALUE = 2.55e305;
+    const EPS = 2.22e-16;
+    const MAX_VALUE = 1.2e308;
+    const SQRT2PI = 2.5066282746310005024157652848110452530069867406099;
+
+    /**
+     * AVEDEV.
+     *
+     * Returns the average of the absolute deviations of data points from their mean.
+     * AVEDEV is a measure of the variability in a data set.
+     *
+     * Excel Function:
+     *        AVEDEV(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Averages::averageDeviations()
+     *      Use the averageDeviations() method in the Statistical\Averages class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string
+     */
+    public static function AVEDEV(...$args)
+    {
+        return Averages::averageDeviations(...$args);
+    }
+
+    /**
+     * AVERAGE.
+     *
+     * Returns the average (arithmetic mean) of the arguments
+     *
+     * Excel Function:
+     *        AVERAGE(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Averages::average()
+     *      Use the average() method in the Statistical\Averages class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string
+     */
+    public static function AVERAGE(...$args)
+    {
+        return Averages::average(...$args);
+    }
+
+    /**
+     * AVERAGEA.
+     *
+     * Returns the average of its arguments, including numbers, text, and logical values
+     *
+     * Excel Function:
+     *        AVERAGEA(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Averages::averageA()
+     *      Use the averageA() method in the Statistical\Averages class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string
+     */
+    public static function AVERAGEA(...$args)
+    {
+        return Averages::averageA(...$args);
+    }
+
+    /**
+     * AVERAGEIF.
+     *
+     * Returns the average value from a range of cells that contain numbers within the list of arguments
+     *
+     * Excel Function:
+     *        AVERAGEIF(value1[,value2[, ...]],condition)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Conditional::AVERAGEIF()
+     *      Use the AVERAGEIF() method in the Statistical\Conditional class instead
+     *
+     * @param mixed $range Data values
+     * @param string $condition the criteria that defines which cells will be checked
+     * @param mixed[] $averageRange Data values
+     *
+     * @return null|float|string
+     */
+    public static function AVERAGEIF($range, $condition, $averageRange = [])
+    {
+        return Conditional::AVERAGEIF($range, $condition, $averageRange);
+    }
+
+    /**
+     * BETADIST.
+     *
+     * Returns the beta distribution.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Beta::distribution()
+     *      Use the distribution() method in the Statistical\Distributions\Beta class instead
+     *
+     * @param float $value Value at which you want to evaluate the distribution
+     * @param float $alpha Parameter to the distribution
+     * @param float $beta Parameter to the distribution
+     * @param mixed $rMin
+     * @param mixed $rMax
+     *
+     * @return array|float|string
+     */
+    public static function BETADIST($value, $alpha, $beta, $rMin = 0, $rMax = 1)
+    {
+        return Statistical\Distributions\Beta::distribution($value, $alpha, $beta, $rMin, $rMax);
+    }
+
+    /**
+     * BETAINV.
+     *
+     * Returns the inverse of the Beta distribution.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Beta::inverse()
+     *      Use the inverse() method in the Statistical\Distributions\Beta class instead
+     *
+     * @param float $probability Probability at which you want to evaluate the distribution
+     * @param float $alpha Parameter to the distribution
+     * @param float $beta Parameter to the distribution
+     * @param float $rMin Minimum value
+     * @param float $rMax Maximum value
+     *
+     * @return array|float|string
+     */
+    public static function BETAINV($probability, $alpha, $beta, $rMin = 0, $rMax = 1)
+    {
+        return Statistical\Distributions\Beta::inverse($probability, $alpha, $beta, $rMin, $rMax);
+    }
+
+    /**
+     * BINOMDIST.
+     *
+     * Returns the individual term binomial distribution probability. Use BINOMDIST in problems with
+     *        a fixed number of tests or trials, when the outcomes of any trial are only success or failure,
+     *        when trials are independent, and when the probability of success is constant throughout the
+     *        experiment. For example, BINOMDIST can calculate the probability that two of the next three
+     *        babies born are male.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Binomial::distribution()
+     *      Use the distribution() method in the Statistical\Distributions\Binomial class instead
+     *
+     * @param mixed $value Number of successes in trials
+     * @param mixed $trials Number of trials
+     * @param mixed $probability Probability of success on each trial
+     * @param mixed $cumulative
+     *
+     * @return array|float|string
+     */
+    public static function BINOMDIST($value, $trials, $probability, $cumulative)
+    {
+        return Statistical\Distributions\Binomial::distribution($value, $trials, $probability, $cumulative);
+    }
+
+    /**
+     * CHIDIST.
+     *
+     * Returns the one-tailed probability of the chi-squared distribution.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\ChiSquared::distributionRightTail()
+     *      Use the distributionRightTail() method in the Statistical\Distributions\ChiSquared class instead
+     *
+     * @param float $value Value for the function
+     * @param float $degrees degrees of freedom
+     *
+     * @return array|float|string
+     */
+    public static function CHIDIST($value, $degrees)
+    {
+        return Statistical\Distributions\ChiSquared::distributionRightTail($value, $degrees);
+    }
+
+    /**
+     * CHIINV.
+     *
+     * Returns the one-tailed probability of the chi-squared distribution.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\ChiSquared::inverseRightTail()
+     *      Use the inverseRightTail() method in the Statistical\Distributions\ChiSquared class instead
+     *
+     * @param float $probability Probability for the function
+     * @param float $degrees degrees of freedom
+     *
+     * @return array|float|string
+     */
+    public static function CHIINV($probability, $degrees)
+    {
+        return Statistical\Distributions\ChiSquared::inverseRightTail($probability, $degrees);
+    }
+
+    /**
+     * CONFIDENCE.
+     *
+     * Returns the confidence interval for a population mean
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Confidence::CONFIDENCE()
+     *      Use the CONFIDENCE() method in the Statistical\Confidence class instead
+     *
+     * @param float $alpha
+     * @param float $stdDev Standard Deviation
+     * @param float $size
+     *
+     * @return array|float|string
+     */
+    public static function CONFIDENCE($alpha, $stdDev, $size)
+    {
+        return Confidence::CONFIDENCE($alpha, $stdDev, $size);
+    }
+
+    /**
+     * CORREL.
+     *
+     * Returns covariance, the average of the products of deviations for each data point pair.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Trends::CORREL()
+     *      Use the CORREL() method in the Statistical\Trends class instead
+     *
+     * @param mixed $yValues array of mixed Data Series Y
+     * @param null|mixed $xValues array of mixed Data Series X
+     *
+     * @return float|string
+     */
+    public static function CORREL($yValues, $xValues = null)
+    {
+        return Trends::CORREL($xValues, $yValues);
+    }
+
+    /**
+     * COUNT.
+     *
+     * Counts the number of cells that contain numbers within the list of arguments
+     *
+     * Excel Function:
+     *        COUNT(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Counts::COUNT()
+     *      Use the COUNT() method in the Statistical\Counts class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return int
+     */
+    public static function COUNT(...$args)
+    {
+        return Counts::COUNT(...$args);
+    }
+
+    /**
+     * COUNTA.
+     *
+     * Counts the number of cells that are not empty within the list of arguments
+     *
+     * Excel Function:
+     *        COUNTA(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Counts::COUNTA()
+     *      Use the COUNTA() method in the Statistical\Counts class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return int
+     */
+    public static function COUNTA(...$args)
+    {
+        return Counts::COUNTA(...$args);
+    }
+
+    /**
+     * COUNTBLANK.
+     *
+     * Counts the number of empty cells within the list of arguments
+     *
+     * Excel Function:
+     *        COUNTBLANK(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Counts::COUNTBLANK()
+     *      Use the COUNTBLANK() method in the Statistical\Counts class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return int
+     */
+    public static function COUNTBLANK(...$args)
+    {
+        return Counts::COUNTBLANK(...$args);
+    }
+
+    /**
+     * COUNTIF.
+     *
+     * Counts the number of cells that contain numbers within the list of arguments
+     *
+     * Excel Function:
+     *        COUNTIF(range,condition)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Conditional::COUNTIF()
+     *      Use the COUNTIF() method in the Statistical\Conditional class instead
+     *
+     * @param mixed $range Data values
+     * @param string $condition the criteria that defines which cells will be counted
+     *
+     * @return int
+     */
+    public static function COUNTIF($range, $condition)
+    {
+        return Conditional::COUNTIF($range, $condition);
+    }
+
+    /**
+     * COUNTIFS.
+     *
+     * Counts the number of cells that contain numbers within the list of arguments
+     *
+     * Excel Function:
+     *        COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2]…)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Conditional::COUNTIFS()
+     *      Use the COUNTIFS() method in the Statistical\Conditional class instead
+     *
+     * @param mixed $args Pairs of Ranges and Criteria
+     *
+     * @return int
+     */
+    public static function COUNTIFS(...$args)
+    {
+        return Conditional::COUNTIFS(...$args);
+    }
+
+    /**
+     * COVAR.
+     *
+     * Returns covariance, the average of the products of deviations for each data point pair.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Trends::COVAR()
+     *      Use the COVAR() method in the Statistical\Trends class instead
+     *
+     * @param mixed $yValues array of mixed Data Series Y
+     * @param mixed $xValues array of mixed Data Series X
+     *
+     * @return float|string
+     */
+    public static function COVAR($yValues, $xValues)
+    {
+        return Trends::COVAR($yValues, $xValues);
+    }
+
+    /**
+     * CRITBINOM.
+     *
+     * Returns the smallest value for which the cumulative binomial distribution is greater
+     *        than or equal to a criterion value
+     *
+     * See https://support.microsoft.com/en-us/help/828117/ for details of the algorithm used
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Binomial::inverse()
+     *      Use the inverse() method in the Statistical\Distributions\Binomial class instead
+     *
+     * @param float $trials number of Bernoulli trials
+     * @param float $probability probability of a success on each trial
+     * @param float $alpha criterion value
+     *
+     * @return array|int|string
+     */
+    public static function CRITBINOM($trials, $probability, $alpha)
+    {
+        return Statistical\Distributions\Binomial::inverse($trials, $probability, $alpha);
+    }
+
+    /**
+     * DEVSQ.
+     *
+     * Returns the sum of squares of deviations of data points from their sample mean.
+     *
+     * Excel Function:
+     *        DEVSQ(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Deviations::sumSquares()
+     *      Use the sumSquares() method in the Statistical\Deviations class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string
+     */
+    public static function DEVSQ(...$args)
+    {
+        return Statistical\Deviations::sumSquares(...$args);
+    }
+
+    /**
+     * EXPONDIST.
+     *
+     *    Returns the exponential distribution. Use EXPONDIST to model the time between events,
+     *        such as how long an automated bank teller takes to deliver cash. For example, you can
+     *        use EXPONDIST to determine the probability that the process takes at most 1 minute.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Exponential::distribution()
+     *      Use the distribution() method in the Statistical\Distributions\Exponential class instead
+     *
+     * @param float $value Value of the function
+     * @param float $lambda The parameter value
+     * @param bool $cumulative
+     *
+     * @return array|float|string
+     */
+    public static function EXPONDIST($value, $lambda, $cumulative)
+    {
+        return Statistical\Distributions\Exponential::distribution($value, $lambda, $cumulative);
+    }
+
+    /**
+     * F.DIST.
+     *
+     *    Returns the F probability distribution.
+     *    You can use this function to determine whether two data sets have different degrees of diversity.
+     *    For example, you can examine the test scores of men and women entering high school, and determine
+     *        if the variability in the females is different from that found in the males.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\F::distribution()
+     *      Use the distribution() method in the Statistical\Distributions\Exponential class instead
+     *
+     * @param float $value Value of the function
+     * @param int $u The numerator degrees of freedom
+     * @param int $v The denominator degrees of freedom
+     * @param bool $cumulative If cumulative is TRUE, F.DIST returns the cumulative distribution function;
+     *                         if FALSE, it returns the probability density function.
+     *
+     * @return array|float|string
+     */
+    public static function FDIST2($value, $u, $v, $cumulative)
+    {
+        return Statistical\Distributions\F::distribution($value, $u, $v, $cumulative);
+    }
+
+    /**
+     * FISHER.
+     *
+     * Returns the Fisher transformation at x. This transformation produces a function that
+     *        is normally distributed rather than skewed. Use this function to perform hypothesis
+     *        testing on the correlation coefficient.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Fisher::distribution()
+     *      Use the distribution() method in the Statistical\Distributions\Fisher class instead
+     *
+     * @param float $value
+     *
+     * @return array|float|string
+     */
+    public static function FISHER($value)
+    {
+        return Statistical\Distributions\Fisher::distribution($value);
+    }
+
+    /**
+     * FISHERINV.
+     *
+     * Returns the inverse of the Fisher transformation. Use this transformation when
+     *        analyzing correlations between ranges or arrays of data. If y = FISHER(x), then
+     *        FISHERINV(y) = x.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Fisher::inverse()
+     *      Use the inverse() method in the Statistical\Distributions\Fisher class instead
+     *
+     * @param float $value
+     *
+     * @return array|float|string
+     */
+    public static function FISHERINV($value)
+    {
+        return Statistical\Distributions\Fisher::inverse($value);
+    }
+
+    /**
+     * FORECAST.
+     *
+     * Calculates, or predicts, a future value by using existing values. The predicted value is a y-value for a given x-value.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Trends::FORECAST()
+     *      Use the FORECAST() method in the Statistical\Trends class instead
+     *
+     * @param float $xValue Value of X for which we want to find Y
+     * @param mixed $yValues array of mixed Data Series Y
+     * @param mixed $xValues of mixed Data Series X
+     *
+     * @return array|bool|float|string
+     */
+    public static function FORECAST($xValue, $yValues, $xValues)
+    {
+        return Trends::FORECAST($xValue, $yValues, $xValues);
+    }
+
+    /**
+     * GAMMA.
+     *
+     * Returns the gamma function value.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Gamma::gamma()
+     *      Use the gamma() method in the Statistical\Distributions\Gamma class instead
+     *
+     * @param float $value
+     *
+     * @return array|float|string The result, or a string containing an error
+     */
+    public static function GAMMAFunction($value)
+    {
+        return Statistical\Distributions\Gamma::gamma($value);
+    }
+
+    /**
+     * GAMMADIST.
+     *
+     * Returns the gamma distribution.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Gamma::distribution()
+     *      Use the distribution() method in the Statistical\Distributions\Gamma class instead
+     *
+     * @param float $value Value at which you want to evaluate the distribution
+     * @param float $a Parameter to the distribution
+     * @param float $b Parameter to the distribution
+     * @param bool $cumulative
+     *
+     * @return array|float|string
+     */
+    public static function GAMMADIST($value, $a, $b, $cumulative)
+    {
+        return Statistical\Distributions\Gamma::distribution($value, $a, $b, $cumulative);
+    }
+
+    /**
+     * GAMMAINV.
+     *
+     * Returns the inverse of the Gamma distribution.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Gamma::inverse()
+     *      Use the inverse() method in the Statistical\Distributions\Gamma class instead
+     *
+     * @param float $probability Probability at which you want to evaluate the distribution
+     * @param float $alpha Parameter to the distribution
+     * @param float $beta Parameter to the distribution
+     *
+     * @return array|float|string
+     */
+    public static function GAMMAINV($probability, $alpha, $beta)
+    {
+        return Statistical\Distributions\Gamma::inverse($probability, $alpha, $beta);
+    }
+
+    /**
+     * GAMMALN.
+     *
+     * Returns the natural logarithm of the gamma function.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Gamma::ln()
+     *      Use the ln() method in the Statistical\Distributions\Gamma class instead
+     *
+     * @param float $value
+     *
+     * @return array|float|string
+     */
+    public static function GAMMALN($value)
+    {
+        return Statistical\Distributions\Gamma::ln($value);
+    }
+
+    /**
+     * GAUSS.
+     *
+     * Calculates the probability that a member of a standard normal population will fall between
+     *     the mean and z standard deviations from the mean.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\StandardNormal::gauss()
+     *      Use the gauss() method in the Statistical\Distributions\StandardNormal class instead
+     *
+     * @param float $value
+     *
+     * @return array|float|string The result, or a string containing an error
+     */
+    public static function GAUSS($value)
+    {
+        return Statistical\Distributions\StandardNormal::gauss($value);
+    }
+
+    /**
+     * GEOMEAN.
+     *
+     * Returns the geometric mean of an array or range of positive data. For example, you
+     *        can use GEOMEAN to calculate average growth rate given compound interest with
+     *        variable rates.
+     *
+     * Excel Function:
+     *        GEOMEAN(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Averages\Mean::geometric()
+     *      Use the geometric() method in the Statistical\Averages\Mean class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string
+     */
+    public static function GEOMEAN(...$args)
+    {
+        return Statistical\Averages\Mean::geometric(...$args);
+    }
+
+    /**
+     * GROWTH.
+     *
+     * Returns values along a predicted exponential Trend
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Trends::GROWTH()
+     *      Use the GROWTH() method in the Statistical\Trends class instead
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param mixed[] $xValues Data Series X
+     * @param mixed[] $newValues Values of X for which we want to find Y
+     * @param bool $const a logical value specifying whether to force the intersect to equal 0
+     *
+     * @return float[]
+     */
+    public static function GROWTH($yValues, $xValues = [], $newValues = [], $const = true)
+    {
+        return Trends::GROWTH($yValues, $xValues, $newValues, $const);
+    }
+
+    /**
+     * HARMEAN.
+     *
+     * Returns the harmonic mean of a data set. The harmonic mean is the reciprocal of the
+     *        arithmetic mean of reciprocals.
+     *
+     * Excel Function:
+     *        HARMEAN(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Averages\Mean::harmonic()
+     *      Use the harmonic() method in the Statistical\Averages\Mean class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string
+     */
+    public static function HARMEAN(...$args)
+    {
+        return Statistical\Averages\Mean::harmonic(...$args);
+    }
+
+    /**
+     * HYPGEOMDIST.
+     *
+     * Returns the hypergeometric distribution. HYPGEOMDIST returns the probability of a given number of
+     * sample successes, given the sample size, population successes, and population size.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\HyperGeometric::distribution()
+     *      Use the distribution() method in the Statistical\Distributions\HyperGeometric class instead
+     *
+     * @param mixed $sampleSuccesses Number of successes in the sample
+     * @param mixed $sampleNumber Size of the sample
+     * @param mixed $populationSuccesses Number of successes in the population
+     * @param mixed $populationNumber Population size
+     *
+     * @return array|float|string
+     */
+    public static function HYPGEOMDIST($sampleSuccesses, $sampleNumber, $populationSuccesses, $populationNumber)
+    {
+        return Statistical\Distributions\HyperGeometric::distribution(
+            $sampleSuccesses,
+            $sampleNumber,
+            $populationSuccesses,
+            $populationNumber
+        );
+    }
+
+    /**
+     * INTERCEPT.
+     *
+     * Calculates the point at which a line will intersect the y-axis by using existing x-values and y-values.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Trends::INTERCEPT()
+     *      Use the INTERCEPT() method in the Statistical\Trends class instead
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param mixed[] $xValues Data Series X
+     *
+     * @return float|string
+     */
+    public static function INTERCEPT($yValues, $xValues)
+    {
+        return Trends::INTERCEPT($yValues, $xValues);
+    }
+
+    /**
+     * KURT.
+     *
+     * Returns the kurtosis of a data set. Kurtosis characterizes the relative peakedness
+     * or flatness of a distribution compared with the normal distribution. Positive
+     * kurtosis indicates a relatively peaked distribution. Negative kurtosis indicates a
+     * relatively flat distribution.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Deviations::kurtosis()
+     *      Use the kurtosis() method in the Statistical\Deviations class instead
+     *
+     * @param array ...$args Data Series
+     *
+     * @return float|string
+     */
+    public static function KURT(...$args)
+    {
+        return Statistical\Deviations::kurtosis(...$args);
+    }
+
+    /**
+     * LARGE.
+     *
+     * Returns the nth largest value in a data set. You can use this function to
+     *        select a value based on its relative standing.
+     *
+     * Excel Function:
+     *        LARGE(value1[,value2[, ...]],entry)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Size::large()
+     *      Use the large() method in the Statistical\Size class instead
+     *
+     * @param mixed $args Data values
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function LARGE(...$args)
+    {
+        return Statistical\Size::large(...$args);
+    }
+
+    /**
+     * LINEST.
+     *
+     * Calculates the statistics for a line by using the "least squares" method to calculate a straight line that best fits your data,
+     *        and then returns an array that describes the line.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Trends::LINEST()
+     *      Use the LINEST() method in the Statistical\Trends class instead
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param null|mixed[] $xValues Data Series X
+     * @param bool $const a logical value specifying whether to force the intersect to equal 0
+     * @param bool $stats a logical value specifying whether to return additional regression statistics
+     *
+     * @return array|int|string The result, or a string containing an error
+     */
+    public static function LINEST($yValues, $xValues = null, $const = true, $stats = false)
+    {
+        return Trends::LINEST($yValues, $xValues, $const, $stats);
+    }
+
+    /**
+     * LOGEST.
+     *
+     * Calculates an exponential curve that best fits the X and Y data series,
+     *        and then returns an array that describes the line.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Trends::LOGEST()
+     *      Use the LOGEST() method in the Statistical\Trends class instead
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param null|mixed[] $xValues Data Series X
+     * @param bool $const a logical value specifying whether to force the intersect to equal 0
+     * @param bool $stats a logical value specifying whether to return additional regression statistics
+     *
+     * @return array|int|string The result, or a string containing an error
+     */
+    public static function LOGEST($yValues, $xValues = null, $const = true, $stats = false)
+    {
+        return Trends::LOGEST($yValues, $xValues, $const, $stats);
+    }
+
+    /**
+     * LOGINV.
+     *
+     * Returns the inverse of the normal cumulative distribution
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\LogNormal::inverse()
+     *      Use the inverse() method in the Statistical\Distributions\LogNormal class instead
+     *
+     * @param float $probability
+     * @param float $mean
+     * @param float $stdDev
+     *
+     * @return array|float|string The result, or a string containing an error
+     *
+     * @TODO    Try implementing P J Acklam's refinement algorithm for greater
+     *            accuracy if I can get my head round the mathematics
+     *            (as described at) http://home.online.no/~pjacklam/notes/invnorm/
+     */
+    public static function LOGINV($probability, $mean, $stdDev)
+    {
+        return Statistical\Distributions\LogNormal::inverse($probability, $mean, $stdDev);
+    }
+
+    /**
+     * LOGNORMDIST.
+     *
+     * Returns the cumulative lognormal distribution of x, where ln(x) is normally distributed
+     * with parameters mean and standard_dev.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\LogNormal::cumulative()
+     *      Use the cumulative() method in the Statistical\Distributions\LogNormal class instead
+     *
+     * @param float $value
+     * @param float $mean
+     * @param float $stdDev
+     *
+     * @return array|float|string The result, or a string containing an error
+     */
+    public static function LOGNORMDIST($value, $mean, $stdDev)
+    {
+        return Statistical\Distributions\LogNormal::cumulative($value, $mean, $stdDev);
+    }
+
+    /**
+     * LOGNORM.DIST.
+     *
+     * Returns the lognormal distribution of x, where ln(x) is normally distributed
+     * with parameters mean and standard_dev.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\LogNormal::distribution()
+     *      Use the distribution() method in the Statistical\Distributions\LogNormal class instead
+     *
+     * @param float $value
+     * @param float $mean
+     * @param float $stdDev
+     * @param bool $cumulative
+     *
+     * @return array|float|string The result, or a string containing an error
+     */
+    public static function LOGNORMDIST2($value, $mean, $stdDev, $cumulative = false)
+    {
+        return Statistical\Distributions\LogNormal::distribution($value, $mean, $stdDev, $cumulative);
+    }
+
+    /**
+     * MAX.
+     *
+     * MAX returns the value of the element of the values passed that has the highest value,
+     *        with negative numbers considered smaller than positive numbers.
+     *
+     * Excel Function:
+     *        max(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float
+     *
+     *@see Statistical\Maximum::max()
+     *      Use the MAX() method in the Statistical\Maximum class instead
+     */
+    public static function MAX(...$args)
+    {
+        return Maximum::max(...$args);
+    }
+
+    /**
+     * MAXA.
+     *
+     * Returns the greatest value in a list of arguments, including numbers, text, and logical values
+     *
+     * Excel Function:
+     *        maxA(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float
+     *
+     *@see Statistical\Maximum::maxA()
+     *      Use the MAXA() method in the Statistical\Maximum class instead
+     */
+    public static function MAXA(...$args)
+    {
+        return Maximum::maxA(...$args);
+    }
+
+    /**
+     * MAXIFS.
+     *
+     * Counts the maximum value within a range of cells that contain numbers within the list of arguments
+     *
+     * Excel Function:
+     *        MAXIFS(max_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Conditional::MAXIFS()
+     *      Use the MAXIFS() method in the Statistical\Conditional class instead
+     *
+     * @param mixed $args Data range and criterias
+     *
+     * @return float
+     */
+    public static function MAXIFS(...$args)
+    {
+        return Conditional::MAXIFS(...$args);
+    }
+
+    /**
+     * MEDIAN.
+     *
+     * Returns the median of the given numbers. The median is the number in the middle of a set of numbers.
+     *
+     * Excel Function:
+     *        MEDIAN(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Averages::median()
+     *      Use the median() method in the Statistical\Averages class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function MEDIAN(...$args)
+    {
+        return Statistical\Averages::median(...$args);
+    }
+
+    /**
+     * MIN.
+     *
+     * MIN returns the value of the element of the values passed that has the smallest value,
+     *        with negative numbers considered smaller than positive numbers.
+     *
+     * Excel Function:
+     *        MIN(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float
+     *
+     *@see Statistical\Minimum::min()
+     *      Use the min() method in the Statistical\Minimum class instead
+     */
+    public static function MIN(...$args)
+    {
+        return Minimum::min(...$args);
+    }
+
+    /**
+     * MINA.
+     *
+     * Returns the smallest value in a list of arguments, including numbers, text, and logical values
+     *
+     * Excel Function:
+     *        MINA(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float
+     *
+     *@see Statistical\Minimum::minA()
+     *      Use the minA() method in the Statistical\Minimum class instead
+     */
+    public static function MINA(...$args)
+    {
+        return Minimum::minA(...$args);
+    }
+
+    /**
+     * MINIFS.
+     *
+     * Returns the minimum value within a range of cells that contain numbers within the list of arguments
+     *
+     * Excel Function:
+     *        MINIFS(min_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Conditional::MINIFS()
+     *      Use the MINIFS() method in the Statistical\Conditional class instead
+     *
+     * @param mixed $args Data range and criterias
+     *
+     * @return float
+     */
+    public static function MINIFS(...$args)
+    {
+        return Conditional::MINIFS(...$args);
+    }
+
+    /**
+     * MODE.
+     *
+     * Returns the most frequently occurring, or repetitive, value in an array or range of data
+     *
+     * Excel Function:
+     *        MODE(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Averages::mode()
+     *      Use the mode() method in the Statistical\Averages class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function MODE(...$args)
+    {
+        return Statistical\Averages::mode(...$args);
+    }
+
+    /**
+     * NEGBINOMDIST.
+     *
+     * Returns the negative binomial distribution. NEGBINOMDIST returns the probability that
+     *        there will be number_f failures before the number_s-th success, when the constant
+     *        probability of a success is probability_s. This function is similar to the binomial
+     *        distribution, except that the number of successes is fixed, and the number of trials is
+     *        variable. Like the binomial, trials are assumed to be independent.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Binomial::negative()
+     *      Use the negative() method in the Statistical\Distributions\Binomial class instead
+     *
+     * @param mixed $failures Number of Failures
+     * @param mixed $successes Threshold number of Successes
+     * @param mixed $probability Probability of success on each trial
+     *
+     * @return array|float|string The result, or a string containing an error
+     */
+    public static function NEGBINOMDIST($failures, $successes, $probability)
+    {
+        return Statistical\Distributions\Binomial::negative($failures, $successes, $probability);
+    }
+
+    /**
+     * NORMDIST.
+     *
+     * Returns the normal distribution for the specified mean and standard deviation. This
+     * function has a very wide range of applications in statistics, including hypothesis
+     * testing.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Normal::distribution()
+     *      Use the distribution() method in the Statistical\Distributions\Normal class instead
+     *
+     * @param mixed $value
+     * @param mixed $mean Mean Value
+     * @param mixed $stdDev Standard Deviation
+     * @param mixed $cumulative
+     *
+     * @return array|float|string The result, or a string containing an error
+     */
+    public static function NORMDIST($value, $mean, $stdDev, $cumulative)
+    {
+        return Statistical\Distributions\Normal::distribution($value, $mean, $stdDev, $cumulative);
+    }
+
+    /**
+     * NORMINV.
+     *
+     * Returns the inverse of the normal cumulative distribution for the specified mean and standard deviation.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Normal::inverse()
+     *      Use the inverse() method in the Statistical\Distributions\Normal class instead
+     *
+     * @param mixed $probability
+     * @param mixed $mean Mean Value
+     * @param mixed $stdDev Standard Deviation
+     *
+     * @return array|float|string The result, or a string containing an error
+     */
+    public static function NORMINV($probability, $mean, $stdDev)
+    {
+        return Statistical\Distributions\Normal::inverse($probability, $mean, $stdDev);
+    }
+
+    /**
+     * NORMSDIST.
+     *
+     * Returns the standard normal cumulative distribution function. The distribution has
+     * a mean of 0 (zero) and a standard deviation of one. Use this function in place of a
+     * table of standard normal curve areas.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\StandardNormal::cumulative()
+     *      Use the cumulative() method in the Statistical\Distributions\StandardNormal class instead
+     *
+     * @param mixed $value
+     *
+     * @return array|float|string The result, or a string containing an error
+     */
+    public static function NORMSDIST($value)
+    {
+        return Statistical\Distributions\StandardNormal::cumulative($value);
+    }
+
+    /**
+     * NORM.S.DIST.
+     *
+     * Returns the standard normal cumulative distribution function. The distribution has
+     * a mean of 0 (zero) and a standard deviation of one. Use this function in place of a
+     * table of standard normal curve areas.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\StandardNormal::distribution()
+     *      Use the distribution() method in the Statistical\Distributions\StandardNormal class instead
+     *
+     * @param mixed $value
+     * @param mixed $cumulative
+     *
+     * @return array|float|string The result, or a string containing an error
+     */
+    public static function NORMSDIST2($value, $cumulative)
+    {
+        return Statistical\Distributions\StandardNormal::distribution($value, $cumulative);
+    }
+
+    /**
+     * NORMSINV.
+     *
+     * Returns the inverse of the standard normal cumulative distribution
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\StandardNormal::inverse()
+     *      Use the inverse() method in the Statistical\Distributions\StandardNormal class instead
+     *
+     * @param mixed $value
+     *
+     * @return array|float|string The result, or a string containing an error
+     */
+    public static function NORMSINV($value)
+    {
+        return Statistical\Distributions\StandardNormal::inverse($value);
+    }
+
+    /**
+     * PERCENTILE.
+     *
+     * Returns the nth percentile of values in a range..
+     *
+     * Excel Function:
+     *        PERCENTILE(value1[,value2[, ...]],entry)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Percentiles::PERCENTILE()
+     * Use the PERCENTILE() method in the Statistical\Percentiles class instead
+     *
+     * @param mixed $args Data values
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function PERCENTILE(...$args)
+    {
+        return Statistical\Percentiles::PERCENTILE(...$args);
+    }
+
+    /**
+     * PERCENTRANK.
+     *
+     * Returns the rank of a value in a data set as a percentage of the data set.
+     * Note that the returned rank is simply rounded to the appropriate significant digits,
+     *      rather than floored (as MS Excel), so value 3 for a value set of  1, 2, 3, 4 will return
+     *      0.667 rather than 0.666
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Percentiles::PERCENTRANK()
+     * Use the PERCENTRANK() method in the Statistical\Percentiles class instead
+     *
+     * @param mixed $valueSet An array of, or a reference to, a list of numbers
+     * @param mixed $value the number whose rank you want to find
+     * @param mixed $significance the number of significant digits for the returned percentage value
+     *
+     * @return float|string (string if result is an error)
+     */
+    public static function PERCENTRANK($valueSet, $value, $significance = 3)
+    {
+        return Statistical\Percentiles::PERCENTRANK($valueSet, $value, $significance);
+    }
+
+    /**
+     * PERMUT.
+     *
+     * Returns the number of permutations for a given number of objects that can be
+     *        selected from number objects. A permutation is any set or subset of objects or
+     *        events where internal order is significant. Permutations are different from
+     *        combinations, for which the internal order is not significant. Use this function
+     *        for lottery-style probability calculations.
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Permutations::PERMUT()
+     * Use the PERMUT() method in the Statistical\Permutations class instead
+     *
+     * @param int $numObjs Number of different objects
+     * @param int $numInSet Number of objects in each permutation
+     *
+     * @return array|float|int|string Number of permutations, or a string containing an error
+     */
+    public static function PERMUT($numObjs, $numInSet)
+    {
+        return Permutations::PERMUT($numObjs, $numInSet);
+    }
+
+    /**
+     * POISSON.
+     *
+     * Returns the Poisson distribution. A common application of the Poisson distribution
+     * is predicting the number of events over a specific time, such as the number of
+     * cars arriving at a toll plaza in 1 minute.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Poisson::distribution()
+     * Use the distribution() method in the Statistical\Distributions\Poisson class instead
+     *
+     * @param mixed $value
+     * @param mixed $mean Mean Value
+     * @param mixed $cumulative
+     *
+     * @return array|float|string The result, or a string containing an error
+     */
+    public static function POISSON($value, $mean, $cumulative)
+    {
+        return Statistical\Distributions\Poisson::distribution($value, $mean, $cumulative);
+    }
+
+    /**
+     * QUARTILE.
+     *
+     * Returns the quartile of a data set.
+     *
+     * Excel Function:
+     *        QUARTILE(value1[,value2[, ...]],entry)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Percentiles::QUARTILE()
+     * Use the QUARTILE() method in the Statistical\Percentiles class instead
+     *
+     * @param mixed $args Data values
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function QUARTILE(...$args)
+    {
+        return Statistical\Percentiles::QUARTILE(...$args);
+    }
+
+    /**
+     * RANK.
+     *
+     * Returns the rank of a number in a list of numbers.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Percentiles::RANK()
+     * Use the RANK() method in the Statistical\Percentiles class instead
+     *
+     * @param mixed $value the number whose rank you want to find
+     * @param mixed $valueSet An array of, or a reference to, a list of numbers
+     * @param mixed $order Order to sort the values in the value set
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function RANK($value, $valueSet, $order = 0)
+    {
+        return Statistical\Percentiles::RANK($value, $valueSet, $order);
+    }
+
+    /**
+     * RSQ.
+     *
+     * Returns the square of the Pearson product moment correlation coefficient through data points in known_y's and known_x's.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Trends::RSQ()
+     *      Use the RSQ() method in the Statistical\Trends class instead
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param mixed[] $xValues Data Series X
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function RSQ($yValues, $xValues)
+    {
+        return Trends::RSQ($yValues, $xValues);
+    }
+
+    /**
+     * SKEW.
+     *
+     * Returns the skewness of a distribution. Skewness characterizes the degree of asymmetry
+     * of a distribution around its mean. Positive skewness indicates a distribution with an
+     * asymmetric tail extending toward more positive values. Negative skewness indicates a
+     * distribution with an asymmetric tail extending toward more negative values.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Deviations::skew()
+     *      Use the skew() method in the Statistical\Deviations class instead
+     *
+     * @param array ...$args Data Series
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function SKEW(...$args)
+    {
+        return Statistical\Deviations::skew(...$args);
+    }
+
+    /**
+     * SLOPE.
+     *
+     * Returns the slope of the linear regression line through data points in known_y's and known_x's.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Trends::SLOPE()
+     *      Use the SLOPE() method in the Statistical\Trends class instead
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param mixed[] $xValues Data Series X
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function SLOPE($yValues, $xValues)
+    {
+        return Trends::SLOPE($yValues, $xValues);
+    }
+
+    /**
+     * SMALL.
+     *
+     * Returns the nth smallest value in a data set. You can use this function to
+     *        select a value based on its relative standing.
+     *
+     * Excel Function:
+     *        SMALL(value1[,value2[, ...]],entry)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Size::small()
+     *      Use the small() method in the Statistical\Size class instead
+     *
+     * @param mixed $args Data values
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function SMALL(...$args)
+    {
+        return Statistical\Size::small(...$args);
+    }
+
+    /**
+     * STANDARDIZE.
+     *
+     * Returns a normalized value from a distribution characterized by mean and standard_dev.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Standardize::execute()
+     *      Use the execute() method in the Statistical\Standardize class instead
+     *
+     * @param float $value Value to normalize
+     * @param float $mean Mean Value
+     * @param float $stdDev Standard Deviation
+     *
+     * @return array|float|string Standardized value, or a string containing an error
+     */
+    public static function STANDARDIZE($value, $mean, $stdDev)
+    {
+        return Statistical\Standardize::execute($value, $mean, $stdDev);
+    }
+
+    /**
+     * STDEV.
+     *
+     * Estimates standard deviation based on a sample. The standard deviation is a measure of how
+     *        widely values are dispersed from the average value (the mean).
+     *
+     * Excel Function:
+     *        STDEV(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\StandardDeviations::STDEV()
+     *      Use the STDEV() method in the Statistical\StandardDeviations class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function STDEV(...$args)
+    {
+        return StandardDeviations::STDEV(...$args);
+    }
+
+    /**
+     * STDEVA.
+     *
+     * Estimates standard deviation based on a sample, including numbers, text, and logical values
+     *
+     * Excel Function:
+     *        STDEVA(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\StandardDeviations::STDEVA()
+     *      Use the STDEVA() method in the Statistical\StandardDeviations class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string
+     */
+    public static function STDEVA(...$args)
+    {
+        return StandardDeviations::STDEVA(...$args);
+    }
+
+    /**
+     * STDEVP.
+     *
+     * Calculates standard deviation based on the entire population
+     *
+     * Excel Function:
+     *        STDEVP(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\StandardDeviations::STDEVP()
+     *      Use the STDEVP() method in the Statistical\StandardDeviations class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string
+     */
+    public static function STDEVP(...$args)
+    {
+        return StandardDeviations::STDEVP(...$args);
+    }
+
+    /**
+     * STDEVPA.
+     *
+     * Calculates standard deviation based on the entire population, including numbers, text, and logical values
+     *
+     * Excel Function:
+     *        STDEVPA(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\StandardDeviations::STDEVPA()
+     *      Use the STDEVPA() method in the Statistical\StandardDeviations class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string
+     */
+    public static function STDEVPA(...$args)
+    {
+        return StandardDeviations::STDEVPA(...$args);
+    }
+
+    /**
+     * STEYX.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Trends::STEYX()
+     *      Use the STEYX() method in the Statistical\Trends class instead
+     *
+     * Returns the standard error of the predicted y-value for each x in the regression.
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param mixed[] $xValues Data Series X
+     *
+     * @return float|string
+     */
+    public static function STEYX($yValues, $xValues)
+    {
+        return Trends::STEYX($yValues, $xValues);
+    }
+
+    /**
+     * TDIST.
+     *
+     * Returns the probability of Student's T distribution.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\StudentT::distribution()
+     *      Use the distribution() method in the Statistical\Distributions\StudentT class instead
+     *
+     * @param float $value Value for the function
+     * @param float $degrees degrees of freedom
+     * @param float $tails number of tails (1 or 2)
+     *
+     * @return array|float|string The result, or a string containing an error
+     */
+    public static function TDIST($value, $degrees, $tails)
+    {
+        return Statistical\Distributions\StudentT::distribution($value, $degrees, $tails);
+    }
+
+    /**
+     * TINV.
+     *
+     * Returns the one-tailed probability of the Student-T distribution.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\StudentT::inverse()
+     *      Use the inverse() method in the Statistical\Distributions\StudentT class instead
+     *
+     * @param float $probability Probability for the function
+     * @param float $degrees degrees of freedom
+     *
+     * @return array|float|string The result, or a string containing an error
+     */
+    public static function TINV($probability, $degrees)
+    {
+        return Statistical\Distributions\StudentT::inverse($probability, $degrees);
+    }
+
+    /**
+     * TREND.
+     *
+     * Returns values along a linear Trend
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Trends::TREND()
+     *      Use the TREND() method in the Statistical\Trends class instead
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param mixed[] $xValues Data Series X
+     * @param mixed[] $newValues Values of X for which we want to find Y
+     * @param bool $const a logical value specifying whether to force the intersect to equal 0
+     *
+     * @return float[]
+     */
+    public static function TREND($yValues, $xValues = [], $newValues = [], $const = true)
+    {
+        return Trends::TREND($yValues, $xValues, $newValues, $const);
+    }
+
+    /**
+     * TRIMMEAN.
+     *
+     * Returns the mean of the interior of a data set. TRIMMEAN calculates the mean
+     *        taken by excluding a percentage of data points from the top and bottom tails
+     *        of a data set.
+     *
+     * Excel Function:
+     *        TRIMEAN(value1[,value2[, ...]], $discard)
+     *
+     * @Deprecated 1.18.0
+     *
+     *@see Statistical\Averages\Mean::trim()
+     *      Use the trim() method in the Statistical\Averages\Mean class instead
+     *
+     * @param mixed $args Data values
+     *
+     * @return float|string
+     */
+    public static function TRIMMEAN(...$args)
+    {
+        return Statistical\Averages\Mean::trim(...$args);
+    }
+
+    /**
+     * VARFunc.
+     *
+     * Estimates variance based on a sample.
+     *
+     * Excel Function:
+     *        VAR(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     *@see Statistical\Variances::VAR()
+     *      Use the VAR() method in the Statistical\Variances class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string (string if result is an error)
+     */
+    public static function VARFunc(...$args)
+    {
+        return Variances::VAR(...$args);
+    }
+
+    /**
+     * VARA.
+     *
+     * Estimates variance based on a sample, including numbers, text, and logical values
+     *
+     * Excel Function:
+     *        VARA(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Variances::VARA()
+     *      Use the VARA() method in the Statistical\Variances class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string (string if result is an error)
+     */
+    public static function VARA(...$args)
+    {
+        return Variances::VARA(...$args);
+    }
+
+    /**
+     * VARP.
+     *
+     * Calculates variance based on the entire population
+     *
+     * Excel Function:
+     *        VARP(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Variances::VARP()
+     *      Use the VARP() method in the Statistical\Variances class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string (string if result is an error)
+     */
+    public static function VARP(...$args)
+    {
+        return Variances::VARP(...$args);
+    }
+
+    /**
+     * VARPA.
+     *
+     * Calculates variance based on the entire population, including numbers, text, and logical values
+     *
+     * Excel Function:
+     *        VARPA(value1[,value2[, ...]])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Statistical\Variances::VARPA()
+     *      Use the VARPA() method in the Statistical\Variances class instead
+     *
+     * @param mixed ...$args Data values
+     *
+     * @return float|string (string if result is an error)
+     */
+    public static function VARPA(...$args)
+    {
+        return Variances::VARPA(...$args);
+    }
+
+    /**
+     * WEIBULL.
+     *
+     * Returns the Weibull distribution. Use this distribution in reliability
+     * analysis, such as calculating a device's mean time to failure.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\Weibull::distribution()
+     *      Use the distribution() method in the Statistical\Distributions\Weibull class instead
+     *
+     * @param float $value
+     * @param float $alpha Alpha Parameter
+     * @param float $beta Beta Parameter
+     * @param bool $cumulative
+     *
+     * @return array|float|string (string if result is an error)
+     */
+    public static function WEIBULL($value, $alpha, $beta, $cumulative)
+    {
+        return Statistical\Distributions\Weibull::distribution($value, $alpha, $beta, $cumulative);
+    }
+
+    /**
+     * ZTEST.
+     *
+     * Returns the one-tailed P-value of a z-test.
+     *
+     * For a given hypothesized population mean, x, Z.TEST returns the probability that the sample mean would be
+     *     greater than the average of observations in the data set (array) — that is, the observed sample mean.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Statistical\Distributions\StandardNormal::zTest()
+     *      Use the zTest() method in the Statistical\Distributions\StandardNormal class instead
+     *
+     * @param float $dataSet
+     * @param float $m0 Alpha Parameter
+     * @param float $sigma Beta Parameter
+     *
+     * @return array|float|string (string if result is an error)
+     */
+    public static function ZTEST($dataSet, $m0, $sigma = null)
+    {
+        return Statistical\Distributions\StandardNormal::zTest($dataSet, $m0, $sigma);
+    }
+}

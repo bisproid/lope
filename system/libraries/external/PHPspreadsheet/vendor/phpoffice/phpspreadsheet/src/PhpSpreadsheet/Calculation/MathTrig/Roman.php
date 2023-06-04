@@ -1,209 +1,846 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\MathTrig;
+
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+
+class Roman
+{
+    use ArrayEnabled;
+
+    private const VALUES = [
+        45 => ['VL'],
+        46 => ['VLI'],
+        47 => ['VLII'],
+        48 => ['VLIII'],
+        49 => ['VLIV', 'IL'],
+        95 => ['VC'],
+        96 => ['VCI'],
+        97 => ['VCII'],
+        98 => ['VCIII'],
+        99 => ['VCIV', 'IC'],
+        145 => ['CVL'],
+        146 => ['CVLI'],
+        147 => ['CVLII'],
+        148 => ['CVLIII'],
+        149 => ['CVLIV', 'CIL'],
+        195 => ['CVC'],
+        196 => ['CVCI'],
+        197 => ['CVCII'],
+        198 => ['CVCIII'],
+        199 => ['CVCIV', 'CIC'],
+        245 => ['CCVL'],
+        246 => ['CCVLI'],
+        247 => ['CCVLII'],
+        248 => ['CCVLIII'],
+        249 => ['CCVLIV', 'CCIL'],
+        295 => ['CCVC'],
+        296 => ['CCVCI'],
+        297 => ['CCVCII'],
+        298 => ['CCVCIII'],
+        299 => ['CCVCIV', 'CCIC'],
+        345 => ['CCCVL'],
+        346 => ['CCCVLI'],
+        347 => ['CCCVLII'],
+        348 => ['CCCVLIII'],
+        349 => ['CCCVLIV', 'CCCIL'],
+        395 => ['CCCVC'],
+        396 => ['CCCVCI'],
+        397 => ['CCCVCII'],
+        398 => ['CCCVCIII'],
+        399 => ['CCCVCIV', 'CCCIC'],
+        445 => ['CDVL'],
+        446 => ['CDVLI'],
+        447 => ['CDVLII'],
+        448 => ['CDVLIII'],
+        449 => ['CDVLIV', 'CDIL'],
+        450 => ['LD'],
+        451 => ['LDI'],
+        452 => ['LDII'],
+        453 => ['LDIII'],
+        454 => ['LDIV'],
+        455 => ['LDV'],
+        456 => ['LDVI'],
+        457 => ['LDVII'],
+        458 => ['LDVIII'],
+        459 => ['LDIX'],
+        460 => ['LDX'],
+        461 => ['LDXI'],
+        462 => ['LDXII'],
+        463 => ['LDXIII'],
+        464 => ['LDXIV'],
+        465 => ['LDXV'],
+        466 => ['LDXVI'],
+        467 => ['LDXVII'],
+        468 => ['LDXVIII'],
+        469 => ['LDXIX'],
+        470 => ['LDXX'],
+        471 => ['LDXXI'],
+        472 => ['LDXXII'],
+        473 => ['LDXXIII'],
+        474 => ['LDXXIV'],
+        475 => ['LDXXV'],
+        476 => ['LDXXVI'],
+        477 => ['LDXXVII'],
+        478 => ['LDXXVIII'],
+        479 => ['LDXXIX'],
+        480 => ['LDXXX'],
+        481 => ['LDXXXI'],
+        482 => ['LDXXXII'],
+        483 => ['LDXXXIII'],
+        484 => ['LDXXXIV'],
+        485 => ['LDXXXV'],
+        486 => ['LDXXXVI'],
+        487 => ['LDXXXVII'],
+        488 => ['LDXXXVIII'],
+        489 => ['LDXXXIX'],
+        490 => ['LDXL', 'XD'],
+        491 => ['LDXLI', 'XDI'],
+        492 => ['LDXLII', 'XDII'],
+        493 => ['LDXLIII', 'XDIII'],
+        494 => ['LDXLIV', 'XDIV'],
+        495 => ['LDVL', 'XDV', 'VD'],
+        496 => ['LDVLI', 'XDVI', 'VDI'],
+        497 => ['LDVLII', 'XDVII', 'VDII'],
+        498 => ['LDVLIII', 'XDVIII', 'VDIII'],
+        499 => ['LDVLIV', 'XDIX', 'VDIV', 'ID'],
+        545 => ['DVL'],
+        546 => ['DVLI'],
+        547 => ['DVLII'],
+        548 => ['DVLIII'],
+        549 => ['DVLIV', 'DIL'],
+        595 => ['DVC'],
+        596 => ['DVCI'],
+        597 => ['DVCII'],
+        598 => ['DVCIII'],
+        599 => ['DVCIV', 'DIC'],
+        645 => ['DCVL'],
+        646 => ['DCVLI'],
+        647 => ['DCVLII'],
+        648 => ['DCVLIII'],
+        649 => ['DCVLIV', 'DCIL'],
+        695 => ['DCVC'],
+        696 => ['DCVCI'],
+        697 => ['DCVCII'],
+        698 => ['DCVCIII'],
+        699 => ['DCVCIV', 'DCIC'],
+        745 => ['DCCVL'],
+        746 => ['DCCVLI'],
+        747 => ['DCCVLII'],
+        748 => ['DCCVLIII'],
+        749 => ['DCCVLIV', 'DCCIL'],
+        795 => ['DCCVC'],
+        796 => ['DCCVCI'],
+        797 => ['DCCVCII'],
+        798 => ['DCCVCIII'],
+        799 => ['DCCVCIV', 'DCCIC'],
+        845 => ['DCCCVL'],
+        846 => ['DCCCVLI'],
+        847 => ['DCCCVLII'],
+        848 => ['DCCCVLIII'],
+        849 => ['DCCCVLIV', 'DCCCIL'],
+        895 => ['DCCCVC'],
+        896 => ['DCCCVCI'],
+        897 => ['DCCCVCII'],
+        898 => ['DCCCVCIII'],
+        899 => ['DCCCVCIV', 'DCCCIC'],
+        945 => ['CMVL'],
+        946 => ['CMVLI'],
+        947 => ['CMVLII'],
+        948 => ['CMVLIII'],
+        949 => ['CMVLIV', 'CMIL'],
+        950 => ['LM'],
+        951 => ['LMI'],
+        952 => ['LMII'],
+        953 => ['LMIII'],
+        954 => ['LMIV'],
+        955 => ['LMV'],
+        956 => ['LMVI'],
+        957 => ['LMVII'],
+        958 => ['LMVIII'],
+        959 => ['LMIX'],
+        960 => ['LMX'],
+        961 => ['LMXI'],
+        962 => ['LMXII'],
+        963 => ['LMXIII'],
+        964 => ['LMXIV'],
+        965 => ['LMXV'],
+        966 => ['LMXVI'],
+        967 => ['LMXVII'],
+        968 => ['LMXVIII'],
+        969 => ['LMXIX'],
+        970 => ['LMXX'],
+        971 => ['LMXXI'],
+        972 => ['LMXXII'],
+        973 => ['LMXXIII'],
+        974 => ['LMXXIV'],
+        975 => ['LMXXV'],
+        976 => ['LMXXVI'],
+        977 => ['LMXXVII'],
+        978 => ['LMXXVIII'],
+        979 => ['LMXXIX'],
+        980 => ['LMXXX'],
+        981 => ['LMXXXI'],
+        982 => ['LMXXXII'],
+        983 => ['LMXXXIII'],
+        984 => ['LMXXXIV'],
+        985 => ['LMXXXV'],
+        986 => ['LMXXXVI'],
+        987 => ['LMXXXVII'],
+        988 => ['LMXXXVIII'],
+        989 => ['LMXXXIX'],
+        990 => ['LMXL', 'XM'],
+        991 => ['LMXLI', 'XMI'],
+        992 => ['LMXLII', 'XMII'],
+        993 => ['LMXLIII', 'XMIII'],
+        994 => ['LMXLIV', 'XMIV'],
+        995 => ['LMVL', 'XMV', 'VM'],
+        996 => ['LMVLI', 'XMVI', 'VMI'],
+        997 => ['LMVLII', 'XMVII', 'VMII'],
+        998 => ['LMVLIII', 'XMVIII', 'VMIII'],
+        999 => ['LMVLIV', 'XMIX', 'VMIV', 'IM'],
+        1045 => ['MVL'],
+        1046 => ['MVLI'],
+        1047 => ['MVLII'],
+        1048 => ['MVLIII'],
+        1049 => ['MVLIV', 'MIL'],
+        1095 => ['MVC'],
+        1096 => ['MVCI'],
+        1097 => ['MVCII'],
+        1098 => ['MVCIII'],
+        1099 => ['MVCIV', 'MIC'],
+        1145 => ['MCVL'],
+        1146 => ['MCVLI'],
+        1147 => ['MCVLII'],
+        1148 => ['MCVLIII'],
+        1149 => ['MCVLIV', 'MCIL'],
+        1195 => ['MCVC'],
+        1196 => ['MCVCI'],
+        1197 => ['MCVCII'],
+        1198 => ['MCVCIII'],
+        1199 => ['MCVCIV', 'MCIC'],
+        1245 => ['MCCVL'],
+        1246 => ['MCCVLI'],
+        1247 => ['MCCVLII'],
+        1248 => ['MCCVLIII'],
+        1249 => ['MCCVLIV', 'MCCIL'],
+        1295 => ['MCCVC'],
+        1296 => ['MCCVCI'],
+        1297 => ['MCCVCII'],
+        1298 => ['MCCVCIII'],
+        1299 => ['MCCVCIV', 'MCCIC'],
+        1345 => ['MCCCVL'],
+        1346 => ['MCCCVLI'],
+        1347 => ['MCCCVLII'],
+        1348 => ['MCCCVLIII'],
+        1349 => ['MCCCVLIV', 'MCCCIL'],
+        1395 => ['MCCCVC'],
+        1396 => ['MCCCVCI'],
+        1397 => ['MCCCVCII'],
+        1398 => ['MCCCVCIII'],
+        1399 => ['MCCCVCIV', 'MCCCIC'],
+        1445 => ['MCDVL'],
+        1446 => ['MCDVLI'],
+        1447 => ['MCDVLII'],
+        1448 => ['MCDVLIII'],
+        1449 => ['MCDVLIV', 'MCDIL'],
+        1450 => ['MLD'],
+        1451 => ['MLDI'],
+        1452 => ['MLDII'],
+        1453 => ['MLDIII'],
+        1454 => ['MLDIV'],
+        1455 => ['MLDV'],
+        1456 => ['MLDVI'],
+        1457 => ['MLDVII'],
+        1458 => ['MLDVIII'],
+        1459 => ['MLDIX'],
+        1460 => ['MLDX'],
+        1461 => ['MLDXI'],
+        1462 => ['MLDXII'],
+        1463 => ['MLDXIII'],
+        1464 => ['MLDXIV'],
+        1465 => ['MLDXV'],
+        1466 => ['MLDXVI'],
+        1467 => ['MLDXVII'],
+        1468 => ['MLDXVIII'],
+        1469 => ['MLDXIX'],
+        1470 => ['MLDXX'],
+        1471 => ['MLDXXI'],
+        1472 => ['MLDXXII'],
+        1473 => ['MLDXXIII'],
+        1474 => ['MLDXXIV'],
+        1475 => ['MLDXXV'],
+        1476 => ['MLDXXVI'],
+        1477 => ['MLDXXVII'],
+        1478 => ['MLDXXVIII'],
+        1479 => ['MLDXXIX'],
+        1480 => ['MLDXXX'],
+        1481 => ['MLDXXXI'],
+        1482 => ['MLDXXXII'],
+        1483 => ['MLDXXXIII'],
+        1484 => ['MLDXXXIV'],
+        1485 => ['MLDXXXV'],
+        1486 => ['MLDXXXVI'],
+        1487 => ['MLDXXXVII'],
+        1488 => ['MLDXXXVIII'],
+        1489 => ['MLDXXXIX'],
+        1490 => ['MLDXL', 'MXD'],
+        1491 => ['MLDXLI', 'MXDI'],
+        1492 => ['MLDXLII', 'MXDII'],
+        1493 => ['MLDXLIII', 'MXDIII'],
+        1494 => ['MLDXLIV', 'MXDIV'],
+        1495 => ['MLDVL', 'MXDV', 'MVD'],
+        1496 => ['MLDVLI', 'MXDVI', 'MVDI'],
+        1497 => ['MLDVLII', 'MXDVII', 'MVDII'],
+        1498 => ['MLDVLIII', 'MXDVIII', 'MVDIII'],
+        1499 => ['MLDVLIV', 'MXDIX', 'MVDIV', 'MID'],
+        1545 => ['MDVL'],
+        1546 => ['MDVLI'],
+        1547 => ['MDVLII'],
+        1548 => ['MDVLIII'],
+        1549 => ['MDVLIV', 'MDIL'],
+        1595 => ['MDVC'],
+        1596 => ['MDVCI'],
+        1597 => ['MDVCII'],
+        1598 => ['MDVCIII'],
+        1599 => ['MDVCIV', 'MDIC'],
+        1645 => ['MDCVL'],
+        1646 => ['MDCVLI'],
+        1647 => ['MDCVLII'],
+        1648 => ['MDCVLIII'],
+        1649 => ['MDCVLIV', 'MDCIL'],
+        1695 => ['MDCVC'],
+        1696 => ['MDCVCI'],
+        1697 => ['MDCVCII'],
+        1698 => ['MDCVCIII'],
+        1699 => ['MDCVCIV', 'MDCIC'],
+        1745 => ['MDCCVL'],
+        1746 => ['MDCCVLI'],
+        1747 => ['MDCCVLII'],
+        1748 => ['MDCCVLIII'],
+        1749 => ['MDCCVLIV', 'MDCCIL'],
+        1795 => ['MDCCVC'],
+        1796 => ['MDCCVCI'],
+        1797 => ['MDCCVCII'],
+        1798 => ['MDCCVCIII'],
+        1799 => ['MDCCVCIV', 'MDCCIC'],
+        1845 => ['MDCCCVL'],
+        1846 => ['MDCCCVLI'],
+        1847 => ['MDCCCVLII'],
+        1848 => ['MDCCCVLIII'],
+        1849 => ['MDCCCVLIV', 'MDCCCIL'],
+        1895 => ['MDCCCVC'],
+        1896 => ['MDCCCVCI'],
+        1897 => ['MDCCCVCII'],
+        1898 => ['MDCCCVCIII'],
+        1899 => ['MDCCCVCIV', 'MDCCCIC'],
+        1945 => ['MCMVL'],
+        1946 => ['MCMVLI'],
+        1947 => ['MCMVLII'],
+        1948 => ['MCMVLIII'],
+        1949 => ['MCMVLIV', 'MCMIL'],
+        1950 => ['MLM'],
+        1951 => ['MLMI'],
+        1952 => ['MLMII'],
+        1953 => ['MLMIII'],
+        1954 => ['MLMIV'],
+        1955 => ['MLMV'],
+        1956 => ['MLMVI'],
+        1957 => ['MLMVII'],
+        1958 => ['MLMVIII'],
+        1959 => ['MLMIX'],
+        1960 => ['MLMX'],
+        1961 => ['MLMXI'],
+        1962 => ['MLMXII'],
+        1963 => ['MLMXIII'],
+        1964 => ['MLMXIV'],
+        1965 => ['MLMXV'],
+        1966 => ['MLMXVI'],
+        1967 => ['MLMXVII'],
+        1968 => ['MLMXVIII'],
+        1969 => ['MLMXIX'],
+        1970 => ['MLMXX'],
+        1971 => ['MLMXXI'],
+        1972 => ['MLMXXII'],
+        1973 => ['MLMXXIII'],
+        1974 => ['MLMXXIV'],
+        1975 => ['MLMXXV'],
+        1976 => ['MLMXXVI'],
+        1977 => ['MLMXXVII'],
+        1978 => ['MLMXXVIII'],
+        1979 => ['MLMXXIX'],
+        1980 => ['MLMXXX'],
+        1981 => ['MLMXXXI'],
+        1982 => ['MLMXXXII'],
+        1983 => ['MLMXXXIII'],
+        1984 => ['MLMXXXIV'],
+        1985 => ['MLMXXXV'],
+        1986 => ['MLMXXXVI'],
+        1987 => ['MLMXXXVII'],
+        1988 => ['MLMXXXVIII'],
+        1989 => ['MLMXXXIX'],
+        1990 => ['MLMXL', 'MXM'],
+        1991 => ['MLMXLI', 'MXMI'],
+        1992 => ['MLMXLII', 'MXMII'],
+        1993 => ['MLMXLIII', 'MXMIII'],
+        1994 => ['MLMXLIV', 'MXMIV'],
+        1995 => ['MLMVL', 'MXMV', 'MVM'],
+        1996 => ['MLMVLI', 'MXMVI', 'MVMI'],
+        1997 => ['MLMVLII', 'MXMVII', 'MVMII'],
+        1998 => ['MLMVLIII', 'MXMVIII', 'MVMIII'],
+        1999 => ['MLMVLIV', 'MXMIX', 'MVMIV', 'MIM'],
+        2045 => ['MMVL'],
+        2046 => ['MMVLI'],
+        2047 => ['MMVLII'],
+        2048 => ['MMVLIII'],
+        2049 => ['MMVLIV', 'MMIL'],
+        2095 => ['MMVC'],
+        2096 => ['MMVCI'],
+        2097 => ['MMVCII'],
+        2098 => ['MMVCIII'],
+        2099 => ['MMVCIV', 'MMIC'],
+        2145 => ['MMCVL'],
+        2146 => ['MMCVLI'],
+        2147 => ['MMCVLII'],
+        2148 => ['MMCVLIII'],
+        2149 => ['MMCVLIV', 'MMCIL'],
+        2195 => ['MMCVC'],
+        2196 => ['MMCVCI'],
+        2197 => ['MMCVCII'],
+        2198 => ['MMCVCIII'],
+        2199 => ['MMCVCIV', 'MMCIC'],
+        2245 => ['MMCCVL'],
+        2246 => ['MMCCVLI'],
+        2247 => ['MMCCVLII'],
+        2248 => ['MMCCVLIII'],
+        2249 => ['MMCCVLIV', 'MMCCIL'],
+        2295 => ['MMCCVC'],
+        2296 => ['MMCCVCI'],
+        2297 => ['MMCCVCII'],
+        2298 => ['MMCCVCIII'],
+        2299 => ['MMCCVCIV', 'MMCCIC'],
+        2345 => ['MMCCCVL'],
+        2346 => ['MMCCCVLI'],
+        2347 => ['MMCCCVLII'],
+        2348 => ['MMCCCVLIII'],
+        2349 => ['MMCCCVLIV', 'MMCCCIL'],
+        2395 => ['MMCCCVC'],
+        2396 => ['MMCCCVCI'],
+        2397 => ['MMCCCVCII'],
+        2398 => ['MMCCCVCIII'],
+        2399 => ['MMCCCVCIV', 'MMCCCIC'],
+        2445 => ['MMCDVL'],
+        2446 => ['MMCDVLI'],
+        2447 => ['MMCDVLII'],
+        2448 => ['MMCDVLIII'],
+        2449 => ['MMCDVLIV', 'MMCDIL'],
+        2450 => ['MMLD'],
+        2451 => ['MMLDI'],
+        2452 => ['MMLDII'],
+        2453 => ['MMLDIII'],
+        2454 => ['MMLDIV'],
+        2455 => ['MMLDV'],
+        2456 => ['MMLDVI'],
+        2457 => ['MMLDVII'],
+        2458 => ['MMLDVIII'],
+        2459 => ['MMLDIX'],
+        2460 => ['MMLDX'],
+        2461 => ['MMLDXI'],
+        2462 => ['MMLDXII'],
+        2463 => ['MMLDXIII'],
+        2464 => ['MMLDXIV'],
+        2465 => ['MMLDXV'],
+        2466 => ['MMLDXVI'],
+        2467 => ['MMLDXVII'],
+        2468 => ['MMLDXVIII'],
+        2469 => ['MMLDXIX'],
+        2470 => ['MMLDXX'],
+        2471 => ['MMLDXXI'],
+        2472 => ['MMLDXXII'],
+        2473 => ['MMLDXXIII'],
+        2474 => ['MMLDXXIV'],
+        2475 => ['MMLDXXV'],
+        2476 => ['MMLDXXVI'],
+        2477 => ['MMLDXXVII'],
+        2478 => ['MMLDXXVIII'],
+        2479 => ['MMLDXXIX'],
+        2480 => ['MMLDXXX'],
+        2481 => ['MMLDXXXI'],
+        2482 => ['MMLDXXXII'],
+        2483 => ['MMLDXXXIII'],
+        2484 => ['MMLDXXXIV'],
+        2485 => ['MMLDXXXV'],
+        2486 => ['MMLDXXXVI'],
+        2487 => ['MMLDXXXVII'],
+        2488 => ['MMLDXXXVIII'],
+        2489 => ['MMLDXXXIX'],
+        2490 => ['MMLDXL', 'MMXD'],
+        2491 => ['MMLDXLI', 'MMXDI'],
+        2492 => ['MMLDXLII', 'MMXDII'],
+        2493 => ['MMLDXLIII', 'MMXDIII'],
+        2494 => ['MMLDXLIV', 'MMXDIV'],
+        2495 => ['MMLDVL', 'MMXDV', 'MMVD'],
+        2496 => ['MMLDVLI', 'MMXDVI', 'MMVDI'],
+        2497 => ['MMLDVLII', 'MMXDVII', 'MMVDII'],
+        2498 => ['MMLDVLIII', 'MMXDVIII', 'MMVDIII'],
+        2499 => ['MMLDVLIV', 'MMXDIX', 'MMVDIV', 'MMID'],
+        2545 => ['MMDVL'],
+        2546 => ['MMDVLI'],
+        2547 => ['MMDVLII'],
+        2548 => ['MMDVLIII'],
+        2549 => ['MMDVLIV', 'MMDIL'],
+        2595 => ['MMDVC'],
+        2596 => ['MMDVCI'],
+        2597 => ['MMDVCII'],
+        2598 => ['MMDVCIII'],
+        2599 => ['MMDVCIV', 'MMDIC'],
+        2645 => ['MMDCVL'],
+        2646 => ['MMDCVLI'],
+        2647 => ['MMDCVLII'],
+        2648 => ['MMDCVLIII'],
+        2649 => ['MMDCVLIV', 'MMDCIL'],
+        2695 => ['MMDCVC'],
+        2696 => ['MMDCVCI'],
+        2697 => ['MMDCVCII'],
+        2698 => ['MMDCVCIII'],
+        2699 => ['MMDCVCIV', 'MMDCIC'],
+        2745 => ['MMDCCVL'],
+        2746 => ['MMDCCVLI'],
+        2747 => ['MMDCCVLII'],
+        2748 => ['MMDCCVLIII'],
+        2749 => ['MMDCCVLIV', 'MMDCCIL'],
+        2795 => ['MMDCCVC'],
+        2796 => ['MMDCCVCI'],
+        2797 => ['MMDCCVCII'],
+        2798 => ['MMDCCVCIII'],
+        2799 => ['MMDCCVCIV', 'MMDCCIC'],
+        2845 => ['MMDCCCVL'],
+        2846 => ['MMDCCCVLI'],
+        2847 => ['MMDCCCVLII'],
+        2848 => ['MMDCCCVLIII'],
+        2849 => ['MMDCCCVLIV', 'MMDCCCIL'],
+        2895 => ['MMDCCCVC'],
+        2896 => ['MMDCCCVCI'],
+        2897 => ['MMDCCCVCII'],
+        2898 => ['MMDCCCVCIII'],
+        2899 => ['MMDCCCVCIV', 'MMDCCCIC'],
+        2945 => ['MMCMVL'],
+        2946 => ['MMCMVLI'],
+        2947 => ['MMCMVLII'],
+        2948 => ['MMCMVLIII'],
+        2949 => ['MMCMVLIV', 'MMCMIL'],
+        2950 => ['MMLM'],
+        2951 => ['MMLMI'],
+        2952 => ['MMLMII'],
+        2953 => ['MMLMIII'],
+        2954 => ['MMLMIV'],
+        2955 => ['MMLMV'],
+        2956 => ['MMLMVI'],
+        2957 => ['MMLMVII'],
+        2958 => ['MMLMVIII'],
+        2959 => ['MMLMIX'],
+        2960 => ['MMLMX'],
+        2961 => ['MMLMXI'],
+        2962 => ['MMLMXII'],
+        2963 => ['MMLMXIII'],
+        2964 => ['MMLMXIV'],
+        2965 => ['MMLMXV'],
+        2966 => ['MMLMXVI'],
+        2967 => ['MMLMXVII'],
+        2968 => ['MMLMXVIII'],
+        2969 => ['MMLMXIX'],
+        2970 => ['MMLMXX'],
+        2971 => ['MMLMXXI'],
+        2972 => ['MMLMXXII'],
+        2973 => ['MMLMXXIII'],
+        2974 => ['MMLMXXIV'],
+        2975 => ['MMLMXXV'],
+        2976 => ['MMLMXXVI'],
+        2977 => ['MMLMXXVII'],
+        2978 => ['MMLMXXVIII'],
+        2979 => ['MMLMXXIX'],
+        2980 => ['MMLMXXX'],
+        2981 => ['MMLMXXXI'],
+        2982 => ['MMLMXXXII'],
+        2983 => ['MMLMXXXIII'],
+        2984 => ['MMLMXXXIV'],
+        2985 => ['MMLMXXXV'],
+        2986 => ['MMLMXXXVI'],
+        2987 => ['MMLMXXXVII'],
+        2988 => ['MMLMXXXVIII'],
+        2989 => ['MMLMXXXIX'],
+        2990 => ['MMLMXL', 'MMXM'],
+        2991 => ['MMLMXLI', 'MMXMI'],
+        2992 => ['MMLMXLII', 'MMXMII'],
+        2993 => ['MMLMXLIII', 'MMXMIII'],
+        2994 => ['MMLMXLIV', 'MMXMIV'],
+        2995 => ['MMLMVL', 'MMXMV', 'MMVM'],
+        2996 => ['MMLMVLI', 'MMXMVI', 'MMVMI'],
+        2997 => ['MMLMVLII', 'MMXMVII', 'MMVMII'],
+        2998 => ['MMLMVLIII', 'MMXMVIII', 'MMVMIII'],
+        2999 => ['MMLMVLIV', 'MMXMIX', 'MMVMIV', 'MMIM'],
+        3045 => ['MMMVL'],
+        3046 => ['MMMVLI'],
+        3047 => ['MMMVLII'],
+        3048 => ['MMMVLIII'],
+        3049 => ['MMMVLIV', 'MMMIL'],
+        3095 => ['MMMVC'],
+        3096 => ['MMMVCI'],
+        3097 => ['MMMVCII'],
+        3098 => ['MMMVCIII'],
+        3099 => ['MMMVCIV', 'MMMIC'],
+        3145 => ['MMMCVL'],
+        3146 => ['MMMCVLI'],
+        3147 => ['MMMCVLII'],
+        3148 => ['MMMCVLIII'],
+        3149 => ['MMMCVLIV', 'MMMCIL'],
+        3195 => ['MMMCVC'],
+        3196 => ['MMMCVCI'],
+        3197 => ['MMMCVCII'],
+        3198 => ['MMMCVCIII'],
+        3199 => ['MMMCVCIV', 'MMMCIC'],
+        3245 => ['MMMCCVL'],
+        3246 => ['MMMCCVLI'],
+        3247 => ['MMMCCVLII'],
+        3248 => ['MMMCCVLIII'],
+        3249 => ['MMMCCVLIV', 'MMMCCIL'],
+        3295 => ['MMMCCVC'],
+        3296 => ['MMMCCVCI'],
+        3297 => ['MMMCCVCII'],
+        3298 => ['MMMCCVCIII'],
+        3299 => ['MMMCCVCIV', 'MMMCCIC'],
+        3345 => ['MMMCCCVL'],
+        3346 => ['MMMCCCVLI'],
+        3347 => ['MMMCCCVLII'],
+        3348 => ['MMMCCCVLIII'],
+        3349 => ['MMMCCCVLIV', 'MMMCCCIL'],
+        3395 => ['MMMCCCVC'],
+        3396 => ['MMMCCCVCI'],
+        3397 => ['MMMCCCVCII'],
+        3398 => ['MMMCCCVCIII'],
+        3399 => ['MMMCCCVCIV', 'MMMCCCIC'],
+        3445 => ['MMMCDVL'],
+        3446 => ['MMMCDVLI'],
+        3447 => ['MMMCDVLII'],
+        3448 => ['MMMCDVLIII'],
+        3449 => ['MMMCDVLIV', 'MMMCDIL'],
+        3450 => ['MMMLD'],
+        3451 => ['MMMLDI'],
+        3452 => ['MMMLDII'],
+        3453 => ['MMMLDIII'],
+        3454 => ['MMMLDIV'],
+        3455 => ['MMMLDV'],
+        3456 => ['MMMLDVI'],
+        3457 => ['MMMLDVII'],
+        3458 => ['MMMLDVIII'],
+        3459 => ['MMMLDIX'],
+        3460 => ['MMMLDX'],
+        3461 => ['MMMLDXI'],
+        3462 => ['MMMLDXII'],
+        3463 => ['MMMLDXIII'],
+        3464 => ['MMMLDXIV'],
+        3465 => ['MMMLDXV'],
+        3466 => ['MMMLDXVI'],
+        3467 => ['MMMLDXVII'],
+        3468 => ['MMMLDXVIII'],
+        3469 => ['MMMLDXIX'],
+        3470 => ['MMMLDXX'],
+        3471 => ['MMMLDXXI'],
+        3472 => ['MMMLDXXII'],
+        3473 => ['MMMLDXXIII'],
+        3474 => ['MMMLDXXIV'],
+        3475 => ['MMMLDXXV'],
+        3476 => ['MMMLDXXVI'],
+        3477 => ['MMMLDXXVII'],
+        3478 => ['MMMLDXXVIII'],
+        3479 => ['MMMLDXXIX'],
+        3480 => ['MMMLDXXX'],
+        3481 => ['MMMLDXXXI'],
+        3482 => ['MMMLDXXXII'],
+        3483 => ['MMMLDXXXIII'],
+        3484 => ['MMMLDXXXIV'],
+        3485 => ['MMMLDXXXV'],
+        3486 => ['MMMLDXXXVI'],
+        3487 => ['MMMLDXXXVII'],
+        3488 => ['MMMLDXXXVIII'],
+        3489 => ['MMMLDXXXIX'],
+        3490 => ['MMMLDXL', 'MMMXD'],
+        3491 => ['MMMLDXLI', 'MMMXDI'],
+        3492 => ['MMMLDXLII', 'MMMXDII'],
+        3493 => ['MMMLDXLIII', 'MMMXDIII'],
+        3494 => ['MMMLDXLIV', 'MMMXDIV'],
+        3495 => ['MMMLDVL', 'MMMXDV', 'MMMVD'],
+        3496 => ['MMMLDVLI', 'MMMXDVI', 'MMMVDI'],
+        3497 => ['MMMLDVLII', 'MMMXDVII', 'MMMVDII'],
+        3498 => ['MMMLDVLIII', 'MMMXDVIII', 'MMMVDIII'],
+        3499 => ['MMMLDVLIV', 'MMMXDIX', 'MMMVDIV', 'MMMID'],
+        3545 => ['MMMDVL'],
+        3546 => ['MMMDVLI'],
+        3547 => ['MMMDVLII'],
+        3548 => ['MMMDVLIII'],
+        3549 => ['MMMDVLIV', 'MMMDIL'],
+        3595 => ['MMMDVC'],
+        3596 => ['MMMDVCI'],
+        3597 => ['MMMDVCII'],
+        3598 => ['MMMDVCIII'],
+        3599 => ['MMMDVCIV', 'MMMDIC'],
+        3645 => ['MMMDCVL'],
+        3646 => ['MMMDCVLI'],
+        3647 => ['MMMDCVLII'],
+        3648 => ['MMMDCVLIII'],
+        3649 => ['MMMDCVLIV', 'MMMDCIL'],
+        3695 => ['MMMDCVC'],
+        3696 => ['MMMDCVCI'],
+        3697 => ['MMMDCVCII'],
+        3698 => ['MMMDCVCIII'],
+        3699 => ['MMMDCVCIV', 'MMMDCIC'],
+        3745 => ['MMMDCCVL'],
+        3746 => ['MMMDCCVLI'],
+        3747 => ['MMMDCCVLII'],
+        3748 => ['MMMDCCVLIII'],
+        3749 => ['MMMDCCVLIV', 'MMMDCCIL'],
+        3795 => ['MMMDCCVC'],
+        3796 => ['MMMDCCVCI'],
+        3797 => ['MMMDCCVCII'],
+        3798 => ['MMMDCCVCIII'],
+        3799 => ['MMMDCCVCIV', 'MMMDCCIC'],
+        3845 => ['MMMDCCCVL'],
+        3846 => ['MMMDCCCVLI'],
+        3847 => ['MMMDCCCVLII'],
+        3848 => ['MMMDCCCVLIII'],
+        3849 => ['MMMDCCCVLIV', 'MMMDCCCIL'],
+        3895 => ['MMMDCCCVC'],
+        3896 => ['MMMDCCCVCI'],
+        3897 => ['MMMDCCCVCII'],
+        3898 => ['MMMDCCCVCIII'],
+        3899 => ['MMMDCCCVCIV', 'MMMDCCCIC'],
+        3945 => ['MMMCMVL'],
+        3946 => ['MMMCMVLI'],
+        3947 => ['MMMCMVLII'],
+        3948 => ['MMMCMVLIII'],
+        3949 => ['MMMCMVLIV', 'MMMCMIL'],
+        3950 => ['MMMLM'],
+        3951 => ['MMMLMI'],
+        3952 => ['MMMLMII'],
+        3953 => ['MMMLMIII'],
+        3954 => ['MMMLMIV'],
+        3955 => ['MMMLMV'],
+        3956 => ['MMMLMVI'],
+        3957 => ['MMMLMVII'],
+        3958 => ['MMMLMVIII'],
+        3959 => ['MMMLMIX'],
+        3960 => ['MMMLMX'],
+        3961 => ['MMMLMXI'],
+        3962 => ['MMMLMXII'],
+        3963 => ['MMMLMXIII'],
+        3964 => ['MMMLMXIV'],
+        3965 => ['MMMLMXV'],
+        3966 => ['MMMLMXVI'],
+        3967 => ['MMMLMXVII'],
+        3968 => ['MMMLMXVIII'],
+        3969 => ['MMMLMXIX'],
+        3970 => ['MMMLMXX'],
+        3971 => ['MMMLMXXI'],
+        3972 => ['MMMLMXXII'],
+        3973 => ['MMMLMXXIII'],
+        3974 => ['MMMLMXXIV'],
+        3975 => ['MMMLMXXV'],
+        3976 => ['MMMLMXXVI'],
+        3977 => ['MMMLMXXVII'],
+        3978 => ['MMMLMXXVIII'],
+        3979 => ['MMMLMXXIX'],
+        3980 => ['MMMLMXXX'],
+        3981 => ['MMMLMXXXI'],
+        3982 => ['MMMLMXXXII'],
+        3983 => ['MMMLMXXXIII'],
+        3984 => ['MMMLMXXXIV'],
+        3985 => ['MMMLMXXXV'],
+        3986 => ['MMMLMXXXVI'],
+        3987 => ['MMMLMXXXVII'],
+        3988 => ['MMMLMXXXVIII'],
+        3989 => ['MMMLMXXXIX'],
+        3990 => ['MMMLMXL', 'MMMXM'],
+        3991 => ['MMMLMXLI', 'MMMXMI'],
+        3992 => ['MMMLMXLII', 'MMMXMII'],
+        3993 => ['MMMLMXLIII', 'MMMXMIII'],
+        3994 => ['MMMLMXLIV', 'MMMXMIV'],
+        3995 => ['MMMLMVL', 'MMMXMV', 'MMMVM'],
+        3996 => ['MMMLMVLI', 'MMMXMVI', 'MMMVMI'],
+        3997 => ['MMMLMVLII', 'MMMXMVII', 'MMMVMII'],
+        3998 => ['MMMLMVLIII', 'MMMXMVIII', 'MMMVMIII'],
+        3999 => ['MMMLMVLIV', 'MMMXMIX', 'MMMVMIV', 'MMMIM'],
+    ];
+
+    private const THOUSANDS = ['', 'M', 'MM', 'MMM'];
+    private const HUNDREDS = ['', 'C', 'CC', 'CCC', 'CD', 'D', 'DC', 'DCC', 'DCCC', 'CM'];
+    private const TENS = ['', 'X', 'XX', 'XXX', 'XL', 'L', 'LX', 'LXX', 'LXXX', 'XC'];
+    private const ONES = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX'];
+    const MAX_ROMAN_VALUE = 3999;
+    const MAX_ROMAN_STYLE = 4;
+
+    private static function valueOk(int $aValue, int $style): string
+    {
+        $origValue = $aValue;
+        $m = \intdiv($aValue, 1000);
+        $aValue %= 1000;
+        $c = \intdiv($aValue, 100);
+        $aValue %= 100;
+        $t = \intdiv($aValue, 10);
+        $aValue %= 10;
+        $result = self::THOUSANDS[$m] . self::HUNDREDS[$c] . self::TENS[$t] . self::ONES[$aValue];
+        if ($style > 0) {
+            if (array_key_exists($origValue, self::VALUES)) {
+                $arr = self::VALUES[$origValue];
+                $idx = min($style, count($arr)) - 1;
+                $result = $arr[$idx];
+            }
+        }
+
+        return $result;
+    }
+
+    private static function styleOk(int $aValue, int $style): string
+    {
+        return ($aValue < 0 || $aValue > self::MAX_ROMAN_VALUE) ? ExcelError::VALUE() : self::valueOk($aValue, $style);
+    }
+
+    public static function calculateRoman(int $aValue, int $style): string
+    {
+        return ($style < 0 || $style > self::MAX_ROMAN_STYLE) ? ExcelError::VALUE() : self::styleOk($aValue, $style);
+    }
+
+    /**
+     * ROMAN.
+     *
+     * Converts a number to Roman numeral
+     *
+     * @param mixed $aValue Number to convert
+     *                      Or can be an array of numbers
+     * @param mixed $style Number indicating one of five possible forms
+     *                      Or can be an array of styles
+     *
+     * @return array|string Roman numeral, or a string containing an error
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function evaluate($aValue, $style = 0)
+    {
+        if (is_array($aValue) || is_array($style)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $aValue, $style);
+        }
+
+        try {
+            $aValue = Helpers::validateNumericNullBool($aValue);
+            if (is_bool($style)) {
+                $style = $style ? 0 : 4;
+            }
+            $style = Helpers::validateNumericNullSubstitution($style, null);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        return self::calculateRoman((int) $aValue, (int) $style);
+    }
+}

@@ -1,326 +1,549 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+/**
+ * Defines allowed CSS attributes and what their values are.
+ * @see HTMLPurifier_HTMLDefinition
+ */
+class HTMLPurifier_CSSDefinition extends HTMLPurifier_Definition
+{
+
+    public $type = 'CSS';
+
+    /**
+     * Assoc array of attribute name to definition object.
+     * @type HTMLPurifier_AttrDef[]
+     */
+    public $info = array();
+
+    /**
+     * Constructs the info array.  The meat of this class.
+     * @param HTMLPurifier_Config $config
+     */
+    protected function doSetup($config)
+    {
+        $this->info['text-align'] = new HTMLPurifier_AttrDef_Enum(
+            array('left', 'right', 'center', 'justify'),
+            false
+        );
+
+        $border_style =
+            $this->info['border-bottom-style'] =
+            $this->info['border-right-style'] =
+            $this->info['border-left-style'] =
+            $this->info['border-top-style'] = new HTMLPurifier_AttrDef_Enum(
+                array(
+                    'none',
+                    'hidden',
+                    'dotted',
+                    'dashed',
+                    'solid',
+                    'double',
+                    'groove',
+                    'ridge',
+                    'inset',
+                    'outset'
+                ),
+                false
+            );
+
+        $this->info['border-style'] = new HTMLPurifier_AttrDef_CSS_Multiple($border_style);
+
+        $this->info['clear'] = new HTMLPurifier_AttrDef_Enum(
+            array('none', 'left', 'right', 'both'),
+            false
+        );
+        $this->info['float'] = new HTMLPurifier_AttrDef_Enum(
+            array('none', 'left', 'right'),
+            false
+        );
+        $this->info['font-style'] = new HTMLPurifier_AttrDef_Enum(
+            array('normal', 'italic', 'oblique'),
+            false
+        );
+        $this->info['font-variant'] = new HTMLPurifier_AttrDef_Enum(
+            array('normal', 'small-caps'),
+            false
+        );
+
+        $uri_or_none = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_Enum(array('none')),
+                new HTMLPurifier_AttrDef_CSS_URI()
+            )
+        );
+
+        $this->info['list-style-position'] = new HTMLPurifier_AttrDef_Enum(
+            array('inside', 'outside'),
+            false
+        );
+        $this->info['list-style-type'] = new HTMLPurifier_AttrDef_Enum(
+            array(
+                'disc',
+                'circle',
+                'square',
+                'decimal',
+                'lower-roman',
+                'upper-roman',
+                'lower-alpha',
+                'upper-alpha',
+                'none'
+            ),
+            false
+        );
+        $this->info['list-style-image'] = $uri_or_none;
+
+        $this->info['list-style'] = new HTMLPurifier_AttrDef_CSS_ListStyle($config);
+
+        $this->info['text-transform'] = new HTMLPurifier_AttrDef_Enum(
+            array('capitalize', 'uppercase', 'lowercase', 'none'),
+            false
+        );
+        $this->info['color'] = new HTMLPurifier_AttrDef_CSS_Color();
+
+        $this->info['background-image'] = $uri_or_none;
+        $this->info['background-repeat'] = new HTMLPurifier_AttrDef_Enum(
+            array('repeat', 'repeat-x', 'repeat-y', 'no-repeat')
+        );
+        $this->info['background-attachment'] = new HTMLPurifier_AttrDef_Enum(
+            array('scroll', 'fixed')
+        );
+        $this->info['background-position'] = new HTMLPurifier_AttrDef_CSS_BackgroundPosition();
+
+        $this->info['background-size'] = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_Enum(
+                    array(
+                        'auto',
+                        'cover',
+                        'contain',
+                        'initial',
+                        'inherit',
+                    )
+                ),
+                new HTMLPurifier_AttrDef_CSS_Percentage(),
+                new HTMLPurifier_AttrDef_CSS_Length()
+            )
+        );
+
+        $border_color =
+            $this->info['border-top-color'] =
+            $this->info['border-bottom-color'] =
+            $this->info['border-left-color'] =
+            $this->info['border-right-color'] =
+            $this->info['background-color'] = new HTMLPurifier_AttrDef_CSS_Composite(
+                array(
+                    new HTMLPurifier_AttrDef_Enum(array('transparent')),
+                    new HTMLPurifier_AttrDef_CSS_Color()
+                )
+            );
+
+        $this->info['background'] = new HTMLPurifier_AttrDef_CSS_Background($config);
+
+        $this->info['border-color'] = new HTMLPurifier_AttrDef_CSS_Multiple($border_color);
+
+        $border_width =
+            $this->info['border-top-width'] =
+            $this->info['border-bottom-width'] =
+            $this->info['border-left-width'] =
+            $this->info['border-right-width'] = new HTMLPurifier_AttrDef_CSS_Composite(
+                array(
+                    new HTMLPurifier_AttrDef_Enum(array('thin', 'medium', 'thick')),
+                    new HTMLPurifier_AttrDef_CSS_Length('0') //disallow negative
+                )
+            );
+
+        $this->info['border-width'] = new HTMLPurifier_AttrDef_CSS_Multiple($border_width);
+
+        $this->info['letter-spacing'] = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_Enum(array('normal')),
+                new HTMLPurifier_AttrDef_CSS_Length()
+            )
+        );
+
+        $this->info['word-spacing'] = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_Enum(array('normal')),
+                new HTMLPurifier_AttrDef_CSS_Length()
+            )
+        );
+
+        $this->info['font-size'] = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_Enum(
+                    array(
+                        'xx-small',
+                        'x-small',
+                        'small',
+                        'medium',
+                        'large',
+                        'x-large',
+                        'xx-large',
+                        'larger',
+                        'smaller'
+                    )
+                ),
+                new HTMLPurifier_AttrDef_CSS_Percentage(),
+                new HTMLPurifier_AttrDef_CSS_Length()
+            )
+        );
+
+        $this->info['line-height'] = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_Enum(array('normal')),
+                new HTMLPurifier_AttrDef_CSS_Number(true), // no negatives
+                new HTMLPurifier_AttrDef_CSS_Length('0'),
+                new HTMLPurifier_AttrDef_CSS_Percentage(true)
+            )
+        );
+
+        $margin =
+            $this->info['margin-top'] =
+            $this->info['margin-bottom'] =
+            $this->info['margin-left'] =
+            $this->info['margin-right'] = new HTMLPurifier_AttrDef_CSS_Composite(
+                array(
+                    new HTMLPurifier_AttrDef_CSS_Length(),
+                    new HTMLPurifier_AttrDef_CSS_Percentage(),
+                    new HTMLPurifier_AttrDef_Enum(array('auto'))
+                )
+            );
+
+        $this->info['margin'] = new HTMLPurifier_AttrDef_CSS_Multiple($margin);
+
+        // non-negative
+        $padding =
+            $this->info['padding-top'] =
+            $this->info['padding-bottom'] =
+            $this->info['padding-left'] =
+            $this->info['padding-right'] = new HTMLPurifier_AttrDef_CSS_Composite(
+                array(
+                    new HTMLPurifier_AttrDef_CSS_Length('0'),
+                    new HTMLPurifier_AttrDef_CSS_Percentage(true)
+                )
+            );
+
+        $this->info['padding'] = new HTMLPurifier_AttrDef_CSS_Multiple($padding);
+
+        $this->info['text-indent'] = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_CSS_Length(),
+                new HTMLPurifier_AttrDef_CSS_Percentage()
+            )
+        );
+
+        $trusted_wh = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_CSS_Length('0'),
+                new HTMLPurifier_AttrDef_CSS_Percentage(true),
+                new HTMLPurifier_AttrDef_Enum(array('auto', 'initial', 'inherit'))
+            )
+        );
+        $trusted_min_wh = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_CSS_Length('0'),
+                new HTMLPurifier_AttrDef_CSS_Percentage(true),
+                new HTMLPurifier_AttrDef_Enum(array('initial', 'inherit'))
+            )
+        );
+        $trusted_max_wh = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_CSS_Length('0'),
+                new HTMLPurifier_AttrDef_CSS_Percentage(true),
+                new HTMLPurifier_AttrDef_Enum(array('none', 'initial', 'inherit'))
+            )
+        );
+        $max = $config->get('CSS.MaxImgLength');
+
+        $this->info['width'] =
+        $this->info['height'] =
+            $max === null ?
+                $trusted_wh :
+                new HTMLPurifier_AttrDef_Switch(
+                    'img',
+                    // For img tags:
+                    new HTMLPurifier_AttrDef_CSS_Composite(
+                        array(
+                            new HTMLPurifier_AttrDef_CSS_Length('0', $max),
+                            new HTMLPurifier_AttrDef_Enum(array('auto'))
+                        )
+                    ),
+                    // For everyone else:
+                    $trusted_wh
+                );
+        $this->info['min-width'] =
+        $this->info['min-height'] =
+            $max === null ?
+                $trusted_min_wh :
+                new HTMLPurifier_AttrDef_Switch(
+                    'img',
+                    // For img tags:
+                    new HTMLPurifier_AttrDef_CSS_Composite(
+                        array(
+                            new HTMLPurifier_AttrDef_CSS_Length('0', $max),
+                            new HTMLPurifier_AttrDef_Enum(array('initial', 'inherit'))
+                        )
+                    ),
+                    // For everyone else:
+                    $trusted_min_wh
+                );
+        $this->info['max-width'] =
+        $this->info['max-height'] =
+            $max === null ?
+                $trusted_max_wh :
+                new HTMLPurifier_AttrDef_Switch(
+                    'img',
+                    // For img tags:
+                    new HTMLPurifier_AttrDef_CSS_Composite(
+                        array(
+                            new HTMLPurifier_AttrDef_CSS_Length('0', $max),
+                            new HTMLPurifier_AttrDef_Enum(array('none', 'initial', 'inherit'))
+                        )
+                    ),
+                    // For everyone else:
+                    $trusted_max_wh
+                );
+
+        $this->info['text-decoration'] = new HTMLPurifier_AttrDef_CSS_TextDecoration();
+
+        $this->info['font-family'] = new HTMLPurifier_AttrDef_CSS_FontFamily();
+
+        // this could use specialized code
+        $this->info['font-weight'] = new HTMLPurifier_AttrDef_Enum(
+            array(
+                'normal',
+                'bold',
+                'bolder',
+                'lighter',
+                '100',
+                '200',
+                '300',
+                '400',
+                '500',
+                '600',
+                '700',
+                '800',
+                '900'
+            ),
+            false
+        );
+
+        // MUST be called after other font properties, as it references
+        // a CSSDefinition object
+        $this->info['font'] = new HTMLPurifier_AttrDef_CSS_Font($config);
+
+        // same here
+        $this->info['border'] =
+        $this->info['border-bottom'] =
+        $this->info['border-top'] =
+        $this->info['border-left'] =
+        $this->info['border-right'] = new HTMLPurifier_AttrDef_CSS_Border($config);
+
+        $this->info['border-collapse'] = new HTMLPurifier_AttrDef_Enum(
+            array('collapse', 'separate')
+        );
+
+        $this->info['caption-side'] = new HTMLPurifier_AttrDef_Enum(
+            array('top', 'bottom')
+        );
+
+        $this->info['table-layout'] = new HTMLPurifier_AttrDef_Enum(
+            array('auto', 'fixed')
+        );
+
+        $this->info['vertical-align'] = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_Enum(
+                    array(
+                        'baseline',
+                        'sub',
+                        'super',
+                        'top',
+                        'text-top',
+                        'middle',
+                        'bottom',
+                        'text-bottom'
+                    )
+                ),
+                new HTMLPurifier_AttrDef_CSS_Length(),
+                new HTMLPurifier_AttrDef_CSS_Percentage()
+            )
+        );
+
+        $this->info['border-spacing'] = new HTMLPurifier_AttrDef_CSS_Multiple(new HTMLPurifier_AttrDef_CSS_Length(), 2);
+
+        // These CSS properties don't work on many browsers, but we live
+        // in THE FUTURE!
+        $this->info['white-space'] = new HTMLPurifier_AttrDef_Enum(
+            array('nowrap', 'normal', 'pre', 'pre-wrap', 'pre-line')
+        );
+
+        if ($config->get('CSS.Proprietary')) {
+            $this->doSetupProprietary($config);
+        }
+
+        if ($config->get('CSS.AllowTricky')) {
+            $this->doSetupTricky($config);
+        }
+
+        if ($config->get('CSS.Trusted')) {
+            $this->doSetupTrusted($config);
+        }
+
+        $allow_important = $config->get('CSS.AllowImportant');
+        // wrap all attr-defs with decorator that handles !important
+        foreach ($this->info as $k => $v) {
+            $this->info[$k] = new HTMLPurifier_AttrDef_CSS_ImportantDecorator($v, $allow_important);
+        }
+
+        $this->setupConfigStuff($config);
+    }
+
+    /**
+     * @param HTMLPurifier_Config $config
+     */
+    protected function doSetupProprietary($config)
+    {
+        // Internet Explorer only scrollbar colors
+        $this->info['scrollbar-arrow-color'] = new HTMLPurifier_AttrDef_CSS_Color();
+        $this->info['scrollbar-base-color'] = new HTMLPurifier_AttrDef_CSS_Color();
+        $this->info['scrollbar-darkshadow-color'] = new HTMLPurifier_AttrDef_CSS_Color();
+        $this->info['scrollbar-face-color'] = new HTMLPurifier_AttrDef_CSS_Color();
+        $this->info['scrollbar-highlight-color'] = new HTMLPurifier_AttrDef_CSS_Color();
+        $this->info['scrollbar-shadow-color'] = new HTMLPurifier_AttrDef_CSS_Color();
+
+        // vendor specific prefixes of opacity
+        $this->info['-moz-opacity'] = new HTMLPurifier_AttrDef_CSS_AlphaValue();
+        $this->info['-khtml-opacity'] = new HTMLPurifier_AttrDef_CSS_AlphaValue();
+
+        // only opacity, for now
+        $this->info['filter'] = new HTMLPurifier_AttrDef_CSS_Filter();
+
+        // more CSS3
+        $this->info['page-break-after'] =
+        $this->info['page-break-before'] = new HTMLPurifier_AttrDef_Enum(
+            array(
+                'auto',
+                'always',
+                'avoid',
+                'left',
+                'right'
+            )
+        );
+        $this->info['page-break-inside'] = new HTMLPurifier_AttrDef_Enum(array('auto', 'avoid'));
+
+        $border_radius = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_CSS_Percentage(true), // disallow negative
+                new HTMLPurifier_AttrDef_CSS_Length('0') // disallow negative
+            ));
+
+        $this->info['border-top-left-radius'] =
+        $this->info['border-top-right-radius'] =
+        $this->info['border-bottom-right-radius'] =
+        $this->info['border-bottom-left-radius'] = new HTMLPurifier_AttrDef_CSS_Multiple($border_radius, 2);
+        // TODO: support SLASH syntax
+        $this->info['border-radius'] = new HTMLPurifier_AttrDef_CSS_Multiple($border_radius, 4);
+
+    }
+
+    /**
+     * @param HTMLPurifier_Config $config
+     */
+    protected function doSetupTricky($config)
+    {
+        $this->info['display'] = new HTMLPurifier_AttrDef_Enum(
+            array(
+                'inline',
+                'block',
+                'list-item',
+                'run-in',
+                'compact',
+                'marker',
+                'table',
+                'inline-block',
+                'inline-table',
+                'table-row-group',
+                'table-header-group',
+                'table-footer-group',
+                'table-row',
+                'table-column-group',
+                'table-column',
+                'table-cell',
+                'table-caption',
+                'none'
+            )
+        );
+        $this->info['visibility'] = new HTMLPurifier_AttrDef_Enum(
+            array('visible', 'hidden', 'collapse')
+        );
+        $this->info['overflow'] = new HTMLPurifier_AttrDef_Enum(array('visible', 'hidden', 'auto', 'scroll'));
+        $this->info['opacity'] = new HTMLPurifier_AttrDef_CSS_AlphaValue();
+    }
+
+    /**
+     * @param HTMLPurifier_Config $config
+     */
+    protected function doSetupTrusted($config)
+    {
+        $this->info['position'] = new HTMLPurifier_AttrDef_Enum(
+            array('static', 'relative', 'absolute', 'fixed')
+        );
+        $this->info['top'] =
+        $this->info['left'] =
+        $this->info['right'] =
+        $this->info['bottom'] = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_CSS_Length(),
+                new HTMLPurifier_AttrDef_CSS_Percentage(),
+                new HTMLPurifier_AttrDef_Enum(array('auto')),
+            )
+        );
+        $this->info['z-index'] = new HTMLPurifier_AttrDef_CSS_Composite(
+            array(
+                new HTMLPurifier_AttrDef_Integer(),
+                new HTMLPurifier_AttrDef_Enum(array('auto')),
+            )
+        );
+    }
+
+    /**
+     * Performs extra config-based processing. Based off of
+     * HTMLPurifier_HTMLDefinition.
+     * @param HTMLPurifier_Config $config
+     * @todo Refactor duplicate elements into common class (probably using
+     *       composition, not inheritance).
+     */
+    protected function setupConfigStuff($config)
+    {
+        // setup allowed elements
+        $support = "(for information on implementing this, see the " .
+            "support forums) ";
+        $allowed_properties = $config->get('CSS.AllowedProperties');
+        if ($allowed_properties !== null) {
+            foreach ($this->info as $name => $d) {
+                if (!isset($allowed_properties[$name])) {
+                    unset($this->info[$name]);
+                }
+                unset($allowed_properties[$name]);
+            }
+            // emit errors
+            foreach ($allowed_properties as $name => $d) {
+                // :TODO: Is this htmlspecialchars() call really necessary?
+                $name = htmlspecialchars($name);
+                trigger_error("Style attribute '$name' is not supported $support", E_USER_WARNING);
+            }
+        }
+
+        $forbidden_properties = $config->get('CSS.ForbiddenProperties');
+        if ($forbidden_properties !== null) {
+            foreach ($this->info as $name => $d) {
+                if (isset($forbidden_properties[$name])) {
+                    unset($this->info[$name]);
+                }
+            }
+        }
+    }
+}
+
+// vim: et sw=4 sts=4

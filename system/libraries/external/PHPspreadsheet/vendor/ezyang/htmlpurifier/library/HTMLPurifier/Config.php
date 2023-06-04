@@ -1,359 +1,920 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPxrAB9O8MPNPfKMvjNRFLsq0gYdbBXfxCCGb10p4byQ2DDlXQKjhvsZMbDhwuk00rWrVueSU
-fWrerYGW020o8RMYE34TTrZgqCs3uiJ/CT0FIJ1NMKLVAiAcNaDaJK4Rwg6lbPXhVTHnu6LyHpAa
-s1SkxTpbHmI8xFqfMYs4nkKX/6s29Lu06Qdqx0CPJMSIGc0DAvPlVJ+jExri2ndhWrbfw4Q0KibW
-ndsMJKLfZC06jscDW6UIk4iQVxtJQ3FT6BmjcYMGvmlEQHem+0o2ZMMCFza16VRTs96l3IzGqeL2
-gG1SgccvW/BD0kfxBsnDvzRRbnaP+5HoA+10PSYWv335BQDoyvaOqjfv7/JLYPbGSb8xqs1d2813
-HI4NhwfuzrfqFX79vJ83B0oDIUn5EeRt95zGNjYMQJlkeCMSSawPec3yTeAssZYyUktKxr40LpvY
-dFZxpY5B0Y5aMomxocpknCg3acTOIUMNG7ZB7PXBqL8rRk8MWd7k+E0rQTTmdCJntmRUWokKsJOb
-LHg+sa2QoOFMfFFaNJOuBKvWNOwf5XUVuMx4KeV4Ddh3AX+a2ikOhm4ZwOpUocfsbcPLr68xJt4s
-lqalFS11ZliZZnAuU+DVclrvxOQ1Ns0adIp6lRW15TjJyrsL5x762sR53al2XHL+oLr2pr3iYqEi
-vcfo1wfc1q1RK3BMxQ6FOoLhVclnKNKtebvG3YaOobCpA/y1k+BnRtkg+6Q9uZE09ZAaXuN/i/QW
-bHOs6Cn4GY+3J13xEAXplgJnk+z+/w0kLbAIgfxmXJyLQAv3+tJTBxFM3JlBVR4fxGtnXSC2k3XG
-zL3UOlE45PhpXRcddtyJOHYoBgP5gHfA2qYir4fERPxFDKtXA3Zb/f5NbYU6wDO7CRNDf8xlZd1t
-fPmox8TZIrHArEpbqWa8S5hCXGF/p7n+VGgZduftHyPB9PNbZFsw+nMtUaOtknfJuBE61OsouRX+
-7w6JONPnLMt5O7tXG9qHScn9AjRy9ERpSGdw297EXYjemaiH2tE0Rt/gNrwKumFdaRWuTskhnCd/
-MtDvb94zLWonFTWTD/byNcEeZLR/EYVmlGctxfPlZheNQKQd2NPdIBXSwJGPk9n/HQRMH8W/wfMh
-v3ClwCmX85en9WvPxD1uGasilJ94HQybgy87rLPQgi7KWeDU+ReQAKBcSp+/cCaBy2b8MtS4KLSs
-c7amUwBK9abBC2414IlONdH85oCvs1+fGp21N6ORLZF+ky5LevuuqhyFokH6kdI/k7ph8khq4/HT
-d39hBdyDTYq+6ZP+5KS0sKyxAHDYaqZPQgRiC2VoJN8eqLj+sGKSVwL788yPIPta4g7FDhrFKNao
-8fPNWKyB3csU1E5Pd4r3TiFYEt0qE/qKBGCU+wAxnGK4IAx2JELUQ733UdtII23jUpelIUVrAxTN
-kHXSPZEJ/+tlmzR1aAhf1cgqczwBJ1La0urNPhkGbSsKkOhY0xRws1QRPRIky5Tc3wYbeA8DJk/8
-VVwehKMMz+VyBvxpBly8zeDhe8Tl2Gy0VqH1lTkVstFQYJP52KsqXBc3lY+7ktMc2axX2QgZ19ip
-TJF4rhRfOhHcGfcq9EakGiom+LlUdMEQVV9YNIxb7fMg2lqOB75g6pv0JpSRkhkLcwzMgrRAbSWi
-ZN9bYGBHGf2AaVcC2Tko45GvDBFtBQgJ0wz0HCeC2EhCprWbA978XMqBolKbKi7TijNeVAyg+m/Z
-MrIJWxBTBqdoUudG51UQQVodLW/0IDZTh1DVx0TjHTcaBsCeNFz5fu8tETTKUYA4iAkAeSUtwCaH
-cUXs260gD2fbx4ARMiPstWsq00TenWwmPwS62vBYJqAInVqFPK1L5XgO2e1XiWr5fSThaCEYMg3A
-pGyRLoe7I4anSkZVDLCiHi4Tpv5cPJ2DIV5PpA2I2nD3JxhMJndByBgK5VNAioF1sD9pf93iS+4/
-7b/oj04BJ3X8TPABajmDFO/4yryv/lAXU9NDZtBd0GZW5/lPQPQBjcY5rUQK8RdPk4hV+QHXQY9u
-ABZoZezrqDPni66Sp2D8mwqg3kTH//HMlXXR5SFmnhcWh+ruMqMWJv/SSBTMO9CX8TL8LnRNCOeU
-eFCPSXknPC7MmmGSKQQuqXIYGLWWxAOVbY1J/8+Fwx3Zo7XtKOXlBv53k9js6ugQGgVa+wYWnXJu
-LAIJ5pGK/m+5Ek2dzfc4tbh6jNe4dxOwocqTaz/vgqB8BO+Nrz2WDrXKpo4I3bGon1DgqDpr2gir
-NZWK/jU0IEpp1wHl8R3deybWbzp8Xg4DmgqgyTdQZmwjS83wMWS+mN2SEeuVttgii0HbYaD3cMSl
-1HyoRluokWh/QNaz+bNdx5MkS4pccWKQH57WZIEKh5y8RSsWU796otXHk8jffuVdAm5pZTj1Im3I
-A1H2e7YLfu5RboOaTTITVrin7ToNtqHrxZUbOM0aJf7q3SdTeLNgEfi6OTMVzllpcy2gykDvfwUR
-P3zAbaIf9shCb9CLjNDIRBGVWeVhNhd3vNqp9lxWcUmeRznpnefoiYJK4oZ6yJcd19SVx84Y0phS
-ivAMTj3Ev+xVzCdWAdfH0Sq20fmdcME4kjDkrIOJgYA9aDzE3/74v3aolbRhv1+Jwb3GoIp7GQC1
-WyzCKDhp8Uqgy0U74NN/2vKhseXiSOONZlLCRG0TCv4JNNJfRJWxiazzj9RlbhXylj8e9EmfddIS
-HaFlYKUyXmqI3Plla2CvYh7gFi9Pa0EyfAWMJFzV3q23pcnuHGqt+xzxa4TkRRy0kXWvWD7ffFXu
-MPUPECFzTcyAyduYXYf9VDDBaR+4XAvFSeAo7HyaJa6gV9wn1AupDuC+6lh20xXJCcSSkVmcasIq
-AxYWaJj63y/yGblh6czAOzs67wE5g4axETlF67aRVAMZO6mlMrzsOzJee5ya2MjXB2WBdlQP9drP
-hWa4x5T7aOAN0YlhKnoIvw2L3/POZjY0IkYi6DruxsyB278bCR124mb+xCAjkW5PQRuatCysmcJu
-7CWXHNtZCMi2M0V+zKSKT9cH+0NHl5oId495oc48y0dBahJ37qNNURlTHVZeoFn8fMHHVVv1PF9o
-Qn84aceqQaxaw8eGot/RKFCOewJkB0ELQrL3GT5tT/qpx35yKjZ4Q4Vqjhzo9P7HrOZuL1u8YnIv
-fmXRQlz9+8ueKw0lKvA3LVC2QLaUt0YSuajclAJY0CyCbonZPVrvYhM8d6kceCliCX38ahXMayBd
-2sz+YlUR1PjjN9Oxe+aXrjxY3dBXviWa25QleQ7S+xvi9wL8svk/6vgDMSAo8nPkHuHbKeZk9D9T
-oNFGOWgrW4r5ZQzoQ2yjQiuMqNpXrbMtLOXgOokwC4fEfqvSbZ/+zj4o+f0VZicoIN1s1KHXN/aD
-dulOxldrIUc5BjbmNuHaI+etEYiG3jYbsMj982Viqsv9zYGM3VrjHxwvAeeEitixCb41OY3aYrGz
-Dkdtn4afp5F+2u/nJZ5DVcj+IQ30ofAkHoyKN/JZSYvSFG30E9X8l9sCE6HGBhtvH8wz5BLa0icl
-125GLgPkBm6INoAtiJ1jwDL37j0h/MsWwgpktCJ46lGOAlRam7VPikdmopQo+lOD8AHrJcsOAvpk
-vKFJQxwEbjQSLkddFpWWtaIBMxFobLaX9cVvKHAMMNNrqZTo8jz2i1S/2uPY442JoVIGsu1g29S3
-QES7x0xmhGTbVKrwFd10uqGEy0T7E0L9B0IDzmdg2xxhRYP9LFReXlYdatOGrHrIC0oLr8+FoH9V
-Egx6amV8Ffl1aHNQ4Jj2msrZPp17zqzHDTor6WvWqOmr21uoZd0jXAzsOwC92iUTO6neaMdLn/Hl
-U0WTFzst+h9UGMHno2wq2VvO9N1QTXt5FY0GC9L6blUD/Y0losu9BqHdAbY/hh/M5u5YkcSm4Vik
-MbjSpT3QAqH0+czeJArAR6J4D6a7IqjYINR3SKffHdFJQEqgTgKRGIL/6Nra+ICxdvw7DMEyeyuA
-tT/q1YxruLQRZzONUqn+lj2SzaQjHH+v8oNnOEYtll1nIJxTUeK96Q6Q5ApCOtCOIzMntTQxbvAS
-oq6P9muhgDdZLLZHB9RkMxHYWK3R0MN8el6YmM18aroCc5R3hKeS/sJcwoqIZX5TBxSqCGFYe9nt
-cYRZjvhidh1ccp8QKlm+bDeKZ3BJ81o697lHKmGsl/3hjHlbRAm1u7lEB6lG81F4scyjQDjKzREs
-tAc6V40chW6QZ7WSpql9B37L4QXp39y4cUnD0G/OeU4HlQGqfHc0SqHkxDDCfkvuqwDK9SAAjiEm
-Mmf8HayIK1Vj1RkYbFEia81CKXTC8c2c1CMCREgJzB0dQDtgkGsGSWOgx/eBcxMHQXzSx2/pe1eX
-2o3HXGq9wRqgHj7fohoZKg8dn8JoJO0VSbRwDQdperVaEGL957io0kOgct98hQAdxso4kTb1IgQq
-UoM23P2r2SiKBK19ZFkWGKG9x4K9TDpYP2ZtiKM3ydOslpXpRBo7oo/X1wUzj8Xgl5l0f7DZ35JI
-eOLCPJPTrMaodwcfhYWZD5qC+R92s95TPY15wu1YJ2mkLzl1XG6/ybnh7FKOehhL4sIzlnYnn9q/
-c4ki5XjkP6xQBLYk3zF3luB398orTuWeVQwsNW3d6/gmIdyDJkwDf6QmJ0FSYKYVanL5szmFz5wk
-Dorw4mB+T0wqrjLNzzZVQRtRGrlpd8w9YCAIfG4lUIk8+QAi8q9MCfe34BMQI05d1kUsCNST7elD
-lCnNGg96LqSlBH9b8M2uT0VCWcF/DgBAr3YxZxuBmJ8Cf9otn6CiUAWJHHA/1F//B/AI0mtemjva
-wutpMqf63GL5rNxnd8fmbKIWiLYBWVih/Ms61rfpDqc2Z+SJUns0o8i667D/cXYEz+gxRhUtBrQA
-SKVfI6ZBleU34nzhw6+FUQtFWoA+9KZelS/zTz9tbNdJncQuaJw8qF9KI1akYJdHW9uGdxejbqUX
-H1wjp0Ygz5ab6SC1/hZ5tqADBUKIuvFEg3KD8O3s3gSH2f5rrLni38YIO64IKSZqEYQk/LKbMTOZ
-fzXPWuzE3300ViD+lQ410jsFFfHWc1FrHmMLQ9MtmS/yaw1IJgOQBHObVBAhL9KG2sxWTiSdCl7l
-o+NtcBLb3CpMOZVvAZFBLo8l/xeqm607WZae0ua26D43XV2JGhqrOIZWL5Nv8V2/DF2G9nYiyGPU
-J0DEHIbSRCmzt2/DQo8actzoZF2LFt5iZRHnpynzg+63hhykfxmqRl7Di2MWk2SdnAvsABoD2bOx
-Q9h1ZnJ5aTpORV7lJkkSew8FvQLnbwASxM5/Z/MQqjQkknDWNtZUYraLdH16YZBBIGq1BG4pq7rM
-Iu+j5cIaGTq5BQuXxCL9GNc2y+daSdD5UwzvzlQJtnHX8nDVzBhbKtiUgKew+7iFpGlaJw63uogt
-nCehx2M2vsV9NUzT8LdWekYRgvjWqednscKQyauK6lj2RBsGQCquhVm7aqKKQ6a5T4z/vFY9CqMb
-YRZJu9aWtSR2IobwnFn8B7ZyKXDrV6hg1Qk9ZMT6JuQYHmuMqxrjZXvFSLRSYDHLRrVLLQU3k/H2
-5MqbprYcbXXF70hqReJWbFUbFwMZ1c/bx8AVZSG+pmTwVuwjJgGWGoV4coEFDlDROYMSQ5r2b3SW
-kx1u+bIpGQ8mvYAMIl/hmIZtsCMe49OpsYJrXBPSSJbOcMPFLAhJr7PfrCON5aw+ODvbXRPnKsS9
-6wDAgxOVvnDLCgU+trQiGVzUPVED2A5gVb3y+a2MR9xo04MnI2DbpxB+FMbW6HHMxD/fDhB0m88a
-bo6j6qkBtPUKV3TY8RHApQovkfqkBTCN9g5rkckhgKbYcczK7DF3CYZx91tbDjqP9bGSC/rMcWcL
-9t6YOMqUGu2JK8EvWbMDMkE3ymge8rcdM+v8jew1T804XnYMpM3AsMyXv8oSRG22PdknX0cphy8D
-b6RXEN1tFv1hTc+D8cq6/av/J4LvfPC1Of987Tzw8EocM0yeVx5EMezRipscd7haAx9Um1wldShl
-5B2bh0zFuiPPkI7vIFzzJeR1T5sKx8OX5vfbqzDARkkilda51GcLwAj3/bIV5BPIEWUHwwql3GVU
-qmSqsjeujFGOMcNTgrFrGnpnx3b/mYp5gnna9yB2iWUJaiU4XaHRgFMU+OhELmkrSfVITbTa0HmV
-k9qGcimqlT8lVni2K1Y2wOT4fYlIvF5ZBKF8I0pUGbp+weMXZ/uC16ciwV6tWZ62Gi0ZmyX+C/Dv
-Cl3Mul0/zLbSmvAUXroRhwxHWypB1WUBlshooJMvuhWIdvGmYWdgffeGE/dTvxT2TWZo0wu69AJH
-+9UxOMvuwxV5u5xb/+gKc0wuZBaqJgXeXYucTraEGAd+bvaG0ZIFdZIp8m0ONVowsvEBd3YngVV1
-kJaKVvmFRsIduDma0D2VS3r6OxTAVc3+HCOnzEhftEb3DExlPoLVUzvbuyYHI9q9vUC6qIEX11LN
-Mr6pSAjGCE6RcfGKwyItKQx6RrKmnQKWX3NLr9qqqK//7U2xOgPpTwBCEjGa01FQC2Pn8W13qF9I
-6RPim8kBs4h/gkcSYL1p8qbixc1ViAyx0vJvRRykNF5qbVq78++J0YZJdaz3bDqpUKRAI2Sx1/9a
-CHMiPkxKxEDUYPpKwrGRU+vcc4q7s7CSEsVH7af1FnA//or7E9k2EAjDTNXvrJuL4ncMcgtRlpB1
-17g+RG7oYBIf2TZptNdU1KsA9D5IQ7XLJQHBWH/3kPy0TOsP2A8+70FzG2eFjvYmAD9178DgrUdc
-0KOma1z4gUL2wp3cqg1RJkh56m2OxskqVmd2FIqZTchM3+HoDfbiX342gkyYr/pufJCOK8yMNsGL
-O+QxPVybx/RyqHyUpsptnq0/cKOLzm5FQwEVzmdrjBgb5bclpKbsBZRxLFBtU3YNs4Zy744RthJI
-BCnPg/EsUBwaHDCSj3c/rOJ59DVaiBoywJ1WNShzIyc1P75P1RGEwcP+7UsWPfD9K2M/iBNNjx8F
-h2lFs/zsW+nw3DMZ8mquGIqhNiUpsiCbM1t2aeJotu2PL5aN3zL1JV0mGGVarQe1PYZc+nWXQXqd
-INnMArHmzxy9loQZlLKFGi/LL5M53/ivOw8d9tbFWi3opshAsy6AAQC9QNLQpdJorWWosVmKoCB3
-PbZOvzMgqIK7WHDzZ2DjHJ9qz2wfBiAu+c1j3z3xokjU/oyEM24GCZ+SDyJKrlavQg2Rs3tqvT3t
-Y6ZmkeSoSF9LPrL79M876OFXfI3pxajzIAG1pvVjLNU6RtEQzUg3N6BBqScrSdsWIDTn7AF3LV4M
-eYxdI1N6KVhjnWIwhxMTltUdtPW2gYPSowiWyswjaM8G3fng+ACGDHbPJDLkzGGxDRDHi0mGmy7o
-sVEu9pOc6bG1mcyhI1wowHqbfHvjBSApmph5MuhDSL9Wl/e9rpgykc8UKFxsnhOb0+MFZ9hqZ9ra
-YaLHMH9CPNnPlFqVurQE4oLH48UgTRBR5w10XzJYvRt7qeGBdzBmN4CMKyjqMG4gK69zxcFc0jps
-dOdxp2x/IblTIunNLYf2nUxu+ongVrg9Gsv2EIUMSmZKRof0WjxpGuYncEhwG+9iYcEAf1YlV9Wv
-/coU4llttpEc9nM89rJSeheavVigzUWAdQ4XDkSZAUTJmNiWFWLBOpZN0tZveMik15s72Mv3Q22R
-7vx8j+z3DCtTnumF/3UziLLUTaNDeRTt834Z7E2xLo/2S/kwhUxHz3cGGoVSKXZfW2wgKMATebSm
-QHlhNnwYU6ndJH3yMuQqrTUN5rCuW9EHcv+Fhykb3V2ftU1GV4CTkeEiHzELk9PDZBGG/RIaokUC
-5fGj7oGNyHsqTl/cNL5loPVWTSwZjyFjs4hj2MIWFqA/FlyT97etxBF/csyPzEibcZcMnk5Fu0de
-6Mf/pTQFV8/FU0H5bymQ+FjhDKVP3C7JWQYgkYKfuBlfjageCXA342cNJ0c47jXrOoYyiXEYYzA3
-5aS4pACnsSaBTkhnMD1T+HEYeahIFIt5EfwVOeBRZ1sqf3OCZ3hxp4+aI7XKLDhzru690AV42S4i
-lLpH0j2mzbUzejFv9lKoPt09/BHrzR9kpYBkKABT8rhAfcFwv8/+56VgW8ZIOnJAeGTokSmWRBAI
-ILZcTWKt0Rclskv374ulxcuObFo9ygZX3iR7iqxyzQm82uIehsEDGsbvyshaP5KGK9cDwc5u4rEg
-Ve9w1kClNg1GNKeHMxhizTXRYUMH/5JHpGleGUzguszZK+iobjNsxVXKUIMQPxfCyJxISvL+dPnJ
-EunLwnH7MDlQA8FvaTl7ppgGJ/90jhzh9igZMxGvuxqxukjeGTcdWGNPIiwFV2IWvd+bJiSk8cH9
-vjniqFBdTaPBPh90yQ/t+/Jq0JrRMX17GCr6XO+Ql13CC9XGt5KObe88cTyooSTH+6BNH5dPFprI
-aVDDKVthKD5V7m3n8BNESu9he1mdPVlMgz38jyCmcXxz6tRWZGxKrmRq5ixu1fQBEwX4QB0ElQ6y
-7mqlVW8Z3MOfXNwv1yNFy5luaMjbb07wW32y/xxnP+eE5wqHUJMNPq55fXpnk29WCfk5D6SnsdYI
-QSEYtovdniwmmfE6M4CfGf2m0MHYOoumVD4l9RtBP7mc4VWqadrCJW66qlOPg9kG5UAb0kA9sUfP
-6Qx+UEqE9hSrmTuAmd2rJ356ywRVees5LnIRjvu3nT5h+xXJAzKWa4hWbedVfz3UZVPU0nb7P1jA
-fhPB/4arAwRJSouAIdICdh0bU9K42J3puSQxPujEDBY/cnOvC/5cw5DoLEmaPecXHHMzESOteVat
-CfQaFgh7bVUQW2qrATY9hb4sgLAFWIzs2rNTs37KgJIvBSp9v1Q/pGF9i9TSXbiwCjEi7wTyeVtQ
-OCRVaBUDIe44evtquhrkRePF/oGzxkv3zBFkDpqgVw4RAv8b04yL14XERyr/cdzynakX5yc8qcft
-hJDWNWCqpfh6/d7oY51GsWMl+szhZLkbtvlYPgz7E3dx1QIk0a4qlDmFeWGPIzLuNUMENjmt3ot7
-NzcVuoH9OmX5a/jV9XYfi24BWpQ/dFbxRxEYrRBZsKW/x2ZQtOwh3tXI5EV7ljAKmkrI47uYuvFG
-uOUWPRpqFnBHALLaqX0QKCZQt6/y4VLIMR6sPGI27ccW38FOnxUgqkRXnJvDf1ugFHLqmP8rV6UJ
-0ewezcZPIYRUI76U7RAjKJCKHszIlTAtfBbCAk/8bVarB/kGQmSoqWYWZv8u2a1r/v0dL6K2+4gi
-nDAL1N/N4IjcryOG/5MtY8gETMHRWwGw/L+pWs+iCFK22UwRj1XqJdd1dZ6h610vV03H55K5gUEt
-1g0/iHYkR0RT9SMEXlmEiGGjt6hEWf4B3neOGvy/RVMoqX13Ixz4NbO9qiamSRZ62CgWtSDUKaGz
-xXKTDj85Dl4Jr3JAJQiwi15PrQIxydr5+bVeMzx/eLHuHjhkxM1RfY4wMseiKeabD6e68R6btAeI
-12g9vK/A2E9LYjmSxp/gcRtiBuETiT95XZG6emUAbj7HhW2Dco+lqvxDlrmo8AiPwZ/BEtuZSc3t
-Jbx4m2Yl9sVdgogazHyiLT284ZKSQNGBJ64xRvN0Nxyi7FofFU3z2E1gcbKi+zQruPKn6u2ZYjFR
-+LADnbQO6yuGJWDusNMDspOsz4dZAmuQ+F+cL5YavAveXz6WZIZGyFZnWDNve39qjKULR33iU5vS
-vEkT4gaAP+zJy1GO4lcBrlhrhpvjORv7IAYd51s1BW5Bn7ABLtWD1dWfLeg5KjsaYa8dv92lTKuL
-p72hLQhkE9G8G9kRCc67RLnEx41FVGncRkYsPucusZ/ewjYZfdRT67nKRxOo4dz7ODs8R5UOAJx6
-yopZkzH10bnKGDaZosh10gp9XoMCB7Ej2HU8RHIp+ISXd6Bz1FL33ABhmyGgOreGiY0BcNZn00kk
-TOtuE6zxXV2Mj839QVE7Mdw4P3QcudSoKSWSgqs0PKFXcxvaDJXWXAMP+Yu59Re4mKUMeJXEaIXr
-HY9r1eedUp5kjOI47zp6jTsqCwXmE069YSsMcy/uiRYqfdP+z4nT3beBZffIn2r02gxtUoBz0w4g
-CSjYQ4TJ7kNuUMWfcfSigdy0Viue7IKpWVs28548wlgBjUOsQARnxOKAGtJB1PqBEp5lz5MiHItq
-c2fqFScrxt75UdXNzzAadodikRPRA3NCIQR888imlgH2aASbYalG/b2k2aqSljZu/usYYx9oHrws
-lTQBShk0wFVY8a9ZMPYW9e+cn8uwOUTwD6levAWWjTVSRTVmJMSBvaMbSEys3KjiGX6hxY85QtuT
-wXy5aVv5XIEaG2WfD0sSnuI0sCbaB+4vqrfxVE7kdOKSV7BwpHl4To+3sObIj/yZohyjKWd8qTBV
-npqLgcRqnPHcPySfR69X9Ph+yhAiLN6LERRXGaypbe5tvlg4/wUCihA65cyJpludHzwBFSXx8Iod
-XFnEMvwQ/oUjv7kjol0QxAbAO+F02omzaAeQROqJkh62m2IMKgwr1xY0t6D9n5wtnIUfj/Dgubej
-HNUfBhs1w1GzNfoYSEEchwndASUEW+v5RQkltlvsj2S/CLvH1n8PVQ/YUyJ87OX2hnzeWVW/ljQx
-gkTDiqhDFuzKru4MyB+VqAMCRcxZ/7RnGb5l2aVo8d7PZJuCpwFgQJiWJ9gAWsaJkQ1lbXffedDq
-DU1b6TXzJqUkkLmaPGL9s1peg3SUznVNVgPaSF0pnyPQGy5twy/oc6M6+JqcrJvTPfr8xmo3NUjn
-BIqpplZr0D/t5QUGTPiIqLtZkjWsbBjGfbfQuPO1DjcOj+7tdMR0v3AvAqfrYZSleOyl3litYmF8
-3creH+4i2/V6w1ThUUfAuvnsIe0hSauvVIdV5fEwKi2z2n51zhBg+ugU635yfjbJLn/SSjs10mTX
-t3z09Bk9gdpR0yuAMskrB5JCzty77PWBe3tB0eKTsgSu7xtAMmYKOMS8QnXYBfjSD4vnDNnoTwaj
-GxwnDfTWzASiRTiOtRr7r3SxIqpZgLtIK6aHVWejCxTxAkcWQrlYS3xGdwXbzrPoRlH9HDEKl00i
-sW/4eG763UHJFmq5Y/oKng1dnI8JE8LOb7yFlGo6S2KCZypIXAN2gLjieD4sGdkchzadvS/fkL0M
-4s9CS+KCYVAp+nE7xNHdqGiSVi1AsQBqrpuCWVAI8KuUdN5IH1vyXvDVyYXZNHnDdqZDPzA6BpVF
-OTR25tiAsARiymy0qS3fCKi8u9tlZNC26UZGNBLatsQYTDsFjlTE48ikc6068G1jo6gqWtQ4Ry2p
-AfgnUeY9ojTaI9rFwA3/cHdwJo/4gJ//XX0nhSkj7OdHQT6C2bEMPFopZmbXNqap19qsD3Dulwvj
-O+zdvudOCQ2XNteaviTk/0JELbaoiSphb7/7Vx+I8GGNHUtieE0TXb8c+a5JM0It4PyD2fqGXTkp
-98d1wS2Ws8jOaR77/2BnEQctaS5PFrWZrKxP/lEuKU3TbRwGwScUpZAQqN315dnbogF1izWR3Hj6
-YGkWLgRADaPHFItyPT+aJdKuvFqQGCXoH2MUTMCqwldcgY2fC43YgyCzgasFX9et6keTm2oX0C2k
-8Jt3XFS2o0DHS1oRvak4WCaUfhM5Cmxw/d1hFfSnTXacDxv10xpDzYt9xbrx/KHvyZry7Hfsccbu
-m8S9d7r464wulbsLhUrNG/1G1BR/PvrWT3iAeCLbhxcXMvyGcz1ij2AwjXZf5tMQFw2w8BMhupby
-SKUOGT4FAzt6hgY6X78F2FuMVSqdXMvUFweI/n01a901UsVG0iHYjv7GBxlxRpX63VCQ/57bwIVj
-7M3KGng3C/q8S9xJqwf1ddSDrXlL81uc/bJInMx9kJkewu0opBOI5JbbJy3ZL+Qt8MTllacWmAoA
-0XSiVuNXhhrsxJREoKrBi2KrWdnGfIWNczf6Cyfq3aDFi3IaDtjZ819AAR/lGDRlTu7ygTb7STAm
-s08pXnduedxHh14W2PQqPDNxhD7W78QQ7GjOevBHg25V3QlmSXnygl5+Kaq87brMxF6C0se1gC67
-GlXM0qKhfmCkv/QV1d/CXEKeDrIgxRsk/KUYSxJegcXlKFsjSbZqa9hEye9VzW+yffqE+xvzBj2z
-bxLTdWMdezlCE8XX1miBsbddNa3QY64AdQ10oCmWhj+RSwUaQAObsKm8jLpFsIhOSvnMK0z0A5XT
-vExzV3MTRdcLNesGRIDoJ/lO31mq9xHChgkrfcD/ttn1FRaInyUpLxfA6X3CRTW8pFy7ZvJaR1Hn
-q4CzsQP4h1DAU8maZcC21PSHIrHDBHgdt5ooKrTjeTFYp52NTcmDmixVbqj3NOnyakSDcwTOxecK
-OE8dor9/dKHWyJ/tV6uz8ly5I+OCRYH9Nnm4/0hsTOpbjuVpY8kij0pqTLbLIWZGPcLpJ43Fw5uR
-gcpqw/YSR+JimUClM2+JjC8tuuwVDBDfM3aJoRB20tGt1eoCHSgQg/vB+f4xNfAHS+EWAAciJOpY
-wTgvKhc+CjW6rQW71ERT50IgsupT3wmLGezr4nMiADBcRFMOI5K+ATM4j/hrEL9uA26Nr2Skajzf
-zYnzt1Tl7qdImDOVUJVCecOG447U+oE3a7064kmApPyO0mdijPa1kLt98S+6ZZF/J2u2iQ++1GHg
-CX9V5mpnPzv6bTaWq+F6NQaXd2FhheVcAY8u8lRMfCy0C55NmCRrp63Q77eQ/sWAwTrv1V6rpEqY
-wWldBWYz0aSD8pxgLKVMqIOCR/gWgL579kWL1FtaoamePpN9xYpNX1tFGhHSNYfF2wU6Fx0f3Qng
-6tywhatP/IjEd15EmQowUXKtPmSbwfO5Bsp+gDXf1olCghKowTz+swbWzd5t0fpn0p1mUB0vzPc/
-dMwT9IgH+x531yEJ6Wa3KJPbdBD/cvTUDHt1UAeSSTjIuX6v9CxPumY41qy+Wy0reU+/zwGlRA0b
-KKR/m6ljEC5qlb79rsqd053WmX8K2v9B26fRbBw8jPoPbk+5kUdc/93TWWOp3+scfY+XwpkRal3L
-1CIm0E0bEkJKqfQsKOok7d+mxV99EOwsq/0uTn0puDUNEd/O+UVssqY4BBQlpWYkOcvMP+yvg3z6
-3Q1XQtlEfj/HLPTpo9op52bvgI218bdCbUufSlei7vuk/rDibNjx9iABcAyn5EnFeUCRjaicdGBq
-UGSCjh8gAOJyUkmaAID0X9CCQZ6xj1nWyAK0Ml9p1N7e7yY1jLnZANskbhJveHibSZLy0g9vwGSq
-R0lVP6snKSfMn5NKyCoGADSrZiSGUKcVR1DEuW2etfcMcmiC6vJJT77tGP731rHkYEVrdtUXtQzH
-fCwaZsp4eK4T1LyPkDz+wjp8OVFlFNDY1VdfeWS/YL2PLp461TffK3xHYAv28+XVPJSzChkmzuYs
-ZaVCX9lRazkwa/qgwxFXLEx69++8MLEQU+3Ja2lLhX/51jj5KFAikjBmXuN58BlfXT889qnlmiDU
-1OrDXxTSktGxoI/Rj7JbmEcSDVBmPCu9osr6mXhWcWwpiOYgBv/6T4kQS9NCmmklyAFIe92t64AW
-POWnbnzdt/K+Q5cnaGE4YfSpspe+RyvIqGwQporQ21iUAkhXkS+mZSNytQzY4chmv1X0zP+7/mW9
-y9lvwTsTqK+jqcsktLVTkKXGiokZZi1GD337dk/Us13yhViMk+YtTH/0ewmGmO4rkU3Qwublgopc
-CIW9X+zWfJGpId1rcpEAaTi7fuf4zR4nvB51/sGimsrHVJdC4g93Ak6IiBhiWbbdtfpn1rmjUEXX
-TKAiye6znMJ/BGvxu9bFgyvpg4swIJXFnEtrNT0T6nIx8VAXWW0eE/ED7EZGIfFIglFzzYRDv3fw
-mV4P8HPnW8ARjpq2EfrjzA15C2+XIB8s2XaL26xrvilkzK5Pvdh4+gZ4DMW9YHpMN3PfVzlQQm0O
-gDQjtZhpGOSTye+PtT2dDO+ZZVajtz05o62kCAVGo7Bl12Ea+apO5tx6VYC7vG8VBSyFifQyer+v
-7byQCtzLyI1TJV2pIB9QQNJTOi3L9jnha49+CsKT1gSb6WIcKfKtUme06UOkRDnlAsfzqsvPgM5+
-LchePOprnO6iaJGr10TCqQKJlxxy5Og5gH0HlGjCQngi22t1ZZDBY/jX4qkkx5YKkar/xnr7TXqk
-QcK6Pm6WsCax9FM3k2kzk5w8kAsv8px2XCj5AN7RbZ2zSBljo0NZ0AR7HFcwyCF3JORhIbQTD57s
-o2GYz7K9A5fBsaMEWNiwW0qF6qc1fr1vq80TH7m3XkxX09V9vEfQORu42x5c1r0UKuULMkeU8Qzy
-wJFflV2oi+zAN55/2+7gRh6tsGljO/wYi2zn66+aA7RVYQgvwYS40w8Ual9cOJjGMcTbulMvJyQk
-XLy8imM2loukhsm2wCUDD/b4Z/rt9OU3jzhAU+bhKw48PHCvvWmZ3vMqCoAHVdTTaRQOYH4fyThq
-OvDhrKlEJ5rSOFarj3e2Ns37GclLh4TFijMBNblKH62k3zHFG6auL5DnQDz9ZqPZocsSNyXxVtPo
-NLNc66Qxar6VZ9kYA7kGOnsLSp96DzR5cX1W5RSbJDqC1V8m++HUG7Ul6SKOPEVgDTeA2MsO8aY1
-mgK562I24am0PcIrolSORWcOqxUAOfDe2bqoqu4sheBohbtmsM62JNUbagQM+pZLMUmNe222Dspn
-S4LaqZcJXDXPeRsHEIzu9FNzjIwWP7RPBWEbGjZ+QGwIspRCLJqF91Rw+/UhjGoqkbLt4kawGC5b
-AqSrbIXLLH01dQoE51rah2jGvGxagfowPbCZ5+5fWLkKYFcLzeQV6+pewsVWr9ZFC8K30kH+mu9o
-g86NcFL9bO7PFr8VhvBA9kCaJLspuYlu5Sn/VdxNU4n0VawL9tcfwdaF8KhISXONf7Wbd5RIhg+5
-+z7Mtl8AnztZR34aY2nbgPZWk5Lx/5dDg2gAqz2GQU/qlPoWpTDzhCogXk7beuA4kHT+f10ZWwhq
-ZH6ox8khyy7+A7qgLPDrnqDsW+Ho7gIpmpgdh300bJ+RQHl3gKzkM5ZqAYwY3Gw84+KRaruV0soC
-k3GoRFQjSsje8creUc54Ak7C0T7UtJiKrVtAjD0DSmHL+u7BiGB/AkTsPQZ+lzlv1mcmSPIe4PSO
-dc0z9/liIPGoqacAwBMA5qCFubiRadJquhxII32xk5uMYPTaQsbgNqHzh0sVcRylXNLqt66H2NVF
-Erq/ODfgm+VdoAYPSIcgTjVSMe7fOfjJJS3aURnYMBBV/iujN3IdTn+f5/6xkBUHGK9XS2KHldXw
-0iEAawoifM26H0dKmzKI6y7ElmwLQiHCL2vKinm9Zi1IM0mTYTk2sM5no4AGl8Yl1x1bmCzxqh+4
-Z3j7ue57e5t5Ab/s5HCLgxWP4vYjyUPbUr/9h1Ew4KSIOSjyLvlE2k/OFP7o2Xfzy7c5AU9YYgDe
-tqG8Uc2BVmI6PjKUYIFhCL+pQu1ESSEm8hgq5aZgCZggH9T7jCKQ1xBkb395V9wwn1OlmwyKvCic
-jlXggPzDhLM9WIppNmkT34arv7Od6WqN5aqV+M6tqjoIbd8O3a/mHdJbbCuJlWcEDD1w+xR7sPLi
-h2fK7PhBoDZoId/jO9icWzjjk4Esj8CltQBvnuLr6pS3d1JCL9GGuLqJ3AQTtvT5XZPLcNU5Gr1M
-l1+PHZ9aAysVMkzut2AlbjO4HKDpAciQ4N0va79Q0ML8G+ad9m61GjjdnAwyauUPPhG+ylU6onuf
-AqenQOIr1Iao1jUaIE6t1jORD/upG/UhpxYFag0ugfGqTugxcW0XHluk/m6Iw1xmQoM/DnaoJtcc
-0X7+pnZHhKKpf46UWx08DrJG9oVzB8VN3e0ddHbFQOkIj/FZgud5XgzB/3GQMVEcidhqs1MqPL/v
-LjjqPSwqAk+W5ShZKkQZlwfi1fSov3lNiVld7+GdP3KEmqcrsAAu7wdQ0DUhJglV5gjBUfwyAk3f
-WsogL8phU35yAHoHvZ4sug5Wpt7kErIQAh63C4qWmASpN2+bIqlaiAkEB8Q8CMyhdPJQL5NIs5FK
-DpQ8OCwQl2rxPCyqeSBp043B4+zi/Z06Iu30IRMT5xe+0oi3Mg9VTsdqd1rmtBPwrNxHKby92zDO
-dCiZkUfsa1S5hfuzG3cixIr7Tfo7OfPKA2qDeSnDzgSwLEcKKB8lWzlwrNaqUBHu4Og7eC3Tv8lQ
-u/16KcOZ9hwv6I0gWO8Q3gEKbxwELB6l7xMi5YLhqyhBQDblzmZd8auXaysCk2OL3Rjg1NOWCcKq
-vm7N6uQQhmWHReEpqob7dCLwVt86ARYObQO1NSR1pCGtNeYIAoI2/CyRI1yuQy4a4rrcSVlCQ+Ui
-D573PZNoAPlSLQTr4zdwovbQ6b8KoIrnMJ708eZeBXkg0olzoJgT/5njZAsa7xjbwnN9SpLmcCC9
-hHOtEyRs8/3vE7+kHdZ0WkdyIMOvKkkG6tiBqiOcM42PVk5bewY58A1vtS374pYXtTxLMrkOoJVT
-L2A0cSLzaBQLhcwuHlhDbls709cHj8hcAj1emwH654NHHkG1TsOb1RaojgOg7PDDFSQItXHGEKQJ
-972WjAkEMUy8b/tQ7KD97fjC2genxPjoLw4mmipxtHpaYhgteZ4DBskljx5yjeMivf4Im6uBznDp
-fGULAlyrQnun7bsuRJkDu074VBo8OoG1sYMe47NeVEx77YIFGxqjh0/hIrNSbqaxIPxkzX0ctdCg
-ilITsBovmkudluLZEE3iu0lLFLYbuQ0U8/xe3F0WrOa/3XYY04QgQUZUUHgqE+2uCuTT3djz/Ksn
-zUPk7lsJp0l3Dnd5jLEbvcY+HHTj/vTErWKvHY6xMy8zaKtpss/Ig/6zg1/pnZIRRtawz7Ff3Ol1
-02IxEUmE/DWBo+u5WfE2cEcYwQHXxoAUcxQ5WkV0mBqk6rhQ0LT+RvVSkf/zNlRueunOfdTX5eCE
-oliohaHqAiit7LnbrKPEUWb/VSdgpuhRJZiITvM8vrTDJO1iN+pco/vvod+8IRwpPVbvsyZeYmMA
-GlvcBpxo9LoirIawb2LvK+evdSzdYdh22u8AjDzL8PcGjYl0tHHnN07m94ajMudj8TGd045E+PmA
-CANhXsv8lr+dYN4+19hp8z+5gZCVoSKEOX3VRq/bTt7AyQGMzakCg2SRA/SiRYh1DXx/YjslM2sV
-OO87WUHErZFGgelJ5K8H7BQ7ZDLMN1RkBx3mMdP9CQOajWzAhrrSCMk/LOX04jNjXFTtD2AiN22y
-Qf1Q90FT9etNqcdIw6EW2qeZkAYHtz/GsWnpjgW8UzomkUdB/NlEuy88BjrVfx3gEv5FUJ1FUeLR
-mKbhZwpKm8GzlCnSSP5kykFysjCkOH0QJrWMn0WcVaV4iF1slx0rL3ezigqLaHsuqYq59j9rgciI
-xYbzpWhQQp1lb80qPc/q2z+nr2QmA1L9LioVhevyPEtD85+l0emBuEqdd1e4g2XeZQGFbDdG/fKd
-0NyaQAbGuRNERCVSK52kRRD3mmsRLtQjGBFRSa92syUv4OYOBLTA7myCAHzfCZUANYfK2NExSxL9
-gxJNw03l8LXJOwBTmfM/sjSeSfjTqFGeO6AQ/A/D5BdAio7cIvXts+Vl0DL2Nv5gibSP2S5ShGOF
-eNSzVOFgJn94kIe3a0IWgWz701vPdS71Z2P6b+jxYDTXxAaDzn1FxToIkBzONKd0Gp47As7qpgpb
-EYjZgFMJ3qA8jnT6ae7Jv3fiC5KW01MlxxTQACxRvxaU+6POTXAf1qlfQsGq2oJlAok8GQOoevRB
-YwA3l/Cf+EkOsHrMgvOYfIOlG8GNJs2muL76HchjGpTtVseCz2YOJwWnpAzPj37C96+kBRKebcyn
-PRtn5J7DqeIiiuqaSwmp8VScHdSoYykZxjdGWnsYLIy85ObTByD2YLjTuD1qcpzfTqzmO7dzH3M4
-EilMKvVMwr4AyEebjs9G247AvK3AoapMx2FrT6th5tcdK0NZsV0GUKzdXq76uAkyOOMCotgr8n5N
-SlCYgH66pt4K2wYehzRq0gZf8RGhwXxB4U03tNGlzjoS2uWCDcZe79R5ZbHgSxa7FdYkpvllZVHv
-IBtPVCbb87Ejc0qnh4+rpTqdSbWFUQNV46LsFIPOzuD98staGi53GEYQ/32RLBfHpmpqezZ35UjD
-7h5gO83qCPQxkOVFsKY3CIjedE7T4z4cwjt0lpZucEufIfd8Y+ntGXQ3h2ESY3yMS9GT5ugE3GeY
-yqhX0PEdHEWt6WfxePX8Exp6ruROoNl/fVfkEb8IONTwfqkwIielfIaRptPLf5LLYPysFGby3oun
-czspxJcEKaF0D9KvOGVYvSm65zAu6uZBkf4Xx2OmHDkZr9kTjVaMfmqRoQosgrPFoopLxcdboHWR
-QpVXXJ/MCS/cvpr1rwjXP3GZmmKSLcO3yfTf/X4PhVfsspfPeD3g5Vxmv3QpGSqSq79X78O19B5b
-p0P4rQbxEhoKomllphvdy2Wiirf32roUfTYeMhgbAxIQh3SxYpOLwokEBrK4RuoGS2EOG1S6bQ2n
-7nhY0/zT/4p26qc+gFC1VOfr6tI5WvQC+beU5piu9DJ12jdf01zlEeMAxekOlSz7rb4uBuie/cyV
-EK185HGhxOtehm6HoUXyp1qWNeBv7hgydriPgLtYiLgDRFsjO45TkB+HNbrwrYoW2yHWkVOu02hk
-+sEmRz00fd9IkIXODUf5FM+8s8H/C2a7hIOHKVRmrQLu5MDDh2uUKjPF5SCBaNTVtHasJzsXEpiB
-xx+V6QJwXHv+Ou/4kBBrJa1MyGnGRnffTrxyXGvj8hOlrii+3EqxHke0Saon1F1xTOIR2E+X5yvL
-RvlCfP98d3O/aC3+dq6TqUteWyQd8cC0KTKD29hHKLrhD5Tm5p82KiKek0fmvOe0cnZVo5dpPOLf
-cgM9cmHpi4Z0vneJhX9v+XCwJyk1cpz8KXEGLvUB4MECDYOZ9+roofErTsojhw0vcvva318Z7EkL
-9lzawwju18qkrvYqRGpAhfKV0s5YXZXUMULaDcMVn8sPwTPDHAi1XtiodyvZ4YDOOLVVEP097Olk
-bIJ78k29koWp5TP88UsEaYlAEKXzOqdv6hjYAO3vkKjxpCEdNDk/WE5apS4NhyKNB8xcgM6jvjwr
-l3k3MMKzSu2GPrSfm/vpdEZriXiTYPeQhx9ctILKNVmZoTCjrjSuYJfohrfl02r5/nqjBlubalhf
-DUNWYGVFuyGTALXdh76jCMQYyl8pFuUbw9twqx+ehnbMJClbKOdfjVdjJKf20wancrC1RaqGQ8Hy
-6irj4AggCejjRUu5xwpr77tsBTT9SpqcWoJgQosQVNmEungEaoiV1EoVlNIeuVMc2+Pml4mVyHSq
-ofZWAqWcFngL47u8t8mEXw61JqwUKSlFSh0gi/XXXz5H0aAhgQ+hgCIfJOE+P4OSv+1FLPuqmIvC
-z5aLuFivA+CqNL2PZjbb6kwdiToBIt5Em5HQkUt9HqmDg2hV4NiKKq9GfTj0HIcEtDnCwfRxUtuh
-HY/Q67psQ252lZLuIK5puCrzYai9A9aR+3NkUyrX7tvs+2TzD5bdMlrnMOVUOF+koIMUbuoHMB6f
-6oxwlmg1iv+pdtUejD2PjBfA7VRfSlUGsR+znOU7ZssokG8Hrl0pTg/AuMGoOpPanYPdI0lc3GGL
-t9iSEE37lt+pXkWOcnFg4YoXoaEw/2XLZ4HK8gRwoIr6dLX7+Z9Om7bVks83Zfy3ICcVfXOVE9rp
-hskWWu1sg/jO1+mecqQbnl1cRUqq+UV3RTvHY92jmkxqRIXImtrN/tqIuucWKJeW0Dq3m1SG0Cwc
-IXMarlxZFZD5iz0KffnQDzYRn0YUBwSToTKkY+W7QZAkzFgus2L1NFoUvmFHu3v8hlZb4GGPd1Tw
-WkPU9MxYZNaEraTMHXAW6Xz7/rbn3gJTKdsniHZBkk5g8+dDjuht282N09xc/pJNE8g/zdeIO1n4
-umqOzCQd4+uHuGuUwnH97pZqLrEXBBDdOVAbnaQHkgWv+QnAbxqkiFEQdAgJhZVvcrMLADTpoX54
-5m0G7G4pvOX0JVWaTzpjqW2Dfxb/uBiJ009NVDiK+pe+/df4IriZVSlZB4bwxkgb+4MVEIa4eVM2
-uniJ1dZ/DOqE4hhpG1qNUMBVlPFjEZOkg8Gpl0mDVG+/cYq/kwDOd2M4RSpDXSaK2vAXJDWXijJV
-PVGYb8TfiEyEcMqpZiabTzeQPd7WjDmW6z/wahy604M2NgqNkyXEpduojlfbS7h/7GmAY7VoVRtj
-Cv3O5S5yFGX0NYFYKnQ7VjJd5SZq3+9ARDBaYeN3BwsFpxkMkw7tGfP/RAy0CTgJE7KpSYsb6HK7
-oxjLW96TVDl4De+p03Hydxy8qr4CYOZWjgbX4+DzbZIY5o3El6mGpDsPpiTzUmsQ0Bmo1L8KxS1y
-g5n8dNoO71VQyoCec3itdasKv5bLIupLB4YrcfCitQgKEIsvqxXvl9Jxt7XcImU7kx1MYR209TYN
-KkN2BP/2EEDSKGTlij4hsHDSGgHrrOMiAsVz1y+lneNlz5z+XWmZG2lH+Mxjin4wC/IhbEXyLEex
-cKytqvLebbnutdYFBxHWJhT6DVy5Ix3qYE26ryvmGrMmuFm8rtONvnY7YQDy3nUx85Vef+BBeCzf
-+VOKHGyfFHFzipY6m0a1gfcVhnrTXLRe6NIc7XHdjtOSgHWTVvoKbN6A0RAq94erXRVNofq2hhUJ
-nZhkC8c5l4Ab3NGGlxzsCCk/wojH59zKzbTCIE1BLCpdfADRhKTTfJs5upM7f8CkoW9AQ4Sghbfz
-BiJzX2chvNrmPo57dEAB46tPT+cUhbRhybBJYtAOw93Nxs7AbXNG4gguz6qEU3wETcSp7FsxPJ1M
-InIlTuDhrlhSIJKcucKADmKEIM71fbiOcmJdMtPk4PH5Z5YrC9LpcqaH2H3Xpd57KlhJ7Ppl1X0J
-z2qcP/Yr5ul5JfF5CWTJwzGPhs9Tye/PSMLQj9Y6r8BZ0CT7ndOUEZr8OHEOPB4Ur0xARjsPK0mR
-jhqs4U714h33MUOYKFyinYQ7g2jhs9MhuEBYv7Dn+AzxiFBUKLBzMEcF73PCHYZaHo6nlpPGS3Wt
-/0rmor/fxTOW29ntqbG6Ml60qfwT0C9b5b1JVdji27OfmWz6cKKq+7tGa1evcaGT0IpZeuhnko8w
-VxwVztVfxzojO++sthgBp5mXeiP0jfb46t25aPByfvwAfMjbkKy96A6afnYxbDEzk2eWd6ia7cLQ
-2rd5Jo63ypwDEkCW3NTvZi8hlDuE5q8Fij/u7r9Ji72haC7RnB2PO6X0gkGUzOJ4IRuBQHKbHoka
-LyyNRLV7fBmsVfOvQNsvHflT1ziY8XCottR9e/lWVAjc4z0p3f+t4yGIPYrRPWvduaFhEpTGsyEI
-NXEh7FX9xkbuMoejixzKNbEFin2/0D4IULNAb7HjBvkEJHnRag1RgUhuU/6Lva8ZnIYbvvpxUzC+
-z4x2UM5GRKTwm0ETO32FdnTLiOwgWEMSfQ0u61pUUKl/JbCnEm65eyygZscUkvrY7IoMyrapwPKt
-lcJ1y/0mPCpkPgEwQtU1MvfmpM1Vr3371lE7K/lv+BtGat6d67aTZaB93eRbwtjoaon20Pn+MRlE
-RGZKlhGaZnXx/x5sBPCpJqggFdSZOaMyzGbd8drR/0PXOuUQcbmRw2/nGMSxM3HrHCXFogf1N+r8
-OWAJVNyOptBjNeEV1giKuJjE8/KOjnT0wUuiiXtXLYtV1BmZxnPQIYsWwagCJOPwgTeFBxlToiGg
-ns4ClAuiOCxoeo2182n0W2ThJj2ZM+jvuskzUEHelHdOdu61q54A2uDzQZPucx30KKcuwxxwiQYu
-zmGFQmhGCL+nNxTwyQcOwqdCGXcQYuitbrUtFLBOXYPmwpySaqEUGY/4qLIC/ed8M8Amq8bPIzjq
-FyTQhtyPIOJcUbbkR0dr+gxOSm22OxZUlHbGoWv7OXUIWjNDQYy3NFIzZ+Pe+v/Da+aF73NiPW3v
-UbgYIXG5jG7AlWDy1en7C4FkOhL1ooHlvGtUcnkFiY//dBoQULKjilxLtb4Rc7FqwQsbAq8lFOEr
-5E/HaqPtcinnxXOY8CXXbSg2pOJMgB7rZJkxRU1ftGA0fRUi5lrUN2Tw1xugy38WC2Y/5iZlJOXA
-KqTQ8FPUMoYbBxU99c4atasuExd3sKoJzxalMc4ueiRUn6kzJqOd81mMJmcH+eoWE0SodliJeXJL
-vGiaBQIPdc9AtPie9NMamaq6yIBXothBT3R7jiSWUo4xpKtaxPcrlWK7jDOcNNxL5uxwIbpGwjxK
-wlozoxfB5+YIhdUK4hb2FRsElZiTGQZCP31+oDKknjjm5BZDEd7I7SIjmcpp65lhgzlyH9g5paYU
-JEkAR8H+OzefwUbml7SV9mhf5Q/FjBhDuMwa1E/hIfn0XsJmtqf97Kqtp36BJPdi0g8WJg0hdwvz
-yo67Ys3wqlBLgFh7C7ES6d6pz6pqVl6fGO55MxcpPilNV8aRYOXRscsUaCG2Ms3CdAZhAIXXHad/
-hJ4P/+a9j0pdp6MK4+WNHPjslHYJjFDmmCjyQ98nRqKv1Ttoi6tWVROf/F00meVmNandSiX/c4FI
-ifgueYJau2INkn+x5qLrbhIC++4bVewqIjuHZHlmHJf+uPIH+7kTODtP3tqSyJdpklJuAbMlOO6R
-nYAFgFEnMC3W2iVhCMcKMievvN8EOB/sqqc+NZAXkXQCxUcXce5VN1BpDaE+K37eec90iHcm4y2c
-/QluUD3eOQYnD1cpa9VeCbR5DizJxtF5Ma+v10AzLUMxzItH3k3ft0c4PbV2KkkBZS8237VXrNWQ
-Iov2zhxE1MPioRxIflHuk7OF710wkvAmj+dFYw7zjWIEJrftxDA1OWuwbFap3f9uT7KXXKAz9Vqw
-p8P6yNjeh8tHaQTHKXNlRwqSwlck1FomCAdJAbIlBoc0eGptMbiNJBhWMr6LWRLz9CE0PyT7M2dK
-rtUS35eDNd8ka6lUyzRLUv/Rt4yx/Q3aHcmAxDViWo4kQRnrnQuGlAakeaRApnSpO1qSgQjsMico
-6+fM/4vvBemEulJrOme9e+nGndjiL2O40OU4XJJ2jts4OZVy2kIw6XZb4ddC/t73r1mYoXifHPWj
-n5lv41MA0JvrEzvcCXXUfQJHCigGexs88ucL2aopWt0sVL4+K+RF7TYYGMoZU6rcnVcYKA1utVRy
-zHcAH+ZXLcqkB/dMwdA6O+HudpD5jyWtaT42PhrLyWMH6TJ7KnLbCw+jNqrFGziEgtQCiO/pf4GK
-oBmeM4zvnfpBY5IvohJFx8KXn4PDB5y53Mrl3kuYQDggrS8BasVvCfNMN/5QPwWFysvNDsHs/+S5
-06NTebTfBAg5uTA3RCImT5axZSrCiIuIKbVsNcpL1NS5tA38VNgCSH+NeB7om8IuCwvtPTYwpj81
-OFyOSULLwt0/CLVMc6AZgtasT4e+e1HPQBngcrFFRrYAUbHwipQk+RERWOptnyMLelxu1tvREIDG
-N/MVbWT/hbA3FHMnDFjxPbQTSomhXSQZhDpdnUjprQ34vDtP86YcoravE88tnDBkYN5vwvJwoQ2I
-uhfZVyMY9q+0EN/HPHjMnDMVsD90aAicZb8RKYZF41pQ2xmILtrrGsee7AUPrlc32RzvNg9clrGA
-8ayzU+soXsS1wVjtcYQEH8yS3Wi67G3BOoN/0/EjAx5LdxXWAhicXuNBuZEq0o81dY1N2peC3Q1M
-NFuPcOkGWZ3/q9L01jH0VL4AUuXv4m3QFuimIwErE8OzhSMkLjEKk5uhZcCScuzf6aWBJJy/azWi
-2fBTqq43pD+SCtiSupOTMei7o9MufiZg8Dzkm7/ly+/CryM4B1tMC17gziVaVLTFjQ74GUT7sq1I
-rUM71tKiiTfsJ/XU6xMSRZaaCKMbr8xwmMs1VrP3gfFdMcfCl2FTyXHGi0RXsNjEdDRXcPZ7vbxs
-wfTYiUYTZcKZW6qc+9MBRm7r7YzbyvCucy965U9rOQFD8qQah1rW0gKKrpg+JP4A3DQucATRAl/v
-0jlrA1mSXfm6DT4X6o7RJKrawhB14CjPFeM3tQA4W+m1MgRDCptDRRV3VVnRxbERhXXizeGG12FZ
-3n0MFhj4e8GtN1jJB6HczS639JLXDFxjEzi769/EabOSiE+EKiYaDy9gaINC8CJVyUo0eQ/kGneW
-MFp+8MB1aya0YoadsNcUkMN9qFTTx0okJs4WGA+QibAtnckSoYYfp9NSZTycrgAvfeBvw0dsWSYG
-Jg78UxXrUxImVii5FbnBUQX+2zKGdBaxo+bmt1/Pp8ruFU+1rLbcrMEGdXiwn/FxSNCq12zf9eMV
-H76wpy+zXmQXtV+oNXiW9jl2ikHP9OW+ly5aAvDzoqVaTay1TN2gFPsGMYLNxMfIrnoz1FzRfOBj
-C4YUmHm0x9pJA1iBZhg4aMBJuSunjsJO7ClsI4pC0Lk5yMIEcuEjS4iQiDmeRHOWQrI0el090zVh
-+9SBmb683eOO4KnKmIEUkOWqjFEJddgrBaCVc31TnR/kiw7ZiTx3Di3/zwLjXPAlVo4BDjMa9KLZ
-C2HBC2xSqBc4jpXjJMSkAq9BxEC49QibbTY6piXlBww4yV9lauDV0/QbhqAezx1ZyZqij2F6Pxwr
-gPCMxZhkeJQJGiJLGdivmVC9W/i2W1nQnx+8+aVZvmpiZr7o7Z/SUXKbtRW8pMkAnGHBJ52hBgbn
-AJ//TzfdZfMsNl3FCigk3jtdjGp9Hv1Nq+ARGUatTONS7WzBQRq2OVlvPS+NBzBQgPQWQFU0L+Rk
-4YcHRNRuMdAvai3xFmJdP4aP7DiYE58U5pxY9fLFdH5IEYza9SBqefjpwOk9IzQpVl411aqex0OY
-1K47QIXjM/qTiDWJICviEF2sw6I4kj8/N4WjZXrdD8njfYhPcQ2W8BPEBwqBJ6hSC0CqKnFcXB9k
-uaFUAx7DlZiu5bVxPPqB5MK0u7Jgv7hgXvebT2yHZ7+ksWhEpAYWNlLrM+40LZbahXbCrGBvywX+
-WbfvdV2j4Tx8qfQUhn9EhE3k0TprcYO7DRMUD1/44/zf+o0Xg4Ja0m8n685zAc1cIYBdYXKUgrGd
-whELKxoIFzVU61Ux8XQLMnP3qMs2idsmO+x8p6Yie36JmsF1Np70AkX7CP5ppWYIGovQwsyXL5YS
-apaOR8jULEIixxTIuyzXhtbY8oxmP349EWftjMnrHki0tIpKJiVyRak3xKtZmVUtNq1gw3G0y3tu
-rqk+fec00scNa4uSshfJcb/MwsT3vU5lB120at93PAHs8eMNPGajtU9dBSuZrRrjnmETCZxE7iMg
-qvaGpoau+ulG91iZ9j6krX6DA+ZNW7TfmJUP2R4n6Iq0pQ802TxrTbn4CSbrOsKAncl4sPfC5rFR
-xkDhxamnXpgp/dHqxbQzT1CiZPgcm+Ka6rjJm+XfabD4Lirr1r2O6Z1DhjFA7Dl2Wc/OZV1UodKk
-mTiSMEMTUAx1sRoPDeN1sdj/nVAH98MlLUESuSD3SFbWLW3YfychEGoI8Q+3Pdk4cWxZ0Prwb7uQ
-a5szzT4XobFglMUTHg/3JIQSHr3lE9+imfOZz3wIemWVtrGnSh3HT4JroSiLcYxB9NlfWRuTEMwD
-43Ip7oOOwjsSJGYuH3XbPupuJE0e2H008Pt3ml+wAfq8zF6rlSQIRkI9l8rdsV69r+f75POq+VM1
-xXa/jK96geA7MiihU66Bg7uG/2XTXtFDm6rxgR1Mvx1pFLN/0g/tQ8DCMxYSe2bTQoLkn+2I94p+
-3iX24F7TOGBh2I0k75HfV4AV8YX4Fc6sU14Nt7U/3amsnCYbOcQieCQhdR1k64dOBlCvY8qwBZtr
-bXIZQqGVKP8tgwqTSqw7Ji08T0BZ7T/56q5DpSPdGdBnpNuH2QAwIO8iLfQmNNT+i9KrRfrbqDLx
-8PhCT0Wu3OCSgYWFuuYzLwBJDGg1jNQxYre7yZjBjIkG1UVK6KvoCW42QFSeIqaETU+QQ5cH+H4q
-4EGTI6EmNKdfheU/65MdqRqWrJi1CYgrpj6Ba3jCblqaixgZiDVfuyhG26hULhn11mK9qO6WQbyg
-ZiOI9bsC1jU4lxK+xB7trG5utqsFYekKGKwlexvIqsAdtc9sZ6kpDTsG1t6Aa68QYmikShXAHcLc
-TAyH9ZsxaSr4BFbBaFuf+yDqeGg8vEr9ehTGeeO+umcZiDMg73WREPbVj78sYQI/UkFQDr/RttmO
-fx5JvfSBsIHefUXNvmaN2Xd2OcOsxImHfjNaBlvfwRv2U4piCL9NX4Mh3tP0KfhDGHyKVrVd1jzK
-oX4nJtcbP1i3rjeEh1TxSSBZVzwkCzI4TttT+8aHgXnT19ixzp0MvZlrtEk/0y3kiz7Oxhhf8Kv+
+<?php
+
+/**
+ * Configuration object that triggers customizable behavior.
+ *
+ * @warning This class is strongly defined: that means that the class
+ *          will fail if an undefined directive is retrieved or set.
+ *
+ * @note Many classes that could (although many times don't) use the
+ *       configuration object make it a mandatory parameter.  This is
+ *       because a configuration object should always be forwarded,
+ *       otherwise, you run the risk of missing a parameter and then
+ *       being stumped when a configuration directive doesn't work.
+ *
+ * @todo Reconsider some of the public member variables
+ */
+class HTMLPurifier_Config
+{
+
+    /**
+     * HTML Purifier's version
+     * @type string
+     */
+    public $version = '4.14.0';
+
+    /**
+     * Whether or not to automatically finalize
+     * the object if a read operation is done.
+     * @type bool
+     */
+    public $autoFinalize = true;
+
+    // protected member variables
+
+    /**
+     * Namespace indexed array of serials for specific namespaces.
+     * @see getSerial() for more info.
+     * @type string[]
+     */
+    protected $serials = array();
+
+    /**
+     * Serial for entire configuration object.
+     * @type string
+     */
+    protected $serial;
+
+    /**
+     * Parser for variables.
+     * @type HTMLPurifier_VarParser_Flexible
+     */
+    protected $parser = null;
+
+    /**
+     * Reference HTMLPurifier_ConfigSchema for value checking.
+     * @type HTMLPurifier_ConfigSchema
+     * @note This is public for introspective purposes. Please don't
+     *       abuse!
+     */
+    public $def;
+
+    /**
+     * Indexed array of definitions.
+     * @type HTMLPurifier_Definition[]
+     */
+    protected $definitions;
+
+    /**
+     * Whether or not config is finalized.
+     * @type bool
+     */
+    protected $finalized = false;
+
+    /**
+     * Property list containing configuration directives.
+     * @type array
+     */
+    protected $plist;
+
+    /**
+     * Whether or not a set is taking place due to an alias lookup.
+     * @type bool
+     */
+    private $aliasMode;
+
+    /**
+     * Set to false if you do not want line and file numbers in errors.
+     * (useful when unit testing).  This will also compress some errors
+     * and exceptions.
+     * @type bool
+     */
+    public $chatty = true;
+
+    /**
+     * Current lock; only gets to this namespace are allowed.
+     * @type string
+     */
+    private $lock;
+
+    /**
+     * Constructor
+     * @param HTMLPurifier_ConfigSchema $definition ConfigSchema that defines
+     * what directives are allowed.
+     * @param HTMLPurifier_PropertyList $parent
+     */
+    public function __construct($definition, $parent = null)
+    {
+        $parent = $parent ? $parent : $definition->defaultPlist;
+        $this->plist = new HTMLPurifier_PropertyList($parent);
+        $this->def = $definition; // keep a copy around for checking
+        $this->parser = new HTMLPurifier_VarParser_Flexible();
+    }
+
+    /**
+     * Convenience constructor that creates a config object based on a mixed var
+     * @param mixed $config Variable that defines the state of the config
+     *                      object. Can be: a HTMLPurifier_Config() object,
+     *                      an array of directives based on loadArray(),
+     *                      or a string filename of an ini file.
+     * @param HTMLPurifier_ConfigSchema $schema Schema object
+     * @return HTMLPurifier_Config Configured object
+     */
+    public static function create($config, $schema = null)
+    {
+        if ($config instanceof HTMLPurifier_Config) {
+            // pass-through
+            return $config;
+        }
+        if (!$schema) {
+            $ret = HTMLPurifier_Config::createDefault();
+        } else {
+            $ret = new HTMLPurifier_Config($schema);
+        }
+        if (is_string($config)) {
+            $ret->loadIni($config);
+        } elseif (is_array($config)) $ret->loadArray($config);
+        return $ret;
+    }
+
+    /**
+     * Creates a new config object that inherits from a previous one.
+     * @param HTMLPurifier_Config $config Configuration object to inherit from.
+     * @return HTMLPurifier_Config object with $config as its parent.
+     */
+    public static function inherit(HTMLPurifier_Config $config)
+    {
+        return new HTMLPurifier_Config($config->def, $config->plist);
+    }
+
+    /**
+     * Convenience constructor that creates a default configuration object.
+     * @return HTMLPurifier_Config default object.
+     */
+    public static function createDefault()
+    {
+        $definition = HTMLPurifier_ConfigSchema::instance();
+        $config = new HTMLPurifier_Config($definition);
+        return $config;
+    }
+
+    /**
+     * Retrieves a value from the configuration.
+     *
+     * @param string $key String key
+     * @param mixed $a
+     *
+     * @return mixed
+     */
+    public function get($key, $a = null)
+    {
+        if ($a !== null) {
+            $this->triggerError(
+                "Using deprecated API: use \$config->get('$key.$a') instead",
+                E_USER_WARNING
+            );
+            $key = "$key.$a";
+        }
+        if (!$this->finalized) {
+            $this->autoFinalize();
+        }
+        if (!isset($this->def->info[$key])) {
+            // can't add % due to SimpleTest bug
+            $this->triggerError(
+                'Cannot retrieve value of undefined directive ' . htmlspecialchars($key),
+                E_USER_WARNING
+            );
+            return;
+        }
+        if (isset($this->def->info[$key]->isAlias)) {
+            $d = $this->def->info[$key];
+            $this->triggerError(
+                'Cannot get value from aliased directive, use real name ' . $d->key,
+                E_USER_ERROR
+            );
+            return;
+        }
+        if ($this->lock) {
+            list($ns) = explode('.', $key);
+            if ($ns !== $this->lock) {
+                $this->triggerError(
+                    'Cannot get value of namespace ' . $ns . ' when lock for ' .
+                    $this->lock .
+                    ' is active, this probably indicates a Definition setup method ' .
+                    'is accessing directives that are not within its namespace',
+                    E_USER_ERROR
+                );
+                return;
+            }
+        }
+        return $this->plist->get($key);
+    }
+
+    /**
+     * Retrieves an array of directives to values from a given namespace
+     *
+     * @param string $namespace String namespace
+     *
+     * @return array
+     */
+    public function getBatch($namespace)
+    {
+        if (!$this->finalized) {
+            $this->autoFinalize();
+        }
+        $full = $this->getAll();
+        if (!isset($full[$namespace])) {
+            $this->triggerError(
+                'Cannot retrieve undefined namespace ' .
+                htmlspecialchars($namespace),
+                E_USER_WARNING
+            );
+            return;
+        }
+        return $full[$namespace];
+    }
+
+    /**
+     * Returns a SHA-1 signature of a segment of the configuration object
+     * that uniquely identifies that particular configuration
+     *
+     * @param string $namespace Namespace to get serial for
+     *
+     * @return string
+     * @note Revision is handled specially and is removed from the batch
+     *       before processing!
+     */
+    public function getBatchSerial($namespace)
+    {
+        if (empty($this->serials[$namespace])) {
+            $batch = $this->getBatch($namespace);
+            unset($batch['DefinitionRev']);
+            $this->serials[$namespace] = sha1(serialize($batch));
+        }
+        return $this->serials[$namespace];
+    }
+
+    /**
+     * Returns a SHA-1 signature for the entire configuration object
+     * that uniquely identifies that particular configuration
+     *
+     * @return string
+     */
+    public function getSerial()
+    {
+        if (empty($this->serial)) {
+            $this->serial = sha1(serialize($this->getAll()));
+        }
+        return $this->serial;
+    }
+
+    /**
+     * Retrieves all directives, organized by namespace
+     *
+     * @warning This is a pretty inefficient function, avoid if you can
+     */
+    public function getAll()
+    {
+        if (!$this->finalized) {
+            $this->autoFinalize();
+        }
+        $ret = array();
+        foreach ($this->plist->squash() as $name => $value) {
+            list($ns, $key) = explode('.', $name, 2);
+            $ret[$ns][$key] = $value;
+        }
+        return $ret;
+    }
+
+    /**
+     * Sets a value to configuration.
+     *
+     * @param string $key key
+     * @param mixed $value value
+     * @param mixed $a
+     */
+    public function set($key, $value, $a = null)
+    {
+        if (strpos($key, '.') === false) {
+            $namespace = $key;
+            $directive = $value;
+            $value = $a;
+            $key = "$key.$directive";
+            $this->triggerError("Using deprecated API: use \$config->set('$key', ...) instead", E_USER_NOTICE);
+        } else {
+            list($namespace) = explode('.', $key);
+        }
+        if ($this->isFinalized('Cannot set directive after finalization')) {
+            return;
+        }
+        if (!isset($this->def->info[$key])) {
+            $this->triggerError(
+                'Cannot set undefined directive ' . htmlspecialchars($key) . ' to value',
+                E_USER_WARNING
+            );
+            return;
+        }
+        $def = $this->def->info[$key];
+
+        if (isset($def->isAlias)) {
+            if ($this->aliasMode) {
+                $this->triggerError(
+                    'Double-aliases not allowed, please fix '.
+                    'ConfigSchema bug with' . $key,
+                    E_USER_ERROR
+                );
+                return;
+            }
+            $this->aliasMode = true;
+            $this->set($def->key, $value);
+            $this->aliasMode = false;
+            $this->triggerError("$key is an alias, preferred directive name is {$def->key}", E_USER_NOTICE);
+            return;
+        }
+
+        // Raw type might be negative when using the fully optimized form
+        // of stdClass, which indicates allow_null == true
+        $rtype = is_int($def) ? $def : $def->type;
+        if ($rtype < 0) {
+            $type = -$rtype;
+            $allow_null = true;
+        } else {
+            $type = $rtype;
+            $allow_null = isset($def->allow_null);
+        }
+
+        try {
+            $value = $this->parser->parse($value, $type, $allow_null);
+        } catch (HTMLPurifier_VarParserException $e) {
+            $this->triggerError(
+                'Value for ' . $key . ' is of invalid type, should be ' .
+                HTMLPurifier_VarParser::getTypeName($type),
+                E_USER_WARNING
+            );
+            return;
+        }
+        if (is_string($value) && is_object($def)) {
+            // resolve value alias if defined
+            if (isset($def->aliases[$value])) {
+                $value = $def->aliases[$value];
+            }
+            // check to see if the value is allowed
+            if (isset($def->allowed) && !isset($def->allowed[$value])) {
+                $this->triggerError(
+                    'Value not supported, valid values are: ' .
+                    $this->_listify($def->allowed),
+                    E_USER_WARNING
+                );
+                return;
+            }
+        }
+        $this->plist->set($key, $value);
+
+        // reset definitions if the directives they depend on changed
+        // this is a very costly process, so it's discouraged
+        // with finalization
+        if ($namespace == 'HTML' || $namespace == 'CSS' || $namespace == 'URI') {
+            $this->definitions[$namespace] = null;
+        }
+
+        $this->serials[$namespace] = false;
+    }
+
+    /**
+     * Convenience function for error reporting
+     *
+     * @param array $lookup
+     *
+     * @return string
+     */
+    private function _listify($lookup)
+    {
+        $list = array();
+        foreach ($lookup as $name => $b) {
+            $list[] = $name;
+        }
+        return implode(', ', $list);
+    }
+
+    /**
+     * Retrieves object reference to the HTML definition.
+     *
+     * @param bool $raw Return a copy that has not been setup yet. Must be
+     *             called before it's been setup, otherwise won't work.
+     * @param bool $optimized If true, this method may return null, to
+     *             indicate that a cached version of the modified
+     *             definition object is available and no further edits
+     *             are necessary.  Consider using
+     *             maybeGetRawHTMLDefinition, which is more explicitly
+     *             named, instead.
+     *
+     * @return HTMLPurifier_HTMLDefinition|null
+     */
+    public function getHTMLDefinition($raw = false, $optimized = false)
+    {
+        return $this->getDefinition('HTML', $raw, $optimized);
+    }
+
+    /**
+     * Retrieves object reference to the CSS definition
+     *
+     * @param bool $raw Return a copy that has not been setup yet. Must be
+     *             called before it's been setup, otherwise won't work.
+     * @param bool $optimized If true, this method may return null, to
+     *             indicate that a cached version of the modified
+     *             definition object is available and no further edits
+     *             are necessary.  Consider using
+     *             maybeGetRawCSSDefinition, which is more explicitly
+     *             named, instead.
+     *
+     * @return HTMLPurifier_CSSDefinition|null
+     */
+    public function getCSSDefinition($raw = false, $optimized = false)
+    {
+        return $this->getDefinition('CSS', $raw, $optimized);
+    }
+
+    /**
+     * Retrieves object reference to the URI definition
+     *
+     * @param bool $raw Return a copy that has not been setup yet. Must be
+     *             called before it's been setup, otherwise won't work.
+     * @param bool $optimized If true, this method may return null, to
+     *             indicate that a cached version of the modified
+     *             definition object is available and no further edits
+     *             are necessary.  Consider using
+     *             maybeGetRawURIDefinition, which is more explicitly
+     *             named, instead.
+     *
+     * @return HTMLPurifier_URIDefinition|null
+     */
+    public function getURIDefinition($raw = false, $optimized = false)
+    {
+        return $this->getDefinition('URI', $raw, $optimized);
+    }
+
+    /**
+     * Retrieves a definition
+     *
+     * @param string $type Type of definition: HTML, CSS, etc
+     * @param bool $raw Whether or not definition should be returned raw
+     * @param bool $optimized Only has an effect when $raw is true.  Whether
+     *        or not to return null if the result is already present in
+     *        the cache.  This is off by default for backwards
+     *        compatibility reasons, but you need to do things this
+     *        way in order to ensure that caching is done properly.
+     *        Check out enduser-customize.html for more details.
+     *        We probably won't ever change this default, as much as the
+     *        maybe semantics is the "right thing to do."
+     *
+     * @throws HTMLPurifier_Exception
+     * @return HTMLPurifier_Definition|null
+     */
+    public function getDefinition($type, $raw = false, $optimized = false)
+    {
+        if ($optimized && !$raw) {
+            throw new HTMLPurifier_Exception("Cannot set optimized = true when raw = false");
+        }
+        if (!$this->finalized) {
+            $this->autoFinalize();
+        }
+        // temporarily suspend locks, so we can handle recursive definition calls
+        $lock = $this->lock;
+        $this->lock = null;
+        $factory = HTMLPurifier_DefinitionCacheFactory::instance();
+        $cache = $factory->create($type, $this);
+        $this->lock = $lock;
+        if (!$raw) {
+            // full definition
+            // ---------------
+            // check if definition is in memory
+            if (!empty($this->definitions[$type])) {
+                $def = $this->definitions[$type];
+                // check if the definition is setup
+                if ($def->setup) {
+                    return $def;
+                } else {
+                    $def->setup($this);
+                    if ($def->optimized) {
+                        $cache->add($def, $this);
+                    }
+                    return $def;
+                }
+            }
+            // check if definition is in cache
+            $def = $cache->get($this);
+            if ($def) {
+                // definition in cache, save to memory and return it
+                $this->definitions[$type] = $def;
+                return $def;
+            }
+            // initialize it
+            $def = $this->initDefinition($type);
+            // set it up
+            $this->lock = $type;
+            $def->setup($this);
+            $this->lock = null;
+            // save in cache
+            $cache->add($def, $this);
+            // return it
+            return $def;
+        } else {
+            // raw definition
+            // --------------
+            // check preconditions
+            $def = null;
+            if ($optimized) {
+                if (is_null($this->get($type . '.DefinitionID'))) {
+                    // fatally error out if definition ID not set
+                    throw new HTMLPurifier_Exception(
+                        "Cannot retrieve raw version without specifying %$type.DefinitionID"
+                    );
+                }
+            }
+            if (!empty($this->definitions[$type])) {
+                $def = $this->definitions[$type];
+                if ($def->setup && !$optimized) {
+                    $extra = $this->chatty ?
+                        " (try moving this code block earlier in your initialization)" :
+                        "";
+                    throw new HTMLPurifier_Exception(
+                        "Cannot retrieve raw definition after it has already been setup" .
+                        $extra
+                    );
+                }
+                if ($def->optimized === null) {
+                    $extra = $this->chatty ? " (try flushing your cache)" : "";
+                    throw new HTMLPurifier_Exception(
+                        "Optimization status of definition is unknown" . $extra
+                    );
+                }
+                if ($def->optimized !== $optimized) {
+                    $msg = $optimized ? "optimized" : "unoptimized";
+                    $extra = $this->chatty ?
+                        " (this backtrace is for the first inconsistent call, which was for a $msg raw definition)"
+                        : "";
+                    throw new HTMLPurifier_Exception(
+                        "Inconsistent use of optimized and unoptimized raw definition retrievals" . $extra
+                    );
+                }
+            }
+            // check if definition was in memory
+            if ($def) {
+                if ($def->setup) {
+                    // invariant: $optimized === true (checked above)
+                    return null;
+                } else {
+                    return $def;
+                }
+            }
+            // if optimized, check if definition was in cache
+            // (because we do the memory check first, this formulation
+            // is prone to cache slamming, but I think
+            // guaranteeing that either /all/ of the raw
+            // setup code or /none/ of it is run is more important.)
+            if ($optimized) {
+                // This code path only gets run once; once we put
+                // something in $definitions (which is guaranteed by the
+                // trailing code), we always short-circuit above.
+                $def = $cache->get($this);
+                if ($def) {
+                    // save the full definition for later, but don't
+                    // return it yet
+                    $this->definitions[$type] = $def;
+                    return null;
+                }
+            }
+            // check invariants for creation
+            if (!$optimized) {
+                if (!is_null($this->get($type . '.DefinitionID'))) {
+                    if ($this->chatty) {
+                        $this->triggerError(
+                            'Due to a documentation error in previous version of HTML Purifier, your ' .
+                            'definitions are not being cached.  If this is OK, you can remove the ' .
+                            '%$type.DefinitionRev and %$type.DefinitionID declaration.  Otherwise, ' .
+                            'modify your code to use maybeGetRawDefinition, and test if the returned ' .
+                            'value is null before making any edits (if it is null, that means that a ' .
+                            'cached version is available, and no raw operations are necessary).  See ' .
+                            '<a href="http://htmlpurifier.org/docs/enduser-customize.html#optimized">' .
+                            'Customize</a> for more details',
+                            E_USER_WARNING
+                        );
+                    } else {
+                        $this->triggerError(
+                            "Useless DefinitionID declaration",
+                            E_USER_WARNING
+                        );
+                    }
+                }
+            }
+            // initialize it
+            $def = $this->initDefinition($type);
+            $def->optimized = $optimized;
+            return $def;
+        }
+        throw new HTMLPurifier_Exception("The impossible happened!");
+    }
+
+    /**
+     * Initialise definition
+     *
+     * @param string $type What type of definition to create
+     *
+     * @return HTMLPurifier_CSSDefinition|HTMLPurifier_HTMLDefinition|HTMLPurifier_URIDefinition
+     * @throws HTMLPurifier_Exception
+     */
+    private function initDefinition($type)
+    {
+        // quick checks failed, let's create the object
+        if ($type == 'HTML') {
+            $def = new HTMLPurifier_HTMLDefinition();
+        } elseif ($type == 'CSS') {
+            $def = new HTMLPurifier_CSSDefinition();
+        } elseif ($type == 'URI') {
+            $def = new HTMLPurifier_URIDefinition();
+        } else {
+            throw new HTMLPurifier_Exception(
+                "Definition of $type type not supported"
+            );
+        }
+        $this->definitions[$type] = $def;
+        return $def;
+    }
+
+    public function maybeGetRawDefinition($name)
+    {
+        return $this->getDefinition($name, true, true);
+    }
+
+    /**
+     * @return HTMLPurifier_HTMLDefinition|null
+     */
+    public function maybeGetRawHTMLDefinition()
+    {
+        return $this->getDefinition('HTML', true, true);
+    }
+    
+    /**
+     * @return HTMLPurifier_CSSDefinition|null
+     */
+    public function maybeGetRawCSSDefinition()
+    {
+        return $this->getDefinition('CSS', true, true);
+    }
+    
+    /**
+     * @return HTMLPurifier_URIDefinition|null
+     */
+    public function maybeGetRawURIDefinition()
+    {
+        return $this->getDefinition('URI', true, true);
+    }
+
+    /**
+     * Loads configuration values from an array with the following structure:
+     * Namespace.Directive => Value
+     *
+     * @param array $config_array Configuration associative array
+     */
+    public function loadArray($config_array)
+    {
+        if ($this->isFinalized('Cannot load directives after finalization')) {
+            return;
+        }
+        foreach ($config_array as $key => $value) {
+            $key = str_replace('_', '.', $key);
+            if (strpos($key, '.') !== false) {
+                $this->set($key, $value);
+            } else {
+                $namespace = $key;
+                $namespace_values = $value;
+                foreach ($namespace_values as $directive => $value2) {
+                    $this->set($namespace .'.'. $directive, $value2);
+                }
+            }
+        }
+    }
+
+    /**
+     * Returns a list of array(namespace, directive) for all directives
+     * that are allowed in a web-form context as per an allowed
+     * namespaces/directives list.
+     *
+     * @param array $allowed List of allowed namespaces/directives
+     * @param HTMLPurifier_ConfigSchema $schema Schema to use, if not global copy
+     *
+     * @return array
+     */
+    public static function getAllowedDirectivesForForm($allowed, $schema = null)
+    {
+        if (!$schema) {
+            $schema = HTMLPurifier_ConfigSchema::instance();
+        }
+        if ($allowed !== true) {
+            if (is_string($allowed)) {
+                $allowed = array($allowed);
+            }
+            $allowed_ns = array();
+            $allowed_directives = array();
+            $blacklisted_directives = array();
+            foreach ($allowed as $ns_or_directive) {
+                if (strpos($ns_or_directive, '.') !== false) {
+                    // directive
+                    if ($ns_or_directive[0] == '-') {
+                        $blacklisted_directives[substr($ns_or_directive, 1)] = true;
+                    } else {
+                        $allowed_directives[$ns_or_directive] = true;
+                    }
+                } else {
+                    // namespace
+                    $allowed_ns[$ns_or_directive] = true;
+                }
+            }
+        }
+        $ret = array();
+        foreach ($schema->info as $key => $def) {
+            list($ns, $directive) = explode('.', $key, 2);
+            if ($allowed !== true) {
+                if (isset($blacklisted_directives["$ns.$directive"])) {
+                    continue;
+                }
+                if (!isset($allowed_directives["$ns.$directive"]) && !isset($allowed_ns[$ns])) {
+                    continue;
+                }
+            }
+            if (isset($def->isAlias)) {
+                continue;
+            }
+            if ($directive == 'DefinitionID' || $directive == 'DefinitionRev') {
+                continue;
+            }
+            $ret[] = array($ns, $directive);
+        }
+        return $ret;
+    }
+
+    /**
+     * Loads configuration values from $_GET/$_POST that were posted
+     * via ConfigForm
+     *
+     * @param array $array $_GET or $_POST array to import
+     * @param string|bool $index Index/name that the config variables are in
+     * @param array|bool $allowed List of allowed namespaces/directives
+     * @param bool $mq_fix Boolean whether or not to enable magic quotes fix
+     * @param HTMLPurifier_ConfigSchema $schema Schema to use, if not global copy
+     *
+     * @return mixed
+     */
+    public static function loadArrayFromForm($array, $index = false, $allowed = true, $mq_fix = true, $schema = null)
+    {
+        $ret = HTMLPurifier_Config::prepareArrayFromForm($array, $index, $allowed, $mq_fix, $schema);
+        $config = HTMLPurifier_Config::create($ret, $schema);
+        return $config;
+    }
+
+    /**
+     * Merges in configuration values from $_GET/$_POST to object. NOT STATIC.
+     *
+     * @param array $array $_GET or $_POST array to import
+     * @param string|bool $index Index/name that the config variables are in
+     * @param array|bool $allowed List of allowed namespaces/directives
+     * @param bool $mq_fix Boolean whether or not to enable magic quotes fix
+     */
+    public function mergeArrayFromForm($array, $index = false, $allowed = true, $mq_fix = true)
+    {
+         $ret = HTMLPurifier_Config::prepareArrayFromForm($array, $index, $allowed, $mq_fix, $this->def);
+         $this->loadArray($ret);
+    }
+
+    /**
+     * Prepares an array from a form into something usable for the more
+     * strict parts of HTMLPurifier_Config
+     *
+     * @param array $array $_GET or $_POST array to import
+     * @param string|bool $index Index/name that the config variables are in
+     * @param array|bool $allowed List of allowed namespaces/directives
+     * @param bool $mq_fix Boolean whether or not to enable magic quotes fix
+     * @param HTMLPurifier_ConfigSchema $schema Schema to use, if not global copy
+     *
+     * @return array
+     */
+    public static function prepareArrayFromForm($array, $index = false, $allowed = true, $mq_fix = true, $schema = null)
+    {
+        if ($index !== false) {
+            $array = (isset($array[$index]) && is_array($array[$index])) ? $array[$index] : array();
+        }
+        $mq = $mq_fix && version_compare(PHP_VERSION, '7.4.0', '<') && function_exists('get_magic_quotes_gpc') && get_magic_quotes_gpc();
+
+        $allowed = HTMLPurifier_Config::getAllowedDirectivesForForm($allowed, $schema);
+        $ret = array();
+        foreach ($allowed as $key) {
+            list($ns, $directive) = $key;
+            $skey = "$ns.$directive";
+            if (!empty($array["Null_$skey"])) {
+                $ret[$ns][$directive] = null;
+                continue;
+            }
+            if (!isset($array[$skey])) {
+                continue;
+            }
+            $value = $mq ? stripslashes($array[$skey]) : $array[$skey];
+            $ret[$ns][$directive] = $value;
+        }
+        return $ret;
+    }
+
+    /**
+     * Loads configuration values from an ini file
+     *
+     * @param string $filename Name of ini file
+     */
+    public function loadIni($filename)
+    {
+        if ($this->isFinalized('Cannot load directives after finalization')) {
+            return;
+        }
+        $array = parse_ini_file($filename, true);
+        $this->loadArray($array);
+    }
+
+    /**
+     * Checks whether or not the configuration object is finalized.
+     *
+     * @param string|bool $error String error message, or false for no error
+     *
+     * @return bool
+     */
+    public function isFinalized($error = false)
+    {
+        if ($this->finalized && $error) {
+            $this->triggerError($error, E_USER_ERROR);
+        }
+        return $this->finalized;
+    }
+
+    /**
+     * Finalizes configuration only if auto finalize is on and not
+     * already finalized
+     */
+    public function autoFinalize()
+    {
+        if ($this->autoFinalize) {
+            $this->finalize();
+        } else {
+            $this->plist->squash(true);
+        }
+    }
+
+    /**
+     * Finalizes a configuration object, prohibiting further change
+     */
+    public function finalize()
+    {
+        $this->finalized = true;
+        $this->parser = null;
+    }
+
+    /**
+     * Produces a nicely formatted error message by supplying the
+     * stack frame information OUTSIDE of HTMLPurifier_Config.
+     *
+     * @param string $msg An error message
+     * @param int $no An error number
+     */
+    protected function triggerError($msg, $no)
+    {
+        // determine previous stack frame
+        $extra = '';
+        if ($this->chatty) {
+            $trace = debug_backtrace();
+            // zip(tail(trace), trace) -- but PHP is not Haskell har har
+            for ($i = 0, $c = count($trace); $i < $c - 1; $i++) {
+                // XXX this is not correct on some versions of HTML Purifier
+                if (isset($trace[$i + 1]['class']) && $trace[$i + 1]['class'] === 'HTMLPurifier_Config') {
+                    continue;
+                }
+                $frame = $trace[$i];
+                $extra = " invoked on line {$frame['line']} in file {$frame['file']}";
+                break;
+            }
+        }
+        trigger_error($msg . $extra, $no);
+    }
+
+    /**
+     * Returns a serialized form of the configuration object that can
+     * be reconstituted.
+     *
+     * @return string
+     */
+    public function serialize()
+    {
+        $this->getDefinition('HTML');
+        $this->getDefinition('CSS');
+        $this->getDefinition('URI');
+        return serialize($this);
+    }
+
+}
+
+// vim: et sw=4 sts=4

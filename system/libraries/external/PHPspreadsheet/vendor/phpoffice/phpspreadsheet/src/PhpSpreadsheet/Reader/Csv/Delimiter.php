@@ -1,107 +1,151 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Reader\Csv;
+
+class Delimiter
+{
+    protected const POTENTIAL_DELIMETERS = [',', ';', "\t", '|', ':', ' ', '~'];
+
+    /** @var resource */
+    protected $fileHandle;
+
+    /** @var string */
+    protected $escapeCharacter;
+
+    /** @var string */
+    protected $enclosure;
+
+    /** @var array */
+    protected $counts = [];
+
+    /** @var int */
+    protected $numberLines = 0;
+
+    /** @var ?string */
+    protected $delimiter;
+
+    /**
+     * @param resource $fileHandle
+     */
+    public function __construct($fileHandle, string $escapeCharacter, string $enclosure)
+    {
+        $this->fileHandle = $fileHandle;
+        $this->escapeCharacter = $escapeCharacter;
+        $this->enclosure = $enclosure;
+
+        $this->countPotentialDelimiters();
+    }
+
+    public function getDefaultDelimiter(): string
+    {
+        return self::POTENTIAL_DELIMETERS[0];
+    }
+
+    public function linesCounted(): int
+    {
+        return $this->numberLines;
+    }
+
+    protected function countPotentialDelimiters(): void
+    {
+        $this->counts = array_fill_keys(self::POTENTIAL_DELIMETERS, []);
+        $delimiterKeys = array_flip(self::POTENTIAL_DELIMETERS);
+
+        // Count how many times each of the potential delimiters appears in each line
+        $this->numberLines = 0;
+        while (($line = $this->getNextLine()) !== false && (++$this->numberLines < 1000)) {
+            $this->countDelimiterValues($line, $delimiterKeys);
+        }
+    }
+
+    protected function countDelimiterValues(string $line, array $delimiterKeys): void
+    {
+        $splitString = str_split($line, 1);
+        if (is_array($splitString)) {
+            $distribution = array_count_values($splitString);
+            $countLine = array_intersect_key($distribution, $delimiterKeys);
+
+            foreach (self::POTENTIAL_DELIMETERS as $delimiter) {
+                $this->counts[$delimiter][] = $countLine[$delimiter] ?? 0;
+            }
+        }
+    }
+
+    public function infer(): ?string
+    {
+        // Calculate the mean square deviations for each delimiter
+        //     (ignoring delimiters that haven't been found consistently)
+        $meanSquareDeviations = [];
+        $middleIdx = floor(($this->numberLines - 1) / 2);
+
+        foreach (self::POTENTIAL_DELIMETERS as $delimiter) {
+            $series = $this->counts[$delimiter];
+            sort($series);
+
+            $median = ($this->numberLines % 2)
+                ? $series[$middleIdx]
+                : ($series[$middleIdx] + $series[$middleIdx + 1]) / 2;
+
+            if ($median === 0) {
+                continue;
+            }
+
+            $meanSquareDeviations[$delimiter] = array_reduce(
+                $series,
+                function ($sum, $value) use ($median) {
+                    return $sum + ($value - $median) ** 2;
+                }
+            ) / count($series);
+        }
+
+        // ... and pick the delimiter with the smallest mean square deviation
+        //         (in case of ties, the order in potentialDelimiters is respected)
+        $min = INF;
+        foreach (self::POTENTIAL_DELIMETERS as $delimiter) {
+            if (!isset($meanSquareDeviations[$delimiter])) {
+                continue;
+            }
+
+            if ($meanSquareDeviations[$delimiter] < $min) {
+                $min = $meanSquareDeviations[$delimiter];
+                $this->delimiter = $delimiter;
+            }
+        }
+
+        return $this->delimiter;
+    }
+
+    /**
+     * Get the next full line from the file.
+     *
+     * @return false|string
+     */
+    public function getNextLine()
+    {
+        $line = '';
+        $enclosure = ($this->escapeCharacter === '' ? ''
+                : ('(?<!' . preg_quote($this->escapeCharacter, '/') . ')'))
+            . preg_quote($this->enclosure, '/');
+
+        do {
+            // Get the next line in the file
+            $newLine = fgets($this->fileHandle);
+
+            // Return false if there is no next line
+            if ($newLine === false) {
+                return false;
+            }
+
+            // Add the new line to the line passed in
+            $line = $line . $newLine;
+
+            // Drop everything that is enclosed to avoid counting false positives in enclosures
+            $line = preg_replace('/(' . $enclosure . '.*' . $enclosure . ')/Us', '', $line);
+
+            // See if we have any enclosures left in the line
+            // if we still have an enclosure then we need to read the next line as well
+        } while (preg_match('/(' . $enclosure . ')/', $line ?? '') > 0);
+
+        return $line ?? false;
+    }
+}

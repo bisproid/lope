@@ -1,212 +1,1430 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-dBxOjHyu
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation;
+
+use PhpOffice\PhpSpreadsheet\Calculation\Financial\Amortization;
+use PhpOffice\PhpSpreadsheet\Calculation\Financial\Coupons;
+use PhpOffice\PhpSpreadsheet\Calculation\Financial\Depreciation;
+use PhpOffice\PhpSpreadsheet\Calculation\Financial\Dollar;
+use PhpOffice\PhpSpreadsheet\Calculation\Financial\InterestRate;
+use PhpOffice\PhpSpreadsheet\Calculation\Financial\Securities;
+use PhpOffice\PhpSpreadsheet\Calculation\Financial\TreasuryBill;
+
+/**
+ * @deprecated 1.18.0
+ */
+class Financial
+{
+    const FINANCIAL_MAX_ITERATIONS = 128;
+
+    const FINANCIAL_PRECISION = 1.0e-08;
+
+    /**
+     * ACCRINT.
+     *
+     * Returns the accrued interest for a security that pays periodic interest.
+     *
+     * Excel Function:
+     *        ACCRINT(issue,firstinterest,settlement,rate,par,frequency[,basis][,calc_method])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Securities\AccruedInterest::periodic()
+     *      Use the periodic() method in the Financial\Securities\AccruedInterest class instead
+     *
+     * @param mixed $issue the security's issue date
+     * @param mixed $firstInterest the security's first interest date
+     * @param mixed $settlement The security's settlement date.
+     *                              The security settlement date is the date after the issue date
+     *                                  when the security is traded to the buyer.
+     * @param mixed $rate the security's annual coupon rate
+     * @param mixed $parValue The security's par value.
+     *                            If you omit par, ACCRINT uses $1,000.
+     * @param mixed $frequency The number of coupon payments per year.
+     *                             Valid frequency values are:
+     *                               1    Annual
+     *                               2    Semi-Annual
+     *                               4    Quarterly
+     * @param mixed $basis The type of day count to use.
+     *                         0 or omitted    US (NASD) 30/360
+     *                         1               Actual/actual
+     *                         2               Actual/360
+     *                         3               Actual/365
+     *                         4               European 30/360
+     * @param mixed $calcMethod
+     *                          If true, use Issue to Settlement
+     *                          If false, use FirstInterest to Settlement
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function ACCRINT(
+        $issue,
+        $firstInterest,
+        $settlement,
+        $rate,
+        $parValue = 1000,
+        $frequency = 1,
+        $basis = 0,
+        $calcMethod = true
+    ) {
+        return Securities\AccruedInterest::periodic(
+            $issue,
+            $firstInterest,
+            $settlement,
+            $rate,
+            $parValue,
+            $frequency,
+            $basis,
+            $calcMethod
+        );
+    }
+
+    /**
+     * ACCRINTM.
+     *
+     * Returns the accrued interest for a security that pays interest at maturity.
+     *
+     * Excel Function:
+     *        ACCRINTM(issue,settlement,rate[,par[,basis]])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Securities\AccruedInterest::atMaturity()
+     *      Use the atMaturity() method in the Financial\Securities\AccruedInterest class instead
+     *
+     * @param mixed $issue The security's issue date
+     * @param mixed $settlement The security's settlement (or maturity) date
+     * @param mixed $rate The security's annual coupon rate
+     * @param mixed $parValue The security's par value.
+     *                            If you omit par, ACCRINT uses $1,000.
+     * @param mixed $basis The type of day count to use.
+     *                            0 or omitted    US (NASD) 30/360
+     *                            1               Actual/actual
+     *                            2               Actual/360
+     *                            3               Actual/365
+     *                            4               European 30/360
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function ACCRINTM($issue, $settlement, $rate, $parValue = 1000, $basis = 0)
+    {
+        return Securities\AccruedInterest::atMaturity($issue, $settlement, $rate, $parValue, $basis);
+    }
+
+    /**
+     * AMORDEGRC.
+     *
+     * Returns the depreciation for each accounting period.
+     * This function is provided for the French accounting system. If an asset is purchased in
+     * the middle of the accounting period, the prorated depreciation is taken into account.
+     * The function is similar to AMORLINC, except that a depreciation coefficient is applied in
+     * the calculation depending on the life of the assets.
+     * This function will return the depreciation until the last period of the life of the assets
+     * or until the cumulated value of depreciation is greater than the cost of the assets minus
+     * the salvage value.
+     *
+     * Excel Function:
+     *        AMORDEGRC(cost,purchased,firstPeriod,salvage,period,rate[,basis])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Amortization::AMORDEGRC()
+     *      Use the AMORDEGRC() method in the Financial\Amortization class instead
+     *
+     * @param float $cost The cost of the asset
+     * @param mixed $purchased Date of the purchase of the asset
+     * @param mixed $firstPeriod Date of the end of the first period
+     * @param mixed $salvage The salvage value at the end of the life of the asset
+     * @param float $period The period
+     * @param float $rate Rate of depreciation
+     * @param int $basis The type of day count to use.
+     *                       0 or omitted    US (NASD) 30/360
+     *                       1                Actual/actual
+     *                       2                Actual/360
+     *                       3                Actual/365
+     *                       4                European 30/360
+     *
+     * @return float|string (string containing the error type if there is an error)
+     */
+    public static function AMORDEGRC($cost, $purchased, $firstPeriod, $salvage, $period, $rate, $basis = 0)
+    {
+        return Amortization::AMORDEGRC($cost, $purchased, $firstPeriod, $salvage, $period, $rate, $basis);
+    }
+
+    /**
+     * AMORLINC.
+     *
+     * Returns the depreciation for each accounting period.
+     * This function is provided for the French accounting system. If an asset is purchased in
+     * the middle of the accounting period, the prorated depreciation is taken into account.
+     *
+     * Excel Function:
+     *        AMORLINC(cost,purchased,firstPeriod,salvage,period,rate[,basis])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Amortization::AMORLINC()
+     *      Use the AMORLINC() method in the Financial\Amortization class instead
+     *
+     * @param float $cost The cost of the asset
+     * @param mixed $purchased Date of the purchase of the asset
+     * @param mixed $firstPeriod Date of the end of the first period
+     * @param mixed $salvage The salvage value at the end of the life of the asset
+     * @param float $period The period
+     * @param float $rate Rate of depreciation
+     * @param int $basis The type of day count to use.
+     *                       0 or omitted    US (NASD) 30/360
+     *                       1               Actual/actual
+     *                       2               Actual/360
+     *                       3               Actual/365
+     *                       4               European 30/360
+     *
+     * @return float|string (string containing the error type if there is an error)
+     */
+    public static function AMORLINC($cost, $purchased, $firstPeriod, $salvage, $period, $rate, $basis = 0)
+    {
+        return Amortization::AMORLINC($cost, $purchased, $firstPeriod, $salvage, $period, $rate, $basis);
+    }
+
+    /**
+     * COUPDAYBS.
+     *
+     * Returns the number of days from the beginning of the coupon period to the settlement date.
+     *
+     * Excel Function:
+     *        COUPDAYBS(settlement,maturity,frequency[,basis])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Coupons::COUPDAYBS()
+     *      Use the COUPDAYBS() method in the Financial\Coupons class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                                The security settlement date is the date after the issue
+     *                                date when the security is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                                The maturity date is the date when the security expires.
+     * @param int $frequency the number of coupon payments per year.
+     *                                    Valid frequency values are:
+     *                                        1    Annual
+     *                                        2    Semi-Annual
+     *                                        4    Quarterly
+     * @param int $basis The type of day count to use.
+     *                                        0 or omitted    US (NASD) 30/360
+     *                                        1                Actual/actual
+     *                                        2                Actual/360
+     *                                        3                Actual/365
+     *                                        4                European 30/360
+     *
+     * @return float|string
+     */
+    public static function COUPDAYBS($settlement, $maturity, $frequency, $basis = 0)
+    {
+        return Coupons::COUPDAYBS($settlement, $maturity, $frequency, $basis);
+    }
+
+    /**
+     * COUPDAYS.
+     *
+     * Returns the number of days in the coupon period that contains the settlement date.
+     *
+     * Excel Function:
+     *        COUPDAYS(settlement,maturity,frequency[,basis])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Coupons::COUPDAYS()
+     *      Use the COUPDAYS() method in the Financial\Coupons class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                                The security settlement date is the date after the issue
+     *                                date when the security is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                                The maturity date is the date when the security expires.
+     * @param mixed $frequency the number of coupon payments per year.
+     *                                    Valid frequency values are:
+     *                                        1    Annual
+     *                                        2    Semi-Annual
+     *                                        4    Quarterly
+     * @param int $basis The type of day count to use.
+     *                                        0 or omitted    US (NASD) 30/360
+     *                                        1                Actual/actual
+     *                                        2                Actual/360
+     *                                        3                Actual/365
+     *                                        4                European 30/360
+     *
+     * @return float|string
+     */
+    public static function COUPDAYS($settlement, $maturity, $frequency, $basis = 0)
+    {
+        return Coupons::COUPDAYS($settlement, $maturity, $frequency, $basis);
+    }
+
+    /**
+     * COUPDAYSNC.
+     *
+     * Returns the number of days from the settlement date to the next coupon date.
+     *
+     * Excel Function:
+     *        COUPDAYSNC(settlement,maturity,frequency[,basis])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Coupons::COUPDAYSNC()
+     *      Use the COUPDAYSNC() method in the Financial\Coupons class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                                The security settlement date is the date after the issue
+     *                                date when the security is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                                The maturity date is the date when the security expires.
+     * @param mixed $frequency the number of coupon payments per year.
+     *                                    Valid frequency values are:
+     *                                        1    Annual
+     *                                        2    Semi-Annual
+     *                                        4    Quarterly
+     * @param int $basis The type of day count to use.
+     *                                        0 or omitted    US (NASD) 30/360
+     *                                        1                Actual/actual
+     *                                        2                Actual/360
+     *                                        3                Actual/365
+     *                                        4                European 30/360
+     *
+     * @return float|string
+     */
+    public static function COUPDAYSNC($settlement, $maturity, $frequency, $basis = 0)
+    {
+        return Coupons::COUPDAYSNC($settlement, $maturity, $frequency, $basis);
+    }
+
+    /**
+     * COUPNCD.
+     *
+     * Returns the next coupon date after the settlement date.
+     *
+     * Excel Function:
+     *        COUPNCD(settlement,maturity,frequency[,basis])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Coupons::COUPNCD()
+     *      Use the COUPNCD() method in the Financial\Coupons class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                                The security settlement date is the date after the issue
+     *                                date when the security is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                                The maturity date is the date when the security expires.
+     * @param mixed $frequency the number of coupon payments per year.
+     *                                    Valid frequency values are:
+     *                                        1    Annual
+     *                                        2    Semi-Annual
+     *                                        4    Quarterly
+     * @param int $basis The type of day count to use.
+     *                                        0 or omitted    US (NASD) 30/360
+     *                                        1                Actual/actual
+     *                                        2                Actual/360
+     *                                        3                Actual/365
+     *                                        4                European 30/360
+     *
+     * @return mixed Excel date/time serial value, PHP date/time serial value or PHP date/time object,
+     *                        depending on the value of the ReturnDateType flag
+     */
+    public static function COUPNCD($settlement, $maturity, $frequency, $basis = 0)
+    {
+        return Coupons::COUPNCD($settlement, $maturity, $frequency, $basis);
+    }
+
+    /**
+     * COUPNUM.
+     *
+     * Returns the number of coupons payable between the settlement date and maturity date,
+     * rounded up to the nearest whole coupon.
+     *
+     * Excel Function:
+     *        COUPNUM(settlement,maturity,frequency[,basis])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Coupons::COUPNUM()
+     *      Use the COUPNUM() method in the Financial\Coupons class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                                The security settlement date is the date after the issue
+     *                                date when the security is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                                The maturity date is the date when the security expires.
+     * @param mixed $frequency the number of coupon payments per year.
+     *                                    Valid frequency values are:
+     *                                        1    Annual
+     *                                        2    Semi-Annual
+     *                                        4    Quarterly
+     * @param int $basis The type of day count to use.
+     *                                        0 or omitted    US (NASD) 30/360
+     *                                        1                Actual/actual
+     *                                        2                Actual/360
+     *                                        3                Actual/365
+     *                                        4                European 30/360
+     *
+     * @return int|string
+     */
+    public static function COUPNUM($settlement, $maturity, $frequency, $basis = 0)
+    {
+        return Coupons::COUPNUM($settlement, $maturity, $frequency, $basis);
+    }
+
+    /**
+     * COUPPCD.
+     *
+     * Returns the previous coupon date before the settlement date.
+     *
+     * Excel Function:
+     *        COUPPCD(settlement,maturity,frequency[,basis])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Coupons::COUPPCD()
+     *      Use the COUPPCD() method in the Financial\Coupons class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                                The security settlement date is the date after the issue
+     *                                date when the security is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                                The maturity date is the date when the security expires.
+     * @param mixed $frequency the number of coupon payments per year.
+     *                                    Valid frequency values are:
+     *                                        1    Annual
+     *                                        2    Semi-Annual
+     *                                        4    Quarterly
+     * @param int $basis The type of day count to use.
+     *                                        0 or omitted    US (NASD) 30/360
+     *                                        1                Actual/actual
+     *                                        2                Actual/360
+     *                                        3                Actual/365
+     *                                        4                European 30/360
+     *
+     * @return mixed Excel date/time serial value, PHP date/time serial value or PHP date/time object,
+     *                        depending on the value of the ReturnDateType flag
+     */
+    public static function COUPPCD($settlement, $maturity, $frequency, $basis = 0)
+    {
+        return Coupons::COUPPCD($settlement, $maturity, $frequency, $basis);
+    }
+
+    /**
+     * CUMIPMT.
+     *
+     * Returns the cumulative interest paid on a loan between the start and end periods.
+     *
+     * Excel Function:
+     *        CUMIPMT(rate,nper,pv,start,end[,type])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Constant\Periodic\Cumulative::interest()
+     *      Use the interest() method in the Financial\CashFlow\Constant\Periodic\Cumulative class instead
+     *
+     * @param float $rate The Interest rate
+     * @param int $nper The total number of payment periods
+     * @param float $pv Present Value
+     * @param int $start The first period in the calculation.
+     *                       Payment periods are numbered beginning with 1.
+     * @param int $end the last period in the calculation
+     * @param int $type A number 0 or 1 and indicates when payments are due:
+     *                    0 or omitted    At the end of the period.
+     *                    1               At the beginning of the period.
+     *
+     * @return float|string
+     */
+    public static function CUMIPMT($rate, $nper, $pv, $start, $end, $type = 0)
+    {
+        return Financial\CashFlow\Constant\Periodic\Cumulative::interest($rate, $nper, $pv, $start, $end, $type);
+    }
+
+    /**
+     * CUMPRINC.
+     *
+     * Returns the cumulative principal paid on a loan between the start and end periods.
+     *
+     * Excel Function:
+     *        CUMPRINC(rate,nper,pv,start,end[,type])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Constant\Periodic\Cumulative::principal()
+     *      Use the principal() method in the Financial\CashFlow\Constant\Periodic\Cumulative class instead
+     *
+     * @param float $rate The Interest rate
+     * @param int $nper The total number of payment periods
+     * @param float $pv Present Value
+     * @param int $start The first period in the calculation.
+     *                       Payment periods are numbered beginning with 1.
+     * @param int $end the last period in the calculation
+     * @param int $type A number 0 or 1 and indicates when payments are due:
+     *                    0 or omitted    At the end of the period.
+     *                    1               At the beginning of the period.
+     *
+     * @return float|string
+     */
+    public static function CUMPRINC($rate, $nper, $pv, $start, $end, $type = 0)
+    {
+        return Financial\CashFlow\Constant\Periodic\Cumulative::principal($rate, $nper, $pv, $start, $end, $type);
+    }
+
+    /**
+     * DB.
+     *
+     * Returns the depreciation of an asset for a specified period using the
+     * fixed-declining balance method.
+     * This form of depreciation is used if you want to get a higher depreciation value
+     * at the beginning of the depreciation (as opposed to linear depreciation). The
+     * depreciation value is reduced with every depreciation period by the depreciation
+     * already deducted from the initial cost.
+     *
+     * Excel Function:
+     *        DB(cost,salvage,life,period[,month])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Depreciation::DB()
+     *      Use the DB() method in the Financial\Depreciation class instead
+     *
+     * @param float $cost Initial cost of the asset
+     * @param float $salvage Value at the end of the depreciation.
+     *                                (Sometimes called the salvage value of the asset)
+     * @param int $life Number of periods over which the asset is depreciated.
+     *                                (Sometimes called the useful life of the asset)
+     * @param int $period The period for which you want to calculate the
+     *                                depreciation. Period must use the same units as life.
+     * @param int $month Number of months in the first year. If month is omitted,
+     *                                it defaults to 12.
+     *
+     * @return float|string
+     */
+    public static function DB($cost, $salvage, $life, $period, $month = 12)
+    {
+        return Depreciation::DB($cost, $salvage, $life, $period, $month);
+    }
+
+    /**
+     * DDB.
+     *
+     * Returns the depreciation of an asset for a specified period using the
+     * double-declining balance method or some other method you specify.
+     *
+     * Excel Function:
+     *        DDB(cost,salvage,life,period[,factor])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Depreciation::DDB()
+     *      Use the DDB() method in the Financial\Depreciation class instead
+     *
+     * @param float $cost Initial cost of the asset
+     * @param float $salvage Value at the end of the depreciation.
+     *                                (Sometimes called the salvage value of the asset)
+     * @param int $life Number of periods over which the asset is depreciated.
+     *                                (Sometimes called the useful life of the asset)
+     * @param int $period The period for which you want to calculate the
+     *                                depreciation. Period must use the same units as life.
+     * @param float $factor The rate at which the balance declines.
+     *                                If factor is omitted, it is assumed to be 2 (the
+     *                                double-declining balance method).
+     *
+     * @return float|string
+     */
+    public static function DDB($cost, $salvage, $life, $period, $factor = 2.0)
+    {
+        return Depreciation::DDB($cost, $salvage, $life, $period, $factor);
+    }
+
+    /**
+     * DISC.
+     *
+     * Returns the discount rate for a security.
+     *
+     * Excel Function:
+     *        DISC(settlement,maturity,price,redemption[,basis])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Securities\Rates::discount()
+     *      Use the discount() method in the Financial\Securities\Rates class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                                The security settlement date is the date after the issue
+     *                                date when the security is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                                The maturity date is the date when the security expires.
+     * @param int $price The security's price per $100 face value
+     * @param int $redemption The security's redemption value per $100 face value
+     * @param int $basis The type of day count to use.
+     *                                        0 or omitted    US (NASD) 30/360
+     *                                        1                Actual/actual
+     *                                        2                Actual/360
+     *                                        3                Actual/365
+     *                                        4                European 30/360
+     *
+     * @return float|string
+     */
+    public static function DISC($settlement, $maturity, $price, $redemption, $basis = 0)
+    {
+        return Financial\Securities\Rates::discount($settlement, $maturity, $price, $redemption, $basis);
+    }
+
+    /**
+     * DOLLARDE.
+     *
+     * Converts a dollar price expressed as an integer part and a fraction
+     *        part into a dollar price expressed as a decimal number.
+     * Fractional dollar numbers are sometimes used for security prices.
+     *
+     * Excel Function:
+     *        DOLLARDE(fractional_dollar,fraction)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Dollar::decimal()
+     *      Use the decimal() method in the Financial\Dollar class instead
+     *
+     * @param array|float $fractional_dollar Fractional Dollar
+     * @param array|int $fraction Fraction
+     *
+     * @return array|float|string
+     */
+    public static function DOLLARDE($fractional_dollar = null, $fraction = 0)
+    {
+        return Dollar::decimal($fractional_dollar, $fraction);
+    }
+
+    /**
+     * DOLLARFR.
+     *
+     * Converts a dollar price expressed as a decimal number into a dollar price
+     *        expressed as a fraction.
+     * Fractional dollar numbers are sometimes used for security prices.
+     *
+     * Excel Function:
+     *        DOLLARFR(decimal_dollar,fraction)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Dollar::fractional()
+     *      Use the fractional() method in the Financial\Dollar class instead
+     *
+     * @param array|float $decimal_dollar Decimal Dollar
+     * @param array|int $fraction Fraction
+     *
+     * @return array|float|string
+     */
+    public static function DOLLARFR($decimal_dollar = null, $fraction = 0)
+    {
+        return Dollar::fractional($decimal_dollar, $fraction);
+    }
+
+    /**
+     * EFFECT.
+     *
+     * Returns the effective interest rate given the nominal rate and the number of
+     *        compounding payments per year.
+     *
+     * Excel Function:
+     *        EFFECT(nominal_rate,npery)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\InterestRate::effective()
+     *      Use the effective() method in the Financial\InterestRate class instead
+     *
+     * @param float $nominalRate Nominal interest rate
+     * @param int $periodsPerYear Number of compounding payments per year
+     *
+     * @return float|string
+     */
+    public static function EFFECT($nominalRate = 0, $periodsPerYear = 0)
+    {
+        return Financial\InterestRate::effective($nominalRate, $periodsPerYear);
+    }
+
+    /**
+     * FV.
+     *
+     * Returns the Future Value of a cash flow with constant payments and interest rate (annuities).
+     *
+     * Excel Function:
+     *        FV(rate,nper,pmt[,pv[,type]])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Constant\Periodic::futureValue()
+     *      Use the futureValue() method in the Financial\CashFlow\Constant\Periodic class instead
+     *
+     * @param float $rate The interest rate per period
+     * @param int $nper Total number of payment periods in an annuity
+     * @param float $pmt The payment made each period: it cannot change over the
+     *                            life of the annuity. Typically, pmt contains principal
+     *                            and interest but no other fees or taxes.
+     * @param float $pv present Value, or the lump-sum amount that a series of
+     *                            future payments is worth right now
+     * @param int $type A number 0 or 1 and indicates when payments are due:
+     *                                0 or omitted    At the end of the period.
+     *                                1                At the beginning of the period.
+     *
+     * @return float|string
+     */
+    public static function FV($rate = 0, $nper = 0, $pmt = 0, $pv = 0, $type = 0)
+    {
+        return Financial\CashFlow\Constant\Periodic::futureValue($rate, $nper, $pmt, $pv, $type);
+    }
+
+    /**
+     * FVSCHEDULE.
+     *
+     * Returns the future value of an initial principal after applying a series of compound interest rates.
+     * Use FVSCHEDULE to calculate the future value of an investment with a variable or adjustable rate.
+     *
+     * Excel Function:
+     *        FVSCHEDULE(principal,schedule)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Single::futureValue()
+     *      Use the futureValue() method in the Financial\CashFlow\Single class instead
+     *
+     * @param float $principal the present value
+     * @param float[] $schedule an array of interest rates to apply
+     *
+     * @return float|string
+     */
+    public static function FVSCHEDULE($principal, $schedule)
+    {
+        return Financial\CashFlow\Single::futureValue($principal, $schedule);
+    }
+
+    /**
+     * INTRATE.
+     *
+     * Returns the interest rate for a fully invested security.
+     *
+     * Excel Function:
+     *        INTRATE(settlement,maturity,investment,redemption[,basis])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Securities\Rates::interest()
+     *      Use the interest() method in the Financial\Securities\Rates class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                              The security settlement date is the date after the issue date when the security
+     *                                  is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                            The maturity date is the date when the security expires.
+     * @param int $investment the amount invested in the security
+     * @param int $redemption the amount to be received at maturity
+     * @param int $basis The type of day count to use.
+     *                       0 or omitted    US (NASD) 30/360
+     *                       1               Actual/actual
+     *                       2               Actual/360
+     *                       3               Actual/365
+     *                       4               European 30/360
+     *
+     * @return float|string
+     */
+    public static function INTRATE($settlement, $maturity, $investment, $redemption, $basis = 0)
+    {
+        return Financial\Securities\Rates::interest($settlement, $maturity, $investment, $redemption, $basis);
+    }
+
+    /**
+     * IPMT.
+     *
+     * Returns the interest payment for a given period for an investment based on periodic, constant payments
+     *         and a constant interest rate.
+     *
+     * Excel Function:
+     *        IPMT(rate,per,nper,pv[,fv][,type])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Constant\Periodic\Interest::payment()
+     *      Use the payment() method in the Financial\CashFlow\Constant\Periodic class instead
+     *
+     * @param float $rate Interest rate per period
+     * @param int $per Period for which we want to find the interest
+     * @param int $nper Number of periods
+     * @param float $pv Present Value
+     * @param float $fv Future Value
+     * @param int $type Payment type: 0 = at the end of each period, 1 = at the beginning of each period
+     *
+     * @return float|string
+     */
+    public static function IPMT($rate, $per, $nper, $pv, $fv = 0, $type = 0)
+    {
+        return Financial\CashFlow\Constant\Periodic\Interest::payment($rate, $per, $nper, $pv, $fv, $type);
+    }
+
+    /**
+     * IRR.
+     *
+     * Returns the internal rate of return for a series of cash flows represented by the numbers in values.
+     * These cash flows do not have to be even, as they would be for an annuity. However, the cash flows must occur
+     * at regular intervals, such as monthly or annually. The internal rate of return is the interest rate received
+     * for an investment consisting of payments (negative values) and income (positive values) that occur at regular
+     * periods.
+     *
+     * Excel Function:
+     *        IRR(values[,guess])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Variable\Periodic::rate()
+     *      Use the rate() method in the Financial\CashFlow\Variable\Periodic class instead
+     *
+     * @param mixed $values An array or a reference to cells that contain numbers for which you want
+     *                                    to calculate the internal rate of return.
+     *                                Values must contain at least one positive value and one negative value to
+     *                                    calculate the internal rate of return.
+     * @param mixed $guess A number that you guess is close to the result of IRR
+     *
+     * @return float|string
+     */
+    public static function IRR($values, $guess = 0.1)
+    {
+        return Financial\CashFlow\Variable\Periodic::rate($values, $guess);
+    }
+
+    /**
+     * ISPMT.
+     *
+     * Returns the interest payment for an investment based on an interest rate and a constant payment schedule.
+     *
+     * Excel Function:
+     *     =ISPMT(interest_rate, period, number_payments, pv)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Constant\Periodic\Interest::schedulePayment()
+     *      Use the schedulePayment() method in the Financial\CashFlow\Constant\Periodic class instead
+     *
+     * interest_rate is the interest rate for the investment
+     *
+     * period is the period to calculate the interest rate.  It must be betweeen 1 and number_payments.
+     *
+     * number_payments is the number of payments for the annuity
+     *
+     * pv is the loan amount or present value of the payments
+     */
+    public static function ISPMT(...$args)
+    {
+        return Financial\CashFlow\Constant\Periodic\Interest::schedulePayment(...$args);
+    }
+
+    /**
+     * MIRR.
+     *
+     * Returns the modified internal rate of return for a series of periodic cash flows. MIRR considers both
+     *        the cost of the investment and the interest received on reinvestment of cash.
+     *
+     * Excel Function:
+     *        MIRR(values,finance_rate, reinvestment_rate)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Variable\Periodic::modifiedRate()
+     *      Use the modifiedRate() method in the Financial\CashFlow\Variable\Periodic class instead
+     *
+     * @param mixed $values An array or a reference to cells that contain a series of payments and
+     *                         income occurring at regular intervals.
+     *                      Payments are negative value, income is positive values.
+     * @param mixed $finance_rate The interest rate you pay on the money used in the cash flows
+     * @param mixed $reinvestment_rate The interest rate you receive on the cash flows as you reinvest them
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function MIRR($values, $finance_rate, $reinvestment_rate)
+    {
+        return Financial\CashFlow\Variable\Periodic::modifiedRate($values, $finance_rate, $reinvestment_rate);
+    }
+
+    /**
+     * NOMINAL.
+     *
+     * Returns the nominal interest rate given the effective rate and the number of compounding payments per year.
+     *
+     * Excel Function:
+     *        NOMINAL(effect_rate, npery)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\InterestRate::nominal()
+     *      Use the nominal() method in the Financial\InterestRate class instead
+     *
+     * @param float $effectiveRate Effective interest rate
+     * @param int $periodsPerYear Number of compounding payments per year
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function NOMINAL($effectiveRate = 0, $periodsPerYear = 0)
+    {
+        return InterestRate::nominal($effectiveRate, $periodsPerYear);
+    }
+
+    /**
+     * NPER.
+     *
+     * Returns the number of periods for a cash flow with constant periodic payments (annuities), and interest rate.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @param float $rate Interest rate per period
+     * @param int $pmt Periodic payment (annuity)
+     * @param float $pv Present Value
+     * @param float $fv Future Value
+     * @param int $type Payment type: 0 = at the end of each period, 1 = at the beginning of each period
+     *
+     * @return float|string Result, or a string containing an error
+     *
+     *@see Financial\CashFlow\Constant\Periodic::periods()
+     *      Use the periods() method in the Financial\CashFlow\Constant\Periodic class instead
+     */
+    public static function NPER($rate = 0, $pmt = 0, $pv = 0, $fv = 0, $type = 0)
+    {
+        return Financial\CashFlow\Constant\Periodic::periods($rate, $pmt, $pv, $fv, $type);
+    }
+
+    /**
+     * NPV.
+     *
+     * Returns the Net Present Value of a cash flow series given a discount rate.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Variable\Periodic::presentValue()
+     *      Use the presentValue() method in the Financial\CashFlow\Variable\Periodic class instead
+     *
+     * @return float
+     */
+    public static function NPV(...$args)
+    {
+        return Financial\CashFlow\Variable\Periodic::presentValue(...$args);
+    }
+
+    /**
+     * PDURATION.
+     *
+     * Calculates the number of periods required for an investment to reach a specified value.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Single::periods()
+     *      Use the periods() method in the Financial\CashFlow\Single class instead
+     *
+     * @param float $rate Interest rate per period
+     * @param float $pv Present Value
+     * @param float $fv Future Value
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function PDURATION($rate = 0, $pv = 0, $fv = 0)
+    {
+        return Financial\CashFlow\Single::periods($rate, $pv, $fv);
+    }
+
+    /**
+     * PMT.
+     *
+     * Returns the constant payment (annuity) for a cash flow with a constant interest rate.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Constant\Periodic\Payments::annuity()
+     *      Use the annuity() method in the Financial\CashFlow\Constant\Periodic\Payments class instead
+     *
+     * @param float $rate Interest rate per period
+     * @param int $nper Number of periods
+     * @param float $pv Present Value
+     * @param float $fv Future Value
+     * @param int $type Payment type: 0 = at the end of each period, 1 = at the beginning of each period
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function PMT($rate = 0, $nper = 0, $pv = 0, $fv = 0, $type = 0)
+    {
+        return Financial\CashFlow\Constant\Periodic\Payments::annuity($rate, $nper, $pv, $fv, $type);
+    }
+
+    /**
+     * PPMT.
+     *
+     * Returns the interest payment for a given period for an investment based on periodic, constant payments
+     *         and a constant interest rate.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Constant\Periodic\Payments::interestPayment()
+     *      Use the interestPayment() method in the Financial\CashFlow\Constant\Periodic\Payments class instead
+     *
+     * @param float $rate Interest rate per period
+     * @param int $per Period for which we want to find the interest
+     * @param int $nper Number of periods
+     * @param float $pv Present Value
+     * @param float $fv Future Value
+     * @param int $type Payment type: 0 = at the end of each period, 1 = at the beginning of each period
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function PPMT($rate, $per, $nper, $pv, $fv = 0, $type = 0)
+    {
+        return Financial\CashFlow\Constant\Periodic\Payments::interestPayment($rate, $per, $nper, $pv, $fv, $type);
+    }
+
+    /**
+     * PRICE.
+     *
+     * Returns the price per $100 face value of a security that pays periodic interest.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Securities\Price::price()
+     *      Use the price() method in the Financial\Securities\Price class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                              The security settlement date is the date after the issue date when the security
+     *                              is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                                The maturity date is the date when the security expires.
+     * @param float $rate the security's annual coupon rate
+     * @param float $yield the security's annual yield
+     * @param float $redemption The number of coupon payments per year.
+     *                              For annual payments, frequency = 1;
+     *                              for semiannual, frequency = 2;
+     *                              for quarterly, frequency = 4.
+     * @param int $frequency
+     * @param int $basis The type of day count to use.
+     *                       0 or omitted    US (NASD) 30/360
+     *                       1                Actual/actual
+     *                       2                Actual/360
+     *                       3                Actual/365
+     *                       4                European 30/360
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function PRICE($settlement, $maturity, $rate, $yield, $redemption, $frequency, $basis = 0)
+    {
+        return Securities\Price::price($settlement, $maturity, $rate, $yield, $redemption, $frequency, $basis);
+    }
+
+    /**
+     * PRICEDISC.
+     *
+     * Returns the price per $100 face value of a discounted security.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Securities\Price::priceDiscounted()
+     *      Use the priceDiscounted() method in the Financial\Securities\Price class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                              The security settlement date is the date after the issue date when the security
+     *                              is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                            The maturity date is the date when the security expires.
+     * @param int $discount The security's discount rate
+     * @param int $redemption The security's redemption value per $100 face value
+     * @param int $basis The type of day count to use.
+     *                                        0 or omitted    US (NASD) 30/360
+     *                                        1                Actual/actual
+     *                                        2                Actual/360
+     *                                        3                Actual/365
+     *                                        4                European 30/360
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function PRICEDISC($settlement, $maturity, $discount, $redemption, $basis = 0)
+    {
+        return Securities\Price::priceDiscounted($settlement, $maturity, $discount, $redemption, $basis);
+    }
+
+    /**
+     * PRICEMAT.
+     *
+     * Returns the price per $100 face value of a security that pays interest at maturity.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Securities\Price::priceAtMaturity()
+     *      Use the priceAtMaturity() method in the Financial\Securities\Price class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                              The security's settlement date is the date after the issue date when the security
+     *                              is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                            The maturity date is the date when the security expires.
+     * @param mixed $issue The security's issue date
+     * @param int $rate The security's interest rate at date of issue
+     * @param int $yield The security's annual yield
+     * @param int $basis The type of day count to use.
+     *                                        0 or omitted    US (NASD) 30/360
+     *                                        1                Actual/actual
+     *                                        2                Actual/360
+     *                                        3                Actual/365
+     *                                        4                European 30/360
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function PRICEMAT($settlement, $maturity, $issue, $rate, $yield, $basis = 0)
+    {
+        return Securities\Price::priceAtMaturity($settlement, $maturity, $issue, $rate, $yield, $basis);
+    }
+
+    /**
+     * PV.
+     *
+     * Returns the Present Value of a cash flow with constant payments and interest rate (annuities).
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Constant\Periodic::presentValue()
+     *      Use the presentValue() method in the Financial\CashFlow\Constant\Periodic class instead
+     *
+     * @param float $rate Interest rate per period
+     * @param int $nper Number of periods
+     * @param float $pmt Periodic payment (annuity)
+     * @param float $fv Future Value
+     * @param int $type Payment type: 0 = at the end of each period, 1 = at the beginning of each period
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function PV($rate = 0, $nper = 0, $pmt = 0, $fv = 0, $type = 0)
+    {
+        return Financial\CashFlow\Constant\Periodic::presentValue($rate, $nper, $pmt, $fv, $type);
+    }
+
+    /**
+     * RATE.
+     *
+     * Returns the interest rate per period of an annuity.
+     * RATE is calculated by iteration and can have zero or more solutions.
+     * If the successive results of RATE do not converge to within 0.0000001 after 20 iterations,
+     * RATE returns the #NUM! error value.
+     *
+     * Excel Function:
+     *        RATE(nper,pmt,pv[,fv[,type[,guess]]])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Constant\Periodic\Interest::rate()
+     *      Use the rate() method in the Financial\CashFlow\Constant\Periodic class instead
+     *
+     * @param mixed $nper The total number of payment periods in an annuity
+     * @param mixed $pmt The payment made each period and cannot change over the life
+     *                                    of the annuity.
+     *                                Typically, pmt includes principal and interest but no other
+     *                                    fees or taxes.
+     * @param mixed $pv The present value - the total amount that a series of future
+     *                                    payments is worth now
+     * @param mixed $fv The future value, or a cash balance you want to attain after
+     *                                    the last payment is made. If fv is omitted, it is assumed
+     *                                    to be 0 (the future value of a loan, for example, is 0).
+     * @param mixed $type A number 0 or 1 and indicates when payments are due:
+     *                                        0 or omitted    At the end of the period.
+     *                                        1                At the beginning of the period.
+     * @param mixed $guess Your guess for what the rate will be.
+     *                                    If you omit guess, it is assumed to be 10 percent.
+     *
+     * @return float|string
+     */
+    public static function RATE($nper, $pmt, $pv, $fv = 0.0, $type = 0, $guess = 0.1)
+    {
+        return Financial\CashFlow\Constant\Periodic\Interest::rate($nper, $pmt, $pv, $fv, $type, $guess);
+    }
+
+    /**
+     * RECEIVED.
+     *
+     * Returns the amount received at maturity for a fully invested Security.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Securities\Price::received()
+     *      Use the received() method in the Financial\Securities\Price class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                              The security settlement date is the date after the issue date when the security
+     *                                  is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                            The maturity date is the date when the security expires.
+     * @param mixed $investment The amount invested in the security
+     * @param mixed $discount The security's discount rate
+     * @param mixed $basis The type of day count to use.
+     *                         0 or omitted    US (NASD) 30/360
+     *                         1               Actual/actual
+     *                         2               Actual/360
+     *                         3               Actual/365
+     *                         4               European 30/360
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function RECEIVED($settlement, $maturity, $investment, $discount, $basis = 0)
+    {
+        return Financial\Securities\Price::received($settlement, $maturity, $investment, $discount, $basis);
+    }
+
+    /**
+     * RRI.
+     *
+     * Calculates the interest rate required for an investment to grow to a specified future value .
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Single::interestRate()
+     *      Use the interestRate() method in the Financial\CashFlow\Single class instead
+     *
+     * @param float $nper The number of periods over which the investment is made
+     * @param float $pv Present Value
+     * @param float $fv Future Value
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function RRI($nper = 0, $pv = 0, $fv = 0)
+    {
+        return Financial\CashFlow\Single::interestRate($nper, $pv, $fv);
+    }
+
+    /**
+     * SLN.
+     *
+     * Returns the straight-line depreciation of an asset for one period
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Depreciation::SLN()
+     *      Use the SLN() method in the Financial\Depreciation class instead
+     *
+     * @param mixed $cost Initial cost of the asset
+     * @param mixed $salvage Value at the end of the depreciation
+     * @param mixed $life Number of periods over which the asset is depreciated
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function SLN($cost, $salvage, $life)
+    {
+        return Depreciation::SLN($cost, $salvage, $life);
+    }
+
+    /**
+     * SYD.
+     *
+     * Returns the sum-of-years' digits depreciation of an asset for a specified period.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Depreciation::SYD()
+     *      Use the SYD() method in the Financial\Depreciation class instead
+     *
+     * @param mixed $cost Initial cost of the asset
+     * @param mixed $salvage Value at the end of the depreciation
+     * @param mixed $life Number of periods over which the asset is depreciated
+     * @param mixed $period Period
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function SYD($cost, $salvage, $life, $period)
+    {
+        return Depreciation::SYD($cost, $salvage, $life, $period);
+    }
+
+    /**
+     * TBILLEQ.
+     *
+     * Returns the bond-equivalent yield for a Treasury bill.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\TreasuryBill::bondEquivalentYield()
+     *      Use the bondEquivalentYield() method in the Financial\TreasuryBill class instead
+     *
+     * @param mixed $settlement The Treasury bill's settlement date.
+     *                          The Treasury bill's settlement date is the date after the issue date when the
+     *                              Treasury bill is traded to the buyer.
+     * @param mixed $maturity The Treasury bill's maturity date.
+     *                                The maturity date is the date when the Treasury bill expires.
+     * @param int $discount The Treasury bill's discount rate
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function TBILLEQ($settlement, $maturity, $discount)
+    {
+        return TreasuryBill::bondEquivalentYield($settlement, $maturity, $discount);
+    }
+
+    /**
+     * TBILLPRICE.
+     *
+     * Returns the price per $100 face value for a Treasury bill.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\TreasuryBill::price()
+     *      Use the price() method in the Financial\TreasuryBill class instead
+     *
+     * @param mixed $settlement The Treasury bill's settlement date.
+     *                                The Treasury bill's settlement date is the date after the issue date
+     *                                    when the Treasury bill is traded to the buyer.
+     * @param mixed $maturity The Treasury bill's maturity date.
+     *                                The maturity date is the date when the Treasury bill expires.
+     * @param int $discount The Treasury bill's discount rate
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function TBILLPRICE($settlement, $maturity, $discount)
+    {
+        return TreasuryBill::price($settlement, $maturity, $discount);
+    }
+
+    /**
+     * TBILLYIELD.
+     *
+     * Returns the yield for a Treasury bill.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\TreasuryBill::yield()
+     *      Use the yield() method in the Financial\TreasuryBill class instead
+     *
+     * @param mixed $settlement The Treasury bill's settlement date.
+     *                                The Treasury bill's settlement date is the date after the issue date
+     *                                    when the Treasury bill is traded to the buyer.
+     * @param mixed $maturity The Treasury bill's maturity date.
+     *                                The maturity date is the date when the Treasury bill expires.
+     * @param int $price The Treasury bill's price per $100 face value
+     *
+     * @return float|mixed|string
+     */
+    public static function TBILLYIELD($settlement, $maturity, $price)
+    {
+        return TreasuryBill::yield($settlement, $maturity, $price);
+    }
+
+    /**
+     * XIRR.
+     *
+     * Returns the internal rate of return for a schedule of cash flows that is not necessarily periodic.
+     *
+     * Excel Function:
+     *        =XIRR(values,dates,guess)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Variable\NonPeriodic::rate()
+     *      Use the rate() method in the Financial\CashFlow\Variable\NonPeriodic class instead
+     *
+     * @param float[] $values     A series of cash flow payments
+     *                                The series of values must contain at least one positive value & one negative value
+     * @param mixed[] $dates      A series of payment dates
+     *                                The first payment date indicates the beginning of the schedule of payments
+     *                                All other dates must be later than this date, but they may occur in any order
+     * @param float $guess        An optional guess at the expected answer
+     *
+     * @return float|mixed|string
+     */
+    public static function XIRR($values, $dates, $guess = 0.1)
+    {
+        return Financial\CashFlow\Variable\NonPeriodic::rate($values, $dates, $guess);
+    }
+
+    /**
+     * XNPV.
+     *
+     * Returns the net present value for a schedule of cash flows that is not necessarily periodic.
+     * To calculate the net present value for a series of cash flows that is periodic, use the NPV function.
+     *
+     * Excel Function:
+     *        =XNPV(rate,values,dates)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\CashFlow\Variable\NonPeriodic::presentValue()
+     *      Use the presentValue() method in the Financial\CashFlow\Variable\NonPeriodic class instead
+     *
+     * @param float $rate the discount rate to apply to the cash flows
+     * @param float[] $values A series of cash flows that corresponds to a schedule of payments in dates.
+     *                          The first payment is optional and corresponds to a cost or payment that occurs
+     *                              at the beginning of the investment.
+     *                          If the first value is a cost or payment, it must be a negative value.
+     *                             All succeeding payments are discounted based on a 365-day year.
+     *                          The series of values must contain at least one positive value and one negative value.
+     * @param mixed[] $dates A schedule of payment dates that corresponds to the cash flow payments.
+     *                         The first payment date indicates the beginning of the schedule of payments.
+     *                         All other dates must be later than this date, but they may occur in any order.
+     *
+     * @return float|mixed|string
+     */
+    public static function XNPV($rate, $values, $dates)
+    {
+        return Financial\CashFlow\Variable\NonPeriodic::presentValue($rate, $values, $dates);
+    }
+
+    /**
+     * YIELDDISC.
+     *
+     * Returns the annual yield of a security that pays interest at maturity.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Securities\Yields::yieldDiscounted()
+     *      Use the yieldDiscounted() method in the Financial\Securities\Yields class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                              The security's settlement date is the date after the issue date when the security
+     *                              is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                            The maturity date is the date when the security expires.
+     * @param int $price The security's price per $100 face value
+     * @param int $redemption The security's redemption value per $100 face value
+     * @param int $basis The type of day count to use.
+     *                                        0 or omitted    US (NASD) 30/360
+     *                                        1                Actual/actual
+     *                                        2                Actual/360
+     *                                        3                Actual/365
+     *                                        4                European 30/360
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function YIELDDISC($settlement, $maturity, $price, $redemption, $basis = 0)
+    {
+        return Securities\Yields::yieldDiscounted($settlement, $maturity, $price, $redemption, $basis);
+    }
+
+    /**
+     * YIELDMAT.
+     *
+     * Returns the annual yield of a security that pays interest at maturity.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Financial\Securities\Yields::yieldAtMaturity()
+     *      Use the yieldAtMaturity() method in the Financial\Securities\Yields class instead
+     *
+     * @param mixed $settlement The security's settlement date.
+     *                              The security's settlement date is the date after the issue date when the security
+     *                              is traded to the buyer.
+     * @param mixed $maturity The security's maturity date.
+     *                            The maturity date is the date when the security expires.
+     * @param mixed $issue The security's issue date
+     * @param int $rate The security's interest rate at date of issue
+     * @param int $price The security's price per $100 face value
+     * @param int $basis The type of day count to use.
+     *                       0 or omitted    US (NASD) 30/360
+     *                       1               Actual/actual
+     *                       2               Actual/360
+     *                       3               Actual/365
+     *                       4               European 30/360
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function YIELDMAT($settlement, $maturity, $issue, $rate, $price, $basis = 0)
+    {
+        return Securities\Yields::yieldAtMaturity($settlement, $maturity, $issue, $rate, $price, $basis);
+    }
+}

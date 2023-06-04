@@ -1,103 +1,153 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Aj0Xw0KAzHuJCR6qmKmW
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Cell;
+
+use PhpOffice\PhpSpreadsheet\Exception;
+
+class AddressHelper
+{
+    public const R1C1_COORDINATE_REGEX = '/(R((?:\[-?\d*\])|(?:\d*))?)(C((?:\[-?\d*\])|(?:\d*))?)/i';
+
+    /**
+     * Converts an R1C1 format cell address to an A1 format cell address.
+     */
+    public static function convertToA1(
+        string $address,
+        int $currentRowNumber = 1,
+        int $currentColumnNumber = 1
+    ): string {
+        $validityCheck = preg_match('/^(R(\[?-?\d*\]?))(C(\[?-?\d*\]?))$/i', $address, $cellReference);
+
+        if ($validityCheck === 0) {
+            throw new Exception('Invalid R1C1-format Cell Reference');
+        }
+
+        $rowReference = $cellReference[2];
+        //    Empty R reference is the current row
+        if ($rowReference === '') {
+            $rowReference = (string) $currentRowNumber;
+        }
+        //    Bracketed R references are relative to the current row
+        if ($rowReference[0] === '[') {
+            $rowReference = $currentRowNumber + (int) trim($rowReference, '[]');
+        }
+        $columnReference = $cellReference[4];
+        //    Empty C reference is the current column
+        if ($columnReference === '') {
+            $columnReference = (string) $currentColumnNumber;
+        }
+        //    Bracketed C references are relative to the current column
+        if (is_string($columnReference) && $columnReference[0] === '[') {
+            $columnReference = $currentColumnNumber + (int) trim($columnReference, '[]');
+        }
+
+        if ($columnReference <= 0 || $rowReference <= 0) {
+            throw new Exception('Invalid R1C1-format Cell Reference, Value out of range');
+        }
+        $A1CellReference = Coordinate::stringFromColumnIndex($columnReference) . $rowReference;
+
+        return $A1CellReference;
+    }
+
+    protected static function convertSpreadsheetMLFormula(string $formula): string
+    {
+        $formula = substr($formula, 3);
+        $temp = explode('"', $formula);
+        $key = false;
+        foreach ($temp as &$value) {
+            //    Only replace in alternate array entries (i.e. non-quoted blocks)
+            if ($key = !$key) {
+                $value = str_replace(['[.', ':.', ']'], ['', ':', ''], $value);
+            }
+        }
+        unset($value);
+
+        return implode('"', $temp);
+    }
+
+    /**
+     * Converts a formula that uses R1C1/SpreadsheetXML format cell address to an A1 format cell address.
+     */
+    public static function convertFormulaToA1(
+        string $formula,
+        int $currentRowNumber = 1,
+        int $currentColumnNumber = 1
+    ): string {
+        if (substr($formula, 0, 3) == 'of:') {
+            // We have an old-style SpreadsheetML Formula
+            return self::convertSpreadsheetMLFormula($formula);
+        }
+
+        //    Convert R1C1 style references to A1 style references (but only when not quoted)
+        $temp = explode('"', $formula);
+        $key = false;
+        foreach ($temp as &$value) {
+            //    Only replace in alternate array entries (i.e. non-quoted blocks)
+            if ($key = !$key) {
+                preg_match_all(self::R1C1_COORDINATE_REGEX, $value, $cellReferences, PREG_SET_ORDER + PREG_OFFSET_CAPTURE);
+                //    Reverse the matches array, otherwise all our offsets will become incorrect if we modify our way
+                //        through the formula from left to right. Reversing means that we work right to left.through
+                //        the formula
+                $cellReferences = array_reverse($cellReferences);
+                //    Loop through each R1C1 style reference in turn, converting it to its A1 style equivalent,
+                //        then modify the formula to use that new reference
+                foreach ($cellReferences as $cellReference) {
+                    $A1CellReference = self::convertToA1($cellReference[0][0], $currentRowNumber, $currentColumnNumber);
+                    $value = substr_replace($value, $A1CellReference, $cellReference[0][1], strlen($cellReference[0][0]));
+                }
+            }
+        }
+        unset($value);
+
+        //    Then rebuild the formula string
+        return implode('"', $temp);
+    }
+
+    /**
+     * Converts an A1 format cell address to an R1C1 format cell address.
+     * If $currentRowNumber or $currentColumnNumber are provided, then the R1C1 address will be formatted as a relative address.
+     */
+    public static function convertToR1C1(
+        string $address,
+        ?int $currentRowNumber = null,
+        ?int $currentColumnNumber = null
+    ): string {
+        $validityCheck = preg_match(Coordinate::A1_COORDINATE_REGEX, $address, $cellReference);
+
+        if ($validityCheck === 0) {
+            throw new Exception('Invalid A1-format Cell Reference');
+        }
+
+        $columnId = Coordinate::columnIndexFromString($cellReference['col_ref']);
+        if ($cellReference['absolute_col'] === '$') {
+            // Column must be absolute address
+            $currentColumnNumber = null;
+        }
+
+        $rowId = (int) $cellReference['row_ref'];
+        if ($cellReference['absolute_row'] === '$') {
+            // Row must be absolute address
+            $currentRowNumber = null;
+        }
+
+        if ($currentRowNumber !== null) {
+            if ($rowId === $currentRowNumber) {
+                $rowId = '';
+            } else {
+                $rowId = '[' . ($rowId - $currentRowNumber) . ']';
+            }
+        }
+
+        if ($currentColumnNumber !== null) {
+            if ($columnId === $currentColumnNumber) {
+                $columnId = '';
+            } else {
+                $columnId = '[' . ($columnId - $currentColumnNumber) . ']';
+            }
+        }
+
+        $R1C1Address = "R{$rowId}C{$columnId}";
+
+        return $R1C1Address;
+    }
+}

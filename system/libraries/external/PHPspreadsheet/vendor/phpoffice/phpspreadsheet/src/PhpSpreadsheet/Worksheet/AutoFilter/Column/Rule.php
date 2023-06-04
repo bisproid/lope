@@ -1,129 +1,426 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Worksheet\AutoFilter\Column;
+
+use PhpOffice\PhpSpreadsheet\Exception as PhpSpreadsheetException;
+use PhpOffice\PhpSpreadsheet\Worksheet\AutoFilter\Column;
+
+class Rule
+{
+    const AUTOFILTER_RULETYPE_FILTER = 'filter';
+    const AUTOFILTER_RULETYPE_DATEGROUP = 'dateGroupItem';
+    const AUTOFILTER_RULETYPE_CUSTOMFILTER = 'customFilter';
+    const AUTOFILTER_RULETYPE_DYNAMICFILTER = 'dynamicFilter';
+    const AUTOFILTER_RULETYPE_TOPTENFILTER = 'top10Filter';
+
+    private const RULE_TYPES = [
+        //    Currently we're not handling
+        //        colorFilter
+        //        extLst
+        //        iconFilter
+        self::AUTOFILTER_RULETYPE_FILTER,
+        self::AUTOFILTER_RULETYPE_DATEGROUP,
+        self::AUTOFILTER_RULETYPE_CUSTOMFILTER,
+        self::AUTOFILTER_RULETYPE_DYNAMICFILTER,
+        self::AUTOFILTER_RULETYPE_TOPTENFILTER,
+    ];
+
+    const AUTOFILTER_RULETYPE_DATEGROUP_YEAR = 'year';
+    const AUTOFILTER_RULETYPE_DATEGROUP_MONTH = 'month';
+    const AUTOFILTER_RULETYPE_DATEGROUP_DAY = 'day';
+    const AUTOFILTER_RULETYPE_DATEGROUP_HOUR = 'hour';
+    const AUTOFILTER_RULETYPE_DATEGROUP_MINUTE = 'minute';
+    const AUTOFILTER_RULETYPE_DATEGROUP_SECOND = 'second';
+
+    private const DATE_TIME_GROUPS = [
+        self::AUTOFILTER_RULETYPE_DATEGROUP_YEAR,
+        self::AUTOFILTER_RULETYPE_DATEGROUP_MONTH,
+        self::AUTOFILTER_RULETYPE_DATEGROUP_DAY,
+        self::AUTOFILTER_RULETYPE_DATEGROUP_HOUR,
+        self::AUTOFILTER_RULETYPE_DATEGROUP_MINUTE,
+        self::AUTOFILTER_RULETYPE_DATEGROUP_SECOND,
+    ];
+
+    const AUTOFILTER_RULETYPE_DYNAMIC_YESTERDAY = 'yesterday';
+    const AUTOFILTER_RULETYPE_DYNAMIC_TODAY = 'today';
+    const AUTOFILTER_RULETYPE_DYNAMIC_TOMORROW = 'tomorrow';
+    const AUTOFILTER_RULETYPE_DYNAMIC_YEARTODATE = 'yearToDate';
+    const AUTOFILTER_RULETYPE_DYNAMIC_THISYEAR = 'thisYear';
+    const AUTOFILTER_RULETYPE_DYNAMIC_THISQUARTER = 'thisQuarter';
+    const AUTOFILTER_RULETYPE_DYNAMIC_THISMONTH = 'thisMonth';
+    const AUTOFILTER_RULETYPE_DYNAMIC_THISWEEK = 'thisWeek';
+    const AUTOFILTER_RULETYPE_DYNAMIC_LASTYEAR = 'lastYear';
+    const AUTOFILTER_RULETYPE_DYNAMIC_LASTQUARTER = 'lastQuarter';
+    const AUTOFILTER_RULETYPE_DYNAMIC_LASTMONTH = 'lastMonth';
+    const AUTOFILTER_RULETYPE_DYNAMIC_LASTWEEK = 'lastWeek';
+    const AUTOFILTER_RULETYPE_DYNAMIC_NEXTYEAR = 'nextYear';
+    const AUTOFILTER_RULETYPE_DYNAMIC_NEXTQUARTER = 'nextQuarter';
+    const AUTOFILTER_RULETYPE_DYNAMIC_NEXTMONTH = 'nextMonth';
+    const AUTOFILTER_RULETYPE_DYNAMIC_NEXTWEEK = 'nextWeek';
+    const AUTOFILTER_RULETYPE_DYNAMIC_MONTH_1 = 'M1';
+    const AUTOFILTER_RULETYPE_DYNAMIC_JANUARY = self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_1;
+    const AUTOFILTER_RULETYPE_DYNAMIC_MONTH_2 = 'M2';
+    const AUTOFILTER_RULETYPE_DYNAMIC_FEBRUARY = self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_2;
+    const AUTOFILTER_RULETYPE_DYNAMIC_MONTH_3 = 'M3';
+    const AUTOFILTER_RULETYPE_DYNAMIC_MARCH = self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_3;
+    const AUTOFILTER_RULETYPE_DYNAMIC_MONTH_4 = 'M4';
+    const AUTOFILTER_RULETYPE_DYNAMIC_APRIL = self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_4;
+    const AUTOFILTER_RULETYPE_DYNAMIC_MONTH_5 = 'M5';
+    const AUTOFILTER_RULETYPE_DYNAMIC_MAY = self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_5;
+    const AUTOFILTER_RULETYPE_DYNAMIC_MONTH_6 = 'M6';
+    const AUTOFILTER_RULETYPE_DYNAMIC_JUNE = self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_6;
+    const AUTOFILTER_RULETYPE_DYNAMIC_MONTH_7 = 'M7';
+    const AUTOFILTER_RULETYPE_DYNAMIC_JULY = self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_7;
+    const AUTOFILTER_RULETYPE_DYNAMIC_MONTH_8 = 'M8';
+    const AUTOFILTER_RULETYPE_DYNAMIC_AUGUST = self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_8;
+    const AUTOFILTER_RULETYPE_DYNAMIC_MONTH_9 = 'M9';
+    const AUTOFILTER_RULETYPE_DYNAMIC_SEPTEMBER = self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_9;
+    const AUTOFILTER_RULETYPE_DYNAMIC_MONTH_10 = 'M10';
+    const AUTOFILTER_RULETYPE_DYNAMIC_OCTOBER = self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_10;
+    const AUTOFILTER_RULETYPE_DYNAMIC_MONTH_11 = 'M11';
+    const AUTOFILTER_RULETYPE_DYNAMIC_NOVEMBER = self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_11;
+    const AUTOFILTER_RULETYPE_DYNAMIC_MONTH_12 = 'M12';
+    const AUTOFILTER_RULETYPE_DYNAMIC_DECEMBER = self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_12;
+    const AUTOFILTER_RULETYPE_DYNAMIC_QUARTER_1 = 'Q1';
+    const AUTOFILTER_RULETYPE_DYNAMIC_QUARTER_2 = 'Q2';
+    const AUTOFILTER_RULETYPE_DYNAMIC_QUARTER_3 = 'Q3';
+    const AUTOFILTER_RULETYPE_DYNAMIC_QUARTER_4 = 'Q4';
+    const AUTOFILTER_RULETYPE_DYNAMIC_ABOVEAVERAGE = 'aboveAverage';
+    const AUTOFILTER_RULETYPE_DYNAMIC_BELOWAVERAGE = 'belowAverage';
+
+    private const DYNAMIC_TYPES = [
+        self::AUTOFILTER_RULETYPE_DYNAMIC_YESTERDAY,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_TODAY,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_TOMORROW,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_YEARTODATE,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_THISYEAR,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_THISQUARTER,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_THISMONTH,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_THISWEEK,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_LASTYEAR,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_LASTQUARTER,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_LASTMONTH,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_LASTWEEK,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_NEXTYEAR,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_NEXTQUARTER,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_NEXTMONTH,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_NEXTWEEK,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_1,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_2,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_3,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_4,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_5,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_6,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_7,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_8,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_9,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_10,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_11,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_MONTH_12,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_QUARTER_1,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_QUARTER_2,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_QUARTER_3,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_QUARTER_4,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_ABOVEAVERAGE,
+        self::AUTOFILTER_RULETYPE_DYNAMIC_BELOWAVERAGE,
+    ];
+
+    // Filter rule operators for filter and customFilter types.
+    const AUTOFILTER_COLUMN_RULE_EQUAL = 'equal';
+    const AUTOFILTER_COLUMN_RULE_NOTEQUAL = 'notEqual';
+    const AUTOFILTER_COLUMN_RULE_GREATERTHAN = 'greaterThan';
+    const AUTOFILTER_COLUMN_RULE_GREATERTHANOREQUAL = 'greaterThanOrEqual';
+    const AUTOFILTER_COLUMN_RULE_LESSTHAN = 'lessThan';
+    const AUTOFILTER_COLUMN_RULE_LESSTHANOREQUAL = 'lessThanOrEqual';
+
+    private const OPERATORS = [
+        self::AUTOFILTER_COLUMN_RULE_EQUAL,
+        self::AUTOFILTER_COLUMN_RULE_NOTEQUAL,
+        self::AUTOFILTER_COLUMN_RULE_GREATERTHAN,
+        self::AUTOFILTER_COLUMN_RULE_GREATERTHANOREQUAL,
+        self::AUTOFILTER_COLUMN_RULE_LESSTHAN,
+        self::AUTOFILTER_COLUMN_RULE_LESSTHANOREQUAL,
+    ];
+
+    const AUTOFILTER_COLUMN_RULE_TOPTEN_BY_VALUE = 'byValue';
+    const AUTOFILTER_COLUMN_RULE_TOPTEN_PERCENT = 'byPercent';
+
+    private const TOP_TEN_VALUE = [
+        self::AUTOFILTER_COLUMN_RULE_TOPTEN_BY_VALUE,
+        self::AUTOFILTER_COLUMN_RULE_TOPTEN_PERCENT,
+    ];
+
+    const AUTOFILTER_COLUMN_RULE_TOPTEN_TOP = 'top';
+    const AUTOFILTER_COLUMN_RULE_TOPTEN_BOTTOM = 'bottom';
+
+    private const TOP_TEN_TYPE = [
+        self::AUTOFILTER_COLUMN_RULE_TOPTEN_TOP,
+        self::AUTOFILTER_COLUMN_RULE_TOPTEN_BOTTOM,
+    ];
+
+    //  Unimplented Rule Operators (Numeric, Boolean etc)
+    //    const AUTOFILTER_COLUMN_RULE_BETWEEN = 'between';        //    greaterThanOrEqual 1 && lessThanOrEqual 2
+    // Rule Operators (Numeric Special) which are translated to standard numeric operators with calculated values
+    // Rule Operators (String) which are set as wild-carded values
+    //    const AUTOFILTER_COLUMN_RULE_BEGINSWITH            = 'beginsWith';            // A*
+    //    const AUTOFILTER_COLUMN_RULE_ENDSWITH            = 'endsWith';            // *Z
+    //    const AUTOFILTER_COLUMN_RULE_CONTAINS            = 'contains';            // *B*
+    //    const AUTOFILTER_COLUMN_RULE_DOESNTCONTAIN        = 'notEqual';            //    notEqual *B*
+    // Rule Operators (Date Special) which are translated to standard numeric operators with calculated values
+    //    const AUTOFILTER_COLUMN_RULE_BEFORE                = 'lessThan';
+    //    const AUTOFILTER_COLUMN_RULE_AFTER                = 'greaterThan';
+
+    /**
+     * Autofilter Column.
+     *
+     * @var ?Column
+     */
+    private $parent;
+
+    /**
+     * Autofilter Rule Type.
+     *
+     * @var string
+     */
+    private $ruleType = self::AUTOFILTER_RULETYPE_FILTER;
+
+    /**
+     * Autofilter Rule Value.
+     *
+     * @var int|int[]|string|string[]
+     */
+    private $value = '';
+
+    /**
+     * Autofilter Rule Operator.
+     *
+     * @var string
+     */
+    private $operator = self::AUTOFILTER_COLUMN_RULE_EQUAL;
+
+    /**
+     * DateTimeGrouping Group Value.
+     *
+     * @var string
+     */
+    private $grouping = '';
+
+    /**
+     * Create a new Rule.
+     */
+    public function __construct(?Column $parent = null)
+    {
+        $this->parent = $parent;
+    }
+
+    private function setEvaluatedFalse(): void
+    {
+        if ($this->parent !== null) {
+            $this->parent->setEvaluatedFalse();
+        }
+    }
+
+    /**
+     * Get AutoFilter Rule Type.
+     *
+     * @return string
+     */
+    public function getRuleType()
+    {
+        return $this->ruleType;
+    }
+
+    /**
+     * Set AutoFilter Rule Type.
+     *
+     * @param string $ruleType see self::AUTOFILTER_RULETYPE_*
+     *
+     * @return $this
+     */
+    public function setRuleType($ruleType)
+    {
+        $this->setEvaluatedFalse();
+        if (!in_array($ruleType, self::RULE_TYPES)) {
+            throw new PhpSpreadsheetException('Invalid rule type for column AutoFilter Rule.');
+        }
+
+        $this->ruleType = $ruleType;
+
+        return $this;
+    }
+
+    /**
+     * Get AutoFilter Rule Value.
+     *
+     * @return int|int[]|string|string[]
+     */
+    public function getValue()
+    {
+        return $this->value;
+    }
+
+    /**
+     * Set AutoFilter Rule Value.
+     *
+     * @param int|int[]|string|string[] $value
+     *
+     * @return $this
+     */
+    public function setValue($value)
+    {
+        $this->setEvaluatedFalse();
+        if (is_array($value)) {
+            $grouping = -1;
+            foreach ($value as $key => $v) {
+                //    Validate array entries
+                if (!in_array($key, self::DATE_TIME_GROUPS)) {
+                    //    Remove any invalid entries from the value array
+                    unset($value[$key]);
+                } else {
+                    //    Work out what the dateTime grouping will be
+                    $grouping = max($grouping, array_search($key, self::DATE_TIME_GROUPS));
+                }
+            }
+            if (count($value) == 0) {
+                throw new PhpSpreadsheetException('Invalid rule value for column AutoFilter Rule.');
+            }
+            //    Set the dateTime grouping that we've anticipated
+            $this->setGrouping(self::DATE_TIME_GROUPS[$grouping]);
+        }
+        $this->value = $value;
+
+        return $this;
+    }
+
+    /**
+     * Get AutoFilter Rule Operator.
+     *
+     * @return string
+     */
+    public function getOperator()
+    {
+        return $this->operator;
+    }
+
+    /**
+     * Set AutoFilter Rule Operator.
+     *
+     * @param string $operator see self::AUTOFILTER_COLUMN_RULE_*
+     *
+     * @return $this
+     */
+    public function setOperator($operator)
+    {
+        $this->setEvaluatedFalse();
+        if (empty($operator)) {
+            $operator = self::AUTOFILTER_COLUMN_RULE_EQUAL;
+        }
+        if (
+            (!in_array($operator, self::OPERATORS)) &&
+            (!in_array($operator, self::TOP_TEN_VALUE))
+        ) {
+            throw new PhpSpreadsheetException('Invalid operator for column AutoFilter Rule.');
+        }
+        $this->operator = $operator;
+
+        return $this;
+    }
+
+    /**
+     * Get AutoFilter Rule Grouping.
+     *
+     * @return string
+     */
+    public function getGrouping()
+    {
+        return $this->grouping;
+    }
+
+    /**
+     * Set AutoFilter Rule Grouping.
+     *
+     * @param string $grouping
+     *
+     * @return $this
+     */
+    public function setGrouping($grouping)
+    {
+        $this->setEvaluatedFalse();
+        if (
+            ($grouping !== null) &&
+            (!in_array($grouping, self::DATE_TIME_GROUPS)) &&
+            (!in_array($grouping, self::DYNAMIC_TYPES)) &&
+            (!in_array($grouping, self::TOP_TEN_TYPE))
+        ) {
+            throw new PhpSpreadsheetException('Invalid grouping for column AutoFilter Rule.');
+        }
+        $this->grouping = $grouping;
+
+        return $this;
+    }
+
+    /**
+     * Set AutoFilter Rule.
+     *
+     * @param string $operator see self::AUTOFILTER_COLUMN_RULE_*
+     * @param int|int[]|string|string[] $value
+     * @param string $grouping
+     *
+     * @return $this
+     */
+    public function setRule($operator, $value, $grouping = null)
+    {
+        $this->setEvaluatedFalse();
+        $this->setOperator($operator);
+        $this->setValue($value);
+        //  Only set grouping if it's been passed in as a user-supplied argument,
+        //      otherwise we're calculating it when we setValue() and don't want to overwrite that
+        //      If the user supplies an argumnet for grouping, then on their own head be it
+        if ($grouping !== null) {
+            $this->setGrouping($grouping);
+        }
+
+        return $this;
+    }
+
+    /**
+     * Get this Rule's AutoFilter Column Parent.
+     *
+     * @return ?Column
+     */
+    public function getParent()
+    {
+        return $this->parent;
+    }
+
+    /**
+     * Set this Rule's AutoFilter Column Parent.
+     *
+     * @return $this
+     */
+    public function setParent(?Column $parent = null)
+    {
+        $this->setEvaluatedFalse();
+        $this->parent = $parent;
+
+        return $this;
+    }
+
+    /**
+     * Implement PHP __clone to create a deep clone, not just a shallow copy.
+     */
+    public function __clone()
+    {
+        $vars = get_object_vars($this);
+        foreach ($vars as $key => $value) {
+            if (is_object($value)) {
+                if ($key == 'parent') { // this is only object
+                    //    Detach from autofilter column parent
+                    $this->$key = null;
+                }
+            } else {
+                $this->$key = $value;
+            }
+        }
+    }
+}

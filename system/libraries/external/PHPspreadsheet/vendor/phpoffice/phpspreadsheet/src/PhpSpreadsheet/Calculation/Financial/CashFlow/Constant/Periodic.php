@@ -1,112 +1,200 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Financial\CashFlow\Constant;
+
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Financial\CashFlow\CashFlowValidations;
+use PhpOffice\PhpSpreadsheet\Calculation\Financial\Constants as FinancialConstants;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+
+class Periodic
+{
+    /**
+     * FV.
+     *
+     * Returns the Future Value of a cash flow with constant payments and interest rate (annuities).
+     *
+     * Excel Function:
+     *        FV(rate,nper,pmt[,pv[,type]])
+     *
+     * @param mixed $rate The interest rate per period
+     * @param mixed $numberOfPeriods Total number of payment periods in an annuity as an integer
+     * @param mixed $payment The payment made each period: it cannot change over the
+     *                            life of the annuity. Typically, pmt contains principal
+     *                            and interest but no other fees or taxes.
+     * @param mixed $presentValue present Value, or the lump-sum amount that a series of
+     *                            future payments is worth right now
+     * @param mixed $type A number 0 or 1 and indicates when payments are due:
+     *                      0 or omitted    At the end of the period.
+     *                      1               At the beginning of the period.
+     *
+     * @return float|string
+     */
+    public static function futureValue(
+        $rate,
+        $numberOfPeriods,
+        $payment = 0.0,
+        $presentValue = 0.0,
+        $type = FinancialConstants::PAYMENT_END_OF_PERIOD
+    ) {
+        $rate = Functions::flattenSingleValue($rate);
+        $numberOfPeriods = Functions::flattenSingleValue($numberOfPeriods);
+        $payment = ($payment === null) ? 0.0 : Functions::flattenSingleValue($payment);
+        $presentValue = ($presentValue === null) ? 0.0 : Functions::flattenSingleValue($presentValue);
+        $type = ($type === null) ? FinancialConstants::PAYMENT_END_OF_PERIOD : Functions::flattenSingleValue($type);
+
+        try {
+            $rate = CashFlowValidations::validateRate($rate);
+            $numberOfPeriods = CashFlowValidations::validateInt($numberOfPeriods);
+            $payment = CashFlowValidations::validateFloat($payment);
+            $presentValue = CashFlowValidations::validatePresentValue($presentValue);
+            $type = CashFlowValidations::validatePeriodType($type);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        return self::calculateFutureValue($rate, $numberOfPeriods, $payment, $presentValue, $type);
+    }
+
+    /**
+     * PV.
+     *
+     * Returns the Present Value of a cash flow with constant payments and interest rate (annuities).
+     *
+     * @param mixed $rate Interest rate per period
+     * @param mixed $numberOfPeriods Number of periods as an integer
+     * @param mixed $payment Periodic payment (annuity)
+     * @param mixed $futureValue Future Value
+     * @param mixed $type Payment type: 0 = at the end of each period, 1 = at the beginning of each period
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function presentValue(
+        $rate,
+        $numberOfPeriods,
+        $payment = 0.0,
+        $futureValue = 0.0,
+        $type = FinancialConstants::PAYMENT_END_OF_PERIOD
+    ) {
+        $rate = Functions::flattenSingleValue($rate);
+        $numberOfPeriods = Functions::flattenSingleValue($numberOfPeriods);
+        $payment = ($payment === null) ? 0.0 : Functions::flattenSingleValue($payment);
+        $futureValue = ($futureValue === null) ? 0.0 : Functions::flattenSingleValue($futureValue);
+        $type = ($type === null) ? FinancialConstants::PAYMENT_END_OF_PERIOD : Functions::flattenSingleValue($type);
+
+        try {
+            $rate = CashFlowValidations::validateRate($rate);
+            $numberOfPeriods = CashFlowValidations::validateInt($numberOfPeriods);
+            $payment = CashFlowValidations::validateFloat($payment);
+            $futureValue = CashFlowValidations::validateFutureValue($futureValue);
+            $type = CashFlowValidations::validatePeriodType($type);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        // Validate parameters
+        if ($numberOfPeriods < 0) {
+            return ExcelError::NAN();
+        }
+
+        return self::calculatePresentValue($rate, $numberOfPeriods, $payment, $futureValue, $type);
+    }
+
+    /**
+     * NPER.
+     *
+     * Returns the number of periods for a cash flow with constant periodic payments (annuities), and interest rate.
+     *
+     * @param mixed $rate Interest rate per period
+     * @param mixed $payment Periodic payment (annuity)
+     * @param mixed $presentValue Present Value
+     * @param mixed $futureValue Future Value
+     * @param mixed $type Payment type: 0 = at the end of each period, 1 = at the beginning of each period
+     *
+     * @return float|string Result, or a string containing an error
+     */
+    public static function periods(
+        $rate,
+        $payment,
+        $presentValue,
+        $futureValue = 0.0,
+        $type = FinancialConstants::PAYMENT_END_OF_PERIOD
+    ) {
+        $rate = Functions::flattenSingleValue($rate);
+        $payment = Functions::flattenSingleValue($payment);
+        $presentValue = Functions::flattenSingleValue($presentValue);
+        $futureValue = ($futureValue === null) ? 0.0 : Functions::flattenSingleValue($futureValue);
+        $type = ($type === null) ? FinancialConstants::PAYMENT_END_OF_PERIOD : Functions::flattenSingleValue($type);
+
+        try {
+            $rate = CashFlowValidations::validateRate($rate);
+            $payment = CashFlowValidations::validateFloat($payment);
+            $presentValue = CashFlowValidations::validatePresentValue($presentValue);
+            $futureValue = CashFlowValidations::validateFutureValue($futureValue);
+            $type = CashFlowValidations::validatePeriodType($type);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        // Validate parameters
+        if ($payment == 0.0) {
+            return ExcelError::NAN();
+        }
+
+        return self::calculatePeriods($rate, $payment, $presentValue, $futureValue, $type);
+    }
+
+    private static function calculateFutureValue(
+        float $rate,
+        int $numberOfPeriods,
+        float $payment,
+        float $presentValue,
+        int $type
+    ): float {
+        if ($rate !== null && $rate != 0) {
+            return -$presentValue *
+                (1 + $rate) ** $numberOfPeriods - $payment * (1 + $rate * $type) * ((1 + $rate) ** $numberOfPeriods - 1)
+                    / $rate;
+        }
+
+        return -$presentValue - $payment * $numberOfPeriods;
+    }
+
+    private static function calculatePresentValue(
+        float $rate,
+        int $numberOfPeriods,
+        float $payment,
+        float $futureValue,
+        int $type
+    ): float {
+        if ($rate != 0.0) {
+            return (-$payment * (1 + $rate * $type)
+                    * (((1 + $rate) ** $numberOfPeriods - 1) / $rate) - $futureValue) / (1 + $rate) ** $numberOfPeriods;
+        }
+
+        return -$futureValue - $payment * $numberOfPeriods;
+    }
+
+    /**
+     * @return float|string
+     */
+    private static function calculatePeriods(
+        float $rate,
+        float $payment,
+        float $presentValue,
+        float $futureValue,
+        int $type
+    ) {
+        if ($rate != 0.0) {
+            if ($presentValue == 0.0) {
+                return ExcelError::NAN();
+            }
+
+            return log(($payment * (1 + $rate * $type) / $rate - $futureValue) /
+                    ($presentValue + $payment * (1 + $rate * $type) / $rate)) / log(1 + $rate);
+        }
+
+        return (-$presentValue - $futureValue) / $payment;
+    }
+}

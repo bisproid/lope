@@ -1,107 +1,214 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Financial;
+
+use PhpOffice\PhpSpreadsheet\Calculation\DateTimeExcel;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Financial\Constants as FinancialConstants;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+
+class Amortization
+{
+    /**
+     * AMORDEGRC.
+     *
+     * Returns the depreciation for each accounting period.
+     * This function is provided for the French accounting system. If an asset is purchased in
+     * the middle of the accounting period, the prorated depreciation is taken into account.
+     * The function is similar to AMORLINC, except that a depreciation coefficient is applied in
+     * the calculation depending on the life of the assets.
+     * This function will return the depreciation until the last period of the life of the assets
+     * or until the cumulated value of depreciation is greater than the cost of the assets minus
+     * the salvage value.
+     *
+     * Excel Function:
+     *        AMORDEGRC(cost,purchased,firstPeriod,salvage,period,rate[,basis])
+     *
+     * @param mixed $cost The float cost of the asset
+     * @param mixed $purchased Date of the purchase of the asset
+     * @param mixed $firstPeriod Date of the end of the first period
+     * @param mixed $salvage The salvage value at the end of the life of the asset
+     * @param mixed $period the period (float)
+     * @param mixed $rate rate of depreciation (float)
+     * @param mixed $basis The type of day count to use (int).
+     *                         0 or omitted    US (NASD) 30/360
+     *                         1               Actual/actual
+     *                         2               Actual/360
+     *                         3               Actual/365
+     *                         4               European 30/360
+     *
+     * @return float|string (string containing the error type if there is an error)
+     */
+    public static function AMORDEGRC(
+        $cost,
+        $purchased,
+        $firstPeriod,
+        $salvage,
+        $period,
+        $rate,
+        $basis = FinancialConstants::BASIS_DAYS_PER_YEAR_NASD
+    ) {
+        $cost = Functions::flattenSingleValue($cost);
+        $purchased = Functions::flattenSingleValue($purchased);
+        $firstPeriod = Functions::flattenSingleValue($firstPeriod);
+        $salvage = Functions::flattenSingleValue($salvage);
+        $period = Functions::flattenSingleValue($period);
+        $rate = Functions::flattenSingleValue($rate);
+        $basis = ($basis === null)
+            ? FinancialConstants::BASIS_DAYS_PER_YEAR_NASD
+            : Functions::flattenSingleValue($basis);
+
+        try {
+            $cost = FinancialValidations::validateFloat($cost);
+            $purchased = FinancialValidations::validateDate($purchased);
+            $firstPeriod = FinancialValidations::validateDate($firstPeriod);
+            $salvage = FinancialValidations::validateFloat($salvage);
+            $period = FinancialValidations::validateInt($period);
+            $rate = FinancialValidations::validateFloat($rate);
+            $basis = FinancialValidations::validateBasis($basis);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $yearFracx = DateTimeExcel\YearFrac::fraction($purchased, $firstPeriod, $basis);
+        if (is_string($yearFracx)) {
+            return $yearFracx;
+        }
+        /** @var float */
+        $yearFrac = $yearFracx;
+
+        $amortiseCoeff = self::getAmortizationCoefficient($rate);
+
+        $rate *= $amortiseCoeff;
+        $fNRate = round($yearFrac * $rate * $cost, 0);
+        $cost -= $fNRate;
+        $fRest = $cost - $salvage;
+
+        for ($n = 0; $n < $period; ++$n) {
+            $fNRate = round($rate * $cost, 0);
+            $fRest -= $fNRate;
+
+            if ($fRest < 0.0) {
+                switch ($period - $n) {
+                    case 0:
+                    case 1:
+                        return round($cost * 0.5, 0);
+                    default:
+                        return 0.0;
+                }
+            }
+            $cost -= $fNRate;
+        }
+
+        return $fNRate;
+    }
+
+    /**
+     * AMORLINC.
+     *
+     * Returns the depreciation for each accounting period.
+     * This function is provided for the French accounting system. If an asset is purchased in
+     * the middle of the accounting period, the prorated depreciation is taken into account.
+     *
+     * Excel Function:
+     *        AMORLINC(cost,purchased,firstPeriod,salvage,period,rate[,basis])
+     *
+     * @param mixed $cost The cost of the asset as a float
+     * @param mixed $purchased Date of the purchase of the asset
+     * @param mixed $firstPeriod Date of the end of the first period
+     * @param mixed $salvage The salvage value at the end of the life of the asset
+     * @param mixed $period The period as a float
+     * @param mixed $rate Rate of depreciation as  float
+     * @param mixed $basis Integer indicating the type of day count to use.
+     *                             0 or omitted    US (NASD) 30/360
+     *                             1               Actual/actual
+     *                             2               Actual/360
+     *                             3               Actual/365
+     *                             4               European 30/360
+     *
+     * @return float|string (string containing the error type if there is an error)
+     */
+    public static function AMORLINC(
+        $cost,
+        $purchased,
+        $firstPeriod,
+        $salvage,
+        $period,
+        $rate,
+        $basis = FinancialConstants::BASIS_DAYS_PER_YEAR_NASD
+    ) {
+        $cost = Functions::flattenSingleValue($cost);
+        $purchased = Functions::flattenSingleValue($purchased);
+        $firstPeriod = Functions::flattenSingleValue($firstPeriod);
+        $salvage = Functions::flattenSingleValue($salvage);
+        $period = Functions::flattenSingleValue($period);
+        $rate = Functions::flattenSingleValue($rate);
+        $basis = ($basis === null)
+            ? FinancialConstants::BASIS_DAYS_PER_YEAR_NASD
+            : Functions::flattenSingleValue($basis);
+
+        try {
+            $cost = FinancialValidations::validateFloat($cost);
+            $purchased = FinancialValidations::validateDate($purchased);
+            $firstPeriod = FinancialValidations::validateDate($firstPeriod);
+            $salvage = FinancialValidations::validateFloat($salvage);
+            $period = FinancialValidations::validateFloat($period);
+            $rate = FinancialValidations::validateFloat($rate);
+            $basis = FinancialValidations::validateBasis($basis);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $fOneRate = $cost * $rate;
+        $fCostDelta = $cost - $salvage;
+        //    Note, quirky variation for leap years on the YEARFRAC for this function
+        $purchasedYear = DateTimeExcel\DateParts::year($purchased);
+        $yearFracx = DateTimeExcel\YearFrac::fraction($purchased, $firstPeriod, $basis);
+        if (is_string($yearFracx)) {
+            return $yearFracx;
+        }
+        /** @var float */
+        $yearFrac = $yearFracx;
+
+        if (
+            ($basis == FinancialConstants::BASIS_DAYS_PER_YEAR_ACTUAL) &&
+            ($yearFrac < 1) && (Functions::scalar(DateTimeExcel\Helpers::isLeapYear($purchasedYear)))
+        ) {
+            $yearFrac *= 365 / 366;
+        }
+
+        $f0Rate = $yearFrac * $rate * $cost;
+        $nNumOfFullPeriods = (int) (($cost - $salvage - $f0Rate) / $fOneRate);
+
+        if ($period == 0) {
+            return $f0Rate;
+        } elseif ($period <= $nNumOfFullPeriods) {
+            return $fOneRate;
+        } elseif ($period == ($nNumOfFullPeriods + 1)) {
+            return $fCostDelta - $fOneRate * $nNumOfFullPeriods - $f0Rate;
+        }
+
+        return 0.0;
+    }
+
+    private static function getAmortizationCoefficient(float $rate): float
+    {
+        //    The depreciation coefficients are:
+        //    Life of assets (1/rate)        Depreciation coefficient
+        //    Less than 3 years            1
+        //    Between 3 and 4 years        1.5
+        //    Between 5 and 6 years        2
+        //    More than 6 years            2.5
+        $fUsePer = 1.0 / $rate;
+
+        if ($fUsePer < 3.0) {
+            return 1.0;
+        } elseif ($fUsePer < 4.0) {
+            return 1.5;
+        } elseif ($fUsePer <= 6.0) {
+            return 2.0;
+        }
+
+        return 2.5;
+    }
+}

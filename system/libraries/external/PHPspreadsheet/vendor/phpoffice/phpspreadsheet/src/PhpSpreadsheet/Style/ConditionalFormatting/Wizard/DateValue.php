@@ -1,105 +1,111 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-fWmKDc1Pd3KG/Vjv+X/QqPgdyUSWQm==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard;
+
+use PhpOffice\PhpSpreadsheet\Exception;
+use PhpOffice\PhpSpreadsheet\Style\Conditional;
+
+/**
+ * @method DateValue yesterday()
+ * @method DateValue today()
+ * @method DateValue tomorrow()
+ * @method DateValue lastSevenDays()
+ * @method DateValue lastWeek()
+ * @method DateValue thisWeek()
+ * @method DateValue nextWeek()
+ * @method DateValue lastMonth()
+ * @method DateValue thisMonth()
+ * @method DateValue nextMonth()
+ */
+class DateValue extends WizardAbstract implements WizardInterface
+{
+    protected const MAGIC_OPERATIONS = [
+        'yesterday' => Conditional::TIMEPERIOD_YESTERDAY,
+        'today' => Conditional::TIMEPERIOD_TODAY,
+        'tomorrow' => Conditional::TIMEPERIOD_TOMORROW,
+        'lastSevenDays' => Conditional::TIMEPERIOD_LAST_7_DAYS,
+        'last7Days' => Conditional::TIMEPERIOD_LAST_7_DAYS,
+        'lastWeek' => Conditional::TIMEPERIOD_LAST_WEEK,
+        'thisWeek' => Conditional::TIMEPERIOD_THIS_WEEK,
+        'nextWeek' => Conditional::TIMEPERIOD_NEXT_WEEK,
+        'lastMonth' => Conditional::TIMEPERIOD_LAST_MONTH,
+        'thisMonth' => Conditional::TIMEPERIOD_THIS_MONTH,
+        'nextMonth' => Conditional::TIMEPERIOD_NEXT_MONTH,
+    ];
+
+    protected const EXPRESSIONS = [
+        Conditional::TIMEPERIOD_YESTERDAY => 'FLOOR(%s,1)=TODAY()-1',
+        Conditional::TIMEPERIOD_TODAY => 'FLOOR(%s,1)=TODAY()',
+        Conditional::TIMEPERIOD_TOMORROW => 'FLOOR(%s,1)=TODAY()+1',
+        Conditional::TIMEPERIOD_LAST_7_DAYS => 'AND(TODAY()-FLOOR(%s,1)<=6,FLOOR(%s,1)<=TODAY())',
+        Conditional::TIMEPERIOD_LAST_WEEK => 'AND(TODAY()-ROUNDDOWN(%s,0)>=(WEEKDAY(TODAY())),TODAY()-ROUNDDOWN(%s,0)<(WEEKDAY(TODAY())+7))',
+        Conditional::TIMEPERIOD_THIS_WEEK => 'AND(TODAY()-ROUNDDOWN(%s,0)<=WEEKDAY(TODAY())-1,ROUNDDOWN(%s,0)-TODAY()<=7-WEEKDAY(TODAY()))',
+        Conditional::TIMEPERIOD_NEXT_WEEK => 'AND(ROUNDDOWN(%s,0)-TODAY()>(7-WEEKDAY(TODAY())),ROUNDDOWN(%s,0)-TODAY()<(15-WEEKDAY(TODAY())))',
+        Conditional::TIMEPERIOD_LAST_MONTH => 'AND(MONTH(%s)=MONTH(EDATE(TODAY(),0-1)),YEAR(%s)=YEAR(EDATE(TODAY(),0-1)))',
+        Conditional::TIMEPERIOD_THIS_MONTH => 'AND(MONTH(%s)=MONTH(TODAY()),YEAR(%s)=YEAR(TODAY()))',
+        Conditional::TIMEPERIOD_NEXT_MONTH => 'AND(MONTH(%s)=MONTH(EDATE(TODAY(),0+1)),YEAR(%s)=YEAR(EDATE(TODAY(),0+1)))',
+    ];
+
+    /** @var string */
+    protected $operator;
+
+    public function __construct(string $cellRange)
+    {
+        parent::__construct($cellRange);
+    }
+
+    protected function operator(string $operator): void
+    {
+        $this->operator = $operator;
+    }
+
+    protected function setExpression(): void
+    {
+        $referenceCount = substr_count(self::EXPRESSIONS[$this->operator], '%s');
+        $references = array_fill(0, $referenceCount, $this->referenceCell);
+        $this->expression = sprintf(self::EXPRESSIONS[$this->operator], ...$references);
+    }
+
+    public function getConditional(): Conditional
+    {
+        $this->setExpression();
+
+        $conditional = new Conditional();
+        $conditional->setConditionType(Conditional::CONDITION_TIMEPERIOD);
+        $conditional->setText($this->operator);
+        $conditional->setConditions([$this->expression]);
+        $conditional->setStyle($this->getStyle());
+        $conditional->setStopIfTrue($this->getStopIfTrue());
+
+        return $conditional;
+    }
+
+    public static function fromConditional(Conditional $conditional, string $cellRange = 'A1'): WizardInterface
+    {
+        if ($conditional->getConditionType() !== Conditional::CONDITION_TIMEPERIOD) {
+            throw new Exception('Conditional is not a Date Value CF Rule conditional');
+        }
+
+        $wizard = new self($cellRange);
+        $wizard->style = $conditional->getStyle();
+        $wizard->stopIfTrue = $conditional->getStopIfTrue();
+        $wizard->operator = $conditional->getText();
+
+        return $wizard;
+    }
+
+    /**
+     * @param string $methodName
+     * @param mixed[] $arguments
+     */
+    public function __call($methodName, $arguments): self
+    {
+        if (!isset(self::MAGIC_OPERATIONS[$methodName])) {
+            throw new Exception('Invalid Operation for Date Value CF Rule Wizard');
+        }
+
+        $this->operator(self::MAGIC_OPERATIONS[$methodName]);
+
+        return $this;
+    }
+}

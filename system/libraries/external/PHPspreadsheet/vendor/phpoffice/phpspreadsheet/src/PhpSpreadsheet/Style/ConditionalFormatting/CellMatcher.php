@@ -1,215 +1,312 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-NPEKPLeCE63XFr7cflfd/nop
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting;
+
+use PhpOffice\PhpSpreadsheet\Calculation\Calculation;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Cell\Cell;
+use PhpOffice\PhpSpreadsheet\Cell\Coordinate;
+use PhpOffice\PhpSpreadsheet\Style\Conditional;
+use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
+
+class CellMatcher
+{
+    public const COMPARISON_OPERATORS = [
+        Conditional::OPERATOR_EQUAL => '=',
+        Conditional::OPERATOR_GREATERTHAN => '>',
+        Conditional::OPERATOR_GREATERTHANOREQUAL => '>=',
+        Conditional::OPERATOR_LESSTHAN => '<',
+        Conditional::OPERATOR_LESSTHANOREQUAL => '<=',
+        Conditional::OPERATOR_NOTEQUAL => '<>',
+    ];
+
+    public const COMPARISON_RANGE_OPERATORS = [
+        Conditional::OPERATOR_BETWEEN => 'IF(AND(A1>=%s,A1<=%s),TRUE,FALSE)',
+        Conditional::OPERATOR_NOTBETWEEN => 'IF(AND(A1>=%s,A1<=%s),FALSE,TRUE)',
+    ];
+
+    public const COMPARISON_DUPLICATES_OPERATORS = [
+        Conditional::CONDITION_DUPLICATES => "COUNTIF('%s'!%s,%s)>1",
+        Conditional::CONDITION_UNIQUE => "COUNTIF('%s'!%s,%s)=1",
+    ];
+
+    /**
+     * @var Cell
+     */
+    protected $cell;
+
+    /**
+     * @var int
+     */
+    protected $cellRow;
+
+    /**
+     * @var Worksheet
+     */
+    protected $worksheet;
+
+    /**
+     * @var int
+     */
+    protected $cellColumn;
+
+    /**
+     * @var string
+     */
+    protected $conditionalRange;
+
+    /**
+     * @var string
+     */
+    protected $referenceCell;
+
+    /**
+     * @var int
+     */
+    protected $referenceRow;
+
+    /**
+     * @var int
+     */
+    protected $referenceColumn;
+
+    /**
+     * @var Calculation
+     */
+    protected $engine;
+
+    public function __construct(Cell $cell, string $conditionalRange)
+    {
+        $this->cell = $cell;
+        $this->worksheet = $cell->getWorksheet();
+        [$this->cellColumn, $this->cellRow] = Coordinate::indexesFromString($this->cell->getCoordinate());
+        $this->setReferenceCellForExpressions($conditionalRange);
+
+        $this->engine = Calculation::getInstance($this->worksheet->getParent());
+    }
+
+    protected function setReferenceCellForExpressions(string $conditionalRange): void
+    {
+        $conditionalRange = Coordinate::splitRange(str_replace('$', '', strtoupper($conditionalRange)));
+        [$this->referenceCell] = $conditionalRange[0];
+
+        [$this->referenceColumn, $this->referenceRow] = Coordinate::indexesFromString($this->referenceCell);
+
+        // Convert our conditional range to an absolute conditional range, so it can be used  "pinned" in formulae
+        $rangeSets = [];
+        foreach ($conditionalRange as $rangeSet) {
+            $absoluteRangeSet = array_map(
+                [Coordinate::class, 'absoluteCoordinate'],
+                $rangeSet
+            );
+            $rangeSets[] = implode(':', $absoluteRangeSet);
+        }
+        $this->conditionalRange = implode(',', $rangeSets);
+    }
+
+    public function evaluateConditional(Conditional $conditional): bool
+    {
+        // Some calculations may modify the stored cell; so reset it before every evaluation.
+        $cellColumn = Coordinate::stringFromColumnIndex($this->cellColumn);
+        $cellAddress = "{$cellColumn}{$this->cellRow}";
+        $this->cell = $this->worksheet->getCell($cellAddress);
+
+        switch ($conditional->getConditionType()) {
+            case Conditional::CONDITION_CELLIS:
+                return $this->processOperatorComparison($conditional);
+            case Conditional::CONDITION_DUPLICATES:
+            case Conditional::CONDITION_UNIQUE:
+                return $this->processDuplicatesComparison($conditional);
+            case Conditional::CONDITION_CONTAINSTEXT:
+                // Expression is NOT(ISERROR(SEARCH("<TEXT>",<Cell Reference>)))
+            case Conditional::CONDITION_NOTCONTAINSTEXT:
+                // Expression is ISERROR(SEARCH("<TEXT>",<Cell Reference>))
+            case Conditional::CONDITION_BEGINSWITH:
+                // Expression is LEFT(<Cell Reference>,LEN("<TEXT>"))="<TEXT>"
+            case Conditional::CONDITION_ENDSWITH:
+                // Expression is RIGHT(<Cell Reference>,LEN("<TEXT>"))="<TEXT>"
+            case Conditional::CONDITION_CONTAINSBLANKS:
+                // Expression is LEN(TRIM(<Cell Reference>))=0
+            case Conditional::CONDITION_NOTCONTAINSBLANKS:
+                // Expression is LEN(TRIM(<Cell Reference>))>0
+            case Conditional::CONDITION_CONTAINSERRORS:
+                // Expression is ISERROR(<Cell Reference>)
+            case Conditional::CONDITION_NOTCONTAINSERRORS:
+                // Expression is NOT(ISERROR(<Cell Reference>))
+            case Conditional::CONDITION_TIMEPERIOD:
+                // Expression varies, depending on specified timePeriod value, e.g.
+                // Yesterday FLOOR(<Cell Reference>,1)=TODAY()-1
+                // Today FLOOR(<Cell Reference>,1)=TODAY()
+                // Tomorrow FLOOR(<Cell Reference>,1)=TODAY()+1
+                // Last 7 Days AND(TODAY()-FLOOR(<Cell Reference>,1)<=6,FLOOR(<Cell Reference>,1)<=TODAY())
+            case Conditional::CONDITION_EXPRESSION:
+                return $this->processExpression($conditional);
+        }
+
+        return false;
+    }
+
+    /**
+     * @param mixed $value
+     *
+     * @return float|int|string
+     */
+    protected function wrapValue($value)
+    {
+        if (!is_numeric($value)) {
+            if (is_bool($value)) {
+                return $value ? 'TRUE' : 'FALSE';
+            } elseif ($value === null) {
+                return 'NULL';
+            }
+
+            return '"' . $value . '"';
+        }
+
+        return $value;
+    }
+
+    /**
+     * @return float|int|string
+     */
+    protected function wrapCellValue()
+    {
+        return $this->wrapValue($this->cell->getCalculatedValue());
+    }
+
+    /**
+     * @return float|int|string
+     */
+    protected function conditionCellAdjustment(array $matches)
+    {
+        $column = $matches[6];
+        $row = $matches[7];
+
+        if (strpos($column, '$') === false) {
+            $column = Coordinate::columnIndexFromString($column);
+            $column += $this->cellColumn - $this->referenceColumn;
+            $column = Coordinate::stringFromColumnIndex($column);
+        }
+
+        if (strpos($row, '$') === false) {
+            $row += $this->cellRow - $this->referenceRow;
+        }
+
+        if (!empty($matches[4])) {
+            $worksheet = $this->worksheet->getParent()->getSheetByName(trim($matches[4], "'"));
+            if ($worksheet === null) {
+                return $this->wrapValue(null);
+            }
+
+            return $this->wrapValue(
+                $worksheet
+                    ->getCell(str_replace('$', '', "{$column}{$row}"))
+                    ->getCalculatedValue()
+            );
+        }
+
+        return $this->wrapValue(
+            $this->worksheet
+                ->getCell(str_replace('$', '', "{$column}{$row}"))
+                ->getCalculatedValue()
+        );
+    }
+
+    protected function cellConditionCheck(string $condition): string
+    {
+        $splitCondition = explode(Calculation::FORMULA_STRING_QUOTE, $condition);
+        $i = false;
+        foreach ($splitCondition as &$value) {
+            //    Only count/replace in alternating array entries (ie. not in quoted strings)
+            if ($i = !$i) {
+                $value = preg_replace_callback(
+                    '/' . Calculation::CALCULATION_REGEXP_CELLREF_RELATIVE . '/i',
+                    [$this, 'conditionCellAdjustment'],
+                    $value
+                );
+            }
+        }
+        unset($value);
+        //    Then rebuild the condition string to return it
+        return implode(Calculation::FORMULA_STRING_QUOTE, $splitCondition);
+    }
+
+    protected function adjustConditionsForCellReferences(array $conditions): array
+    {
+        return array_map(
+            [$this, 'cellConditionCheck'],
+            $conditions
+        );
+    }
+
+    protected function processOperatorComparison(Conditional $conditional): bool
+    {
+        if (array_key_exists($conditional->getOperatorType(), self::COMPARISON_RANGE_OPERATORS)) {
+            return $this->processRangeOperator($conditional);
+        }
+
+        $operator = self::COMPARISON_OPERATORS[$conditional->getOperatorType()];
+        $conditions = $this->adjustConditionsForCellReferences($conditional->getConditions());
+        $expression = sprintf('%s%s%s', (string) $this->wrapCellValue(), $operator, (string) array_pop($conditions));
+
+        return $this->evaluateExpression($expression);
+    }
+
+    protected function processRangeOperator(Conditional $conditional): bool
+    {
+        $conditions = $this->adjustConditionsForCellReferences($conditional->getConditions());
+        sort($conditions);
+        $expression = sprintf(
+            (string) preg_replace(
+                '/\bA1\b/i',
+                (string) $this->wrapCellValue(),
+                self::COMPARISON_RANGE_OPERATORS[$conditional->getOperatorType()]
+            ),
+            ...$conditions
+        );
+
+        return $this->evaluateExpression($expression);
+    }
+
+    protected function processDuplicatesComparison(Conditional $conditional): bool
+    {
+        $worksheetName = $this->cell->getWorksheet()->getTitle();
+
+        $expression = sprintf(
+            self::COMPARISON_DUPLICATES_OPERATORS[$conditional->getConditionType()],
+            $worksheetName,
+            $this->conditionalRange,
+            $this->cellConditionCheck($this->cell->getCalculatedValue())
+        );
+
+        return $this->evaluateExpression($expression);
+    }
+
+    protected function processExpression(Conditional $conditional): bool
+    {
+        $conditions = $this->adjustConditionsForCellReferences($conditional->getConditions());
+        $expression = array_pop($conditions);
+
+        $expression = preg_replace(
+            '/\b' . $this->referenceCell . '\b/i',
+            (string) $this->wrapCellValue(),
+            $expression
+        );
+
+        return $this->evaluateExpression($expression);
+    }
+
+    protected function evaluateExpression(string $expression): bool
+    {
+        $expression = "={$expression}";
+
+        try {
+            $this->engine->flushInstance();
+            $result = (bool) $this->engine->calculateFormula($expression);
+        } catch (Exception $e) {
+            return false;
+        }
+
+        return $result;
+    }
+}

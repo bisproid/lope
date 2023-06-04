@@ -1,118 +1,175 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Engine;
+
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+
+class ArrayArgumentProcessor
+{
+    /**
+     * @var ArrayArgumentHelper
+     */
+    private static $arrayArgumentHelper;
+
+    /**
+     * @param mixed ...$arguments
+     */
+    public static function processArguments(
+        ArrayArgumentHelper $arrayArgumentHelper,
+        callable $method,
+        ...$arguments
+    ): array {
+        self::$arrayArgumentHelper = $arrayArgumentHelper;
+
+        if (self::$arrayArgumentHelper->hasArrayArgument() === false) {
+            return [$method(...$arguments)];
+        }
+
+        if (self::$arrayArgumentHelper->arrayArguments() === 1) {
+            $nthArgument = self::$arrayArgumentHelper->getFirstArrayArgumentNumber();
+
+            return self::evaluateNthArgumentAsArray($method, $nthArgument, ...$arguments);
+        }
+
+        $singleRowVectorIndex = self::$arrayArgumentHelper->getSingleRowVector();
+        $singleColumnVectorIndex = self::$arrayArgumentHelper->getSingleColumnVector();
+
+        if ($singleRowVectorIndex !== null && $singleColumnVectorIndex !== null) {
+            // Basic logic for a single row vector and a single column vector
+            return self::evaluateVectorPair($method, $singleRowVectorIndex, $singleColumnVectorIndex, ...$arguments);
+        }
+
+        $matrixPair = self::$arrayArgumentHelper->getMatrixPair();
+        if ($matrixPair !== []) {
+            if (
+                (self::$arrayArgumentHelper->isVector($matrixPair[0]) === true &&
+                    self::$arrayArgumentHelper->isVector($matrixPair[1]) === false) ||
+                (self::$arrayArgumentHelper->isVector($matrixPair[0]) === false &&
+                    self::$arrayArgumentHelper->isVector($matrixPair[1]) === true)
+            ) {
+                // Logic for a matrix and a vector (row or column)
+                return self::evaluateVectorMatrixPair($method, $matrixPair, ...$arguments);
+            }
+            // Logic for matrix/matrix, column vector/column vector or row vector/row vector
+            return self::evaluateMatrixPair($method, $matrixPair, ...$arguments);
+        }
+
+        // Still need to work out the logic for more than two array arguments,
+        // For the moment, we're throwing an Exception when we initialise the ArrayArgumentHelper
+        return ['#VALUE!'];
+    }
+
+    /**
+     * @param mixed ...$arguments
+     */
+    private static function evaluateVectorMatrixPair(callable $method, array $matrixIndexes, ...$arguments): array
+    {
+        $matrix2 = array_pop($matrixIndexes);
+        /** @var array $matrixValues2 */
+        $matrixValues2 = $arguments[$matrix2];
+        $matrix1 = array_pop($matrixIndexes);
+        /** @var array $matrixValues1 */
+        $matrixValues1 = $arguments[$matrix1];
+
+        $rows = min(array_map([self::$arrayArgumentHelper, 'rowCount'], [$matrix1, $matrix2]));
+        $columns = min(array_map([self::$arrayArgumentHelper, 'columnCount'], [$matrix1, $matrix2]));
+
+        if ($rows === 1) {
+            $rows = max(array_map([self::$arrayArgumentHelper, 'rowCount'], [$matrix1, $matrix2]));
+        }
+        if ($columns === 1) {
+            $columns = max(array_map([self::$arrayArgumentHelper, 'columnCount'], [$matrix1, $matrix2]));
+        }
+
+        $result = [];
+        for ($rowIndex = 0; $rowIndex < $rows; ++$rowIndex) {
+            for ($columnIndex = 0; $columnIndex < $columns; ++$columnIndex) {
+                $rowIndex1 = self::$arrayArgumentHelper->isRowVector($matrix1) ? 0 : $rowIndex;
+                $columnIndex1 = self::$arrayArgumentHelper->isColumnVector($matrix1) ? 0 : $columnIndex;
+                $value1 = $matrixValues1[$rowIndex1][$columnIndex1];
+                $rowIndex2 = self::$arrayArgumentHelper->isRowVector($matrix2) ? 0 : $rowIndex;
+                $columnIndex2 = self::$arrayArgumentHelper->isColumnVector($matrix2) ? 0 : $columnIndex;
+                $value2 = $matrixValues2[$rowIndex2][$columnIndex2];
+                $arguments[$matrix1] = $value1;
+                $arguments[$matrix2] = $value2;
+
+                $result[$rowIndex][$columnIndex] = $method(...$arguments);
+            }
+        }
+
+        return $result;
+    }
+
+    /**
+     * @param mixed ...$arguments
+     */
+    private static function evaluateMatrixPair(callable $method, array $matrixIndexes, ...$arguments): array
+    {
+        $matrix2 = array_pop($matrixIndexes);
+        /** @var array $matrixValues2 */
+        $matrixValues2 = $arguments[$matrix2];
+        $matrix1 = array_pop($matrixIndexes);
+        /** @var array $matrixValues1 */
+        $matrixValues1 = $arguments[$matrix1];
+
+        $result = [];
+        foreach ($matrixValues1 as $rowIndex => $row) {
+            foreach ($row as $columnIndex => $value1) {
+                if (isset($matrixValues2[$rowIndex][$columnIndex]) === false) {
+                    continue;
+                }
+
+                $value2 = $matrixValues2[$rowIndex][$columnIndex];
+                $arguments[$matrix1] = $value1;
+                $arguments[$matrix2] = $value2;
+
+                $result[$rowIndex][$columnIndex] = $method(...$arguments);
+            }
+        }
+
+        return $result;
+    }
+
+    /**
+     * @param mixed ...$arguments
+     */
+    private static function evaluateVectorPair(callable $method, int $rowIndex, int $columnIndex, ...$arguments): array
+    {
+        $rowVector = Functions::flattenArray($arguments[$rowIndex]);
+        $columnVector = Functions::flattenArray($arguments[$columnIndex]);
+
+        $result = [];
+        foreach ($columnVector as $column) {
+            $rowResults = [];
+            foreach ($rowVector as $row) {
+                $arguments[$rowIndex] = $row;
+                $arguments[$columnIndex] = $column;
+
+                $rowResults[] = $method(...$arguments);
+            }
+            $result[] = $rowResults;
+        }
+
+        return $result;
+    }
+
+    /**
+     * Note, offset is from 1 (for the first argument) rather than from 0.
+     *
+     * @param mixed ...$arguments
+     */
+    private static function evaluateNthArgumentAsArray(callable $method, int $nthArgument, ...$arguments): array
+    {
+        $values = array_slice($arguments, $nthArgument - 1, 1);
+        /** @var array $values */
+        $values = array_pop($values);
+
+        $result = [];
+        foreach ($values as $value) {
+            $arguments[$nthArgument - 1] = $value;
+            $result[] = $method(...$arguments);
+        }
+
+        return $result;
+    }
+}

@@ -1,150 +1,362 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-V77EpN6/4HaNhm==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet;
+
+use PhpOffice\PhpSpreadsheet\Exception as PhpSpreadsheetException;
+use PhpOffice\PhpSpreadsheet\Helper\Size;
+use PhpOffice\PhpSpreadsheet\RichText\RichText;
+use PhpOffice\PhpSpreadsheet\Shared\Drawing as SharedDrawing;
+use PhpOffice\PhpSpreadsheet\Style\Alignment;
+use PhpOffice\PhpSpreadsheet\Style\Color;
+use PhpOffice\PhpSpreadsheet\Worksheet\Drawing;
+
+class Comment implements IComparable
+{
+    /**
+     * Author.
+     *
+     * @var string
+     */
+    private $author;
+
+    /**
+     * Rich text comment.
+     *
+     * @var RichText
+     */
+    private $text;
+
+    /**
+     * Comment width (CSS style, i.e. XXpx or YYpt).
+     *
+     * @var string
+     */
+    private $width = '96pt';
+
+    /**
+     * Left margin (CSS style, i.e. XXpx or YYpt).
+     *
+     * @var string
+     */
+    private $marginLeft = '59.25pt';
+
+    /**
+     * Top margin (CSS style, i.e. XXpx or YYpt).
+     *
+     * @var string
+     */
+    private $marginTop = '1.5pt';
+
+    /**
+     * Visible.
+     *
+     * @var bool
+     */
+    private $visible = false;
+
+    /**
+     * Comment height (CSS style, i.e. XXpx or YYpt).
+     *
+     * @var string
+     */
+    private $height = '55.5pt';
+
+    /**
+     * Comment fill color.
+     *
+     * @var Color
+     */
+    private $fillColor;
+
+    /**
+     * Alignment.
+     *
+     * @var string
+     */
+    private $alignment;
+
+    /**
+     * Background image in comment.
+     *
+     * @var Drawing
+     */
+    private $backgroundImage;
+
+    /**
+     * Create a new Comment.
+     */
+    public function __construct()
+    {
+        // Initialise variables
+        $this->author = 'Author';
+        $this->text = new RichText();
+        $this->fillColor = new Color('FFFFFFE1');
+        $this->alignment = Alignment::HORIZONTAL_GENERAL;
+        $this->backgroundImage = new Drawing();
+    }
+
+    /**
+     * Get Author.
+     */
+    public function getAuthor(): string
+    {
+        return $this->author;
+    }
+
+    /**
+     * Set Author.
+     */
+    public function setAuthor(string $author): self
+    {
+        $this->author = $author;
+
+        return $this;
+    }
+
+    /**
+     * Get Rich text comment.
+     */
+    public function getText(): RichText
+    {
+        return $this->text;
+    }
+
+    /**
+     * Set Rich text comment.
+     */
+    public function setText(RichText $text): self
+    {
+        $this->text = $text;
+
+        return $this;
+    }
+
+    /**
+     * Get comment width (CSS style, i.e. XXpx or YYpt).
+     */
+    public function getWidth(): string
+    {
+        return $this->width;
+    }
+
+    /**
+     * Set comment width (CSS style, i.e. XXpx or YYpt). Default unit is pt.
+     */
+    public function setWidth(string $width): self
+    {
+        $width = new Size($width);
+        if ($width->valid()) {
+            $this->width = (string) $width;
+        }
+
+        return $this;
+    }
+
+    /**
+     * Get comment height (CSS style, i.e. XXpx or YYpt).
+     */
+    public function getHeight(): string
+    {
+        return $this->height;
+    }
+
+    /**
+     * Set comment height (CSS style, i.e. XXpx or YYpt). Default unit is pt.
+     */
+    public function setHeight(string $height): self
+    {
+        $height = new Size($height);
+        if ($height->valid()) {
+            $this->height = (string) $height;
+        }
+
+        return $this;
+    }
+
+    /**
+     * Get left margin (CSS style, i.e. XXpx or YYpt).
+     */
+    public function getMarginLeft(): string
+    {
+        return $this->marginLeft;
+    }
+
+    /**
+     * Set left margin (CSS style, i.e. XXpx or YYpt). Default unit is pt.
+     */
+    public function setMarginLeft(string $margin): self
+    {
+        $margin = new Size($margin);
+        if ($margin->valid()) {
+            $this->marginLeft = (string) $margin;
+        }
+
+        return $this;
+    }
+
+    /**
+     * Get top margin (CSS style, i.e. XXpx or YYpt).
+     */
+    public function getMarginTop(): string
+    {
+        return $this->marginTop;
+    }
+
+    /**
+     * Set top margin (CSS style, i.e. XXpx or YYpt). Default unit is pt.
+     */
+    public function setMarginTop(string $margin): self
+    {
+        $margin = new Size($margin);
+        if ($margin->valid()) {
+            $this->marginTop = (string) $margin;
+        }
+
+        return $this;
+    }
+
+    /**
+     * Is the comment visible by default?
+     */
+    public function getVisible(): bool
+    {
+        return $this->visible;
+    }
+
+    /**
+     * Set comment default visibility.
+     */
+    public function setVisible(bool $visibility): self
+    {
+        $this->visible = $visibility;
+
+        return $this;
+    }
+
+    /**
+     * Set fill color.
+     */
+    public function setFillColor(Color $color): self
+    {
+        $this->fillColor = $color;
+
+        return $this;
+    }
+
+    /**
+     * Get fill color.
+     */
+    public function getFillColor(): Color
+    {
+        return $this->fillColor;
+    }
+
+    /**
+     * Set Alignment.
+     */
+    public function setAlignment(string $alignment): self
+    {
+        $this->alignment = $alignment;
+
+        return $this;
+    }
+
+    /**
+     * Get Alignment.
+     */
+    public function getAlignment(): string
+    {
+        return $this->alignment;
+    }
+
+    /**
+     * Get hash code.
+     */
+    public function getHashCode(): string
+    {
+        return md5(
+            $this->author .
+            $this->text->getHashCode() .
+            $this->width .
+            $this->height .
+            $this->marginLeft .
+            $this->marginTop .
+            ($this->visible ? 1 : 0) .
+            $this->fillColor->getHashCode() .
+            $this->alignment .
+            ($this->hasBackgroundImage() ? $this->backgroundImage->getHashCode() : '') .
+            __CLASS__
+        );
+    }
+
+    /**
+     * Implement PHP __clone to create a deep clone, not just a shallow copy.
+     */
+    public function __clone()
+    {
+        $vars = get_object_vars($this);
+        foreach ($vars as $key => $value) {
+            if (is_object($value)) {
+                $this->$key = clone $value;
+            } else {
+                $this->$key = $value;
+            }
+        }
+    }
+
+    /**
+     * Convert to string.
+     */
+    public function __toString(): string
+    {
+        return $this->text->getPlainText();
+    }
+
+    /**
+     * Check is background image exists.
+     */
+    public function hasBackgroundImage(): bool
+    {
+        $path = $this->backgroundImage->getPath();
+
+        if (empty($path)) {
+            return false;
+        }
+
+        return getimagesize($path) !== false;
+    }
+
+    /**
+     * Returns background image.
+     */
+    public function getBackgroundImage(): Drawing
+    {
+        return $this->backgroundImage;
+    }
+
+    /**
+     * Sets background image.
+     */
+    public function setBackgroundImage(Drawing $objDrawing): self
+    {
+        if (!array_key_exists($objDrawing->getType(), Drawing::IMAGE_TYPES_CONVERTION_MAP)) {
+            throw new PhpSpreadsheetException('Unsupported image type in comment background. Supported types: PNG, JPEG, BMP, GIF.');
+        }
+        $this->backgroundImage = $objDrawing;
+
+        return $this;
+    }
+
+    /**
+     * Sets size of comment as size of background image.
+     */
+    public function setSizeAsBackgroundImage(): self
+    {
+        if ($this->hasBackgroundImage()) {
+            $this->setWidth(SharedDrawing::pixelsToPoints($this->backgroundImage->getWidth()) . 'pt');
+            $this->setHeight(SharedDrawing::pixelsToPoints($this->backgroundImage->getHeight()) . 'pt');
+        }
+
+        return $this;
+    }
+}

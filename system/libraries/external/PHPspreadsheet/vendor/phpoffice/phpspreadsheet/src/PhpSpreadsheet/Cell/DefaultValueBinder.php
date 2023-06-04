@@ -1,90 +1,83 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-MOggSxokos1ZbE5dKfz7Wen91ITKTD/9fivyG8a=
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Cell;
+
+use DateTimeInterface;
+use PhpOffice\PhpSpreadsheet\RichText\RichText;
+use PhpOffice\PhpSpreadsheet\Shared\StringHelper;
+
+class DefaultValueBinder implements IValueBinder
+{
+    /**
+     * Bind value to a cell.
+     *
+     * @param Cell $cell Cell to bind value to
+     * @param mixed $value Value to bind in cell
+     *
+     * @return bool
+     */
+    public function bindValue(Cell $cell, $value)
+    {
+        // sanitize UTF-8 strings
+        if (is_string($value)) {
+            $value = StringHelper::sanitizeUTF8($value);
+        } elseif (is_object($value)) {
+            // Handle any objects that might be injected
+            if ($value instanceof DateTimeInterface) {
+                $value = $value->format('Y-m-d H:i:s');
+            } elseif (!($value instanceof RichText)) {
+                // Attempt to cast any unexpected objects to string
+                $value = (string) $value;
+            }
+        }
+
+        // Set value explicit
+        $cell->setValueExplicit($value, static::dataTypeForValue($value));
+
+        // Done!
+        return true;
+    }
+
+    /**
+     * DataType for value.
+     *
+     * @param mixed $value
+     *
+     * @return string
+     */
+    public static function dataTypeForValue($value)
+    {
+        // Match the value against a few data types
+        if ($value === null) {
+            return DataType::TYPE_NULL;
+        } elseif (is_float($value) || is_int($value)) {
+            return DataType::TYPE_NUMERIC;
+        } elseif (is_bool($value)) {
+            return DataType::TYPE_BOOL;
+        } elseif ($value === '') {
+            return DataType::TYPE_STRING;
+        } elseif ($value instanceof RichText) {
+            return DataType::TYPE_INLINE;
+        } elseif (is_string($value) && strlen($value) > 1 && $value[0] === '=') {
+            return DataType::TYPE_FORMULA;
+        } elseif (preg_match('/^[\+\-]?(\d+\\.?\d*|\d*\\.?\d+)([Ee][\-\+]?[0-2]?\d{1,3})?$/', $value)) {
+            $tValue = ltrim($value, '+-');
+            if (is_string($value) && strlen($tValue) > 1 && $tValue[0] === '0' && $tValue[1] !== '.') {
+                return DataType::TYPE_STRING;
+            } elseif ((strpos($value, '.') === false) && ($value > PHP_INT_MAX)) {
+                return DataType::TYPE_STRING;
+            } elseif (!is_numeric($value)) {
+                return DataType::TYPE_STRING;
+            }
+
+            return DataType::TYPE_NUMERIC;
+        } elseif (is_string($value)) {
+            $errorCodes = DataType::getErrorCodes();
+            if (isset($errorCodes[$value])) {
+                return DataType::TYPE_ERROR;
+            }
+        }
+
+        return DataType::TYPE_STRING;
+    }
+}

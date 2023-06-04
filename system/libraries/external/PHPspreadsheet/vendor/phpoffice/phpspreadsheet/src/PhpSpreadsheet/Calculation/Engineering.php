@@ -1,176 +1,1446 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation;
+
+use Complex\Complex;
+use PhpOffice\PhpSpreadsheet\Calculation\Engineering\ComplexFunctions;
+use PhpOffice\PhpSpreadsheet\Calculation\Engineering\ComplexOperations;
+
+/**
+ * @deprecated 1.18.0
+ */
+class Engineering
+{
+    /**
+     * EULER.
+     *
+     * @deprecated 1.18.0
+     * @see Use Engineering\Constants\EULER instead
+     */
+    public const EULER = 2.71828182845904523536;
+
+    /**
+     * parseComplex.
+     *
+     * Parses a complex number into its real and imaginary parts, and an I or J suffix
+     *
+     * @deprecated 1.12.0 No longer used by internal code. Please use the \Complex\Complex class instead
+     *
+     * @param string $complexNumber The complex number
+     *
+     * @return mixed[] Indexed on "real", "imaginary" and "suffix"
+     */
+    public static function parseComplex($complexNumber)
+    {
+        $complex = new Complex($complexNumber);
+
+        return [
+            'real' => $complex->getReal(),
+            'imaginary' => $complex->getImaginary(),
+            'suffix' => $complex->getSuffix(),
+        ];
+    }
+
+    /**
+     * BESSELI.
+     *
+     *    Returns the modified Bessel function In(x), which is equivalent to the Bessel function evaluated
+     *        for purely imaginary arguments
+     *
+     *    Excel Function:
+     *        BESSELI(x,ord)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the BESSELI() method in the Engineering\BesselI class instead
+     *
+     * @param float $x The value at which to evaluate the function.
+     *                                If x is nonnumeric, BESSELI returns the #VALUE! error value.
+     * @param int $ord The order of the Bessel function.
+     *                                If ord is not an integer, it is truncated.
+     *                                If $ord is nonnumeric, BESSELI returns the #VALUE! error value.
+     *                                If $ord < 0, BESSELI returns the #NUM! error value.
+     *
+     * @return array|float|string Result, or a string containing an error
+     */
+    public static function BESSELI($x, $ord)
+    {
+        return Engineering\BesselI::BESSELI($x, $ord);
+    }
+
+    /**
+     * BESSELJ.
+     *
+     *    Returns the Bessel function
+     *
+     *    Excel Function:
+     *        BESSELJ(x,ord)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the BESSELJ() method in the Engineering\BesselJ class instead
+     *
+     * @param float $x The value at which to evaluate the function.
+     *                                If x is nonnumeric, BESSELJ returns the #VALUE! error value.
+     * @param int $ord The order of the Bessel function. If n is not an integer, it is truncated.
+     *                                If $ord is nonnumeric, BESSELJ returns the #VALUE! error value.
+     *                                If $ord < 0, BESSELJ returns the #NUM! error value.
+     *
+     * @return array|float|string Result, or a string containing an error
+     */
+    public static function BESSELJ($x, $ord)
+    {
+        return Engineering\BesselJ::BESSELJ($x, $ord);
+    }
+
+    /**
+     * BESSELK.
+     *
+     *    Returns the modified Bessel function Kn(x), which is equivalent to the Bessel functions evaluated
+     *        for purely imaginary arguments.
+     *
+     *    Excel Function:
+     *        BESSELK(x,ord)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the BESSELK() method in the Engineering\BesselK class instead
+     *
+     * @param float $x The value at which to evaluate the function.
+     *                                If x is nonnumeric, BESSELK returns the #VALUE! error value.
+     * @param int $ord The order of the Bessel function. If n is not an integer, it is truncated.
+     *                                If $ord is nonnumeric, BESSELK returns the #VALUE! error value.
+     *                                If $ord < 0, BESSELK returns the #NUM! error value.
+     *
+     * @return array|float|string Result, or a string containing an error
+     */
+    public static function BESSELK($x, $ord)
+    {
+        return Engineering\BesselK::BESSELK($x, $ord);
+    }
+
+    /**
+     * BESSELY.
+     *
+     * Returns the Bessel function, which is also called the Weber function or the Neumann function.
+     *
+     *    Excel Function:
+     *        BESSELY(x,ord)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the BESSELY() method in the Engineering\BesselY class instead
+     *
+     * @param float $x The value at which to evaluate the function.
+     *                                If x is nonnumeric, BESSELY returns the #VALUE! error value.
+     * @param int $ord The order of the Bessel function. If n is not an integer, it is truncated.
+     *                                If $ord is nonnumeric, BESSELY returns the #VALUE! error value.
+     *                                If $ord < 0, BESSELY returns the #NUM! error value.
+     *
+     * @return array|float|string Result, or a string containing an error
+     */
+    public static function BESSELY($x, $ord)
+    {
+        return Engineering\BesselY::BESSELY($x, $ord);
+    }
+
+    /**
+     * BINTODEC.
+     *
+     * Return a binary value as decimal.
+     *
+     * Excel Function:
+     *        BIN2DEC(x)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the toDecimal() method in the Engineering\ConvertBinary class instead
+     *
+     * @param mixed $x The binary number (as a string) that you want to convert. The number
+     *                                cannot contain more than 10 characters (10 bits). The most significant
+     *                                bit of number is the sign bit. The remaining 9 bits are magnitude bits.
+     *                                Negative numbers are represented using two's-complement notation.
+     *                                If number is not a valid binary number, or if number contains more than
+     *                                10 characters (10 bits), BIN2DEC returns the #NUM! error value.
+     *
+     * @return array|string
+     */
+    public static function BINTODEC($x)
+    {
+        return Engineering\ConvertBinary::toDecimal($x);
+    }
+
+    /**
+     * BINTOHEX.
+     *
+     * Return a binary value as hex.
+     *
+     * Excel Function:
+     *        BIN2HEX(x[,places])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the toHex() method in the Engineering\ConvertBinary class instead
+     *
+     * @param mixed $x The binary number (as a string) that you want to convert. The number
+     *                                cannot contain more than 10 characters (10 bits). The most significant
+     *                                bit of number is the sign bit. The remaining 9 bits are magnitude bits.
+     *                                Negative numbers are represented using two's-complement notation.
+     *                                If number is not a valid binary number, or if number contains more than
+     *                                10 characters (10 bits), BIN2HEX returns the #NUM! error value.
+     * @param mixed $places The number of characters to use. If places is omitted, BIN2HEX uses the
+     *                                minimum number of characters necessary. Places is useful for padding the
+     *                                return value with leading 0s (zeros).
+     *                                If places is not an integer, it is truncated.
+     *                                If places is nonnumeric, BIN2HEX returns the #VALUE! error value.
+     *                                If places is negative, BIN2HEX returns the #NUM! error value.
+     *
+     * @return array|string
+     */
+    public static function BINTOHEX($x, $places = null)
+    {
+        return Engineering\ConvertBinary::toHex($x, $places);
+    }
+
+    /**
+     * BINTOOCT.
+     *
+     * Return a binary value as octal.
+     *
+     * Excel Function:
+     *        BIN2OCT(x[,places])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the toOctal() method in the Engineering\ConvertBinary class instead
+     *
+     * @param mixed $x The binary number (as a string) that you want to convert. The number
+     *                                cannot contain more than 10 characters (10 bits). The most significant
+     *                                bit of number is the sign bit. The remaining 9 bits are magnitude bits.
+     *                                Negative numbers are represented using two's-complement notation.
+     *                                If number is not a valid binary number, or if number contains more than
+     *                                10 characters (10 bits), BIN2OCT returns the #NUM! error value.
+     * @param mixed $places The number of characters to use. If places is omitted, BIN2OCT uses the
+     *                                minimum number of characters necessary. Places is useful for padding the
+     *                                return value with leading 0s (zeros).
+     *                                If places is not an integer, it is truncated.
+     *                                If places is nonnumeric, BIN2OCT returns the #VALUE! error value.
+     *                                If places is negative, BIN2OCT returns the #NUM! error value.
+     *
+     * @return array|string
+     */
+    public static function BINTOOCT($x, $places = null)
+    {
+        return Engineering\ConvertBinary::toOctal($x, $places);
+    }
+
+    /**
+     * DECTOBIN.
+     *
+     * Return a decimal value as binary.
+     *
+     * Excel Function:
+     *        DEC2BIN(x[,places])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the toBinary() method in the Engineering\ConvertDecimal class instead
+     *
+     * @param mixed $x The decimal integer you want to convert. If number is negative,
+     *                                valid place values are ignored and DEC2BIN returns a 10-character
+     *                                (10-bit) binary number in which the most significant bit is the sign
+     *                                bit. The remaining 9 bits are magnitude bits. Negative numbers are
+     *                                represented using two's-complement notation.
+     *                                If number < -512 or if number > 511, DEC2BIN returns the #NUM! error
+     *                                value.
+     *                                If number is nonnumeric, DEC2BIN returns the #VALUE! error value.
+     *                                If DEC2BIN requires more than places characters, it returns the #NUM!
+     *                                error value.
+     * @param mixed $places The number of characters to use. If places is omitted, DEC2BIN uses
+     *                                the minimum number of characters necessary. Places is useful for
+     *                                padding the return value with leading 0s (zeros).
+     *                                If places is not an integer, it is truncated.
+     *                                If places is nonnumeric, DEC2BIN returns the #VALUE! error value.
+     *                                If places is zero or negative, DEC2BIN returns the #NUM! error value.
+     *
+     * @return array|string
+     */
+    public static function DECTOBIN($x, $places = null)
+    {
+        return Engineering\ConvertDecimal::toBinary($x, $places);
+    }
+
+    /**
+     * DECTOHEX.
+     *
+     * Return a decimal value as hex.
+     *
+     * Excel Function:
+     *        DEC2HEX(x[,places])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the toHex() method in the Engineering\ConvertDecimal class instead
+     *
+     * @param mixed $x The decimal integer you want to convert. If number is negative,
+     *                                places is ignored and DEC2HEX returns a 10-character (40-bit)
+     *                                hexadecimal number in which the most significant bit is the sign
+     *                                bit. The remaining 39 bits are magnitude bits. Negative numbers
+     *                                are represented using two's-complement notation.
+     *                                If number < -549,755,813,888 or if number > 549,755,813,887,
+     *                                DEC2HEX returns the #NUM! error value.
+     *                                If number is nonnumeric, DEC2HEX returns the #VALUE! error value.
+     *                                If DEC2HEX requires more than places characters, it returns the
+     *                                #NUM! error value.
+     * @param mixed $places The number of characters to use. If places is omitted, DEC2HEX uses
+     *                                the minimum number of characters necessary. Places is useful for
+     *                                padding the return value with leading 0s (zeros).
+     *                                If places is not an integer, it is truncated.
+     *                                If places is nonnumeric, DEC2HEX returns the #VALUE! error value.
+     *                                If places is zero or negative, DEC2HEX returns the #NUM! error value.
+     *
+     * @return array|string
+     */
+    public static function DECTOHEX($x, $places = null)
+    {
+        return Engineering\ConvertDecimal::toHex($x, $places);
+    }
+
+    /**
+     * DECTOOCT.
+     *
+     * Return an decimal value as octal.
+     *
+     * Excel Function:
+     *        DEC2OCT(x[,places])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the toOctal() method in the Engineering\ConvertDecimal class instead
+     *
+     * @param mixed $x The decimal integer you want to convert. If number is negative,
+     *                                places is ignored and DEC2OCT returns a 10-character (30-bit)
+     *                                octal number in which the most significant bit is the sign bit.
+     *                                The remaining 29 bits are magnitude bits. Negative numbers are
+     *                                represented using two's-complement notation.
+     *                                If number < -536,870,912 or if number > 536,870,911, DEC2OCT
+     *                                returns the #NUM! error value.
+     *                                If number is nonnumeric, DEC2OCT returns the #VALUE! error value.
+     *                                If DEC2OCT requires more than places characters, it returns the
+     *                                #NUM! error value.
+     * @param mixed $places The number of characters to use. If places is omitted, DEC2OCT uses
+     *                                the minimum number of characters necessary. Places is useful for
+     *                                padding the return value with leading 0s (zeros).
+     *                                If places is not an integer, it is truncated.
+     *                                If places is nonnumeric, DEC2OCT returns the #VALUE! error value.
+     *                                If places is zero or negative, DEC2OCT returns the #NUM! error value.
+     *
+     * @return array|string
+     */
+    public static function DECTOOCT($x, $places = null)
+    {
+        return Engineering\ConvertDecimal::toOctal($x, $places);
+    }
+
+    /**
+     * HEXTOBIN.
+     *
+     * Return a hex value as binary.
+     *
+     * Excel Function:
+     *        HEX2BIN(x[,places])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the toBinary() method in the Engineering\ConvertHex class instead
+     *
+     * @param mixed $x the hexadecimal number (as a string) that you want to convert.
+     *                  Number cannot contain more than 10 characters.
+     *                  The most significant bit of number is the sign bit (40th bit from the right).
+     *                  The remaining 9 bits are magnitude bits.
+     *                  Negative numbers are represented using two's-complement notation.
+     *                  If number is negative, HEX2BIN ignores places and returns a 10-character binary number.
+     *                  If number is negative, it cannot be less than FFFFFFFE00,
+     *                      and if number is positive, it cannot be greater than 1FF.
+     *                  If number is not a valid hexadecimal number, HEX2BIN returns the #NUM! error value.
+     *                  If HEX2BIN requires more than places characters, it returns the #NUM! error value.
+     * @param mixed $places The number of characters to use. If places is omitted,
+     *                                    HEX2BIN uses the minimum number of characters necessary. Places
+     *                                    is useful for padding the return value with leading 0s (zeros).
+     *                                    If places is not an integer, it is truncated.
+     *                                    If places is nonnumeric, HEX2BIN returns the #VALUE! error value.
+     *                                    If places is negative, HEX2BIN returns the #NUM! error value.
+     *
+     * @return array|string
+     */
+    public static function HEXTOBIN($x, $places = null)
+    {
+        return Engineering\ConvertHex::toBinary($x, $places);
+    }
+
+    /**
+     * HEXTODEC.
+     *
+     * Return a hex value as decimal.
+     *
+     * Excel Function:
+     *        HEX2DEC(x)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the toDecimal() method in the Engineering\ConvertHex class instead
+     *
+     * @param mixed $x The hexadecimal number (as a string) that you want to convert. This number cannot
+     *                                contain more than 10 characters (40 bits). The most significant
+     *                                bit of number is the sign bit. The remaining 39 bits are magnitude
+     *                                bits. Negative numbers are represented using two's-complement
+     *                                notation.
+     *                                If number is not a valid hexadecimal number, HEX2DEC returns the
+     *                                #NUM! error value.
+     *
+     * @return array|string
+     */
+    public static function HEXTODEC($x)
+    {
+        return Engineering\ConvertHex::toDecimal($x);
+    }
+
+    /**
+     * HEXTOOCT.
+     *
+     * Return a hex value as octal.
+     *
+     * Excel Function:
+     *        HEX2OCT(x[,places])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the toOctal() method in the Engineering\ConvertHex class instead
+     *
+     * @param mixed $x The hexadecimal number (as a string) that you want to convert. Number cannot
+     *                                    contain more than 10 characters. The most significant bit of
+     *                                    number is the sign bit. The remaining 39 bits are magnitude
+     *                                    bits. Negative numbers are represented using two's-complement
+     *                                    notation.
+     *                                    If number is negative, HEX2OCT ignores places and returns a
+     *                                    10-character octal number.
+     *                                    If number is negative, it cannot be less than FFE0000000, and
+     *                                    if number is positive, it cannot be greater than 1FFFFFFF.
+     *                                    If number is not a valid hexadecimal number, HEX2OCT returns
+     *                                    the #NUM! error value.
+     *                                    If HEX2OCT requires more than places characters, it returns
+     *                                    the #NUM! error value.
+     * @param mixed $places The number of characters to use. If places is omitted, HEX2OCT
+     *                                    uses the minimum number of characters necessary. Places is
+     *                                    useful for padding the return value with leading 0s (zeros).
+     *                                    If places is not an integer, it is truncated.
+     *                                    If places is nonnumeric, HEX2OCT returns the #VALUE! error
+     *                                    value.
+     *                                    If places is negative, HEX2OCT returns the #NUM! error value.
+     *
+     * @return array|string
+     */
+    public static function HEXTOOCT($x, $places = null)
+    {
+        return Engineering\ConvertHex::toOctal($x, $places);
+    }
+
+    /**
+     * OCTTOBIN.
+     *
+     * Return an octal value as binary.
+     *
+     * Excel Function:
+     *        OCT2BIN(x[,places])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the toBinary() method in the Engineering\ConvertOctal class instead
+     *
+     * @param mixed $x The octal number you want to convert. Number may not
+     *                                    contain more than 10 characters. The most significant
+     *                                    bit of number is the sign bit. The remaining 29 bits
+     *                                    are magnitude bits. Negative numbers are represented
+     *                                    using two's-complement notation.
+     *                                    If number is negative, OCT2BIN ignores places and returns
+     *                                    a 10-character binary number.
+     *                                    If number is negative, it cannot be less than 7777777000,
+     *                                    and if number is positive, it cannot be greater than 777.
+     *                                    If number is not a valid octal number, OCT2BIN returns
+     *                                    the #NUM! error value.
+     *                                    If OCT2BIN requires more than places characters, it
+     *                                    returns the #NUM! error value.
+     * @param mixed $places The number of characters to use. If places is omitted,
+     *                                    OCT2BIN uses the minimum number of characters necessary.
+     *                                    Places is useful for padding the return value with
+     *                                    leading 0s (zeros).
+     *                                    If places is not an integer, it is truncated.
+     *                                    If places is nonnumeric, OCT2BIN returns the #VALUE!
+     *                                    error value.
+     *                                    If places is negative, OCT2BIN returns the #NUM! error
+     *                                    value.
+     *
+     * @return array|string
+     */
+    public static function OCTTOBIN($x, $places = null)
+    {
+        return Engineering\ConvertOctal::toBinary($x, $places);
+    }
+
+    /**
+     * OCTTODEC.
+     *
+     * Return an octal value as decimal.
+     *
+     * Excel Function:
+     *        OCT2DEC(x)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the toDecimal() method in the Engineering\ConvertOctal class instead
+     *
+     * @param mixed $x The octal number you want to convert. Number may not contain
+     *                                more than 10 octal characters (30 bits). The most significant
+     *                                bit of number is the sign bit. The remaining 29 bits are
+     *                                magnitude bits. Negative numbers are represented using
+     *                                two's-complement notation.
+     *                                If number is not a valid octal number, OCT2DEC returns the
+     *                                #NUM! error value.
+     *
+     * @return array|string
+     */
+    public static function OCTTODEC($x)
+    {
+        return Engineering\ConvertOctal::toDecimal($x);
+    }
+
+    /**
+     * OCTTOHEX.
+     *
+     * Return an octal value as hex.
+     *
+     * Excel Function:
+     *        OCT2HEX(x[,places])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the toHex() method in the Engineering\ConvertOctal class instead
+     *
+     * @param mixed $x The octal number you want to convert. Number may not contain
+     *                                    more than 10 octal characters (30 bits). The most significant
+     *                                    bit of number is the sign bit. The remaining 29 bits are
+     *                                    magnitude bits. Negative numbers are represented using
+     *                                    two's-complement notation.
+     *                                    If number is negative, OCT2HEX ignores places and returns a
+     *                                    10-character hexadecimal number.
+     *                                    If number is not a valid octal number, OCT2HEX returns the
+     *                                    #NUM! error value.
+     *                                    If OCT2HEX requires more than places characters, it returns
+     *                                    the #NUM! error value.
+     * @param mixed $places The number of characters to use. If places is omitted, OCT2HEX
+     *                                    uses the minimum number of characters necessary. Places is useful
+     *                                    for padding the return value with leading 0s (zeros).
+     *                                    If places is not an integer, it is truncated.
+     *                                    If places is nonnumeric, OCT2HEX returns the #VALUE! error value.
+     *                                    If places is negative, OCT2HEX returns the #NUM! error value.
+     *
+     * @return array|string
+     */
+    public static function OCTTOHEX($x, $places = null)
+    {
+        return Engineering\ConvertOctal::toHex($x, $places);
+    }
+
+    /**
+     * COMPLEX.
+     *
+     * Converts real and imaginary coefficients into a complex number of the form x +/- yi or x +/- yj.
+     *
+     * Excel Function:
+     *        COMPLEX(realNumber,imaginary[,suffix])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the COMPLEX() method in the Engineering\Complex class instead
+     *
+     * @param array|float $realNumber the real coefficient of the complex number
+     * @param array|float $imaginary the imaginary coefficient of the complex number
+     * @param array|string $suffix The suffix for the imaginary component of the complex number.
+     *                                        If omitted, the suffix is assumed to be "i".
+     *
+     * @return array|string
+     */
+    public static function COMPLEX($realNumber = 0.0, $imaginary = 0.0, $suffix = 'i')
+    {
+        return Engineering\Complex::COMPLEX($realNumber, $imaginary, $suffix);
+    }
+
+    /**
+     * IMAGINARY.
+     *
+     * Returns the imaginary coefficient of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMAGINARY(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMAGINARY() method in the Engineering\Complex class instead
+     *
+     * @param string $complexNumber the complex number for which you want the imaginary
+     *                                         coefficient
+     *
+     * @return array|float|string
+     */
+    public static function IMAGINARY($complexNumber)
+    {
+        return Engineering\Complex::IMAGINARY($complexNumber);
+    }
+
+    /**
+     * IMREAL.
+     *
+     * Returns the real coefficient of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMREAL(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMREAL() method in the Engineering\Complex class instead
+     *
+     * @param string $complexNumber the complex number for which you want the real coefficient
+     *
+     * @return array|float|string
+     */
+    public static function IMREAL($complexNumber)
+    {
+        return Engineering\Complex::IMREAL($complexNumber);
+    }
+
+    /**
+     * IMABS.
+     *
+     * Returns the absolute value (modulus) of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMABS(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMABS() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param string $complexNumber the complex number for which you want the absolute value
+     *
+     * @return array|float|string
+     */
+    public static function IMABS($complexNumber)
+    {
+        return ComplexFunctions::IMABS($complexNumber);
+    }
+
+    /**
+     * IMARGUMENT.
+     *
+     * Returns the argument theta of a complex number, i.e. the angle in radians from the real
+     * axis to the representation of the number in polar coordinates.
+     *
+     * Excel Function:
+     *        IMARGUMENT(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMARGUMENT() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param array|string $complexNumber the complex number for which you want the argument theta
+     *
+     * @return array|float|string
+     */
+    public static function IMARGUMENT($complexNumber)
+    {
+        return ComplexFunctions::IMARGUMENT($complexNumber);
+    }
+
+    /**
+     * IMCONJUGATE.
+     *
+     * Returns the complex conjugate of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMCONJUGATE(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMARGUMENT() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param array|string $complexNumber the complex number for which you want the conjugate
+     *
+     * @return array|string
+     */
+    public static function IMCONJUGATE($complexNumber)
+    {
+        return ComplexFunctions::IMCONJUGATE($complexNumber);
+    }
+
+    /**
+     * IMCOS.
+     *
+     * Returns the cosine of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMCOS(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMCOS() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param array|string $complexNumber the complex number for which you want the cosine
+     *
+     * @return array|float|string
+     */
+    public static function IMCOS($complexNumber)
+    {
+        return ComplexFunctions::IMCOS($complexNumber);
+    }
+
+    /**
+     * IMCOSH.
+     *
+     * Returns the hyperbolic cosine of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMCOSH(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMCOSH() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param array|string $complexNumber the complex number for which you want the hyperbolic cosine
+     *
+     * @return array|float|string
+     */
+    public static function IMCOSH($complexNumber)
+    {
+        return ComplexFunctions::IMCOSH($complexNumber);
+    }
+
+    /**
+     * IMCOT.
+     *
+     * Returns the cotangent of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMCOT(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMCOT() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param array|string $complexNumber the complex number for which you want the cotangent
+     *
+     * @return array|float|string
+     */
+    public static function IMCOT($complexNumber)
+    {
+        return ComplexFunctions::IMCOT($complexNumber);
+    }
+
+    /**
+     * IMCSC.
+     *
+     * Returns the cosecant of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMCSC(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMCSC() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param array|string $complexNumber the complex number for which you want the cosecant
+     *
+     * @return array|float|string
+     */
+    public static function IMCSC($complexNumber)
+    {
+        return ComplexFunctions::IMCSC($complexNumber);
+    }
+
+    /**
+     * IMCSCH.
+     *
+     * Returns the hyperbolic cosecant of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMCSCH(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMCSCH() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param array|string $complexNumber the complex number for which you want the hyperbolic cosecant
+     *
+     * @return array|float|string
+     */
+    public static function IMCSCH($complexNumber)
+    {
+        return ComplexFunctions::IMCSCH($complexNumber);
+    }
+
+    /**
+     * IMSIN.
+     *
+     * Returns the sine of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMSIN(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMSIN() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param string $complexNumber the complex number for which you want the sine
+     *
+     * @return array|float|string
+     */
+    public static function IMSIN($complexNumber)
+    {
+        return ComplexFunctions::IMSIN($complexNumber);
+    }
+
+    /**
+     * IMSINH.
+     *
+     * Returns the hyperbolic sine of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMSINH(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMSINH() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param string $complexNumber the complex number for which you want the hyperbolic sine
+     *
+     * @return array|float|string
+     */
+    public static function IMSINH($complexNumber)
+    {
+        return ComplexFunctions::IMSINH($complexNumber);
+    }
+
+    /**
+     * IMSEC.
+     *
+     * Returns the secant of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMSEC(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMSEC() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param string $complexNumber the complex number for which you want the secant
+     *
+     * @return array|float|string
+     */
+    public static function IMSEC($complexNumber)
+    {
+        return ComplexFunctions::IMSEC($complexNumber);
+    }
+
+    /**
+     * IMSECH.
+     *
+     * Returns the hyperbolic secant of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMSECH(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMSECH() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param string $complexNumber the complex number for which you want the hyperbolic secant
+     *
+     * @return array|float|string
+     */
+    public static function IMSECH($complexNumber)
+    {
+        return ComplexFunctions::IMSECH($complexNumber);
+    }
+
+    /**
+     * IMTAN.
+     *
+     * Returns the tangent of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMTAN(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMTAN() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param string $complexNumber the complex number for which you want the tangent
+     *
+     * @return array|float|string
+     */
+    public static function IMTAN($complexNumber)
+    {
+        return ComplexFunctions::IMTAN($complexNumber);
+    }
+
+    /**
+     * IMSQRT.
+     *
+     * Returns the square root of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMSQRT(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMSQRT() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param string $complexNumber the complex number for which you want the square root
+     *
+     * @return array|string
+     */
+    public static function IMSQRT($complexNumber)
+    {
+        return ComplexFunctions::IMSQRT($complexNumber);
+    }
+
+    /**
+     * IMLN.
+     *
+     * Returns the natural logarithm of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMLN(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMLN() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param string $complexNumber the complex number for which you want the natural logarithm
+     *
+     * @return array|string
+     */
+    public static function IMLN($complexNumber)
+    {
+        return ComplexFunctions::IMLN($complexNumber);
+    }
+
+    /**
+     * IMLOG10.
+     *
+     * Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMLOG10(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMLOG10() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param string $complexNumber the complex number for which you want the common logarithm
+     *
+     * @return array|string
+     */
+    public static function IMLOG10($complexNumber)
+    {
+        return ComplexFunctions::IMLOG10($complexNumber);
+    }
+
+    /**
+     * IMLOG2.
+     *
+     * Returns the base-2 logarithm of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMLOG2(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMLOG2() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param string $complexNumber the complex number for which you want the base-2 logarithm
+     *
+     * @return array|string
+     */
+    public static function IMLOG2($complexNumber)
+    {
+        return ComplexFunctions::IMLOG2($complexNumber);
+    }
+
+    /**
+     * IMEXP.
+     *
+     * Returns the exponential of a complex number in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMEXP(complexNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMEXP() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param string $complexNumber the complex number for which you want the exponential
+     *
+     * @return array|string
+     */
+    public static function IMEXP($complexNumber)
+    {
+        return ComplexFunctions::IMEXP($complexNumber);
+    }
+
+    /**
+     * IMPOWER.
+     *
+     * Returns a complex number in x + yi or x + yj text format raised to a power.
+     *
+     * Excel Function:
+     *        IMPOWER(complexNumber,realNumber)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMPOWER() method in the Engineering\ComplexFunctions class instead
+     *
+     * @param string $complexNumber the complex number you want to raise to a power
+     * @param float $realNumber the power to which you want to raise the complex number
+     *
+     * @return array|string
+     */
+    public static function IMPOWER($complexNumber, $realNumber)
+    {
+        return ComplexFunctions::IMPOWER($complexNumber, $realNumber);
+    }
+
+    /**
+     * IMDIV.
+     *
+     * Returns the quotient of two complex numbers in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMDIV(complexDividend,complexDivisor)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMDIV() method in the Engineering\ComplexOperations class instead
+     *
+     * @param string $complexDividend the complex numerator or dividend
+     * @param string $complexDivisor the complex denominator or divisor
+     *
+     * @return array|string
+     */
+    public static function IMDIV($complexDividend, $complexDivisor)
+    {
+        return ComplexOperations::IMDIV($complexDividend, $complexDivisor);
+    }
+
+    /**
+     * IMSUB.
+     *
+     * Returns the difference of two complex numbers in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMSUB(complexNumber1,complexNumber2)
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMSUB() method in the Engineering\ComplexOperations class instead
+     *
+     * @param string $complexNumber1 the complex number from which to subtract complexNumber2
+     * @param string $complexNumber2 the complex number to subtract from complexNumber1
+     *
+     * @return array|string
+     */
+    public static function IMSUB($complexNumber1, $complexNumber2)
+    {
+        return ComplexOperations::IMSUB($complexNumber1, $complexNumber2);
+    }
+
+    /**
+     * IMSUM.
+     *
+     * Returns the sum of two or more complex numbers in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMSUM(complexNumber[,complexNumber[,...]])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMSUM() method in the Engineering\ComplexOperations class instead
+     *
+     * @param string ...$complexNumbers Series of complex numbers to add
+     *
+     * @return string
+     */
+    public static function IMSUM(...$complexNumbers)
+    {
+        return ComplexOperations::IMSUM(...$complexNumbers);
+    }
+
+    /**
+     * IMPRODUCT.
+     *
+     * Returns the product of two or more complex numbers in x + yi or x + yj text format.
+     *
+     * Excel Function:
+     *        IMPRODUCT(complexNumber[,complexNumber[,...]])
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the IMPRODUCT() method in the Engineering\ComplexOperations class instead
+     *
+     * @param string ...$complexNumbers Series of complex numbers to multiply
+     *
+     * @return string
+     */
+    public static function IMPRODUCT(...$complexNumbers)
+    {
+        return ComplexOperations::IMPRODUCT(...$complexNumbers);
+    }
+
+    /**
+     * DELTA.
+     *
+     * Tests whether two values are equal. Returns 1 if number1 = number2; returns 0 otherwise.
+     * Use this function to filter a set of values. For example, by summing several DELTA
+     *     functions you calculate the count of equal pairs. This function is also known as the
+     *     Kronecker Delta function.
+     *
+     *    Excel Function:
+     *        DELTA(a[,b])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the DELTA() method in the Engineering\Compare class instead
+     *
+     * @param float $a the first number
+     * @param float $b The second number. If omitted, b is assumed to be zero.
+     *
+     * @return array|int|string (string in the event of an error)
+     */
+    public static function DELTA($a, $b = 0)
+    {
+        return Engineering\Compare::DELTA($a, $b);
+    }
+
+    /**
+     * GESTEP.
+     *
+     *    Excel Function:
+     *        GESTEP(number[,step])
+     *
+     *    Returns 1 if number >= step; returns 0 (zero) otherwise
+     *    Use this function to filter a set of values. For example, by summing several GESTEP
+     *        functions you calculate the count of values that exceed a threshold.
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the GESTEP() method in the Engineering\Compare class instead
+     *
+     * @param float $number the value to test against step
+     * @param float $step The threshold value. If you omit a value for step, GESTEP uses zero.
+     *
+     * @return array|int|string (string in the event of an error)
+     */
+    public static function GESTEP($number, $step = 0)
+    {
+        return Engineering\Compare::GESTEP($number, $step);
+    }
+
+    /**
+     * BITAND.
+     *
+     * Returns the bitwise AND of two integer values.
+     *
+     * Excel Function:
+     *        BITAND(number1, number2)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the BITAND() method in the Engineering\BitWise class instead
+     *
+     * @param int $number1
+     * @param int $number2
+     *
+     * @return array|int|string
+     */
+    public static function BITAND($number1, $number2)
+    {
+        return Engineering\BitWise::BITAND($number1, $number2);
+    }
+
+    /**
+     * BITOR.
+     *
+     * Returns the bitwise OR of two integer values.
+     *
+     * Excel Function:
+     *        BITOR(number1, number2)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the BITOR() method in the Engineering\BitWise class instead
+     *
+     * @param int $number1
+     * @param int $number2
+     *
+     * @return array|int|string
+     */
+    public static function BITOR($number1, $number2)
+    {
+        return Engineering\BitWise::BITOR($number1, $number2);
+    }
+
+    /**
+     * BITXOR.
+     *
+     * Returns the bitwise XOR of two integer values.
+     *
+     * Excel Function:
+     *        BITXOR(number1, number2)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the BITXOR() method in the Engineering\BitWise class instead
+     *
+     * @param int $number1
+     * @param int $number2
+     *
+     * @return array|int|string
+     */
+    public static function BITXOR($number1, $number2)
+    {
+        return Engineering\BitWise::BITXOR($number1, $number2);
+    }
+
+    /**
+     * BITLSHIFT.
+     *
+     * Returns the number value shifted left by shift_amount bits.
+     *
+     * Excel Function:
+     *        BITLSHIFT(number, shift_amount)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the BITLSHIFT() method in the Engineering\BitWise class instead
+     *
+     * @param int $number
+     * @param int $shiftAmount
+     *
+     * @return array|float|int|string
+     */
+    public static function BITLSHIFT($number, $shiftAmount)
+    {
+        return Engineering\BitWise::BITLSHIFT($number, $shiftAmount);
+    }
+
+    /**
+     * BITRSHIFT.
+     *
+     * Returns the number value shifted right by shift_amount bits.
+     *
+     * Excel Function:
+     *        BITRSHIFT(number, shift_amount)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the BITRSHIFT() method in the Engineering\BitWise class instead
+     *
+     * @param int $number
+     * @param int $shiftAmount
+     *
+     * @return array|float|int|string
+     */
+    public static function BITRSHIFT($number, $shiftAmount)
+    {
+        return Engineering\BitWise::BITRSHIFT($number, $shiftAmount);
+    }
+
+    /**
+     * ERF.
+     *
+     * Returns the error function integrated between the lower and upper bound arguments.
+     *
+     *    Note: In Excel 2007 or earlier, if you input a negative value for the upper or lower bound arguments,
+     *            the function would return a #NUM! error. However, in Excel 2010, the function algorithm was
+     *            improved, so that it can now calculate the function for both positive and negative ranges.
+     *            PhpSpreadsheet follows Excel 2010 behaviour, and accepts negative arguments.
+     *
+     *    Excel Function:
+     *        ERF(lower[,upper])
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the ERF() method in the Engineering\Erf class instead
+     *
+     * @param float $lower lower bound for integrating ERF
+     * @param float $upper upper bound for integrating ERF.
+     *                                If omitted, ERF integrates between zero and lower_limit
+     *
+     * @return array|float|string
+     */
+    public static function ERF($lower, $upper = null)
+    {
+        return Engineering\Erf::ERF($lower, $upper);
+    }
+
+    /**
+     * ERFPRECISE.
+     *
+     * Returns the error function integrated between the lower and upper bound arguments.
+     *
+     *    Excel Function:
+     *        ERF.PRECISE(limit)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the ERFPRECISE() method in the Engineering\Erf class instead
+     *
+     * @param float $limit bound for integrating ERF
+     *
+     * @return array|float|string
+     */
+    public static function ERFPRECISE($limit)
+    {
+        return Engineering\Erf::ERFPRECISE($limit);
+    }
+
+    /**
+     * ERFC.
+     *
+     *    Returns the complementary ERF function integrated between x and infinity
+     *
+     *    Note: In Excel 2007 or earlier, if you input a negative value for the lower bound argument,
+     *        the function would return a #NUM! error. However, in Excel 2010, the function algorithm was
+     *        improved, so that it can now calculate the function for both positive and negative x values.
+     *            PhpSpreadsheet follows Excel 2010 behaviour, and accepts nagative arguments.
+     *
+     *    Excel Function:
+     *        ERFC(x)
+     *
+     * @Deprecated 1.17.0
+     *
+     * @see Use the ERFC() method in the Engineering\ErfC class instead
+     *
+     * @param float $x The lower bound for integrating ERFC
+     *
+     * @return array|float|string
+     */
+    public static function ERFC($x)
+    {
+        return Engineering\ErfC::ERFC($x);
+    }
+
+    /**
+     *    getConversionGroups
+     * Returns a list of the different conversion groups for UOM conversions.
+     *
+     * @Deprecated 1.16.0
+     *
+     * @see Use the getConversionCategories() method in the Engineering\ConvertUOM class instead
+     *
+     * @return array
+     */
+    public static function getConversionGroups()
+    {
+        return Engineering\ConvertUOM::getConversionCategories();
+    }
+
+    /**
+     *    getConversionGroupUnits
+     * Returns an array of units of measure, for a specified conversion group, or for all groups.
+     *
+     * @Deprecated 1.16.0
+     *
+     * @see Use the getConversionCategoryUnits() method in the ConvertUOM class instead
+     *
+     * @param null|mixed $category
+     *
+     * @return array
+     */
+    public static function getConversionGroupUnits($category = null)
+    {
+        return Engineering\ConvertUOM::getConversionCategoryUnits($category);
+    }
+
+    /**
+     * getConversionGroupUnitDetails.
+     *
+     * @Deprecated 1.16.0
+     *
+     * @see Use the getConversionCategoryUnitDetails() method in the ConvertUOM class instead
+     *
+     * @param null|mixed $category
+     *
+     * @return array
+     */
+    public static function getConversionGroupUnitDetails($category = null)
+    {
+        return Engineering\ConvertUOM::getConversionCategoryUnitDetails($category);
+    }
+
+    /**
+     *    getConversionMultipliers
+     * Returns an array of the Multiplier prefixes that can be used with Units of Measure in CONVERTUOM().
+     *
+     * @Deprecated 1.16.0
+     *
+     * @see Use the getConversionMultipliers() method in the ConvertUOM class instead
+     *
+     * @return mixed[]
+     */
+    public static function getConversionMultipliers()
+    {
+        return Engineering\ConvertUOM::getConversionMultipliers();
+    }
+
+    /**
+     *    getBinaryConversionMultipliers.
+     *
+     * Returns an array of the additional Multiplier prefixes that can be used with Information Units of Measure
+     *     in CONVERTUOM().
+     *
+     * @Deprecated 1.16.0
+     *
+     * @see Use the getBinaryConversionMultipliers() method in the ConvertUOM class instead
+     *
+     * @return mixed[]
+     */
+    public static function getBinaryConversionMultipliers()
+    {
+        return Engineering\ConvertUOM::getBinaryConversionMultipliers();
+    }
+
+    /**
+     * CONVERTUOM.
+     *
+     * Converts a number from one measurement system to another.
+     *    For example, CONVERT can translate a table of distances in miles to a table of distances
+     * in kilometers.
+     *
+     *    Excel Function:
+     *        CONVERT(value,fromUOM,toUOM)
+     *
+     * @Deprecated 1.16.0
+     *
+     * @see Use the CONVERT() method in the ConvertUOM class instead
+     *
+     * @param float|int $value the value in fromUOM to convert
+     * @param string $fromUOM the units for value
+     * @param string $toUOM the units for the result
+     *
+     * @return array|float|string
+     */
+    public static function CONVERTUOM($value, $fromUOM, $toUOM)
+    {
+        return Engineering\ConvertUOM::CONVERT($value, $fromUOM, $toUOM);
+    }
+}

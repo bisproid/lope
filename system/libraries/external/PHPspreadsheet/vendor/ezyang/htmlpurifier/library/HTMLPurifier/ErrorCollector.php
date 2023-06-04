@@ -1,137 +1,244 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+/**
+ * Error collection class that enables HTML Purifier to report HTML
+ * problems back to the user
+ */
+class HTMLPurifier_ErrorCollector
+{
+
+    /**
+     * Identifiers for the returned error array. These are purposely numeric
+     * so list() can be used.
+     */
+    const LINENO   = 0;
+    const SEVERITY = 1;
+    const MESSAGE  = 2;
+    const CHILDREN = 3;
+
+    /**
+     * @type array
+     */
+    protected $errors;
+
+    /**
+     * @type array
+     */
+    protected $_current;
+
+    /**
+     * @type array
+     */
+    protected $_stacks = array(array());
+
+    /**
+     * @type HTMLPurifier_Language
+     */
+    protected $locale;
+
+    /**
+     * @type HTMLPurifier_Generator
+     */
+    protected $generator;
+
+    /**
+     * @type HTMLPurifier_Context
+     */
+    protected $context;
+
+    /**
+     * @type array
+     */
+    protected $lines = array();
+
+    /**
+     * @param HTMLPurifier_Context $context
+     */
+    public function __construct($context)
+    {
+        $this->locale    =& $context->get('Locale');
+        $this->context   = $context;
+        $this->_current  =& $this->_stacks[0];
+        $this->errors    =& $this->_stacks[0];
+    }
+
+    /**
+     * Sends an error message to the collector for later use
+     * @param int $severity Error severity, PHP error style (don't use E_USER_)
+     * @param string $msg Error message text
+     */
+    public function send($severity, $msg)
+    {
+        $args = array();
+        if (func_num_args() > 2) {
+            $args = func_get_args();
+            array_shift($args);
+            unset($args[0]);
+        }
+
+        $token = $this->context->get('CurrentToken', true);
+        $line  = $token ? $token->line : $this->context->get('CurrentLine', true);
+        $col   = $token ? $token->col  : $this->context->get('CurrentCol', true);
+        $attr  = $this->context->get('CurrentAttr', true);
+
+        // perform special substitutions, also add custom parameters
+        $subst = array();
+        if (!is_null($token)) {
+            $args['CurrentToken'] = $token;
+        }
+        if (!is_null($attr)) {
+            $subst['$CurrentAttr.Name'] = $attr;
+            if (isset($token->attr[$attr])) {
+                $subst['$CurrentAttr.Value'] = $token->attr[$attr];
+            }
+        }
+
+        if (empty($args)) {
+            $msg = $this->locale->getMessage($msg);
+        } else {
+            $msg = $this->locale->formatMessage($msg, $args);
+        }
+
+        if (!empty($subst)) {
+            $msg = strtr($msg, $subst);
+        }
+
+        // (numerically indexed)
+        $error = array(
+            self::LINENO   => $line,
+            self::SEVERITY => $severity,
+            self::MESSAGE  => $msg,
+            self::CHILDREN => array()
+        );
+        $this->_current[] = $error;
+
+        // NEW CODE BELOW ...
+        // Top-level errors are either:
+        //  TOKEN type, if $value is set appropriately, or
+        //  "syntax" type, if $value is null
+        $new_struct = new HTMLPurifier_ErrorStruct();
+        $new_struct->type = HTMLPurifier_ErrorStruct::TOKEN;
+        if ($token) {
+            $new_struct->value = clone $token;
+        }
+        if (is_int($line) && is_int($col)) {
+            if (isset($this->lines[$line][$col])) {
+                $struct = $this->lines[$line][$col];
+            } else {
+                $struct = $this->lines[$line][$col] = $new_struct;
+            }
+            // These ksorts may present a performance problem
+            ksort($this->lines[$line], SORT_NUMERIC);
+        } else {
+            if (isset($this->lines[-1])) {
+                $struct = $this->lines[-1];
+            } else {
+                $struct = $this->lines[-1] = $new_struct;
+            }
+        }
+        ksort($this->lines, SORT_NUMERIC);
+
+        // Now, check if we need to operate on a lower structure
+        if (!empty($attr)) {
+            $struct = $struct->getChild(HTMLPurifier_ErrorStruct::ATTR, $attr);
+            if (!$struct->value) {
+                $struct->value = array($attr, 'PUT VALUE HERE');
+            }
+        }
+        if (!empty($cssprop)) {
+            $struct = $struct->getChild(HTMLPurifier_ErrorStruct::CSSPROP, $cssprop);
+            if (!$struct->value) {
+                // if we tokenize CSS this might be a little more difficult to do
+                $struct->value = array($cssprop, 'PUT VALUE HERE');
+            }
+        }
+
+        // Ok, structs are all setup, now time to register the error
+        $struct->addError($severity, $msg);
+    }
+
+    /**
+     * Retrieves raw error data for custom formatter to use
+     */
+    public function getRaw()
+    {
+        return $this->errors;
+    }
+
+    /**
+     * Default HTML formatting implementation for error messages
+     * @param HTMLPurifier_Config $config Configuration, vital for HTML output nature
+     * @param array $errors Errors array to display; used for recursion.
+     * @return string
+     */
+    public function getHTMLFormatted($config, $errors = null)
+    {
+        $ret = array();
+
+        $this->generator = new HTMLPurifier_Generator($config, $this->context);
+        if ($errors === null) {
+            $errors = $this->errors;
+        }
+
+        // 'At line' message needs to be removed
+
+        // generation code for new structure goes here. It needs to be recursive.
+        foreach ($this->lines as $line => $col_array) {
+            if ($line == -1) {
+                continue;
+            }
+            foreach ($col_array as $col => $struct) {
+                $this->_renderStruct($ret, $struct, $line, $col);
+            }
+        }
+        if (isset($this->lines[-1])) {
+            $this->_renderStruct($ret, $this->lines[-1]);
+        }
+
+        if (empty($errors)) {
+            return '<p>' . $this->locale->getMessage('ErrorCollector: No errors') . '</p>';
+        } else {
+            return '<ul><li>' . implode('</li><li>', $ret) . '</li></ul>';
+        }
+
+    }
+
+    private function _renderStruct(&$ret, $struct, $line = null, $col = null)
+    {
+        $stack = array($struct);
+        $context_stack = array(array());
+        while ($current = array_pop($stack)) {
+            $context = array_pop($context_stack);
+            foreach ($current->errors as $error) {
+                list($severity, $msg) = $error;
+                $string = '';
+                $string .= '<div>';
+                // W3C uses an icon to indicate the severity of the error.
+                $error = $this->locale->getErrorName($severity);
+                $string .= "<span class=\"error e$severity\"><strong>$error</strong></span> ";
+                if (!is_null($line) && !is_null($col)) {
+                    $string .= "<em class=\"location\">Line $line, Column $col: </em> ";
+                } else {
+                    $string .= '<em class="location">End of Document: </em> ';
+                }
+                $string .= '<strong class="description">' . $this->generator->escape($msg) . '</strong> ';
+                $string .= '</div>';
+                // Here, have a marker for the character on the column appropriate.
+                // Be sure to clip extremely long lines.
+                //$string .= '<pre>';
+                //$string .= '';
+                //$string .= '</pre>';
+                $ret[] = $string;
+            }
+            foreach ($current->children as $array) {
+                $context[] = $current;
+                $stack = array_merge($stack, array_reverse($array, true));
+                for ($i = count($array); $i > 0; $i--) {
+                    $context_stack[] = $context;
+                }
+            }
+        }
+    }
+}
+
+// vim: et sw=4 sts=4

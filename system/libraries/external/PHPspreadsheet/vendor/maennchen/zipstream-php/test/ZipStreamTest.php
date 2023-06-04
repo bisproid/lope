@@ -1,456 +1,614 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright � 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+declare(strict_types=1);
+
+namespace ZipStreamTest;
+
+use org\bovigo\vfs\vfsStream;
+use GuzzleHttp\Psr7\Response;
+use PHPUnit\Framework\TestCase;
+use ZipStream\File;
+use ZipStream\Option\Archive as ArchiveOptions;
+use ZipStream\Option\File as FileOptions;
+use ZipStream\Option\Method;
+use ZipStream\Stream;
+use ZipStream\ZipStream;
+
+/**
+ * Test Class for the Main ZipStream CLass
+ */
+class ZipStreamTest extends TestCase
+{
+    const OSX_ARCHIVE_UTILITY =
+        '/System/Library/CoreServices/Applications/Archive Utility.app/Contents/MacOS/Archive Utility';
+
+    public function testFileNotFoundException(): void
+    {
+        $this->expectException(\ZipStream\Exception\FileNotFoundException::class);
+        // Get ZipStream Object
+        $zip = new ZipStream();
+
+        // Trigger error by adding a file which doesn't exist
+        $zip->addFileFromPath('foobar.php', '/foo/bar/foobar.php');
+    }
+
+    public function testFileNotReadableException(): void
+    {
+        // create new virtual filesystem
+        $root = vfsStream::setup('vfs');
+        // create a virtual file with no permissions
+        $file = vfsStream::newFile('foo.txt', 0000)->at($root)->setContent('bar');
+        $zip = new ZipStream();
+        $this->expectException(\ZipStream\Exception\FileNotReadableException::class);
+        $zip->addFileFromPath('foo.txt', $file->url());
+    }
+
+    public function testDostime(): void
+    {
+        // Allows testing of protected method
+        $class = new \ReflectionClass(File::class);
+        $method = $class->getMethod('dostime');
+        $method->setAccessible(true);
+
+        $this->assertSame($method->invoke(null, 1416246368), 1165069764);
+
+        // January 1 1980 - DOS Epoch.
+        $this->assertSame($method->invoke(null, 315532800), 2162688);
+
+        // January 1 1970 -> January 1 1980 due to minimum DOS Epoch.  @todo Throw Exception?
+        $this->assertSame($method->invoke(null, 0), 2162688);
+    }
+
+    public function testAddFile(): void
+    {
+        [$tmp, $stream] = $this->getTmpFileStream();
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+
+        $zip = new ZipStream(null, $options);
+
+        $zip->addFile('sample.txt', 'Sample String Data');
+        $zip->addFile('test/sample.txt', 'More Simple Sample Data');
+
+        $zip->finish();
+        fclose($stream);
+
+        $tmpDir = $this->validateAndExtractZip($tmp);
+
+        $files = $this->getRecursiveFileList($tmpDir);
+        $this->assertEquals(['sample.txt', 'test' . DIRECTORY_SEPARATOR . 'sample.txt'], $files);
+
+        $this->assertStringEqualsFile($tmpDir . '/sample.txt', 'Sample String Data');
+        $this->assertStringEqualsFile($tmpDir . '/test/sample.txt', 'More Simple Sample Data');
+    }
+
+    /**
+     * @return array
+     */
+    protected function getTmpFileStream(): array
+    {
+        $tmp = tempnam(sys_get_temp_dir(), 'zipstreamtest');
+        $stream = fopen($tmp, 'wb+');
+
+        return array($tmp, $stream);
+    }
+
+    /**
+     * @param string $tmp
+     * @return string
+     */
+    protected function validateAndExtractZip($tmp): string
+    {
+        $tmpDir = $this->getTmpDir();
+
+        $zipArch = new \ZipArchive;
+        $res = $zipArch->open($tmp);
+
+        if ($res !== true) {
+            $this->fail("Failed to open {$tmp}. Code: $res");
+
+            return $tmpDir;
+        }
+
+        $this->assertEquals(0, $zipArch->status);
+        $this->assertEquals(0, $zipArch->statusSys);
+
+        $zipArch->extractTo($tmpDir);
+        $zipArch->close();
+
+        return $tmpDir;
+    }
+
+    protected function getTmpDir(): string
+    {
+        $tmp = tempnam(sys_get_temp_dir(), 'zipstreamtest');
+        unlink($tmp);
+        mkdir($tmp) or $this->fail('Failed to make directory');
+
+        return $tmp;
+    }
+
+    /**
+     * @param string $path
+     * @return string[]
+     */
+    protected function getRecursiveFileList(string $path): array
+    {
+        $data = array();
+        $path = (string)realpath($path);
+        $files = new \RecursiveIteratorIterator(new \RecursiveDirectoryIterator($path));
+
+        $pathLen = strlen($path);
+        foreach ($files as $file) {
+            $filePath = $file->getRealPath();
+            if (!is_dir($filePath)) {
+                $data[] = substr($filePath, $pathLen + 1);
+            }
+        }
+
+        sort($data);
+
+        return $data;
+    }
+
+    public function testAddFileUtf8NameComment(): void
+    {
+        [$tmp, $stream] = $this->getTmpFileStream();
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+
+        $zip = new ZipStream(null, $options);
+
+        $name = 'árvíztűrő tükörfúrógép.txt';
+        $content = 'Sample String Data';
+        $comment =
+            'Filename has every special characters ' .
+            'from Hungarian language in lowercase. ' .
+            'In uppercase: ÁÍŰŐÜÖÚÓÉ';
+
+        $fileOptions = new FileOptions();
+        $fileOptions->setComment($comment);
+
+        $zip->addFile($name, $content, $fileOptions);
+        $zip->finish();
+        fclose($stream);
+
+        $tmpDir = $this->validateAndExtractZip($tmp);
+
+        $files = $this->getRecursiveFileList($tmpDir);
+        $this->assertEquals(array($name), $files);
+        $this->assertStringEqualsFile($tmpDir . '/' . $name, $content);
+
+        $zipArch = new \ZipArchive();
+        $zipArch->open($tmp);
+        $this->assertEquals($comment, $zipArch->getCommentName($name));
+    }
+
+    public function testAddFileUtf8NameNonUtfComment(): void
+    {
+        $this->expectException(\ZipStream\Exception\EncodingException::class);
+
+        $stream = $this->getTmpFileStream()[1];
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+
+        $zip = new ZipStream(null, $options);
+
+        $name = 'á.txt';
+        $content = 'any';
+        $comment = 'á';
+
+        $fileOptions = new FileOptions();
+        $fileOptions->setComment(mb_convert_encoding($comment, 'ISO-8859-2', 'UTF-8'));
+
+        $zip->addFile($name, $content, $fileOptions);
+    }
+
+    public function testAddFileNonUtf8NameUtfComment(): void
+    {
+        $this->expectException(\ZipStream\Exception\EncodingException::class);
+
+        $stream = $this->getTmpFileStream()[1];
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+
+        $zip = new ZipStream(null, $options);
+
+        $name = 'á.txt';
+        $content = 'any';
+        $comment = 'á';
+
+        $fileOptions = new FileOptions();
+        $fileOptions->setComment($comment);
+
+        $zip->addFile(mb_convert_encoding($name, 'ISO-8859-2', 'UTF-8'), $content, $fileOptions);
+    }
+
+    public function testAddFileWithStorageMethod(): void
+    {
+        [$tmp, $stream] = $this->getTmpFileStream();
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+
+        $zip = new ZipStream(null, $options);
+
+        $fileOptions = new FileOptions();
+        $fileOptions->setMethod(Method::STORE());
+
+        $zip->addFile('sample.txt', 'Sample String Data', $fileOptions);
+        $zip->addFile('test/sample.txt', 'More Simple Sample Data');
+        $zip->finish();
+        fclose($stream);
+
+        $zipArch = new \ZipArchive();
+        $zipArch->open($tmp);
+
+        $sample1 = $zipArch->statName('sample.txt');
+        $sample12 = $zipArch->statName('test/sample.txt');
+        $this->assertEquals($sample1['comp_method'], Method::STORE);
+        $this->assertEquals($sample12['comp_method'], Method::DEFLATE);
+
+        $zipArch->close();
+    }
+
+    public function testDecompressFileWithMacUnarchiver(): void
+    {
+        if (!file_exists(self::OSX_ARCHIVE_UTILITY)) {
+            $this->markTestSkipped('The Mac OSX Archive Utility is not available.');
+        }
+
+        [$tmp, $stream] = $this->getTmpFileStream();
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+
+        $zip = new ZipStream(null, $options);
+
+        $folder = uniqid('', true);
+
+        $zip->addFile($folder . '/sample.txt', 'Sample Data');
+        $zip->finish();
+        fclose($stream);
+
+        exec(escapeshellarg(self::OSX_ARCHIVE_UTILITY) . ' ' . escapeshellarg($tmp), $output, $returnStatus);
+
+        $this->assertEquals(0, $returnStatus);
+        $this->assertCount(0, $output);
+
+        $this->assertFileExists(dirname($tmp) . '/' . $folder . '/sample.txt');
+        $this->assertStringEqualsFile(dirname($tmp) . '/' . $folder . '/sample.txt', 'Sample Data');
+    }
+
+    public function testAddFileFromPath(): void
+    {
+        [$tmp, $stream] = $this->getTmpFileStream();
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+
+        $zip = new ZipStream(null, $options);
+
+        [$tmpExample, $streamExample] = $this->getTmpFileStream();
+        fwrite($streamExample, 'Sample String Data');
+        fclose($streamExample);
+        $zip->addFileFromPath('sample.txt', $tmpExample);
+
+        [$tmpExample, $streamExample] = $this->getTmpFileStream();
+        fwrite($streamExample, 'More Simple Sample Data');
+        fclose($streamExample);
+        $zip->addFileFromPath('test/sample.txt', $tmpExample);
+
+        $zip->finish();
+        fclose($stream);
+
+        $tmpDir = $this->validateAndExtractZip($tmp);
+
+        $files = $this->getRecursiveFileList($tmpDir);
+        $this->assertEquals(array('sample.txt', 'test' . DIRECTORY_SEPARATOR . 'sample.txt'), $files);
+
+        $this->assertStringEqualsFile($tmpDir . '/sample.txt', 'Sample String Data');
+        $this->assertStringEqualsFile($tmpDir . '/test/sample.txt', 'More Simple Sample Data');
+    }
+
+    public function testAddFileFromPathWithStorageMethod(): void
+    {
+        [$tmp, $stream] = $this->getTmpFileStream();
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+
+        $zip = new ZipStream(null, $options);
+
+        $fileOptions = new FileOptions();
+        $fileOptions->setMethod(Method::STORE());
+
+        [$tmpExample, $streamExample] = $this->getTmpFileStream();
+        fwrite($streamExample, 'Sample String Data');
+        fclose($streamExample);
+        $zip->addFileFromPath('sample.txt', $tmpExample, $fileOptions);
+
+        [$tmpExample, $streamExample] = $this->getTmpFileStream();
+        fwrite($streamExample, 'More Simple Sample Data');
+        fclose($streamExample);
+        $zip->addFileFromPath('test/sample.txt', $tmpExample);
+
+        $zip->finish();
+        fclose($stream);
+
+        $zipArch = new \ZipArchive();
+        $zipArch->open($tmp);
+
+        $sample1 = $zipArch->statName('sample.txt');
+        $this->assertEquals(Method::STORE, $sample1['comp_method']);
+
+        $sample2 = $zipArch->statName('test/sample.txt');
+        $this->assertEquals(Method::DEFLATE, $sample2['comp_method']);
+
+        $zipArch->close();
+    }
+
+    public function testAddLargeFileFromPath(): void
+    {
+        $methods = [Method::DEFLATE(), Method::STORE()];
+        $falseTrue = [false, true];
+        foreach ($methods as $method) {
+            foreach ($falseTrue as $zeroHeader) {
+                foreach ($falseTrue as $zip64) {
+                    if ($zeroHeader && $method->equals(Method::DEFLATE())) {
+                        continue;
+                    }
+                    $this->addLargeFileFileFromPath($method, $zeroHeader, $zip64);
+                }
+            }
+        }
+    }
+
+    protected function addLargeFileFileFromPath($method, $zeroHeader, $zip64): void
+    {
+        [$tmp, $stream] = $this->getTmpFileStream();
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+        $options->setLargeFileMethod($method);
+        $options->setLargeFileSize(5);
+        $options->setZeroHeader($zeroHeader);
+        $options->setEnableZip64($zip64);
+
+        $zip = new ZipStream(null, $options);
+
+        [$tmpExample, $streamExample] = $this->getTmpFileStream();
+        for ($i = 0; $i <= 10000; $i++) {
+            fwrite($streamExample, sha1((string)$i));
+            if ($i % 100 === 0) {
+                fwrite($streamExample, "\n");
+            }
+        }
+        fclose($streamExample);
+        $shaExample = sha1_file($tmpExample);
+        $zip->addFileFromPath('sample.txt', $tmpExample);
+        unlink($tmpExample);
+
+        $zip->finish();
+        fclose($stream);
+
+        $tmpDir = $this->validateAndExtractZip($tmp);
+
+        $files = $this->getRecursiveFileList($tmpDir);
+        $this->assertEquals(array('sample.txt'), $files);
+
+        $this->assertEquals(sha1_file($tmpDir . '/sample.txt'), $shaExample, "SHA-1 Mismatch Method: {$method}");
+    }
+
+    public function testAddFileFromStream(): void
+    {
+        [$tmp, $stream] = $this->getTmpFileStream();
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+
+        $zip = new ZipStream(null, $options);
+
+        // In this test we can't use temporary stream to feed data
+        // because zlib.deflate filter gives empty string before PHP 7
+        // it works fine with file stream
+        $streamExample = fopen(__FILE__, 'rb');
+        $zip->addFileFromStream('sample.txt', $streamExample);
+//        fclose($streamExample);
+
+        $fileOptions = new FileOptions();
+        $fileOptions->setMethod(Method::STORE());
+
+        $streamExample2 = fopen('php://temp', 'wb+');
+        fwrite($streamExample2, 'More Simple Sample Data');
+        rewind($streamExample2); // move the pointer back to the beginning of file.
+        $zip->addFileFromStream('test/sample.txt', $streamExample2, $fileOptions);
+//        fclose($streamExample2);
+
+        $zip->finish();
+        fclose($stream);
+
+        $tmpDir = $this->validateAndExtractZip($tmp);
+
+        $files = $this->getRecursiveFileList($tmpDir);
+        $this->assertEquals(array('sample.txt', 'test' . DIRECTORY_SEPARATOR . 'sample.txt'), $files);
+
+        $this->assertStringEqualsFile(__FILE__, file_get_contents($tmpDir . '/sample.txt'));
+        $this->assertStringEqualsFile($tmpDir . '/test/sample.txt', 'More Simple Sample Data');
+    }
+
+    public function testAddFileFromStreamWithStorageMethod(): void
+    {
+        [$tmp, $stream] = $this->getTmpFileStream();
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+
+        $zip = new ZipStream(null, $options);
+
+        $fileOptions = new FileOptions();
+        $fileOptions->setMethod(Method::STORE());
+
+        $streamExample = fopen('php://temp', 'wb+');
+        fwrite($streamExample, 'Sample String Data');
+        rewind($streamExample); // move the pointer back to the beginning of file.
+        $zip->addFileFromStream('sample.txt', $streamExample, $fileOptions);
+//        fclose($streamExample);
+
+        $streamExample2 = fopen('php://temp', 'bw+');
+        fwrite($streamExample2, 'More Simple Sample Data');
+        rewind($streamExample2); // move the pointer back to the beginning of file.
+        $zip->addFileFromStream('test/sample.txt', $streamExample2);
+//        fclose($streamExample2);
+
+        $zip->finish();
+        fclose($stream);
+
+        $zipArch = new \ZipArchive();
+        $zipArch->open($tmp);
+
+        $sample1 = $zipArch->statName('sample.txt');
+        $this->assertEquals(Method::STORE, $sample1['comp_method']);
+
+        $sample2 = $zipArch->statName('test/sample.txt');
+        $this->assertEquals(Method::DEFLATE, $sample2['comp_method']);
+
+        $zipArch->close();
+    }
+
+    public function testAddFileFromPsr7Stream(): void
+    {
+        [$tmp, $stream] = $this->getTmpFileStream();
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+
+        $zip = new ZipStream(null, $options);
+
+        $body = 'Sample String Data';
+        $response = new Response(200, [], $body);
+
+        $fileOptions = new FileOptions();
+        $fileOptions->setMethod(Method::STORE());
+
+        $zip->addFileFromPsr7Stream('sample.json', $response->getBody(), $fileOptions);
+        $zip->finish();
+        fclose($stream);
+
+        $tmpDir = $this->validateAndExtractZip($tmp);
+
+        $files = $this->getRecursiveFileList($tmpDir);
+        $this->assertEquals(array('sample.json'), $files);
+        $this->assertStringEqualsFile($tmpDir . '/sample.json', $body);
+    }
+
+    public function testAddFileFromPsr7StreamWithOutputToPsr7Stream(): void
+    {
+        [$tmp, $resource] = $this->getTmpFileStream();
+        $psr7OutputStream = new Stream($resource);
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($psr7OutputStream);
+
+        $zip = new ZipStream(null, $options);
+
+        $body = 'Sample String Data';
+        $response = new Response(200, [], $body);
+
+        $fileOptions = new FileOptions();
+        $fileOptions->setMethod(Method::STORE());
+
+        $zip->addFileFromPsr7Stream('sample.json', $response->getBody(), $fileOptions);
+        $zip->finish();
+        $psr7OutputStream->close();
+
+        $tmpDir = $this->validateAndExtractZip($tmp);
+        $files = $this->getRecursiveFileList($tmpDir);
+
+        $this->assertEquals(array('sample.json'), $files);
+        $this->assertStringEqualsFile($tmpDir . '/sample.json', $body);
+    }
+
+    public function testAddFileFromPsr7StreamWithFileSizeSet(): void
+    {
+        [$tmp, $stream] = $this->getTmpFileStream();
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+
+        $zip = new ZipStream(null, $options);
+
+        $body = 'Sample String Data';
+        $fileSize = strlen($body);
+        // Add fake padding
+        $fakePadding = "\0\0\0\0\0\0";
+        $response = new Response(200, [], $body . $fakePadding);
+
+        $fileOptions = new FileOptions();
+        $fileOptions->setMethod(Method::STORE());
+        $fileOptions->setSize($fileSize);
+        $zip->addFileFromPsr7Stream('sample.json', $response->getBody(), $fileOptions);
+        $zip->finish();
+        fclose($stream);
+
+        $tmpDir = $this->validateAndExtractZip($tmp);
+
+        $files = $this->getRecursiveFileList($tmpDir);
+        $this->assertEquals(array('sample.json'), $files);
+        $this->assertStringEqualsFile($tmpDir . '/sample.json', $body);
+    }
+
+    public function testCreateArchiveWithFlushOptionSet(): void
+    {
+        [$tmp, $stream] = $this->getTmpFileStream();
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+        $options->setFlushOutput(true);
+
+        $zip = new ZipStream(null, $options);
+
+        $zip->addFile('sample.txt', 'Sample String Data');
+        $zip->addFile('test/sample.txt', 'More Simple Sample Data');
+
+        $zip->finish();
+        fclose($stream);
+
+        $tmpDir = $this->validateAndExtractZip($tmp);
+
+        $files = $this->getRecursiveFileList($tmpDir);
+        $this->assertEquals(['sample.txt', 'test' . DIRECTORY_SEPARATOR . 'sample.txt'], $files);
+
+        $this->assertStringEqualsFile($tmpDir . '/sample.txt', 'Sample String Data');
+        $this->assertStringEqualsFile($tmpDir . '/test/sample.txt', 'More Simple Sample Data');
+    }
+
+    public function testCreateArchiveWithOutputBufferingOffAndFlushOptionSet(): void
+    {
+        // WORKAROUND (1/2): remove phpunit's output buffer in order to run test without any buffering
+        ob_end_flush();
+        $this->assertEquals(0, ob_get_level());
+
+        [$tmp, $stream] = $this->getTmpFileStream();
+
+        $options = new ArchiveOptions();
+        $options->setOutputStream($stream);
+        $options->setFlushOutput(true);
+
+        $zip = new ZipStream(null, $options);
+
+        $zip->addFile('sample.txt', 'Sample String Data');
+
+        $zip->finish();
+        fclose($stream);
+
+        $tmpDir = $this->validateAndExtractZip($tmp);
+        $this->assertStringEqualsFile($tmpDir . '/sample.txt', 'Sample String Data');
+
+        // WORKAROUND (2/2): add back output buffering so that PHPUnit doesn't complain that it is missing
+        ob_start();
+    }
+}

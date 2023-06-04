@@ -1,99 +1,99 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-dzh/QmS2e29uL0u=
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard;
+
+use PhpOffice\PhpSpreadsheet\Exception;
+use PhpOffice\PhpSpreadsheet\Style\Conditional;
+use PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard;
+
+/**
+ * @method Blanks notBlank()
+ * @method Blanks notEmpty()
+ * @method Blanks isBlank()
+ * @method Blanks isEmpty()
+ */
+class Blanks extends WizardAbstract implements WizardInterface
+{
+    protected const OPERATORS = [
+        'notBlank' => false,
+        'isBlank' => true,
+        'notEmpty' => false,
+        'empty' => true,
+    ];
+
+    protected const EXPRESSIONS = [
+        Wizard::NOT_BLANKS => 'LEN(TRIM(%s))>0',
+        Wizard::BLANKS => 'LEN(TRIM(%s))=0',
+    ];
+
+    /**
+     * @var bool
+     */
+    protected $inverse;
+
+    public function __construct(string $cellRange, bool $inverse = false)
+    {
+        parent::__construct($cellRange);
+        $this->inverse = $inverse;
+    }
+
+    protected function inverse(bool $inverse): void
+    {
+        $this->inverse = $inverse;
+    }
+
+    protected function getExpression(): void
+    {
+        $this->expression = sprintf(
+            self::EXPRESSIONS[$this->inverse ? Wizard::BLANKS : Wizard::NOT_BLANKS],
+            $this->referenceCell
+        );
+    }
+
+    public function getConditional(): Conditional
+    {
+        $this->getExpression();
+
+        $conditional = new Conditional();
+        $conditional->setConditionType(
+            $this->inverse ? Conditional::CONDITION_CONTAINSBLANKS : Conditional::CONDITION_NOTCONTAINSBLANKS
+        );
+        $conditional->setConditions([$this->expression]);
+        $conditional->setStyle($this->getStyle());
+        $conditional->setStopIfTrue($this->getStopIfTrue());
+
+        return $conditional;
+    }
+
+    public static function fromConditional(Conditional $conditional, string $cellRange = 'A1'): WizardInterface
+    {
+        if (
+            $conditional->getConditionType() !== Conditional::CONDITION_CONTAINSBLANKS &&
+            $conditional->getConditionType() !== Conditional::CONDITION_NOTCONTAINSBLANKS
+        ) {
+            throw new Exception('Conditional is not a Blanks CF Rule conditional');
+        }
+
+        $wizard = new self($cellRange);
+        $wizard->style = $conditional->getStyle();
+        $wizard->stopIfTrue = $conditional->getStopIfTrue();
+        $wizard->inverse = $conditional->getConditionType() === Conditional::CONDITION_CONTAINSBLANKS;
+
+        return $wizard;
+    }
+
+    /**
+     * @param string $methodName
+     * @param mixed[] $arguments
+     */
+    public function __call($methodName, $arguments): self
+    {
+        if (!array_key_exists($methodName, self::OPERATORS)) {
+            throw new Exception('Invalid Operation for Blanks CF Rule Wizard');
+        }
+
+        $this->inverse(self::OPERATORS[$methodName]);
+
+        return $this;
+    }
+}

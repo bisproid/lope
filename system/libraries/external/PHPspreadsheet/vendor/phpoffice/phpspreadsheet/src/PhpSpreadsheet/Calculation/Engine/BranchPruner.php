@@ -1,122 +1,223 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Engine;
+
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+
+class BranchPruner
+{
+    /**
+     * @var bool
+     */
+    protected $branchPruningEnabled = true;
+
+    /**
+     * Used to generate unique store keys.
+     *
+     * @var int
+     */
+    private $branchStoreKeyCounter = 0;
+
+    /**
+     * currently pending storeKey (last item of the storeKeysStack.
+     *
+     * @var ?string
+     */
+    protected $pendingStoreKey;
+
+    /**
+     * @var string[]
+     */
+    protected $storeKeysStack = [];
+
+    /**
+     * @var bool[]
+     */
+    protected $conditionMap = [];
+
+    /**
+     * @var bool[]
+     */
+    protected $thenMap = [];
+
+    /**
+     * @var bool[]
+     */
+    protected $elseMap = [];
+
+    /**
+     * @var int[]
+     */
+    protected $braceDepthMap = [];
+
+    /**
+     * @var null|string
+     */
+    protected $currentCondition;
+
+    /**
+     * @var null|string
+     */
+    protected $currentOnlyIf;
+
+    /**
+     * @var null|string
+     */
+    protected $currentOnlyIfNot;
+
+    /**
+     * @var null|string
+     */
+    protected $previousStoreKey;
+
+    public function __construct(bool $branchPruningEnabled)
+    {
+        $this->branchPruningEnabled = $branchPruningEnabled;
+    }
+
+    public function clearBranchStore(): void
+    {
+        $this->branchStoreKeyCounter = 0;
+    }
+
+    public function initialiseForLoop(): void
+    {
+        $this->currentCondition = null;
+        $this->currentOnlyIf = null;
+        $this->currentOnlyIfNot = null;
+        $this->previousStoreKey = null;
+        $this->pendingStoreKey = empty($this->storeKeysStack) ? null : end($this->storeKeysStack);
+
+        if ($this->branchPruningEnabled) {
+            $this->initialiseCondition();
+            $this->initialiseThen();
+            $this->initialiseElse();
+        }
+    }
+
+    private function initialiseCondition(): void
+    {
+        if (isset($this->conditionMap[$this->pendingStoreKey]) && $this->conditionMap[$this->pendingStoreKey]) {
+            $this->currentCondition = $this->pendingStoreKey;
+            $stackDepth = count($this->storeKeysStack);
+            if ($stackDepth > 1) {
+                // nested if
+                $this->previousStoreKey = $this->storeKeysStack[$stackDepth - 2];
+            }
+        }
+    }
+
+    private function initialiseThen(): void
+    {
+        if (isset($this->thenMap[$this->pendingStoreKey]) && $this->thenMap[$this->pendingStoreKey]) {
+            $this->currentOnlyIf = $this->pendingStoreKey;
+        } elseif (
+            isset($this->previousStoreKey, $this->thenMap[$this->previousStoreKey])
+            && $this->thenMap[$this->previousStoreKey]
+        ) {
+            $this->currentOnlyIf = $this->previousStoreKey;
+        }
+    }
+
+    private function initialiseElse(): void
+    {
+        if (isset($this->elseMap[$this->pendingStoreKey]) && $this->elseMap[$this->pendingStoreKey]) {
+            $this->currentOnlyIfNot = $this->pendingStoreKey;
+        } elseif (
+            isset($this->previousStoreKey, $this->elseMap[$this->previousStoreKey])
+            && $this->elseMap[$this->previousStoreKey]
+        ) {
+            $this->currentOnlyIfNot = $this->previousStoreKey;
+        }
+    }
+
+    public function decrementDepth(): void
+    {
+        if (!empty($this->pendingStoreKey)) {
+            --$this->braceDepthMap[$this->pendingStoreKey];
+        }
+    }
+
+    public function incrementDepth(): void
+    {
+        if (!empty($this->pendingStoreKey)) {
+            ++$this->braceDepthMap[$this->pendingStoreKey];
+        }
+    }
+
+    public function functionCall(string $functionName): void
+    {
+        if ($this->branchPruningEnabled && ($functionName === 'IF(')) {
+            // we handle a new if
+            $this->pendingStoreKey = $this->getUnusedBranchStoreKey();
+            $this->storeKeysStack[] = $this->pendingStoreKey;
+            $this->conditionMap[$this->pendingStoreKey] = true;
+            $this->braceDepthMap[$this->pendingStoreKey] = 0;
+        } elseif (!empty($this->pendingStoreKey) && array_key_exists($this->pendingStoreKey, $this->braceDepthMap)) {
+            // this is not an if but we go deeper
+            ++$this->braceDepthMap[$this->pendingStoreKey];
+        }
+    }
+
+    public function argumentSeparator(): void
+    {
+        if (!empty($this->pendingStoreKey) && $this->braceDepthMap[$this->pendingStoreKey] === 0) {
+            // We must go to the IF next argument
+            if ($this->conditionMap[$this->pendingStoreKey]) {
+                $this->conditionMap[$this->pendingStoreKey] = false;
+                $this->thenMap[$this->pendingStoreKey] = true;
+            } elseif ($this->thenMap[$this->pendingStoreKey]) {
+                $this->thenMap[$this->pendingStoreKey] = false;
+                $this->elseMap[$this->pendingStoreKey] = true;
+            } elseif ($this->elseMap[$this->pendingStoreKey]) {
+                throw new Exception('Reaching fourth argument of an IF');
+            }
+        }
+    }
+
+    /**
+     * @param mixed $value
+     */
+    public function closingBrace($value): void
+    {
+        if (!empty($this->pendingStoreKey) && $this->braceDepthMap[$this->pendingStoreKey] === -1) {
+            // we are closing an IF(
+            if ($value !== 'IF(') {
+                throw new Exception('Parser bug we should be in an "IF("');
+            }
+
+            if ($this->conditionMap[$this->pendingStoreKey]) {
+                throw new Exception('We should not be expecting a condition');
+            }
+
+            $this->thenMap[$this->pendingStoreKey] = false;
+            $this->elseMap[$this->pendingStoreKey] = false;
+            --$this->braceDepthMap[$this->pendingStoreKey];
+            array_pop($this->storeKeysStack);
+            $this->pendingStoreKey = null;
+        }
+    }
+
+    public function currentCondition(): ?string
+    {
+        return $this->currentCondition;
+    }
+
+    public function currentOnlyIf(): ?string
+    {
+        return $this->currentOnlyIf;
+    }
+
+    public function currentOnlyIfNot(): ?string
+    {
+        return $this->currentOnlyIfNot;
+    }
+
+    private function getUnusedBranchStoreKey(): string
+    {
+        $storeKeyValue = 'storeKey-' . $this->branchStoreKeyCounter;
+        ++$this->branchStoreKeyCounter;
+
+        return $storeKeyValue;
+    }
+}

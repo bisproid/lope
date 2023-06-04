@@ -1,164 +1,278 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-GX+91oJVQ6bZA3jPK+V1QpstQPvZuW==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\DateTimeExcel;
+
+use DateTime;
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+use PhpOffice\PhpSpreadsheet\Shared\Date as SharedDateHelper;
+
+class Week
+{
+    use ArrayEnabled;
+
+    /**
+     * WEEKNUM.
+     *
+     * Returns the week of the year for a specified date.
+     * The WEEKNUM function considers the week containing January 1 to be the first week of the year.
+     * However, there is a European standard that defines the first week as the one with the majority
+     * of days (four or more) falling in the new year. This means that for years in which there are
+     * three days or less in the first week of January, the WEEKNUM function returns week numbers
+     * that are incorrect according to the European standard.
+     *
+     * Excel Function:
+     *        WEEKNUM(dateValue[,style])
+     *
+     * @param mixed $dateValue Excel date serial value (float), PHP date timestamp (integer),
+     *                                    PHP DateTime object, or a standard date string
+     *                         Or can be an array of date values
+     * @param array|int $method Week begins on Sunday or Monday
+     *                                        1 or omitted    Week begins on Sunday.
+     *                                        2                Week begins on Monday.
+     *                                        11               Week begins on Monday.
+     *                                        12               Week begins on Tuesday.
+     *                                        13               Week begins on Wednesday.
+     *                                        14               Week begins on Thursday.
+     *                                        15               Week begins on Friday.
+     *                                        16               Week begins on Saturday.
+     *                                        17               Week begins on Sunday.
+     *                                        21               ISO (Jan. 4 is week 1, begins on Monday).
+     *                         Or can be an array of methods
+     *
+     * @return array|int|string Week Number
+     *         If an array of values is passed as the argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function number($dateValue, $method = Constants::STARTWEEK_SUNDAY)
+    {
+        if (is_array($dateValue) || is_array($method)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $dateValue, $method);
+        }
+
+        $origDateValueNull = empty($dateValue);
+
+        try {
+            $method = self::validateMethod($method);
+            if ($dateValue === null) { // boolean not allowed
+                $dateValue = (SharedDateHelper::getExcelCalendar() === SharedDateHelper::CALENDAR_MAC_1904 || $method === Constants::DOW_SUNDAY) ? 0 : 1;
+            }
+            $dateValue = self::validateDateValue($dateValue);
+            if (!$dateValue && self::buggyWeekNum1900($method)) {
+                // This seems to be an additional Excel bug.
+                return 0;
+            }
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        // Execute function
+        $PHPDateObject = SharedDateHelper::excelToDateTimeObject($dateValue);
+        if ($method == Constants::STARTWEEK_MONDAY_ISO) {
+            Helpers::silly1900($PHPDateObject);
+
+            return (int) $PHPDateObject->format('W');
+        }
+        if (self::buggyWeekNum1904($method, $origDateValueNull, $PHPDateObject)) {
+            return 0;
+        }
+        Helpers::silly1900($PHPDateObject, '+ 5 years'); // 1905 calendar matches
+        $dayOfYear = (int) $PHPDateObject->format('z');
+        $PHPDateObject->modify('-' . $dayOfYear . ' days');
+        $firstDayOfFirstWeek = (int) $PHPDateObject->format('w');
+        $daysInFirstWeek = (6 - $firstDayOfFirstWeek + $method) % 7;
+        $daysInFirstWeek += 7 * !$daysInFirstWeek;
+        $endFirstWeek = $daysInFirstWeek - 1;
+        $weekOfYear = floor(($dayOfYear - $endFirstWeek + 13) / 7);
+
+        return (int) $weekOfYear;
+    }
+
+    /**
+     * ISOWEEKNUM.
+     *
+     * Returns the ISO 8601 week number of the year for a specified date.
+     *
+     * Excel Function:
+     *        ISOWEEKNUM(dateValue)
+     *
+     * @param mixed $dateValue Excel date serial value (float), PHP date timestamp (integer),
+     *                                    PHP DateTime object, or a standard date string
+     *                         Or can be an array of date values
+     *
+     * @return array|int|string Week Number
+     *         If an array of numbers is passed as the argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function isoWeekNumber($dateValue)
+    {
+        if (is_array($dateValue)) {
+            return self::evaluateSingleArgumentArray([self::class, __FUNCTION__], $dateValue);
+        }
+
+        if (self::apparentBug($dateValue)) {
+            return 52;
+        }
+
+        try {
+            $dateValue = Helpers::getDateValue($dateValue);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        // Execute function
+        $PHPDateObject = SharedDateHelper::excelToDateTimeObject($dateValue);
+        Helpers::silly1900($PHPDateObject);
+
+        return (int) $PHPDateObject->format('W');
+    }
+
+    /**
+     * WEEKDAY.
+     *
+     * Returns the day of the week for a specified date. The day is given as an integer
+     * ranging from 0 to 7 (dependent on the requested style).
+     *
+     * Excel Function:
+     *        WEEKDAY(dateValue[,style])
+     *
+     * @param null|array|float|int|string $dateValue Excel date serial value (float), PHP date timestamp (integer),
+     *                                    PHP DateTime object, or a standard date string
+     *                         Or can be an array of date values
+     * @param mixed $style A number that determines the type of return value
+     *                                        1 or omitted    Numbers 1 (Sunday) through 7 (Saturday).
+     *                                        2                Numbers 1 (Monday) through 7 (Sunday).
+     *                                        3                Numbers 0 (Monday) through 6 (Sunday).
+     *                         Or can be an array of styles
+     *
+     * @return array|int|string Day of the week value
+     *         If an array of values is passed as the argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function day($dateValue, $style = 1)
+    {
+        if (is_array($dateValue) || is_array($style)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $dateValue, $style);
+        }
+
+        try {
+            $dateValue = Helpers::getDateValue($dateValue);
+            $style = self::validateStyle($style);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        // Execute function
+        $PHPDateObject = SharedDateHelper::excelToDateTimeObject($dateValue);
+        Helpers::silly1900($PHPDateObject);
+        $DoW = (int) $PHPDateObject->format('w');
+
+        switch ($style) {
+            case 1:
+                ++$DoW;
+
+                break;
+            case 2:
+                $DoW = self::dow0Becomes7($DoW);
+
+                break;
+            case 3:
+                $DoW = self::dow0Becomes7($DoW) - 1;
+
+                break;
+        }
+
+        return $DoW;
+    }
+
+    /**
+     * @param mixed $style expect int
+     */
+    private static function validateStyle($style): int
+    {
+        if (!is_numeric($style)) {
+            throw new Exception(ExcelError::VALUE());
+        }
+        $style = (int) $style;
+        if (($style < 1) || ($style > 3)) {
+            throw new Exception(ExcelError::NAN());
+        }
+
+        return $style;
+    }
+
+    private static function dow0Becomes7(int $DoW): int
+    {
+        return ($DoW === 0) ? 7 : $DoW;
+    }
+
+    /**
+     * @param mixed $dateValue Excel date serial value (float), PHP date timestamp (integer),
+     *                                    PHP DateTime object, or a standard date string
+     */
+    private static function apparentBug($dateValue): bool
+    {
+        if (SharedDateHelper::getExcelCalendar() !== SharedDateHelper::CALENDAR_MAC_1904) {
+            if (is_bool($dateValue)) {
+                return true;
+            }
+            if (is_numeric($dateValue) && !((int) $dateValue)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    /**
+     * Validate dateValue parameter.
+     *
+     * @param mixed $dateValue
+     */
+    private static function validateDateValue($dateValue): float
+    {
+        if (is_bool($dateValue)) {
+            throw new Exception(ExcelError::VALUE());
+        }
+
+        return Helpers::getDateValue($dateValue);
+    }
+
+    /**
+     * Validate method parameter.
+     *
+     * @param mixed $method
+     */
+    private static function validateMethod($method): int
+    {
+        if ($method === null) {
+            $method = Constants::STARTWEEK_SUNDAY;
+        }
+
+        if (!is_numeric($method)) {
+            throw new Exception(ExcelError::VALUE());
+        }
+
+        $method = (int) $method;
+        if (!array_key_exists($method, Constants::METHODARR)) {
+            throw new Exception(ExcelError::NAN());
+        }
+        $method = Constants::METHODARR[$method];
+
+        return $method;
+    }
+
+    private static function buggyWeekNum1900(int $method): bool
+    {
+        return $method === Constants::DOW_SUNDAY && SharedDateHelper::getExcelCalendar() === SharedDateHelper::CALENDAR_WINDOWS_1900;
+    }
+
+    private static function buggyWeekNum1904(int $method, bool $origNull, DateTime $dateObject): bool
+    {
+        // This appears to be another Excel bug.
+
+        return $method === Constants::DOW_SUNDAY && SharedDateHelper::getExcelCalendar() === SharedDateHelper::CALENDAR_MAC_1904 &&
+            !$origNull && $dateObject->format('Y-m-d') === '1904-01-01';
+    }
+}

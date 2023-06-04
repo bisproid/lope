@@ -1,95 +1,175 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-tXjrdLbEWbf9EE2RpBj61rCFXb38YAQzZEb5d0==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Engineering;
+
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+
+class ConvertHex extends ConvertBase
+{
+    /**
+     * toBinary.
+     *
+     * Return a hex value as binary.
+     *
+     * Excel Function:
+     *        HEX2BIN(x[,places])
+     *
+     * @param array|string $value The hexadecimal number you want to convert.
+     *                      Number cannot contain more than 10 characters.
+     *                      The most significant bit of number is the sign bit (40th bit from the right).
+     *                      The remaining 9 bits are magnitude bits.
+     *                      Negative numbers are represented using two's-complement notation.
+     *                      If number is negative, HEX2BIN ignores places and returns a 10-character binary number.
+     *                      If number is negative, it cannot be less than FFFFFFFE00,
+     *                          and if number is positive, it cannot be greater than 1FF.
+     *                      If number is not a valid hexadecimal number, HEX2BIN returns the #NUM! error value.
+     *                      If HEX2BIN requires more than places characters, it returns the #NUM! error value.
+     *                      Or can be an array of values
+     * @param array|int $places The number of characters to use. If places is omitted,
+     *                          HEX2BIN uses the minimum number of characters necessary. Places
+     *                          is useful for padding the return value with leading 0s (zeros).
+     *                      If places is not an integer, it is truncated.
+     *                      If places is nonnumeric, HEX2BIN returns the #VALUE! error value.
+     *                      If places is negative, HEX2BIN returns the #NUM! error value.
+     *                      Or can be an array of values
+     *
+     * @return array|string Result, or an error
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function toBinary($value, $places = null)
+    {
+        if (is_array($value) || is_array($places)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $value, $places);
+        }
+
+        try {
+            $value = self::validateValue($value);
+            $value = self::validateHex($value);
+            $places = self::validatePlaces($places);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $dec = self::toDecimal($value);
+
+        return ConvertDecimal::toBinary($dec, $places);
+    }
+
+    /**
+     * toDecimal.
+     *
+     * Return a hex value as decimal.
+     *
+     * Excel Function:
+     *        HEX2DEC(x)
+     *
+     * @param array|string $value The hexadecimal number you want to convert. This number cannot
+     *                          contain more than 10 characters (40 bits). The most significant
+     *                          bit of number is the sign bit. The remaining 39 bits are magnitude
+     *                          bits. Negative numbers are represented using two's-complement
+     *                          notation.
+     *                      If number is not a valid hexadecimal number, HEX2DEC returns the
+     *                          #NUM! error value.
+     *                      Or can be an array of values
+     *
+     * @return array|string Result, or an error
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function toDecimal($value)
+    {
+        if (is_array($value)) {
+            return self::evaluateSingleArgumentArray([self::class, __FUNCTION__], $value);
+        }
+
+        try {
+            $value = self::validateValue($value);
+            $value = self::validateHex($value);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if (strlen($value) > 10) {
+            return ExcelError::NAN();
+        }
+
+        $binX = '';
+        foreach (str_split($value) as $char) {
+            $binX .= str_pad(base_convert($char, 16, 2), 4, '0', STR_PAD_LEFT);
+        }
+        if (strlen($binX) == 40 && $binX[0] == '1') {
+            for ($i = 0; $i < 40; ++$i) {
+                $binX[$i] = ($binX[$i] == '1' ? '0' : '1');
+            }
+
+            return (string) ((bindec($binX) + 1) * -1);
+        }
+
+        return (string) bindec($binX);
+    }
+
+    /**
+     * toOctal.
+     *
+     * Return a hex value as octal.
+     *
+     * Excel Function:
+     *        HEX2OCT(x[,places])
+     *
+     * @param array|string $value The hexadecimal number you want to convert. Number cannot
+     *                                    contain more than 10 characters. The most significant bit of
+     *                                    number is the sign bit. The remaining 39 bits are magnitude
+     *                                    bits. Negative numbers are represented using two's-complement
+     *                                    notation.
+     *                                    If number is negative, HEX2OCT ignores places and returns a
+     *                                    10-character octal number.
+     *                                    If number is negative, it cannot be less than FFE0000000, and
+     *                                    if number is positive, it cannot be greater than 1FFFFFFF.
+     *                                    If number is not a valid hexadecimal number, HEX2OCT returns
+     *                                    the #NUM! error value.
+     *                                    If HEX2OCT requires more than places characters, it returns
+     *                                    the #NUM! error value.
+     *                      Or can be an array of values
+     * @param array|int $places The number of characters to use. If places is omitted, HEX2OCT
+     *                                    uses the minimum number of characters necessary. Places is
+     *                                    useful for padding the return value with leading 0s (zeros).
+     *                                    If places is not an integer, it is truncated.
+     *                                    If places is nonnumeric, HEX2OCT returns the #VALUE! error
+     *                                    value.
+     *                                    If places is negative, HEX2OCT returns the #NUM! error value.
+     *                      Or can be an array of values
+     *
+     * @return array|string Result, or an error
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function toOctal($value, $places = null)
+    {
+        if (is_array($value) || is_array($places)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $value, $places);
+        }
+
+        try {
+            $value = self::validateValue($value);
+            $value = self::validateHex($value);
+            $places = self::validatePlaces($places);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $decimal = self::toDecimal($value);
+
+        return ConvertDecimal::toOctal($decimal, $places);
+    }
+
+    protected static function validateHex(string $value): string
+    {
+        if (strlen($value) > preg_match_all('/[0123456789ABCDEF]/', $value)) {
+            throw new Exception(ExcelError::NAN());
+        }
+
+        return $value;
+    }
+}

@@ -1,215 +1,272 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Reader\Xlsx;
+
+use PhpOffice\PhpSpreadsheet\Reader\Xlsx\Styles as StyleReader;
+use PhpOffice\PhpSpreadsheet\Style\Conditional;
+use PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\ConditionalDataBar;
+use PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\ConditionalFormattingRuleExtension;
+use PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\ConditionalFormatValueObject;
+use PhpOffice\PhpSpreadsheet\Style\Style as Style;
+use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
+use SimpleXMLElement;
+
+class ConditionalStyles
+{
+    private $worksheet;
+
+    private $worksheetXml;
+
+    /**
+     * @var array
+     */
+    private $ns;
+
+    private $dxfs;
+
+    public function __construct(Worksheet $workSheet, SimpleXMLElement $worksheetXml, array $dxfs = [])
+    {
+        $this->worksheet = $workSheet;
+        $this->worksheetXml = $worksheetXml;
+        $this->dxfs = $dxfs;
+    }
+
+    public function load(): void
+    {
+        $this->setConditionalStyles(
+            $this->worksheet,
+            $this->readConditionalStyles($this->worksheetXml),
+            $this->worksheetXml->extLst
+        );
+    }
+
+    public function loadFromExt(StyleReader $styleReader): void
+    {
+        $this->ns = $this->worksheetXml->getNamespaces(true);
+        $this->setConditionalsFromExt(
+            $this->readConditionalsFromExt($this->worksheetXml->extLst, $styleReader)
+        );
+    }
+
+    private function setConditionalsFromExt(array $conditionals): void
+    {
+        foreach ($conditionals as $conditionalRange => $cfRules) {
+            ksort($cfRules);
+            // Priority is used as the key for sorting; but may not start at 0,
+            // so we use array_values to reset the index after sorting.
+            $this->worksheet->getStyle($conditionalRange)
+                ->setConditionalStyles(array_values($cfRules));
+        }
+    }
+
+    private function readConditionalsFromExt(SimpleXMLElement $extLst, StyleReader $styleReader): array
+    {
+        $conditionals = [];
+
+        if (isset($extLst->ext['uri']) && (string) $extLst->ext['uri'] === '{78C0D931-6437-407d-A8EE-F0AAD7539E65}') {
+            $conditionalFormattingRuleXml = $extLst->ext->children($this->ns['x14']);
+            if (!$conditionalFormattingRuleXml->conditionalFormattings) {
+                return [];
+            }
+
+            foreach ($conditionalFormattingRuleXml->children($this->ns['x14']) as $extFormattingXml) {
+                $extFormattingRangeXml = $extFormattingXml->children($this->ns['xm']);
+                if (!$extFormattingRangeXml->sqref) {
+                    continue;
+                }
+
+                $sqref = (string) $extFormattingRangeXml->sqref;
+                $extCfRuleXml = $extFormattingXml->cfRule;
+
+                $attributes = $extCfRuleXml->attributes();
+                if (!$attributes) {
+                    continue;
+                }
+                $conditionType = (string) $attributes->type;
+                if (
+                    !Conditional::isValidConditionType($conditionType) ||
+                    $conditionType === Conditional::CONDITION_DATABAR
+                ) {
+                    continue;
+                }
+
+                $priority = (int) $attributes->priority;
+
+                $conditional = $this->readConditionalRuleFromExt($extCfRuleXml, $attributes);
+                $cfStyle = $this->readStyleFromExt($extCfRuleXml, $styleReader);
+                $conditional->setStyle($cfStyle);
+                $conditionals[$sqref][$priority] = $conditional;
+            }
+        }
+
+        return $conditionals;
+    }
+
+    private function readConditionalRuleFromExt(SimpleXMLElement $cfRuleXml, SimpleXMLElement $attributes): Conditional
+    {
+        $conditionType = (string) $attributes->type;
+        $operatorType = (string) $attributes->operator;
+
+        $operands = [];
+        foreach ($cfRuleXml->children($this->ns['xm']) as $cfRuleOperandsXml) {
+            $operands[] = (string) $cfRuleOperandsXml;
+        }
+
+        $conditional = new Conditional();
+        $conditional->setConditionType($conditionType);
+        $conditional->setOperatorType($operatorType);
+        if (
+            $conditionType === Conditional::CONDITION_CONTAINSTEXT ||
+            $conditionType === Conditional::CONDITION_NOTCONTAINSTEXT ||
+            $conditionType === Conditional::CONDITION_BEGINSWITH ||
+            $conditionType === Conditional::CONDITION_ENDSWITH ||
+            $conditionType === Conditional::CONDITION_TIMEPERIOD
+        ) {
+            $conditional->setText(array_pop($operands) ?? '');
+        }
+        $conditional->setConditions($operands);
+
+        return $conditional;
+    }
+
+    private function readStyleFromExt(SimpleXMLElement $extCfRuleXml, StyleReader $styleReader): Style
+    {
+        $cfStyle = new Style(false, true);
+        if ($extCfRuleXml->dxf) {
+            $styleXML = $extCfRuleXml->dxf->children();
+
+            if ($styleXML->borders) {
+                $styleReader->readBorderStyle($cfStyle->getBorders(), $styleXML->borders);
+            }
+            if ($styleXML->fill) {
+                $styleReader->readFillStyle($cfStyle->getFill(), $styleXML->fill);
+            }
+        }
+
+        return $cfStyle;
+    }
+
+    private function readConditionalStyles($xmlSheet): array
+    {
+        $conditionals = [];
+        foreach ($xmlSheet->conditionalFormatting as $conditional) {
+            foreach ($conditional->cfRule as $cfRule) {
+                if (Conditional::isValidConditionType((string) $cfRule['type']) && isset($this->dxfs[(int) ($cfRule['dxfId'])])) {
+                    $conditionals[(string) $conditional['sqref']][(int) ($cfRule['priority'])] = $cfRule;
+                } elseif ((string) $cfRule['type'] == Conditional::CONDITION_DATABAR) {
+                    $conditionals[(string) $conditional['sqref']][(int) ($cfRule['priority'])] = $cfRule;
+                }
+            }
+        }
+
+        return $conditionals;
+    }
+
+    private function setConditionalStyles(Worksheet $worksheet, array $conditionals, $xmlExtLst): void
+    {
+        foreach ($conditionals as $cellRangeReference => $cfRules) {
+            ksort($cfRules);
+            $conditionalStyles = $this->readStyleRules($cfRules, $xmlExtLst);
+
+            // Extract all cell references in $cellRangeReference
+            $cellBlocks = explode(' ', str_replace('$', '', strtoupper($cellRangeReference)));
+            foreach ($cellBlocks as $cellBlock) {
+                $worksheet->getStyle($cellBlock)->setConditionalStyles($conditionalStyles);
+            }
+        }
+    }
+
+    private function readStyleRules($cfRules, $extLst)
+    {
+        $conditionalFormattingRuleExtensions = ConditionalFormattingRuleExtension::parseExtLstXml($extLst);
+        $conditionalStyles = [];
+
+        foreach ($cfRules as $cfRule) {
+            $objConditional = new Conditional();
+            $objConditional->setConditionType((string) $cfRule['type']);
+            $objConditional->setOperatorType((string) $cfRule['operator']);
+
+            if ((string) $cfRule['text'] != '') {
+                $objConditional->setText((string) $cfRule['text']);
+            } elseif ((string) $cfRule['timePeriod'] != '') {
+                $objConditional->setText((string) $cfRule['timePeriod']);
+            }
+
+            if (isset($cfRule['stopIfTrue']) && (int) $cfRule['stopIfTrue'] === 1) {
+                $objConditional->setStopIfTrue(true);
+            }
+
+            if (count($cfRule->formula) >= 1) {
+                foreach ($cfRule->formula as $formulax) {
+                    $formula = (string) $formulax;
+                    if ($formula === 'TRUE') {
+                        $objConditional->addCondition(true);
+                    } elseif ($formula === 'FALSE') {
+                        $objConditional->addCondition(false);
+                    } else {
+                        $objConditional->addCondition($formula);
+                    }
+                }
+            } else {
+                $objConditional->addCondition('');
+            }
+
+            if (isset($cfRule->dataBar)) {
+                $objConditional->setDataBar(
+                    $this->readDataBarOfConditionalRule($cfRule, $conditionalFormattingRuleExtensions)
+                );
+            } else {
+                $objConditional->setStyle(clone $this->dxfs[(int) ($cfRule['dxfId'])]);
+            }
+
+            $conditionalStyles[] = $objConditional;
+        }
+
+        return $conditionalStyles;
+    }
+
+    private function readDataBarOfConditionalRule($cfRule, $conditionalFormattingRuleExtensions): ConditionalDataBar
+    {
+        $dataBar = new ConditionalDataBar();
+        //dataBar attribute
+        if (isset($cfRule->dataBar['showValue'])) {
+            $dataBar->setShowValue((bool) $cfRule->dataBar['showValue']);
+        }
+
+        //dataBar children
+        //conditionalFormatValueObjects
+        $cfvoXml = $cfRule->dataBar->cfvo;
+        $cfvoIndex = 0;
+        foreach ((count($cfvoXml) > 1 ? $cfvoXml : [$cfvoXml]) as $cfvo) {
+            if ($cfvoIndex === 0) {
+                $dataBar->setMinimumConditionalFormatValueObject(new ConditionalFormatValueObject((string) $cfvo['type'], (string) $cfvo['val']));
+            }
+            if ($cfvoIndex === 1) {
+                $dataBar->setMaximumConditionalFormatValueObject(new ConditionalFormatValueObject((string) $cfvo['type'], (string) $cfvo['val']));
+            }
+            ++$cfvoIndex;
+        }
+
+        //color
+        if (isset($cfRule->dataBar->color)) {
+            $dataBar->setColor((string) $cfRule->dataBar->color['rgb']);
+        }
+        //extLst
+        $this->readDataBarExtLstOfConditionalRule($dataBar, $cfRule, $conditionalFormattingRuleExtensions);
+
+        return $dataBar;
+    }
+
+    private function readDataBarExtLstOfConditionalRule(ConditionalDataBar $dataBar, $cfRule, $conditionalFormattingRuleExtensions): void
+    {
+        if (isset($cfRule->extLst)) {
+            $ns = $cfRule->extLst->getNamespaces(true);
+            foreach ((count($cfRule->extLst) > 0 ? $cfRule->extLst->ext : [$cfRule->extLst->ext]) as $ext) {
+                $extId = (string) $ext->children($ns['x14'])->id;
+                if (isset($conditionalFormattingRuleExtensions[$extId]) && (string) $ext['uri'] === '{B025F937-C7B1-47D3-B67F-A62EFF666E3E}') {
+                    $dataBar->setConditionalFormattingRuleExt($conditionalFormattingRuleExtensions[$extId]);
+                }
+            }
+        }
+    }
+}

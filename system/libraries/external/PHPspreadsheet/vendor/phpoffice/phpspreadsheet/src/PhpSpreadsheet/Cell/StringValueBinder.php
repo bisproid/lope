@@ -1,100 +1,124 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPu/OJeS8SREefHtRfDftjaqnPh0e1kHKLUjI0bqfn8U4Y+U27llMeUnXhFANOd3DLghVKD4G
-SjzDEMjp87UzGCyjecrSDrO3pGyrD24BR5jv95RWfqHpara4IqB+Nq4QU6fMr+0WIzMMGA/84Smm
-xghhL00u1LWiCcetEvXbGtDgOvmMbvZuZPHlq+8u2pi8z5dmxBlxbqXjraM6uYl2r2jmn4AVu29E
-jNvBp3uHPDXgOkftziaCoq8ntyGvB3KcouH0uiHUnn3Q35XFbXYuhRJis3BxFG4PzjtOaQyDBr3I
-XKAf05owRIeHdeu5FcWtQJldrghmUV/njTYf0veLycL680uX0bTXt4tyN7q8xoSi3wWz50zlAPPy
-rEBVVUTlnJc9+8kYaU6zLx6Vrlequfu73H+FdRwRg3MZ7KIxbGwwcdfWJubzrYbYhayXXwxnrsAF
-av8f9ECI8YefOTmiVnxB9ygkmbrak0q0KfGdSmmfiqxDPFzgJJlSCo9a8mKgGXBmjCHM9k3mfraz
-KNtvUeN6YUOLs/fSFVFBoWAup+mMPeM73diqTXA4LL+7ak6s6nCwzORnJ+W/e1tXDQpY98klqBjN
-OTjfvksSMsVxjy9TjJhzHJ43RKH5u4v2313O4S2u0JIZJAXPmdsM6wuiRkLLSfUkW6PmQmP6T0Da
-5hPdUl9kZM6VKW6Ubz25dnATH0s9oSKpA1E5DpLCzMWYbe/xUHZoceZGqiV2cSKpd3GOzeESWXhb
-dfJdR2KmqjoUl99TqXSduYW4wKAZuQKWq58DdSpYKcU6vNvVmjGmzBrjHqGca3Sma+H6Cv3B9A0p
-Yx5VWWN0e9IMSLdPK6G7+nbkByndC+G4c3soaNAFbl+F90pm7ziMSLcy/qIjLL6vZBAh7OrutC6X
-drw4p2PXI4Zy2OV97ej/WC7lidp3EZjywdcJI7FRsn0Cy7R8oXUNn7DtSk2cUKvXS0iMoJ7Wo5h6
-6axvommRwrhR6qwiMC7Resq/fOodPKArc0l/0QPlQ9vMzlYz2lAKgCIRVWAa6B6H0akidvEDXPfC
-IjjS+Gr+kwd7IVY81Jwg2w6TL5+jMEWg6gPc2TJkPyPIXf4ijcf3FTOtOvbUAkLce2Apj2y00v9+
-CS5rU91/I839rJrRh8PudGWPw2UEPCS3tJzrNVnTpzJToZT/XNAbjvxHZWZ5fkpQ1IGLiMOU4wPw
-kYMAHnJG4ExN7oDqM7QZOfQK1e9VRRNCiYqE0WwqJIr3cMIKJ9l9QmEnwCbl645Pwdmg5154XBfW
-7ezOFPwYHL42CGoG00HTRU/vz9cy9+zRmirvwPZdO0RzuaWXP59v6b4Mk8NHeacCNkpbaSSVMgRs
-0tIu4X1r5FVtxyTZ1aefekyXWUL4kHqev6+d75V98RY+9AI9Kedy60fp/aWAdFxlHV/0/c2zd3RD
-cKkAcDYaJMwbjM5AvZdObrezxCmv1vRx7GV93EonFJPmxen9WVKCCPONH4TZU/2WWuI8l0qaQ2fI
-NGeAqupK/8kODaEx/+tt6nEm6ISa8UOfXJyAuqx3x+nANJMV9KrIDDWgNy1EvaqaS7F4ciDEM9cB
-ZUidgA2n7NrRAO6k0RZYo4cuJiPOIkyR43qo+xHmd9YsICjAaX8eYKXhOJSFrLWfmwMP6SX+td1E
-ep2aIP4VyCtbp8OF0SpYk/qpsdndfZdrvJ7307b5/mgW9qVMnTfs9PCk6peG+c7tlJMRJE78Yvto
-ghFsXnwLXF8vm/OjrdbGhmBGTE6AzU68K0O3WP+TltjlPy/5Q0pU9DYoOs2BB4y1s5gDkMQDoxzk
-fKs8abKI5vEpI2FJxHCF4m5K3/Yrj+h0804EjHlPBQj7K3YVtrS2RgJCmS7W5jo6cp+y3a7iOh8+
-CdGiOCdTAhCxbNTlz066CU66sodVEcTx6OxLLyyIVKZBRpTeolxXkAvamJUm7krbZ+Q4ISDsO1gf
-auYcyuEOMMzpcesdlMQp2GkjjKIidBK1Y+1utMYiS45ISUU3CL/fMQ9bvZlgXs65uIVZBlR846W6
-EnQphgP/U0GXj5OqZvz+yeqQ6tjPvuXEg1gQ0BmfpjFnhK90TbFkf+dmXKqwHRYs3fJ+XkVI5LtN
-YCKEUTPQJxur5klxA8piXI6UW8cIvIZVsQ310Gmogkb71gaC4Spn8EvVo6ctvKNcO4oVgLjDG+RY
-oq/xrFyg1YwTA3aemDEsfArtOf4MCcr/JDbgIvxGu1Wv1bzWqdXIFs0k79E8HyupDV1Nc7C/QGqe
-LUk//CNhYJEv26EMr7PByCxL3hLa1iEbvqZuG1q7vMi1SuuEwR6sAAYLvnbOE/aTZ0cX+bljrbSv
-tq2YrQAkm9eGdZAjyqLVPUTBh7tGBcRFK5IeHFikrf8dGDh+mbzhLhIpRKu+JwM4ho+VxOIHcBaj
-XiOEf8Jzn7wTNS8EAvwebv0Zjmv8HxWpfb7RnPpnZTeYOdMdRHpMKSLzOPGVDWO+3Ct9fagE9f4q
-6SeRGcSbEsLxunRDbBQmrJuXZE2mjixlEg4Qw2eAkZeIaoNW5EaRZxMQ/YenccX8LO7cmsd67tY6
-ey0HMJ1ALAvRE4HtI8VIsKsvHfmJDh7nZdamiY2OMSCw25hNUmZXCwhrvLGmVdiHoB6sWW0DWZF8
-XSLti4VVYQUJJe+89SM47bCcWy8/vHtUV81bBoIFBrh1fiUzDuxZdb4jNIDzfJRVbNu6/YMV4Vdm
-+ckfPMcKnq5xoQWOYIy0WCi08fXFYpKVj9BpXe3dPBIv7lWckFXIT5nUT/185li1lo5r7ybljx3W
-2jz07+alxCaNHS3da2eYx2QNhapy4I6PfVnCvI9/iv65RYn8McGkdPo2H+6ZkWmBdhwzy98M7PaY
-66nmoPVTGGD6MJA+4KugX9Y9nUAacGOrdsxvMix8rQg4c9CCWe2t6F4a+0e17Qw7Av82oMTH7iZR
-soQQBpspIz/GKiQpzf9GNN19yGEZzQl5E9a6vsNv8Z6DLU/M1YRx1fjYH3Mm8N2OV7OiDH+COjAk
-UnkWIASvxQK/AGAxtVrFuj/TN0s+tnGYQ6iIzrIwcTNz2sIWo4w4BMJ/2tbabuYEvCteik5/J+eD
-06ubAVaguJhLQ9eTeX/99GH4SBfUfbKDT+Bu3MHJ+KZT0sVViB3r1ryhQwvpEMF+SFrigKUNtpYS
-yM1qKSRrR7aOS40uXheDroLoJLfVpbOirul2cbdoKr4KA0usn2PjmnnnDERSfQQ+AeeHsnaD7Uhf
-55RH98keUSbYod3E08uV5hTgtzAySeysrGIqmyIpVcm/e8YGGoRdDx6Rr5qpmLA4BKxL//9ADYHL
-zbwFayE0gOsHkJwUGNMUJqR6j2ZuydIBZwKermhR2RAewFFewiKCFZVZL2aNcbo1lYoxV5qtTaFp
-P/VQRNn6iisM/7z2QouNNnfyPLHe8MSEbQPCQK7U8hnsC41/Yhfu6oBj28zzLN+fLkEOFfDO2CS9
-DhIzYuSOmy2CCZhNR6CUeN3RHY5usV0fB+1b4llLXcR/BSRXD5ye4tEnlx+YFTgnUgMf7+oKKxX+
-ITSo806IZ6wrToveJdW16wTQZfR0CncOxElaxikhOHSw7/Hn+c306SmCxLlhR9XQX9TaDC3rHi48
-iQg6usCQsF64hgultrIgwWHzmyB7XSB6IYHeniWDuEgRNdiB8UEK22vBLP8oSIdjkCJix+yiWuHB
-dMKwvhkcPJXrLmFjEatq7pLIPxHy77MCVl+x3crFvfXF3mmRXg3eaZH/Es/Fo3O+/vUyRcI3dSSY
-8ePY0MqxZFJw/WuKHemS6QZ3XvuTuN6ghLWSIQHkRmu8TQvrafKDjGzP0iU4tGe73c+KBw8ExLSb
-NG2DBeSkXl7NWNZ+Tz2EBez+EpEn9dNW90ELCysA02GUDToTy7fn7rVB2/FCfFOrO8udlbU2uuEI
-Wyp2+NPIBFuZzf7fxxND8rioH7MbPXDMq35Rmwus1KSdQso8WiGcN3REy2XtbQ1Lnw4h+3hUxy1p
-BQxMETby/OcoHDZWfIKuAfeVU2tfCroxcXiBnWgwTHRx/i3w5ek3iPAm4c2DmgAN3rywTZFhQ0B0
-pRf+eGZjznBVDjdM4L2zUSNU67bbzZRVdcfZrCcLgYL8D/AbeWuHyn8BMTX/+7VADZERzpzEHf8n
-5LZmbmJ84i4A9ZVth7XSHaEsklM36Of/utvOTUV6f3gCltYkxxAlQUc7sGDzHXBmZPXC4bVRR94v
-9Z7DE7Vo++gPSc+POUCgdccXp6oeYvOacJs0Mm/pjy/oqVRYw+jEoGnKYkoSl+G6yzT/QFSQn64M
-if4km4tM6udZ3Dlp+fRyQQVeWcXg2QYHbhFGNRN/XozFKn4feAx00SwtvmH4QCsvROhZ1xo/RHav
-gOhs5uPSNDv2ih6mj/Nnh7ND/zv3pF1E9NDzHq/yZCbJHSIdiPyCuTwRNpuEU96ckGYfBsCxYxcJ
-1oeqMUsI9BkcxlgwRRxTVmFXlyvNo6pmvKJQeTdrxqMuDnbllUCL3hBUnsNRSDP+3qY0q1ueFQjq
-plh4k3OJEJXmYDJMCNmYz/TuGPqDaH8nUGgRDmfYhtSqbRRQ1ZkFAYPTBuhFBtpqCD2kDO37tDv8
-Cf9SkZxlOkCV+N0KtMzmTF9ZfslAHED98CDGV1TDndSd32BU/r5b98oVarxfN7Cm+TnxmbgVgbhd
-Mo9oCfCBEFISvpCwIFVdKneoWy8OXcOuFPIx+8+Jwe4dD4NVnLpmZoqt7/gyaJkLvWjq7a3COJfR
-7whtAuKQKPPcaOyKs0BWaN4IWInmtIPU7RtKcim50UY5cpsgxj2pZWUFOIX6VDiJAZimg9ApCVRk
-NY9I3qoeaij5IvEKh/L2mH60AnjP7ohi9HGJGZaNo2+h5J0eVzy7jkCiqV6gHh3R2WqDeMNXf/+V
-jEnk3Rvk+c1G2fJqAczR1v+WulYW9xd1j5ImCVDuO6APCr2OtO+1ZQzQ8mCg/sKLz3XRbGmv6TUi
-4P44mFgoBrPibCCeyn8ZCUtNTIk5Q9K0CyEdTZNSVndOxKkTTojIIxP7hu+5sLmWOD3aH/O6TQcf
-sQOFRUKAx28SXWYHcXVOb2x7948gOiS5XA+5n0MJgd3IK1VLHgefBos9ePSGfXEep/Z/V+LBdDi9
-aocprnHsZrI/g3DHXnCV3sYDja+W7M7zUzldSW9ZOHHb80rL03I9V6f2GlYOh4YGAaQLEuljYWJW
-XG+LqBjZmYCGyTL/lIHWANT5jD10j0ovSKbeexmkgYHdPkJgEpMS5yO08/n7esLNioMerxEM2+k9
-2wQ1TRjR2Y4EMiWHhEu+XGDKhpNNQAH+/wu4kCctRTFPWf2ny5AzYtfwHU53fx+W6rN9kjWNQVuj
-hMovTwaUE1v+bjfnW95H7VDA8FlSFaoZeVNAjaQKj3y/ePLcOEaY60l4/IWJNtCz/UbO6bAcpLVz
-FfzILFDcygHTZiseeh2VGU5UT1w6kDKP3RjIlfD7f1AHKk+eKvOMFasDH+D175bwE2p//g/5K7fG
-kiRSoRP3IgzTCFFmLLJy+UDSEl8Iyp+YkemKE1pTf5OlcDmJFJbh1DQNjcSQysY4mlqqSJChVzdu
-/2V7pPwfVx5EDYrFrU8cbTNg3U5WyUC7XMQwxlbvmXTLNGzhPMixpVAw3D4qKjpJ/VOWG3a00JVS
-ozXM+B57l0wqvFa81l3iNUdlwu+5YuyCLes3kmHVmCEuRggK24MSB81kHJ+W2zZP1kxBG2/CNL9P
-uxCQFb7Qiqd2qEJpTPWpautjBNT9od0eTNLrqAtPcPj3pPT77coqsSgRb+L2ulzQZck+pv0gfhPX
-k1a1CtF4JV7ifSI9o8nQAvVGpLhlOBn3tGxB3pJFyOdLAQZkEezolli9wSzpJ42377Yky+wVraqC
-CIEQ2v0BMHVGmHwISp8HPHvoEWoaW5+y7UAB9j3tkPdcM934RUhlAblign5FVdcNOsgnPG1GkSbb
-UjF04smWsn2/r8GbXTFmYx4tPJMJp1Sruy99J7asJQIVSDoAj2RScOjU+y6aui0uQwv4VLW65Flr
-Pk97Xx/iB5CTgXeO1/Gedgpu61d/7OWFkVQm3i8HRUYitF/pZU/U7pQf2wyIrOnANGlTO8wjU1zt
-JDi7Ft59dLcOb54fgtz1RU/0yntI3I/9Vsc0ZpLfdvsW1C/E3n5ZW/ID6mfHaD4++qtjEaTiCxcX
-Es0UJawrkatoC5Azn2cVIZhTIQw0My0kOh4ADQ7jvBz05t8fJSeNtcYcKiB/ONb80OpgVqFbTVXf
-cR1KkxXt4xyJeRq2X4oOXM+ymxDmC/qnYgcvW/H40wNBw8xJFy3sGE7DWpWMeKY4oADMYMhJBCON
-vQe+7hlEdrjYXwNwks5paxZ2FJNL6xbr2wNdvFYJLd0pN7US0PxJPPn/jkL0eEyp/8PGukb10Rcn
-cCt9pC+3ix0YljAN3O5kDafLxwcUIY8TLJN76NFX5w8sYXXm8DfdCJefUF2ZN5gmr+4OPm0scNqN
-TyntB98NqjLVjFaY+M0K/acC6R9+e0JWg5ZGJdD/8bJGEiOw+uFwpX8lkKs3aStS7Z/uvPkDbGoz
-uiwQO7PFE73oAA7oj9jXUO3TgeGaEWScygF9o7dW5sKZN1Yf6+h1LJNHPRhJSd463bGQVD9XdVRe
-KpOMxZ8da/9UwdhN38osPMPOzp5TB7XMZtYYumLjGq65W/y6mXBspS3XveMBNw9mIw6/luClDT1J
-EzMnWzLapw6WDuFh1LJNNUaD6LkkuKYtFQTDs92f+Og/n3HkZy/bjZrkNmL89IAIwprPSwE5s/hd
-J8FJ+wxyHVjPA9QicR8xVnR3
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Cell;
+
+use DateTimeInterface;
+use PhpOffice\PhpSpreadsheet\RichText\RichText;
+use PhpOffice\PhpSpreadsheet\Shared\StringHelper;
+
+class StringValueBinder implements IValueBinder
+{
+    /**
+     * @var bool
+     */
+    protected $convertNull = true;
+
+    /**
+     * @var bool
+     */
+    protected $convertBoolean = true;
+
+    /**
+     * @var bool
+     */
+    protected $convertNumeric = true;
+
+    /**
+     * @var bool
+     */
+    protected $convertFormula = true;
+
+    public function setNullConversion(bool $suppressConversion = false): self
+    {
+        $this->convertNull = $suppressConversion;
+
+        return $this;
+    }
+
+    public function setBooleanConversion(bool $suppressConversion = false): self
+    {
+        $this->convertBoolean = $suppressConversion;
+
+        return $this;
+    }
+
+    public function getBooleanConversion(): bool
+    {
+        return $this->convertBoolean;
+    }
+
+    public function setNumericConversion(bool $suppressConversion = false): self
+    {
+        $this->convertNumeric = $suppressConversion;
+
+        return $this;
+    }
+
+    public function setFormulaConversion(bool $suppressConversion = false): self
+    {
+        $this->convertFormula = $suppressConversion;
+
+        return $this;
+    }
+
+    public function setConversionForAllValueTypes(bool $suppressConversion = false): self
+    {
+        $this->convertNull = $suppressConversion;
+        $this->convertBoolean = $suppressConversion;
+        $this->convertNumeric = $suppressConversion;
+        $this->convertFormula = $suppressConversion;
+
+        return $this;
+    }
+
+    /**
+     * Bind value to a cell.
+     *
+     * @param Cell $cell Cell to bind value to
+     * @param mixed $value Value to bind in cell
+     */
+    public function bindValue(Cell $cell, $value)
+    {
+        if (is_object($value)) {
+            return $this->bindObjectValue($cell, $value);
+        }
+
+        // sanitize UTF-8 strings
+        if (is_string($value)) {
+            $value = StringHelper::sanitizeUTF8($value);
+        }
+
+        if ($value === null && $this->convertNull === false) {
+            $cell->setValueExplicit($value, DataType::TYPE_NULL);
+        } elseif (is_bool($value) && $this->convertBoolean === false) {
+            $cell->setValueExplicit($value, DataType::TYPE_BOOL);
+        } elseif ((is_int($value) || is_float($value)) && $this->convertNumeric === false) {
+            $cell->setValueExplicit($value, DataType::TYPE_NUMERIC);
+        } elseif (is_string($value) && strlen($value) > 1 && $value[0] === '=' && $this->convertFormula === false) {
+            $cell->setValueExplicit($value, DataType::TYPE_FORMULA);
+        } else {
+            if (is_string($value) && strlen($value) > 1 && $value[0] === '=') {
+                $cell->getStyle()->setQuotePrefix(true);
+            }
+            $cell->setValueExplicit((string) $value, DataType::TYPE_STRING);
+        }
+
+        return true;
+    }
+
+    protected function bindObjectValue(Cell $cell, object $value): bool
+    {
+        // Handle any objects that might be injected
+        if ($value instanceof DateTimeInterface) {
+            $value = $value->format('Y-m-d H:i:s');
+        } elseif ($value instanceof RichText) {
+            $cell->setValueExplicit($value, DataType::TYPE_INLINE);
+
+            return true;
+        }
+
+        $cell->setValueExplicit((string) $value, DataType::TYPE_STRING);
+
+        return true;
+    }
+}

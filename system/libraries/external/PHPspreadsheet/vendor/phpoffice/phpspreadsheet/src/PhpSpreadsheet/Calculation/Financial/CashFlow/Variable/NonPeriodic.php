@@ -1,162 +1,259 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Financial\CashFlow\Variable;
+
+use PhpOffice\PhpSpreadsheet\Calculation\DateTimeExcel;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+
+class NonPeriodic
+{
+    const FINANCIAL_MAX_ITERATIONS = 128;
+
+    const FINANCIAL_PRECISION = 1.0e-08;
+
+    const DEFAULT_GUESS = 0.1;
+
+    /**
+     * XIRR.
+     *
+     * Returns the internal rate of return for a schedule of cash flows that is not necessarily periodic.
+     *
+     * Excel Function:
+     *        =XIRR(values,dates,guess)
+     *
+     * @param float[] $values     A series of cash flow payments
+     *                                The series of values must contain at least one positive value & one negative value
+     * @param mixed[] $dates      A series of payment dates
+     *                                The first payment date indicates the beginning of the schedule of payments
+     *                                All other dates must be later than this date, but they may occur in any order
+     * @param mixed $guess        An optional guess at the expected answer
+     *
+     * @return float|string
+     */
+    public static function rate($values, $dates, $guess = self::DEFAULT_GUESS)
+    {
+        $rslt = self::xirrPart1($values, $dates);
+        if ($rslt !== '') {
+            return $rslt;
+        }
+
+        // create an initial range, with a root somewhere between 0 and guess
+        $guess = Functions::flattenSingleValue($guess) ?? self::DEFAULT_GUESS;
+        if (!is_numeric($guess)) {
+            return ExcelError::VALUE();
+        }
+        $guess = ($guess + 0.0) ?: self::DEFAULT_GUESS;
+        $x1 = 0.0;
+        $x2 = $guess + 0.0;
+        $f1 = self::xnpvOrdered($x1, $values, $dates, false);
+        $f2 = self::xnpvOrdered($x2, $values, $dates, false);
+        $found = false;
+        for ($i = 0; $i < self::FINANCIAL_MAX_ITERATIONS; ++$i) {
+            if (!is_numeric($f1) || !is_numeric($f2)) {
+                break;
+            }
+            $f1 = (float) $f1;
+            $f2 = (float) $f2;
+            if (($f1 * $f2) < 0.0) {
+                $found = true;
+
+                break;
+            } elseif (abs($f1) < abs($f2)) {
+                $x1 += 1.6 * ($x1 - $x2);
+                $f1 = self::xnpvOrdered($x1, $values, $dates, false);
+            } else {
+                $x2 += 1.6 * ($x2 - $x1);
+                $f2 = self::xnpvOrdered($x2, $values, $dates, false);
+            }
+        }
+        if (!$found) {
+            return ExcelError::NAN();
+        }
+
+        return self::xirrPart3($values, $dates, $x1, $x2);
+    }
+
+    /**
+     * XNPV.
+     *
+     * Returns the net present value for a schedule of cash flows that is not necessarily periodic.
+     * To calculate the net present value for a series of cash flows that is periodic, use the NPV function.
+     *
+     * Excel Function:
+     *        =XNPV(rate,values,dates)
+     *
+     * @param float $rate the discount rate to apply to the cash flows
+     * @param float[] $values A series of cash flows that corresponds to a schedule of payments in dates.
+     *                          The first payment is optional and corresponds to a cost or payment that occurs
+     *                              at the beginning of the investment.
+     *                          If the first value is a cost or payment, it must be a negative value.
+     *                             All succeeding payments are discounted based on a 365-day year.
+     *                          The series of values must contain at least one positive value and one negative value.
+     * @param mixed[] $dates A schedule of payment dates that corresponds to the cash flow payments.
+     *                         The first payment date indicates the beginning of the schedule of payments.
+     *                         All other dates must be later than this date, but they may occur in any order.
+     *
+     * @return float|string
+     */
+    public static function presentValue($rate, $values, $dates)
+    {
+        return self::xnpvOrdered($rate, $values, $dates, true);
+    }
+
+    private static function bothNegAndPos(bool $neg, bool $pos): bool
+    {
+        return $neg && $pos;
+    }
+
+    /**
+     * @param mixed $values
+     * @param mixed $dates
+     */
+    private static function xirrPart1(&$values, &$dates): string
+    {
+        $values = Functions::flattenArray($values);
+        $dates = Functions::flattenArray($dates);
+        $valuesIsArray = count($values) > 1;
+        $datesIsArray = count($dates) > 1;
+        if (!$valuesIsArray && !$datesIsArray) {
+            return ExcelError::NA();
+        }
+        if (count($values) != count($dates)) {
+            return ExcelError::NAN();
+        }
+
+        $datesCount = count($dates);
+        for ($i = 0; $i < $datesCount; ++$i) {
+            try {
+                $dates[$i] = DateTimeExcel\Helpers::getDateValue($dates[$i]);
+            } catch (Exception $e) {
+                return $e->getMessage();
+            }
+        }
+
+        return self::xirrPart2($values);
+    }
+
+    private static function xirrPart2(array &$values): string
+    {
+        $valCount = count($values);
+        $foundpos = false;
+        $foundneg = false;
+        for ($i = 0; $i < $valCount; ++$i) {
+            $fld = $values[$i];
+            if (!is_numeric($fld)) {
+                return ExcelError::VALUE();
+            } elseif ($fld > 0) {
+                $foundpos = true;
+            } elseif ($fld < 0) {
+                $foundneg = true;
+            }
+        }
+        if (!self::bothNegAndPos($foundneg, $foundpos)) {
+            return ExcelError::NAN();
+        }
+
+        return '';
+    }
+
+    /**
+     * @return float|string
+     */
+    private static function xirrPart3(array $values, array $dates, float $x1, float $x2)
+    {
+        $f = self::xnpvOrdered($x1, $values, $dates, false);
+        if ($f < 0.0) {
+            $rtb = $x1;
+            $dx = $x2 - $x1;
+        } else {
+            $rtb = $x2;
+            $dx = $x1 - $x2;
+        }
+
+        $rslt = ExcelError::VALUE();
+        for ($i = 0; $i < self::FINANCIAL_MAX_ITERATIONS; ++$i) {
+            $dx *= 0.5;
+            $x_mid = $rtb + $dx;
+            $f_mid = (float) self::xnpvOrdered($x_mid, $values, $dates, false);
+            if ($f_mid <= 0.0) {
+                $rtb = $x_mid;
+            }
+            if ((abs($f_mid) < self::FINANCIAL_PRECISION) || (abs($dx) < self::FINANCIAL_PRECISION)) {
+                $rslt = $x_mid;
+
+                break;
+            }
+        }
+
+        return $rslt;
+    }
+
+    /**
+     * @param mixed $rate
+     * @param mixed $values
+     * @param mixed $dates
+     *
+     * @return float|string
+     */
+    private static function xnpvOrdered($rate, $values, $dates, bool $ordered = true)
+    {
+        $rate = Functions::flattenSingleValue($rate);
+        $values = Functions::flattenArray($values);
+        $dates = Functions::flattenArray($dates);
+        $valCount = count($values);
+
+        try {
+            self::validateXnpv($rate, $values, $dates);
+            $date0 = DateTimeExcel\Helpers::getDateValue($dates[0]);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $xnpv = 0.0;
+        for ($i = 0; $i < $valCount; ++$i) {
+            if (!is_numeric($values[$i])) {
+                return ExcelError::VALUE();
+            }
+
+            try {
+                $datei = DateTimeExcel\Helpers::getDateValue($dates[$i]);
+            } catch (Exception $e) {
+                return $e->getMessage();
+            }
+            if ($date0 > $datei) {
+                $dif = $ordered ? ExcelError::NAN() : -((int) DateTimeExcel\Difference::interval($datei, $date0, 'd'));
+            } else {
+                $dif = DateTimeExcel\Difference::interval($date0, $datei, 'd');
+            }
+            if (!is_numeric($dif)) {
+                return $dif;
+            }
+            if ($rate <= -1.0) {
+                $xnpv += -abs($values[$i]) / (-1 - $rate) ** ($dif / 365);
+            } else {
+                $xnpv += $values[$i] / (1 + $rate) ** ($dif / 365);
+            }
+        }
+
+        return is_finite($xnpv) ? $xnpv : ExcelError::VALUE();
+    }
+
+    /**
+     * @param mixed $rate
+     */
+    private static function validateXnpv($rate, array $values, array $dates): void
+    {
+        if (!is_numeric($rate)) {
+            throw new Exception(ExcelError::VALUE());
+        }
+        $valCount = count($values);
+        if ($valCount != count($dates)) {
+            throw new Exception(ExcelError::NAN());
+        }
+        if ($valCount > 1 && ((min($values) > 0) || (max($values) < 0))) {
+            throw new Exception(ExcelError::NAN());
+        }
+    }
+}

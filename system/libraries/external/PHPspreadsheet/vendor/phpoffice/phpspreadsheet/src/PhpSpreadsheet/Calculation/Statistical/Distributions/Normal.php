@@ -1,116 +1,180 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-aQubNvo2CoHxJO4TKoF43H+ajCat/Ci=
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Statistical\Distributions;
+
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Engineering;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+
+class Normal
+{
+    use ArrayEnabled;
+
+    public const SQRT2PI = 2.5066282746310005024157652848110452530069867406099;
+
+    /**
+     * NORMDIST.
+     *
+     * Returns the normal distribution for the specified mean and standard deviation. This
+     * function has a very wide range of applications in statistics, including hypothesis
+     * testing.
+     *
+     * @param mixed $value Float value for which we want the probability
+     *                      Or can be an array of values
+     * @param mixed $mean Mean value as a float
+     *                      Or can be an array of values
+     * @param mixed $stdDev Standard Deviation as a float
+     *                      Or can be an array of values
+     * @param mixed $cumulative Boolean value indicating if we want the cdf (true) or the pdf (false)
+     *                      Or can be an array of values
+     *
+     * @return array|float|string The result, or a string containing an error
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function distribution($value, $mean, $stdDev, $cumulative)
+    {
+        if (is_array($value) || is_array($mean) || is_array($stdDev) || is_array($cumulative)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $value, $mean, $stdDev, $cumulative);
+        }
+
+        try {
+            $value = DistributionValidations::validateFloat($value);
+            $mean = DistributionValidations::validateFloat($mean);
+            $stdDev = DistributionValidations::validateFloat($stdDev);
+            $cumulative = DistributionValidations::validateBool($cumulative);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($stdDev < 0) {
+            return ExcelError::NAN();
+        }
+
+        if ($cumulative) {
+            return 0.5 * (1 + Engineering\Erf::erfValue(($value - $mean) / ($stdDev * sqrt(2))));
+        }
+
+        return (1 / (self::SQRT2PI * $stdDev)) * exp(0 - (($value - $mean) ** 2 / (2 * ($stdDev * $stdDev))));
+    }
+
+    /**
+     * NORMINV.
+     *
+     * Returns the inverse of the normal cumulative distribution for the specified mean and standard deviation.
+     *
+     * @param mixed $probability Float probability for which we want the value
+     *                      Or can be an array of values
+     * @param mixed $mean Mean Value as a float
+     *                      Or can be an array of values
+     * @param mixed $stdDev Standard Deviation as a float
+     *                      Or can be an array of values
+     *
+     * @return array|float|string The result, or a string containing an error
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function inverse($probability, $mean, $stdDev)
+    {
+        if (is_array($probability) || is_array($mean) || is_array($stdDev)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $probability, $mean, $stdDev);
+        }
+
+        try {
+            $probability = DistributionValidations::validateProbability($probability);
+            $mean = DistributionValidations::validateFloat($mean);
+            $stdDev = DistributionValidations::validateFloat($stdDev);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($stdDev < 0) {
+            return ExcelError::NAN();
+        }
+
+        return (self::inverseNcdf($probability) * $stdDev) + $mean;
+    }
+
+    /*
+     *                                inverse_ncdf.php
+     *                            -------------------
+     *    begin                : Friday, January 16, 2004
+     *    copyright            : (C) 2004 Michael Nickerson
+     *    email                : nickersonm@yahoo.com
+     *
+     */
+    private static function inverseNcdf($p)
+    {
+        //    Inverse ncdf approximation by Peter J. Acklam, implementation adapted to
+        //    PHP by Michael Nickerson, using Dr. Thomas Ziegler's C implementation as
+        //    a guide. http://home.online.no/~pjacklam/notes/invnorm/index.html
+        //    I have not checked the accuracy of this implementation. Be aware that PHP
+        //    will truncate the coeficcients to 14 digits.
+
+        //    You have permission to use and distribute this function freely for
+        //    whatever purpose you want, but please show common courtesy and give credit
+        //    where credit is due.
+
+        //    Input paramater is $p - probability - where 0 < p < 1.
+
+        //    Coefficients in rational approximations
+        static $a = [
+            1 => -3.969683028665376e+01,
+            2 => 2.209460984245205e+02,
+            3 => -2.759285104469687e+02,
+            4 => 1.383577518672690e+02,
+            5 => -3.066479806614716e+01,
+            6 => 2.506628277459239e+00,
+        ];
+
+        static $b = [
+            1 => -5.447609879822406e+01,
+            2 => 1.615858368580409e+02,
+            3 => -1.556989798598866e+02,
+            4 => 6.680131188771972e+01,
+            5 => -1.328068155288572e+01,
+        ];
+
+        static $c = [
+            1 => -7.784894002430293e-03,
+            2 => -3.223964580411365e-01,
+            3 => -2.400758277161838e+00,
+            4 => -2.549732539343734e+00,
+            5 => 4.374664141464968e+00,
+            6 => 2.938163982698783e+00,
+        ];
+
+        static $d = [
+            1 => 7.784695709041462e-03,
+            2 => 3.224671290700398e-01,
+            3 => 2.445134137142996e+00,
+            4 => 3.754408661907416e+00,
+        ];
+
+        //    Define lower and upper region break-points.
+        $p_low = 0.02425; //Use lower region approx. below this
+        $p_high = 1 - $p_low; //Use upper region approx. above this
+
+        if (0 < $p && $p < $p_low) {
+            //    Rational approximation for lower region.
+            $q = sqrt(-2 * log($p));
+
+            return ((((($c[1] * $q + $c[2]) * $q + $c[3]) * $q + $c[4]) * $q + $c[5]) * $q + $c[6]) /
+                (((($d[1] * $q + $d[2]) * $q + $d[3]) * $q + $d[4]) * $q + 1);
+        } elseif ($p_high < $p && $p < 1) {
+            //    Rational approximation for upper region.
+            $q = sqrt(-2 * log(1 - $p));
+
+            return -((((($c[1] * $q + $c[2]) * $q + $c[3]) * $q + $c[4]) * $q + $c[5]) * $q + $c[6]) /
+                (((($d[1] * $q + $d[2]) * $q + $d[3]) * $q + $d[4]) * $q + 1);
+        }
+
+        //    Rational approximation for central region.
+        $q = $p - 0.5;
+        $r = $q * $q;
+
+        return ((((($a[1] * $r + $a[2]) * $r + $a[3]) * $r + $a[4]) * $r + $a[5]) * $r + $a[6]) * $q /
+                ((((($b[1] * $r + $b[2]) * $r + $b[3]) * $r + $b[4]) * $r + $b[5]) * $r + 1);
+    }
+}

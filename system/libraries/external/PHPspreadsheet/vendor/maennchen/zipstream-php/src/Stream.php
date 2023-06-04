@@ -1,111 +1,261 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-hdpV
+<?php
+declare(strict_types=1);
+
+namespace ZipStream;
+
+use Psr\Http\Message\StreamInterface;
+use RuntimeException;
+
+/**
+ * Describes a data stream.
+ *
+ * Typically, an instance will wrap a PHP stream; this interface provides
+ * a wrapper around the most common operations, including serialization of
+ * the entire stream to a string.
+ */
+class Stream implements StreamInterface
+{
+    protected $stream;
+
+    public function __construct($stream)
+    {
+        $this->stream = $stream;
+    }
+
+    /**
+     * Closes the stream and any underlying resources.
+     *
+     * @return void
+     */
+    public function close(): void
+    {
+        if (is_resource($this->stream)) {
+            fclose($this->stream);
+        }
+        $this->detach();
+    }
+
+    /**
+     * Separates any underlying resources from the stream.
+     *
+     * After the stream has been detached, the stream is in an unusable state.
+     *
+     * @return resource|null Underlying PHP stream, if any
+     */
+    public function detach()
+    {
+        $result = $this->stream;
+        $this->stream = null;
+        return $result;
+    }
+
+    /**
+     * Reads all data from the stream into a string, from the beginning to end.
+     *
+     * This method MUST attempt to seek to the beginning of the stream before
+     * reading data and read the stream until the end is reached.
+     *
+     * Warning: This could attempt to load a large amount of data into memory.
+     *
+     * This method MUST NOT raise an exception in order to conform with PHP's
+     * string casting operations.
+     *
+     * @see http://php.net/manual/en/language.oop5.magic.php#object.tostring
+     * @return string
+     */
+    public function __toString(): string
+    {
+        try {
+            $this->seek(0);
+        } catch (RuntimeException $e) {}
+        return (string) stream_get_contents($this->stream);
+    }
+
+    /**
+     * Seek to a position in the stream.
+     *
+     * @link http://www.php.net/manual/en/function.fseek.php
+     * @param int $offset Stream offset
+     * @param int $whence Specifies how the cursor position will be calculated
+     *     based on the seek offset. Valid values are identical to the built-in
+     *     PHP $whence values for `fseek()`.  SEEK_SET: Set position equal to
+     *     offset bytes SEEK_CUR: Set position to current location plus offset
+     *     SEEK_END: Set position to end-of-stream plus offset.
+     * @throws RuntimeException on failure.
+     */
+    public function seek($offset, $whence = SEEK_SET): void
+    {
+        if (!$this->isSeekable()) {
+            throw new RuntimeException;
+        }
+        if (fseek($this->stream, $offset, $whence) !== 0) {
+            throw new RuntimeException;
+        }
+    }
+
+    /**
+     * Returns whether or not the stream is seekable.
+     *
+     * @return bool
+     */
+    public function isSeekable(): bool
+    {
+        return (bool)$this->getMetadata('seekable');
+    }
+
+    /**
+     * Get stream metadata as an associative array or retrieve a specific key.
+     *
+     * The keys returned are identical to the keys returned from PHP's
+     * stream_get_meta_data() function.
+     *
+     * @link http://php.net/manual/en/function.stream-get-meta-data.php
+     * @param string $key Specific metadata to retrieve.
+     * @return array|mixed|null Returns an associative array if no key is
+     *     provided. Returns a specific key value if a key is provided and the
+     *     value is found, or null if the key is not found.
+     */
+    public function getMetadata($key = null)
+    {
+        $metadata = stream_get_meta_data($this->stream);
+        return $key !== null ? @$metadata[$key] : $metadata;
+    }
+
+    /**
+     * Get the size of the stream if known.
+     *
+     * @return int|null Returns the size in bytes if known, or null if unknown.
+     */
+    public function getSize(): ?int
+    {
+        $stats = fstat($this->stream);
+        return $stats['size'];
+    }
+
+    /**
+     * Returns the current position of the file read/write pointer
+     *
+     * @return int Position of the file pointer
+     * @throws RuntimeException on error.
+     */
+    public function tell(): int
+    {
+        $position = ftell($this->stream);
+        if ($position === false) {
+            throw new RuntimeException;
+        }
+        return $position;
+    }
+
+    /**
+     * Returns true if the stream is at the end of the stream.
+     *
+     * @return bool
+     */
+    public function eof(): bool
+    {
+        return feof($this->stream);
+    }
+
+    /**
+     * Seek to the beginning of the stream.
+     *
+     * If the stream is not seekable, this method will raise an exception;
+     * otherwise, it will perform a seek(0).
+     *
+     * @see seek()
+     * @link http://www.php.net/manual/en/function.fseek.php
+     * @throws RuntimeException on failure.
+     */
+    public function rewind(): void
+    {
+        $this->seek(0);
+    }
+
+    /**
+     * Write data to the stream.
+     *
+     * @param string $string The string that is to be written.
+     * @return int Returns the number of bytes written to the stream.
+     * @throws RuntimeException on failure.
+     */
+    public function write($string): int
+    {
+        if (!$this->isWritable()) {
+            throw new RuntimeException;
+        }
+        if (fwrite($this->stream, $string) === false) {
+            throw new RuntimeException;
+        }
+        return \mb_strlen($string);
+    }
+
+    /**
+     * Returns whether or not the stream is writable.
+     *
+     * @return bool
+     */
+    public function isWritable(): bool
+    {
+        $mode = $this->getMetadata('mode');
+        if (!is_string($mode)) {
+            throw new RuntimeException('Could not get stream mode from metadata!');
+        }
+        return preg_match('/[waxc+]/', $mode) === 1;
+    }
+
+    /**
+     * Read data from the stream.
+     *
+     * @param int $length Read up to $length bytes from the object and return
+     *     them. Fewer than $length bytes may be returned if underlying stream
+     *     call returns fewer bytes.
+     * @return string Returns the data read from the stream, or an empty string
+     *     if no bytes are available.
+     * @throws \RuntimeException if an error occurs.
+     */
+    public function read($length): string
+    {
+        if (!$this->isReadable()) {
+            throw new RuntimeException;
+        }
+        $result = fread($this->stream, $length);
+        if ($result === false) {
+            throw new RuntimeException;
+        }
+        return $result;
+    }
+
+    /**
+     * Returns whether or not the stream is readable.
+     *
+     * @return bool
+     */
+    public function isReadable(): bool
+    {
+        $mode = $this->getMetadata('mode');
+        if (!is_string($mode)) {
+            throw new RuntimeException('Could not get stream mode from metadata!');
+        }
+        return preg_match('/[r+]/', $mode) === 1;
+    }
+
+    /**
+     * Returns the remaining contents in a string
+     *
+     * @return string
+     * @throws \RuntimeException if unable to read or an error occurs while
+     *     reading.
+     */
+    public function getContents(): string
+    {
+        if (!$this->isReadable()) {
+            throw new RuntimeException;
+        }
+        $result = stream_get_contents($this->stream);
+        if ($result === false) {
+            throw new RuntimeException;
+        }
+        return $result;
+    }
+}

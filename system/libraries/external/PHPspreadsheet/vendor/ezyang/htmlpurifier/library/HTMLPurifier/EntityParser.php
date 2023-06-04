@@ -1,104 +1,285 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ZaIb7JZ/XRKY1kZrz0VAERnMydVn
+<?php
+
+// if want to implement error collecting here, we'll need to use some sort
+// of global data (probably trigger_error) because it's impossible to pass
+// $config or $context to the callback functions.
+
+/**
+ * Handles referencing and derefencing character entities
+ */
+class HTMLPurifier_EntityParser
+{
+
+    /**
+     * Reference to entity lookup table.
+     * @type HTMLPurifier_EntityLookup
+     */
+    protected $_entity_lookup;
+
+    /**
+     * Callback regex string for entities in text.
+     * @type string
+     */
+    protected $_textEntitiesRegex;
+
+    /**
+     * Callback regex string for entities in attributes.
+     * @type string
+     */
+    protected $_attrEntitiesRegex;
+
+    /**
+     * Tests if the beginning of a string is a semi-optional regex
+     */
+    protected $_semiOptionalPrefixRegex;
+
+    public function __construct() {
+        // From
+        // http://stackoverflow.com/questions/15532252/why-is-reg-being-rendered-as-without-the-bounding-semicolon
+        $semi_optional = "quot|QUOT|lt|LT|gt|GT|amp|AMP|AElig|Aacute|Acirc|Agrave|Aring|Atilde|Auml|COPY|Ccedil|ETH|Eacute|Ecirc|Egrave|Euml|Iacute|Icirc|Igrave|Iuml|Ntilde|Oacute|Ocirc|Ograve|Oslash|Otilde|Ouml|REG|THORN|Uacute|Ucirc|Ugrave|Uuml|Yacute|aacute|acirc|acute|aelig|agrave|aring|atilde|auml|brvbar|ccedil|cedil|cent|copy|curren|deg|divide|eacute|ecirc|egrave|eth|euml|frac12|frac14|frac34|iacute|icirc|iexcl|igrave|iquest|iuml|laquo|macr|micro|middot|nbsp|not|ntilde|oacute|ocirc|ograve|ordf|ordm|oslash|otilde|ouml|para|plusmn|pound|raquo|reg|sect|shy|sup1|sup2|sup3|szlig|thorn|times|uacute|ucirc|ugrave|uml|uuml|yacute|yen|yuml";
+
+        // NB: three empty captures to put the fourth match in the right
+        // place
+        $this->_semiOptionalPrefixRegex = "/&()()()($semi_optional)/";
+
+        $this->_textEntitiesRegex =
+            '/&(?:'.
+            // hex
+            '[#]x([a-fA-F0-9]+);?|'.
+            // dec
+            '[#]0*(\d+);?|'.
+            // string (mandatory semicolon)
+            // NB: order matters: match semicolon preferentially
+            '([A-Za-z_:][A-Za-z0-9.\-_:]*);|'.
+            // string (optional semicolon)
+            "($semi_optional)".
+            ')/';
+
+        $this->_attrEntitiesRegex =
+            '/&(?:'.
+            // hex
+            '[#]x([a-fA-F0-9]+);?|'.
+            // dec
+            '[#]0*(\d+);?|'.
+            // string (mandatory semicolon)
+            // NB: order matters: match semicolon preferentially
+            '([A-Za-z_:][A-Za-z0-9.\-_:]*);|'.
+            // string (optional semicolon)
+            // don't match if trailing is equals or alphanumeric (URL
+            // like)
+            "($semi_optional)(?![=;A-Za-z0-9])".
+            ')/';
+
+    }
+
+    /**
+     * Substitute entities with the parsed equivalents.  Use this on
+     * textual data in an HTML document (as opposed to attributes.)
+     *
+     * @param string $string String to have entities parsed.
+     * @return string Parsed string.
+     */
+    public function substituteTextEntities($string)
+    {
+        return preg_replace_callback(
+            $this->_textEntitiesRegex,
+            array($this, 'entityCallback'),
+            $string
+        );
+    }
+
+    /**
+     * Substitute entities with the parsed equivalents.  Use this on
+     * attribute contents in documents.
+     *
+     * @param string $string String to have entities parsed.
+     * @return string Parsed string.
+     */
+    public function substituteAttrEntities($string)
+    {
+        return preg_replace_callback(
+            $this->_attrEntitiesRegex,
+            array($this, 'entityCallback'),
+            $string
+        );
+    }
+
+    /**
+     * Callback function for substituteNonSpecialEntities() that does the work.
+     *
+     * @param array $matches  PCRE matches array, with 0 the entire match, and
+     *                  either index 1, 2 or 3 set with a hex value, dec value,
+     *                  or string (respectively).
+     * @return string Replacement string.
+     */
+
+    protected function entityCallback($matches)
+    {
+        $entity = $matches[0];
+        $hex_part = @$matches[1];
+        $dec_part = @$matches[2];
+        $named_part = empty($matches[3]) ? (empty($matches[4]) ? "" : $matches[4]) : $matches[3];
+        if ($hex_part !== NULL && $hex_part !== "") {
+            return HTMLPurifier_Encoder::unichr(hexdec($hex_part));
+        } elseif ($dec_part !== NULL && $dec_part !== "") {
+            return HTMLPurifier_Encoder::unichr((int) $dec_part);
+        } else {
+            if (!$this->_entity_lookup) {
+                $this->_entity_lookup = HTMLPurifier_EntityLookup::instance();
+            }
+            if (isset($this->_entity_lookup->table[$named_part])) {
+                return $this->_entity_lookup->table[$named_part];
+            } else {
+                // exact match didn't match anything, so test if
+                // any of the semicolon optional match the prefix.
+                // Test that this is an EXACT match is important to
+                // prevent infinite loop
+                if (!empty($matches[3])) {
+                    return preg_replace_callback(
+                        $this->_semiOptionalPrefixRegex,
+                        array($this, 'entityCallback'),
+                        $entity
+                    );
+                }
+                return $entity;
+            }
+        }
+    }
+
+    // LEGACY CODE BELOW
+
+    /**
+     * Callback regex string for parsing entities.
+     * @type string
+     */
+    protected $_substituteEntitiesRegex =
+        '/&(?:[#]x([a-fA-F0-9]+)|[#]0*(\d+)|([A-Za-z_:][A-Za-z0-9.\-_:]*));?/';
+        //     1. hex             2. dec      3. string (XML style)
+
+    /**
+     * Decimal to parsed string conversion table for special entities.
+     * @type array
+     */
+    protected $_special_dec2str =
+            array(
+                    34 => '"',
+                    38 => '&',
+                    39 => "'",
+                    60 => '<',
+                    62 => '>'
+            );
+
+    /**
+     * Stripped entity names to decimal conversion table for special entities.
+     * @type array
+     */
+    protected $_special_ent2dec =
+            array(
+                    'quot' => 34,
+                    'amp'  => 38,
+                    'lt'   => 60,
+                    'gt'   => 62
+            );
+
+    /**
+     * Substitutes non-special entities with their parsed equivalents. Since
+     * running this whenever you have parsed character is t3h 5uck, we run
+     * it before everything else.
+     *
+     * @param string $string String to have non-special entities parsed.
+     * @return string Parsed string.
+     */
+    public function substituteNonSpecialEntities($string)
+    {
+        // it will try to detect missing semicolons, but don't rely on it
+        return preg_replace_callback(
+            $this->_substituteEntitiesRegex,
+            array($this, 'nonSpecialEntityCallback'),
+            $string
+        );
+    }
+
+    /**
+     * Callback function for substituteNonSpecialEntities() that does the work.
+     *
+     * @param array $matches  PCRE matches array, with 0 the entire match, and
+     *                  either index 1, 2 or 3 set with a hex value, dec value,
+     *                  or string (respectively).
+     * @return string Replacement string.
+     */
+
+    protected function nonSpecialEntityCallback($matches)
+    {
+        // replaces all but big five
+        $entity = $matches[0];
+        $is_num = (@$matches[0][1] === '#');
+        if ($is_num) {
+            $is_hex = (@$entity[2] === 'x');
+            $code = $is_hex ? hexdec($matches[1]) : (int) $matches[2];
+            // abort for special characters
+            if (isset($this->_special_dec2str[$code])) {
+                return $entity;
+            }
+            return HTMLPurifier_Encoder::unichr($code);
+        } else {
+            if (isset($this->_special_ent2dec[$matches[3]])) {
+                return $entity;
+            }
+            if (!$this->_entity_lookup) {
+                $this->_entity_lookup = HTMLPurifier_EntityLookup::instance();
+            }
+            if (isset($this->_entity_lookup->table[$matches[3]])) {
+                return $this->_entity_lookup->table[$matches[3]];
+            } else {
+                return $entity;
+            }
+        }
+    }
+
+    /**
+     * Substitutes only special entities with their parsed equivalents.
+     *
+     * @notice We try to avoid calling this function because otherwise, it
+     * would have to be called a lot (for every parsed section).
+     *
+     * @param string $string String to have non-special entities parsed.
+     * @return string Parsed string.
+     */
+    public function substituteSpecialEntities($string)
+    {
+        return preg_replace_callback(
+            $this->_substituteEntitiesRegex,
+            array($this, 'specialEntityCallback'),
+            $string
+        );
+    }
+
+    /**
+     * Callback function for substituteSpecialEntities() that does the work.
+     *
+     * This callback has same syntax as nonSpecialEntityCallback().
+     *
+     * @param array $matches  PCRE-style matches array, with 0 the entire match, and
+     *                  either index 1, 2 or 3 set with a hex value, dec value,
+     *                  or string (respectively).
+     * @return string Replacement string.
+     */
+    protected function specialEntityCallback($matches)
+    {
+        $entity = $matches[0];
+        $is_num = (@$matches[0][1] === '#');
+        if ($is_num) {
+            $is_hex = (@$entity[2] === 'x');
+            $int = $is_hex ? hexdec($matches[1]) : (int) $matches[2];
+            return isset($this->_special_dec2str[$int]) ?
+                $this->_special_dec2str[$int] :
+                $entity;
+        } else {
+            return isset($this->_special_ent2dec[$matches[3]]) ?
+                $this->_special_dec2str[$this->_special_ent2dec[$matches[3]]] :
+                $entity;
+        }
+    }
+}
+
+// vim: et sw=4 sts=4

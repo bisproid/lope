@@ -1,113 +1,227 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-DtZhcF8aQAGqb+x3ovqDjB8Eway=
+<?php
+
+/**
+ * Abstract class for a set of proprietary modules that clean up (tidy)
+ * poorly written HTML.
+ * @todo Figure out how to protect some of these methods/properties
+ */
+class HTMLPurifier_HTMLModule_Tidy extends HTMLPurifier_HTMLModule
+{
+    /**
+     * List of supported levels.
+     * Index zero is a special case "no fixes" level.
+     * @type array
+     */
+    public $levels = array(0 => 'none', 'light', 'medium', 'heavy');
+
+    /**
+     * Default level to place all fixes in.
+     * Disabled by default.
+     * @type string
+     */
+    public $defaultLevel = null;
+
+    /**
+     * Lists of fixes used by getFixesForLevel().
+     * Format is:
+     *      HTMLModule_Tidy->fixesForLevel[$level] = array('fix-1', 'fix-2');
+     * @type array
+     */
+    public $fixesForLevel = array(
+        'light' => array(),
+        'medium' => array(),
+        'heavy' => array()
+    );
+
+    /**
+     * Lazy load constructs the module by determining the necessary
+     * fixes to create and then delegating to the populate() function.
+     * @param HTMLPurifier_Config $config
+     * @todo Wildcard matching and error reporting when an added or
+     *       subtracted fix has no effect.
+     */
+    public function setup($config)
+    {
+        // create fixes, initialize fixesForLevel
+        $fixes = $this->makeFixes();
+        $this->makeFixesForLevel($fixes);
+
+        // figure out which fixes to use
+        $level = $config->get('HTML.TidyLevel');
+        $fixes_lookup = $this->getFixesForLevel($level);
+
+        // get custom fix declarations: these need namespace processing
+        $add_fixes = $config->get('HTML.TidyAdd');
+        $remove_fixes = $config->get('HTML.TidyRemove');
+
+        foreach ($fixes as $name => $fix) {
+            // needs to be refactored a little to implement globbing
+            if (isset($remove_fixes[$name]) ||
+                (!isset($add_fixes[$name]) && !isset($fixes_lookup[$name]))) {
+                unset($fixes[$name]);
+            }
+        }
+
+        // populate this module with necessary fixes
+        $this->populate($fixes);
+    }
+
+    /**
+     * Retrieves all fixes per a level, returning fixes for that specific
+     * level as well as all levels below it.
+     * @param string $level level identifier, see $levels for valid values
+     * @return array Lookup up table of fixes
+     */
+    public function getFixesForLevel($level)
+    {
+        if ($level == $this->levels[0]) {
+            return array();
+        }
+        $activated_levels = array();
+        for ($i = 1, $c = count($this->levels); $i < $c; $i++) {
+            $activated_levels[] = $this->levels[$i];
+            if ($this->levels[$i] == $level) {
+                break;
+            }
+        }
+        if ($i == $c) {
+            trigger_error(
+                'Tidy level ' . htmlspecialchars($level) . ' not recognized',
+                E_USER_WARNING
+            );
+            return array();
+        }
+        $ret = array();
+        foreach ($activated_levels as $level) {
+            foreach ($this->fixesForLevel[$level] as $fix) {
+                $ret[$fix] = true;
+            }
+        }
+        return $ret;
+    }
+
+    /**
+     * Dynamically populates the $fixesForLevel member variable using
+     * the fixes array. It may be custom overloaded, used in conjunction
+     * with $defaultLevel, or not used at all.
+     * @param array $fixes
+     */
+    public function makeFixesForLevel($fixes)
+    {
+        if (!isset($this->defaultLevel)) {
+            return;
+        }
+        if (!isset($this->fixesForLevel[$this->defaultLevel])) {
+            trigger_error(
+                'Default level ' . $this->defaultLevel . ' does not exist',
+                E_USER_ERROR
+            );
+            return;
+        }
+        $this->fixesForLevel[$this->defaultLevel] = array_keys($fixes);
+    }
+
+    /**
+     * Populates the module with transforms and other special-case code
+     * based on a list of fixes passed to it
+     * @param array $fixes Lookup table of fixes to activate
+     */
+    public function populate($fixes)
+    {
+        foreach ($fixes as $name => $fix) {
+            // determine what the fix is for
+            list($type, $params) = $this->getFixType($name);
+            switch ($type) {
+                case 'attr_transform_pre':
+                case 'attr_transform_post':
+                    $attr = $params['attr'];
+                    if (isset($params['element'])) {
+                        $element = $params['element'];
+                        if (empty($this->info[$element])) {
+                            $e = $this->addBlankElement($element);
+                        } else {
+                            $e = $this->info[$element];
+                        }
+                    } else {
+                        $type = "info_$type";
+                        $e = $this;
+                    }
+                    $e->{$type}[$attr] = $fix;
+                    break;
+                case 'tag_transform':
+                    $this->info_tag_transform[$params['element']] = $fix;
+                    break;
+                case 'child':
+                case 'content_model_type':
+                    $element = $params['element'];
+                    if (empty($this->info[$element])) {
+                        $e = $this->addBlankElement($element);
+                    } else {
+                        $e = $this->info[$element];
+                    }
+                    $e->$type = $fix;
+                    break;
+                default:
+                    trigger_error("Fix type $type not supported", E_USER_ERROR);
+                    break;
+            }
+        }
+    }
+
+    /**
+     * Parses a fix name and determines what kind of fix it is, as well
+     * as other information defined by the fix
+     * @param $name String name of fix
+     * @return array(string $fix_type, array $fix_parameters)
+     * @note $fix_parameters is type dependant, see populate() for usage
+     *       of these parameters
+     */
+    public function getFixType($name)
+    {
+        // parse it
+        $property = $attr = null;
+        if (strpos($name, '#') !== false) {
+            list($name, $property) = explode('#', $name);
+        }
+        if (strpos($name, '@') !== false) {
+            list($name, $attr) = explode('@', $name);
+        }
+
+        // figure out the parameters
+        $params = array();
+        if ($name !== '') {
+            $params['element'] = $name;
+        }
+        if (!is_null($attr)) {
+            $params['attr'] = $attr;
+        }
+
+        // special case: attribute transform
+        if (!is_null($attr)) {
+            if (is_null($property)) {
+                $property = 'pre';
+            }
+            $type = 'attr_transform_' . $property;
+            return array($type, $params);
+        }
+
+        // special case: tag transform
+        if (is_null($property)) {
+            return array('tag_transform', $params);
+        }
+
+        return array($property, $params);
+
+    }
+
+    /**
+     * Defines all fixes the module will perform in a compact
+     * associative array of fix name to fix implementation.
+     * @return array
+     */
+    public function makeFixes()
+    {
+    }
+}
+
+// vim: et sw=4 sts=4

@@ -1,190 +1,307 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-FreCqbM+8gmPcfJws1QvxemuGG==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\DateTimeExcel;
+
+use DateTime;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+use PhpOffice\PhpSpreadsheet\Shared\Date as SharedDateHelper;
+
+class Helpers
+{
+    /**
+     * Identify if a year is a leap year or not.
+     *
+     * @param int|string $year The year to test
+     *
+     * @return bool TRUE if the year is a leap year, otherwise FALSE
+     */
+    public static function isLeapYear($year): bool
+    {
+        return (($year % 4) === 0) && (($year % 100) !== 0) || (($year % 400) === 0);
+    }
+
+    /**
+     * getDateValue.
+     *
+     * @param mixed $dateValue
+     *
+     * @return float Excel date/time serial value
+     */
+    public static function getDateValue($dateValue, bool $allowBool = true): float
+    {
+        if (is_object($dateValue)) {
+            $retval = SharedDateHelper::PHPToExcel($dateValue);
+            if (is_bool($retval)) {
+                throw new Exception(ExcelError::VALUE());
+            }
+
+            return $retval;
+        }
+
+        self::nullFalseTrueToNumber($dateValue, $allowBool);
+        if (!is_numeric($dateValue)) {
+            $saveReturnDateType = Functions::getReturnDateType();
+            Functions::setReturnDateType(Functions::RETURNDATE_EXCEL);
+            $dateValue = DateValue::fromString($dateValue);
+            Functions::setReturnDateType($saveReturnDateType);
+            if (!is_numeric($dateValue)) {
+                throw new Exception(ExcelError::VALUE());
+            }
+        }
+        if ($dateValue < 0 && Functions::getCompatibilityMode() !== Functions::COMPATIBILITY_OPENOFFICE) {
+            throw new Exception(ExcelError::NAN());
+        }
+
+        return (float) $dateValue;
+    }
+
+    /**
+     * getTimeValue.
+     *
+     * @param string $timeValue
+     *
+     * @return mixed Excel date/time serial value, or string if error
+     */
+    public static function getTimeValue($timeValue)
+    {
+        $saveReturnDateType = Functions::getReturnDateType();
+        Functions::setReturnDateType(Functions::RETURNDATE_EXCEL);
+        $timeValue = TimeValue::fromString($timeValue);
+        Functions::setReturnDateType($saveReturnDateType);
+
+        return $timeValue;
+    }
+
+    /**
+     * Adjust date by given months.
+     *
+     * @param mixed $dateValue
+     */
+    public static function adjustDateByMonths($dateValue = 0, float $adjustmentMonths = 0): DateTime
+    {
+        // Execute function
+        $PHPDateObject = SharedDateHelper::excelToDateTimeObject($dateValue);
+        $oMonth = (int) $PHPDateObject->format('m');
+        $oYear = (int) $PHPDateObject->format('Y');
+
+        $adjustmentMonthsString = (string) $adjustmentMonths;
+        if ($adjustmentMonths > 0) {
+            $adjustmentMonthsString = '+' . $adjustmentMonths;
+        }
+        if ($adjustmentMonths != 0) {
+            $PHPDateObject->modify($adjustmentMonthsString . ' months');
+        }
+        $nMonth = (int) $PHPDateObject->format('m');
+        $nYear = (int) $PHPDateObject->format('Y');
+
+        $monthDiff = ($nMonth - $oMonth) + (($nYear - $oYear) * 12);
+        if ($monthDiff != $adjustmentMonths) {
+            $adjustDays = (int) $PHPDateObject->format('d');
+            $adjustDaysString = '-' . $adjustDays . ' days';
+            $PHPDateObject->modify($adjustDaysString);
+        }
+
+        return $PHPDateObject;
+    }
+
+    /**
+     * Help reduce perceived complexity of some tests.
+     *
+     * @param mixed $value
+     * @param mixed $altValue
+     */
+    public static function replaceIfEmpty(&$value, $altValue): void
+    {
+        $value = $value ?: $altValue;
+    }
+
+    /**
+     * Adjust year in ambiguous situations.
+     */
+    public static function adjustYear(string $testVal1, string $testVal2, string &$testVal3): void
+    {
+        if (!is_numeric($testVal1) || $testVal1 < 31) {
+            if (!is_numeric($testVal2) || $testVal2 < 12) {
+                if (is_numeric($testVal3) && $testVal3 < 12) {
+                    $testVal3 += 2000;
+                }
+            }
+        }
+    }
+
+    /**
+     * Return result in one of three formats.
+     *
+     * @return mixed
+     */
+    public static function returnIn3FormatsArray(array $dateArray, bool $noFrac = false)
+    {
+        $retType = Functions::getReturnDateType();
+        if ($retType === Functions::RETURNDATE_PHP_DATETIME_OBJECT) {
+            return new DateTime(
+                $dateArray['year']
+                . '-' . $dateArray['month']
+                . '-' . $dateArray['day']
+                . ' ' . $dateArray['hour']
+                . ':' . $dateArray['minute']
+                . ':' . $dateArray['second']
+            );
+        }
+        $excelDateValue =
+            SharedDateHelper::formattedPHPToExcel(
+                $dateArray['year'],
+                $dateArray['month'],
+                $dateArray['day'],
+                $dateArray['hour'],
+                $dateArray['minute'],
+                $dateArray['second']
+            );
+        if ($retType === Functions::RETURNDATE_EXCEL) {
+            return $noFrac ? floor($excelDateValue) : (float) $excelDateValue;
+        }
+        // RETURNDATE_UNIX_TIMESTAMP)
+
+        return (int) SharedDateHelper::excelToTimestamp($excelDateValue);
+    }
+
+    /**
+     * Return result in one of three formats.
+     *
+     * @return mixed
+     */
+    public static function returnIn3FormatsFloat(float $excelDateValue)
+    {
+        $retType = Functions::getReturnDateType();
+        if ($retType === Functions::RETURNDATE_EXCEL) {
+            return $excelDateValue;
+        }
+        if ($retType === Functions::RETURNDATE_UNIX_TIMESTAMP) {
+            return (int) SharedDateHelper::excelToTimestamp($excelDateValue);
+        }
+        // RETURNDATE_PHP_DATETIME_OBJECT
+
+        return SharedDateHelper::excelToDateTimeObject($excelDateValue);
+    }
+
+    /**
+     * Return result in one of three formats.
+     *
+     * @return mixed
+     */
+    public static function returnIn3FormatsObject(DateTime $PHPDateObject)
+    {
+        $retType = Functions::getReturnDateType();
+        if ($retType === Functions::RETURNDATE_PHP_DATETIME_OBJECT) {
+            return $PHPDateObject;
+        }
+        if ($retType === Functions::RETURNDATE_EXCEL) {
+            return (float) SharedDateHelper::PHPToExcel($PHPDateObject);
+        }
+        // RETURNDATE_UNIX_TIMESTAMP
+        $stamp = SharedDateHelper::PHPToExcel($PHPDateObject);
+        $stamp = is_bool($stamp) ? ((int) $stamp) : $stamp;
+
+        return (int) SharedDateHelper::excelToTimestamp($stamp);
+    }
+
+    private static function baseDate(): int
+    {
+        if (Functions::getCompatibilityMode() === Functions::COMPATIBILITY_OPENOFFICE) {
+            return 0;
+        }
+        if (SharedDateHelper::getExcelCalendar() === SharedDateHelper::CALENDAR_MAC_1904) {
+            return 0;
+        }
+
+        return 1;
+    }
+
+    /**
+     * Many functions accept null/false/true argument treated as 0/0/1.
+     *
+     * @param mixed $number
+     */
+    public static function nullFalseTrueToNumber(&$number, bool $allowBool = true): void
+    {
+        $number = Functions::flattenSingleValue($number);
+        $nullVal = self::baseDate();
+        if ($number === null) {
+            $number = $nullVal;
+        } elseif ($allowBool && is_bool($number)) {
+            $number = $nullVal + (int) $number;
+        }
+    }
+
+    /**
+     * Many functions accept null argument treated as 0.
+     *
+     * @param mixed $number
+     *
+     * @return float|int
+     */
+    public static function validateNumericNull($number)
+    {
+        $number = Functions::flattenSingleValue($number);
+        if ($number === null) {
+            return 0;
+        }
+        if (is_int($number)) {
+            return $number;
+        }
+        if (is_numeric($number)) {
+            return (float) $number;
+        }
+
+        throw new Exception(ExcelError::VALUE());
+    }
+
+    /**
+     * Many functions accept null/false/true argument treated as 0/0/1.
+     *
+     * @param mixed $number
+     *
+     * @return float
+     */
+    public static function validateNotNegative($number)
+    {
+        if (!is_numeric($number)) {
+            throw new Exception(ExcelError::VALUE());
+        }
+        if ($number >= 0) {
+            return (float) $number;
+        }
+
+        throw new Exception(ExcelError::NAN());
+    }
+
+    public static function silly1900(DateTime $PHPDateObject, string $mod = '-1 day'): void
+    {
+        $isoDate = $PHPDateObject->format('c');
+        if ($isoDate < '1900-03-01') {
+            $PHPDateObject->modify($mod);
+        }
+    }
+
+    public static function dateParse(string $string): array
+    {
+        return self::forceArray(date_parse($string));
+    }
+
+    public static function dateParseSucceeded(array $dateArray): bool
+    {
+        return $dateArray['error_count'] === 0;
+    }
+
+    /**
+     * Despite documentation, date_parse probably never returns false.
+     * Just in case, this routine helps guarantee it.
+     *
+     * @param array|false $dateArray
+     */
+    private static function forceArray($dateArray): array
+    {
+        return is_array($dateArray) ? $dateArray : ['error_count' => 1];
+    }
+}

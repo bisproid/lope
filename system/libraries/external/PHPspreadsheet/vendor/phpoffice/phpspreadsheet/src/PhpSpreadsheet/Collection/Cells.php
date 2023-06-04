@@ -1,201 +1,475 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-kR9m
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Collection;
+
+use Generator;
+use PhpOffice\PhpSpreadsheet\Cell\Cell;
+use PhpOffice\PhpSpreadsheet\Exception as PhpSpreadsheetException;
+use PhpOffice\PhpSpreadsheet\Settings;
+use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
+use Psr\SimpleCache\CacheInterface;
+
+class Cells
+{
+    /**
+     * @var CacheInterface
+     */
+    private $cache;
+
+    /**
+     * Parent worksheet.
+     *
+     * @var null|Worksheet
+     */
+    private $parent;
+
+    /**
+     * The currently active Cell.
+     *
+     * @var null|Cell
+     */
+    private $currentCell;
+
+    /**
+     * Coordinate of the currently active Cell.
+     *
+     * @var null|string
+     */
+    private $currentCoordinate;
+
+    /**
+     * Flag indicating whether the currently active Cell requires saving.
+     *
+     * @var bool
+     */
+    private $currentCellIsDirty = false;
+
+    /**
+     * An index of existing cells. Booleans indexed by their coordinate.
+     *
+     * @var bool[]
+     */
+    private $index = [];
+
+    /**
+     * Prefix used to uniquely identify cache data for this worksheet.
+     *
+     * @var string
+     */
+    private $cachePrefix;
+
+    /**
+     * Initialise this new cell collection.
+     *
+     * @param Worksheet $parent The worksheet for this cell collection
+     */
+    public function __construct(Worksheet $parent, CacheInterface $cache)
+    {
+        // Set our parent worksheet.
+        // This is maintained here to facilitate re-attaching it to Cell objects when
+        // they are woken from a serialized state
+        $this->parent = $parent;
+        $this->cache = $cache;
+        $this->cachePrefix = $this->getUniqueID();
+    }
+
+    /**
+     * Return the parent worksheet for this cell collection.
+     *
+     * @return null|Worksheet
+     */
+    public function getParent()
+    {
+        return $this->parent;
+    }
+
+    /**
+     * Whether the collection holds a cell for the given coordinate.
+     *
+     * @param string $cellCoordinate Coordinate of the cell to check
+     *
+     * @return bool
+     */
+    public function has($cellCoordinate)
+    {
+        if ($cellCoordinate === $this->currentCoordinate) {
+            return true;
+        }
+
+        // Check if the requested entry exists in the index
+        return isset($this->index[$cellCoordinate]);
+    }
+
+    /**
+     * Add or update a cell in the collection.
+     *
+     * @param Cell $cell Cell to update
+     *
+     * @return Cell
+     */
+    public function update(Cell $cell)
+    {
+        return $this->add($cell->getCoordinate(), $cell);
+    }
+
+    /**
+     * Delete a cell in cache identified by coordinate.
+     *
+     * @param string $cellCoordinate Coordinate of the cell to delete
+     */
+    public function delete($cellCoordinate): void
+    {
+        if ($cellCoordinate === $this->currentCoordinate && $this->currentCell !== null) {
+            $this->currentCell->detach();
+            $this->currentCoordinate = null;
+            $this->currentCell = null;
+            $this->currentCellIsDirty = false;
+        }
+
+        unset($this->index[$cellCoordinate]);
+
+        // Delete the entry from cache
+        $this->cache->delete($this->cachePrefix . $cellCoordinate);
+    }
+
+    /**
+     * Get a list of all cell coordinates currently held in the collection.
+     *
+     * @return string[]
+     */
+    public function getCoordinates()
+    {
+        return array_keys($this->index);
+    }
+
+    /**
+     * Get a sorted list of all cell coordinates currently held in the collection by row and column.
+     *
+     * @return string[]
+     */
+    public function getSortedCoordinates()
+    {
+        $sortKeys = [];
+        foreach ($this->getCoordinates() as $coord) {
+            sscanf($coord, '%[A-Z]%d', $column, $row);
+            $sortKeys[sprintf('%09d%3s', $row, $column)] = $coord;
+        }
+        ksort($sortKeys);
+
+        return array_values($sortKeys);
+    }
+
+    /**
+     * Get highest worksheet column and highest row that have cell records.
+     *
+     * @return array Highest column name and highest row number
+     */
+    public function getHighestRowAndColumn()
+    {
+        // Lookup highest column and highest row
+        $col = ['A' => '1A'];
+        $row = [1];
+        foreach ($this->getCoordinates() as $coord) {
+            sscanf($coord, '%[A-Z]%d', $c, $r);
+            $row[$r] = $r;
+            $col[$c] = strlen($c) . $c;
+        }
+
+        // Determine highest column and row
+        $highestRow = max($row);
+        $highestColumn = substr((string) @max($col), 1);
+
+        return [
+            'row' => $highestRow,
+            'column' => $highestColumn,
+        ];
+    }
+
+    /**
+     * Return the cell coordinate of the currently active cell object.
+     *
+     * @return null|string
+     */
+    public function getCurrentCoordinate()
+    {
+        return $this->currentCoordinate;
+    }
+
+    /**
+     * Return the column coordinate of the currently active cell object.
+     *
+     * @return string
+     */
+    public function getCurrentColumn()
+    {
+        sscanf($this->currentCoordinate ?? '', '%[A-Z]%d', $column, $row);
+
+        return $column;
+    }
+
+    /**
+     * Return the row coordinate of the currently active cell object.
+     *
+     * @return int
+     */
+    public function getCurrentRow()
+    {
+        sscanf($this->currentCoordinate ?? '', '%[A-Z]%d', $column, $row);
+
+        return (int) $row;
+    }
+
+    /**
+     * Get highest worksheet column.
+     *
+     * @param null|int|string $row Return the highest column for the specified row,
+     *                    or the highest column of any row if no row number is passed
+     *
+     * @return string Highest column name
+     */
+    public function getHighestColumn($row = null)
+    {
+        if ($row === null) {
+            return $this->getHighestRowAndColumn()['column'];
+        }
+
+        $maxColumn = '1A';
+        foreach ($this->getCoordinates() as $coord) {
+            sscanf($coord, '%[A-Z]%d', $c, $r);
+            if ($r != $row) {
+                continue;
+            }
+            $maxColumn = max($maxColumn, strlen($c) . $c);
+        }
+
+        return substr($maxColumn, 1);
+    }
+
+    /**
+     * Get highest worksheet row.
+     *
+     * @param null|string $column Return the highest row for the specified column,
+     *                       or the highest row of any column if no column letter is passed
+     *
+     * @return int Highest row number
+     */
+    public function getHighestRow($column = null)
+    {
+        if ($column === null) {
+            return $this->getHighestRowAndColumn()['row'];
+        }
+
+        $maxRow = 1;
+        foreach ($this->getCoordinates() as $coord) {
+            sscanf($coord, '%[A-Z]%d', $c, $r);
+            if ($c != $column) {
+                continue;
+            }
+            $maxRow = max($maxRow, $r);
+        }
+
+        return $maxRow;
+    }
+
+    /**
+     * Generate a unique ID for cache referencing.
+     *
+     * @return string Unique Reference
+     */
+    private function getUniqueID()
+    {
+        return Settings::getCache() instanceof Memory
+            ? random_bytes(7) . ':'
+            : uniqid('phpspreadsheet.', true) . '.';
+    }
+
+    /**
+     * Clone the cell collection.
+     *
+     * @return self
+     */
+    public function cloneCellCollection(Worksheet $worksheet)
+    {
+        $this->storeCurrentCell();
+        $newCollection = clone $this;
+
+        $newCollection->parent = $worksheet;
+        if (is_object($newCollection->currentCell)) {
+            $newCollection->currentCell->attach($this);
+        }
+
+        // Get old values
+        $oldKeys = $newCollection->getAllCacheKeys();
+        $oldValues = $newCollection->cache->getMultiple($oldKeys);
+        $newValues = [];
+        $oldCachePrefix = $newCollection->cachePrefix;
+
+        // Change prefix
+        $newCollection->cachePrefix = $newCollection->getUniqueID();
+        foreach ($oldValues as $oldKey => $value) {
+            /** @var string $newKey */
+            $newKey = str_replace($oldCachePrefix, $newCollection->cachePrefix, $oldKey);
+            $newValues[$newKey] = clone $value;
+        }
+
+        // Store new values
+        $stored = $newCollection->cache->setMultiple($newValues);
+        $this->destructIfNeeded($stored, $newCollection, 'Failed to copy cells in cache');
+
+        return $newCollection;
+    }
+
+    /**
+     * Remove a row, deleting all cells in that row.
+     *
+     * @param string $row Row number to remove
+     */
+    public function removeRow($row): void
+    {
+        foreach ($this->getCoordinates() as $coord) {
+            sscanf($coord, '%[A-Z]%d', $c, $r);
+            if ($r == $row) {
+                $this->delete($coord);
+            }
+        }
+    }
+
+    /**
+     * Remove a column, deleting all cells in that column.
+     *
+     * @param string $column Column ID to remove
+     */
+    public function removeColumn($column): void
+    {
+        foreach ($this->getCoordinates() as $coord) {
+            sscanf($coord, '%[A-Z]%d', $c, $r);
+            if ($c == $column) {
+                $this->delete($coord);
+            }
+        }
+    }
+
+    /**
+     * Store cell data in cache for the current cell object if it's "dirty",
+     * and the 'nullify' the current cell object.
+     */
+    private function storeCurrentCell(): void
+    {
+        if ($this->currentCellIsDirty && isset($this->currentCoordinate, $this->currentCell)) {
+            $this->currentCell->detach();
+
+            $stored = $this->cache->set($this->cachePrefix . $this->currentCoordinate, $this->currentCell);
+            $this->destructIfNeeded($stored, $this, "Failed to store cell {$this->currentCoordinate} in cache");
+            $this->currentCellIsDirty = false;
+        }
+
+        $this->currentCoordinate = null;
+        $this->currentCell = null;
+    }
+
+    private function destructIfNeeded(bool $stored, self $cells, string $message): void
+    {
+        if (!$stored) {
+            $cells->__destruct();
+
+            throw new PhpSpreadsheetException($message);
+        }
+    }
+
+    /**
+     * Add or update a cell identified by its coordinate into the collection.
+     *
+     * @param string $cellCoordinate Coordinate of the cell to update
+     * @param Cell $cell Cell to update
+     *
+     * @return Cell
+     */
+    public function add($cellCoordinate, Cell $cell)
+    {
+        if ($cellCoordinate !== $this->currentCoordinate) {
+            $this->storeCurrentCell();
+        }
+        $this->index[$cellCoordinate] = true;
+
+        $this->currentCoordinate = $cellCoordinate;
+        $this->currentCell = $cell;
+        $this->currentCellIsDirty = true;
+
+        return $cell;
+    }
+
+    /**
+     * Get cell at a specific coordinate.
+     *
+     * @param string $cellCoordinate Coordinate of the cell
+     *
+     * @return null|Cell Cell that was found, or null if not found
+     */
+    public function get($cellCoordinate)
+    {
+        if ($cellCoordinate === $this->currentCoordinate) {
+            return $this->currentCell;
+        }
+        $this->storeCurrentCell();
+
+        // Return null if requested entry doesn't exist in collection
+        if (!$this->has($cellCoordinate)) {
+            return null;
+        }
+
+        // Check if the entry that has been requested actually exists
+        $cell = $this->cache->get($this->cachePrefix . $cellCoordinate);
+        if ($cell === null) {
+            throw new PhpSpreadsheetException("Cell entry {$cellCoordinate} no longer exists in cache. This probably means that the cache was cleared by someone else.");
+        }
+
+        // Set current entry to the requested entry
+        $this->currentCoordinate = $cellCoordinate;
+        $this->currentCell = $cell;
+        // Re-attach this as the cell's parent
+        $this->currentCell->attach($this);
+
+        // Return requested entry
+        return $this->currentCell;
+    }
+
+    /**
+     * Clear the cell collection and disconnect from our parent.
+     */
+    public function unsetWorksheetCells(): void
+    {
+        if ($this->currentCell !== null) {
+            $this->currentCell->detach();
+            $this->currentCell = null;
+            $this->currentCoordinate = null;
+        }
+
+        // Flush the cache
+        $this->__destruct();
+
+        $this->index = [];
+
+        // detach ourself from the worksheet, so that it can then delete this object successfully
+        $this->parent = null;
+    }
+
+    /**
+     * Destroy this cell collection.
+     */
+    public function __destruct()
+    {
+        $this->cache->deleteMultiple($this->getAllCacheKeys());
+    }
+
+    /**
+     * Returns all known cache keys.
+     *
+     * @return Generator|string[]
+     */
+    private function getAllCacheKeys()
+    {
+        foreach ($this->getCoordinates() as $coordinate) {
+            yield $this->cachePrefix . $coordinate;
+        }
+    }
+}

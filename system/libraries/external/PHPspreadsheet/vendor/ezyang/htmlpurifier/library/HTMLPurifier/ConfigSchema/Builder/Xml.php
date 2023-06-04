@@ -1,111 +1,144 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+/**
+ * Converts HTMLPurifier_ConfigSchema_Interchange to an XML format,
+ * which can be further processed to generate documentation.
+ */
+class HTMLPurifier_ConfigSchema_Builder_Xml extends XMLWriter
+{
+
+    /**
+     * @type HTMLPurifier_ConfigSchema_Interchange
+     */
+    protected $interchange;
+
+    /**
+     * @type string
+     */
+    private $namespace;
+
+    /**
+     * @param string $html
+     */
+    protected function writeHTMLDiv($html)
+    {
+        $this->startElement('div');
+
+        $purifier = HTMLPurifier::getInstance();
+        $html = $purifier->purify($html);
+        $this->writeAttribute('xmlns', 'http://www.w3.org/1999/xhtml');
+        $this->writeRaw($html);
+
+        $this->endElement(); // div
+    }
+
+    /**
+     * @param mixed $var
+     * @return string
+     */
+    protected function export($var)
+    {
+        if ($var === array()) {
+            return 'array()';
+        }
+        return var_export($var, true);
+    }
+
+    /**
+     * @param HTMLPurifier_ConfigSchema_Interchange $interchange
+     */
+    public function build($interchange)
+    {
+        // global access, only use as last resort
+        $this->interchange = $interchange;
+
+        $this->setIndent(true);
+        $this->startDocument('1.0', 'UTF-8');
+        $this->startElement('configdoc');
+        $this->writeElement('title', $interchange->name);
+
+        foreach ($interchange->directives as $directive) {
+            $this->buildDirective($directive);
+        }
+
+        if ($this->namespace) {
+            $this->endElement();
+        } // namespace
+
+        $this->endElement(); // configdoc
+        $this->flush();
+    }
+
+    /**
+     * @param HTMLPurifier_ConfigSchema_Interchange_Directive $directive
+     */
+    public function buildDirective($directive)
+    {
+        // Kludge, although I suppose having a notion of a "root namespace"
+        // certainly makes things look nicer when documentation is built.
+        // Depends on things being sorted.
+        if (!$this->namespace || $this->namespace !== $directive->id->getRootNamespace()) {
+            if ($this->namespace) {
+                $this->endElement();
+            } // namespace
+            $this->namespace = $directive->id->getRootNamespace();
+            $this->startElement('namespace');
+            $this->writeAttribute('id', $this->namespace);
+            $this->writeElement('name', $this->namespace);
+        }
+
+        $this->startElement('directive');
+        $this->writeAttribute('id', $directive->id->toString());
+
+        $this->writeElement('name', $directive->id->getDirective());
+
+        $this->startElement('aliases');
+        foreach ($directive->aliases as $alias) {
+            $this->writeElement('alias', $alias->toString());
+        }
+        $this->endElement(); // aliases
+
+        $this->startElement('constraints');
+        if ($directive->version) {
+            $this->writeElement('version', $directive->version);
+        }
+        $this->startElement('type');
+        if ($directive->typeAllowsNull) {
+            $this->writeAttribute('allow-null', 'yes');
+        }
+        $this->text($directive->type);
+        $this->endElement(); // type
+        if ($directive->allowed) {
+            $this->startElement('allowed');
+            foreach ($directive->allowed as $value => $x) {
+                $this->writeElement('value', $value);
+            }
+            $this->endElement(); // allowed
+        }
+        $this->writeElement('default', $this->export($directive->default));
+        $this->writeAttribute('xml:space', 'preserve');
+        if ($directive->external) {
+            $this->startElement('external');
+            foreach ($directive->external as $project) {
+                $this->writeElement('project', $project);
+            }
+            $this->endElement();
+        }
+        $this->endElement(); // constraints
+
+        if ($directive->deprecatedVersion) {
+            $this->startElement('deprecated');
+            $this->writeElement('version', $directive->deprecatedVersion);
+            $this->writeElement('use', $directive->deprecatedUse->toString());
+            $this->endElement(); // deprecated
+        }
+
+        $this->startElement('description');
+        $this->writeHTMLDiv($directive->description);
+        $this->endElement(); // description
+
+        $this->endElement(); // directive
+    }
+}
+
+// vim: et sw=4 sts=4

@@ -1,148 +1,139 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Reader\Ods;
+
+use DOMDocument;
+use PhpOffice\PhpSpreadsheet\Worksheet\PageSetup;
+use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
+
+class PageSettings
+{
+    private $officeNs;
+
+    private $stylesNs;
+
+    private $stylesFo;
+
+    private $pageLayoutStyles = [];
+
+    private $masterStylesCrossReference = [];
+
+    private $masterPrintStylesCrossReference = [];
+
+    public function __construct(DOMDocument $styleDom)
+    {
+        $this->setDomNameSpaces($styleDom);
+        $this->readPageSettingStyles($styleDom);
+        $this->readStyleMasterLookup($styleDom);
+    }
+
+    private function setDomNameSpaces(DOMDocument $styleDom): void
+    {
+        $this->officeNs = $styleDom->lookupNamespaceUri('office');
+        $this->stylesNs = $styleDom->lookupNamespaceUri('style');
+        $this->stylesFo = $styleDom->lookupNamespaceUri('fo');
+    }
+
+    private function readPageSettingStyles(DOMDocument $styleDom): void
+    {
+        $styles = $styleDom->getElementsByTagNameNS($this->officeNs, 'automatic-styles')
+            ->item(0)
+            ->getElementsByTagNameNS($this->stylesNs, 'page-layout');
+
+        foreach ($styles as $styleSet) {
+            $styleName = $styleSet->getAttributeNS($this->stylesNs, 'name');
+            $pageLayoutProperties = $styleSet->getElementsByTagNameNS($this->stylesNs, 'page-layout-properties')[0];
+            $styleOrientation = $pageLayoutProperties->getAttributeNS($this->stylesNs, 'print-orientation');
+            $styleScale = $pageLayoutProperties->getAttributeNS($this->stylesNs, 'scale-to');
+            $stylePrintOrder = $pageLayoutProperties->getAttributeNS($this->stylesNs, 'print-page-order');
+            $centered = $pageLayoutProperties->getAttributeNS($this->stylesNs, 'table-centering');
+
+            $marginLeft = $pageLayoutProperties->getAttributeNS($this->stylesFo, 'margin-left');
+            $marginRight = $pageLayoutProperties->getAttributeNS($this->stylesFo, 'margin-right');
+            $marginTop = $pageLayoutProperties->getAttributeNS($this->stylesFo, 'margin-top');
+            $marginBottom = $pageLayoutProperties->getAttributeNS($this->stylesFo, 'margin-bottom');
+            $header = $styleSet->getElementsByTagNameNS($this->stylesNs, 'header-style')[0];
+            $headerProperties = $header->getElementsByTagNameNS($this->stylesNs, 'header-footer-properties')[0];
+            $marginHeader = isset($headerProperties) ? $headerProperties->getAttributeNS($this->stylesFo, 'min-height') : null;
+            $footer = $styleSet->getElementsByTagNameNS($this->stylesNs, 'footer-style')[0];
+            $footerProperties = $footer->getElementsByTagNameNS($this->stylesNs, 'header-footer-properties')[0];
+            $marginFooter = isset($footerProperties) ? $footerProperties->getAttributeNS($this->stylesFo, 'min-height') : null;
+
+            $this->pageLayoutStyles[$styleName] = (object) [
+                'orientation' => $styleOrientation ?: PageSetup::ORIENTATION_DEFAULT,
+                'scale' => $styleScale ?: 100,
+                'printOrder' => $stylePrintOrder,
+                'horizontalCentered' => $centered === 'horizontal' || $centered === 'both',
+                'verticalCentered' => $centered === 'vertical' || $centered === 'both',
+                // margin size is already stored in inches, so no UOM conversion is required
+                'marginLeft' => (float) $marginLeft ?? 0.7,
+                'marginRight' => (float) $marginRight ?? 0.7,
+                'marginTop' => (float) $marginTop ?? 0.3,
+                'marginBottom' => (float) $marginBottom ?? 0.3,
+                'marginHeader' => (float) $marginHeader ?? 0.45,
+                'marginFooter' => (float) $marginFooter ?? 0.45,
+            ];
+        }
+    }
+
+    private function readStyleMasterLookup(DOMDocument $styleDom): void
+    {
+        $styleMasterLookup = $styleDom->getElementsByTagNameNS($this->officeNs, 'master-styles')
+            ->item(0)
+            ->getElementsByTagNameNS($this->stylesNs, 'master-page');
+
+        foreach ($styleMasterLookup as $styleMasterSet) {
+            $styleMasterName = $styleMasterSet->getAttributeNS($this->stylesNs, 'name');
+            $pageLayoutName = $styleMasterSet->getAttributeNS($this->stylesNs, 'page-layout-name');
+            $this->masterPrintStylesCrossReference[$styleMasterName] = $pageLayoutName;
+        }
+    }
+
+    public function readStyleCrossReferences(DOMDocument $contentDom): void
+    {
+        $styleXReferences = $contentDom->getElementsByTagNameNS($this->officeNs, 'automatic-styles')
+            ->item(0)
+            ->getElementsByTagNameNS($this->stylesNs, 'style');
+
+        foreach ($styleXReferences as $styleXreferenceSet) {
+            $styleXRefName = $styleXreferenceSet->getAttributeNS($this->stylesNs, 'name');
+            $stylePageLayoutName = $styleXreferenceSet->getAttributeNS($this->stylesNs, 'master-page-name');
+            if (!empty($stylePageLayoutName)) {
+                $this->masterStylesCrossReference[$styleXRefName] = $stylePageLayoutName;
+            }
+        }
+    }
+
+    public function setPrintSettingsForWorksheet(Worksheet $worksheet, string $styleName): void
+    {
+        if (!array_key_exists($styleName, $this->masterStylesCrossReference)) {
+            return;
+        }
+        $masterStyleName = $this->masterStylesCrossReference[$styleName];
+
+        if (!array_key_exists($masterStyleName, $this->masterPrintStylesCrossReference)) {
+            return;
+        }
+        $printSettingsIndex = $this->masterPrintStylesCrossReference[$masterStyleName];
+
+        if (!array_key_exists($printSettingsIndex, $this->pageLayoutStyles)) {
+            return;
+        }
+        $printSettings = $this->pageLayoutStyles[$printSettingsIndex];
+
+        $worksheet->getPageSetup()
+            ->setOrientation($printSettings->orientation ?? PageSetup::ORIENTATION_DEFAULT)
+            ->setPageOrder($printSettings->printOrder === 'ltr' ? PageSetup::PAGEORDER_OVER_THEN_DOWN : PageSetup::PAGEORDER_DOWN_THEN_OVER)
+            ->setScale((int) trim($printSettings->scale, '%'))
+            ->setHorizontalCentered($printSettings->horizontalCentered)
+            ->setVerticalCentered($printSettings->verticalCentered);
+
+        $worksheet->getPageMargins()
+            ->setLeft($printSettings->marginLeft)
+            ->setRight($printSettings->marginRight)
+            ->setTop($printSettings->marginTop)
+            ->setBottom($printSettings->marginBottom)
+            ->setHeader($printSettings->marginHeader)
+            ->setFooter($printSettings->marginFooter);
+    }
+}

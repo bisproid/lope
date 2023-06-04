@@ -1,107 +1,167 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\MathTrig;
+
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+
+class Ceiling
+{
+    use ArrayEnabled;
+
+    /**
+     * CEILING.
+     *
+     * Returns number rounded up, away from zero, to the nearest multiple of significance.
+     *        For example, if you want to avoid using pennies in your prices and your product is
+     *        priced at $4.42, use the formula =CEILING(4.42,0.05) to round prices up to the
+     *        nearest nickel.
+     *
+     * Excel Function:
+     *        CEILING(number[,significance])
+     *
+     * @param array|float $number the number you want the ceiling
+     *                      Or can be an array of values
+     * @param array|float $significance the multiple to which you want to round
+     *                      Or can be an array of values
+     *
+     * @return array|float|string Rounded Number, or a string containing an error
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function ceiling($number, $significance = null)
+    {
+        if (is_array($number) || is_array($significance)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $number, $significance);
+        }
+
+        if ($significance === null) {
+            self::floorCheck1Arg();
+        }
+
+        try {
+            $number = Helpers::validateNumericNullBool($number);
+            $significance = Helpers::validateNumericNullSubstitution($significance, ($number < 0) ? -1 : 1);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        return self::argumentsOk((float) $number, (float) $significance);
+    }
+
+    /**
+     * CEILING.MATH.
+     *
+     * Round a number down to the nearest integer or to the nearest multiple of significance.
+     *
+     * Excel Function:
+     *        CEILING.MATH(number[,significance[,mode]])
+     *
+     * @param mixed $number Number to round
+     *                      Or can be an array of values
+     * @param mixed $significance Significance
+     *                      Or can be an array of values
+     * @param array|int $mode direction to round negative numbers
+     *                      Or can be an array of values
+     *
+     * @return array|float|string Rounded Number, or a string containing an error
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function math($number, $significance = null, $mode = 0)
+    {
+        if (is_array($number) || is_array($significance) || is_array($mode)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $number, $significance, $mode);
+        }
+
+        try {
+            $number = Helpers::validateNumericNullBool($number);
+            $significance = Helpers::validateNumericNullSubstitution($significance, ($number < 0) ? -1 : 1);
+            $mode = Helpers::validateNumericNullSubstitution($mode, null);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if (empty($significance * $number)) {
+            return 0.0;
+        }
+        if (self::ceilingMathTest((float) $significance, (float) $number, (int) $mode)) {
+            return floor($number / $significance) * $significance;
+        }
+
+        return ceil($number / $significance) * $significance;
+    }
+
+    /**
+     * CEILING.PRECISE.
+     *
+     * Rounds number up, away from zero, to the nearest multiple of significance.
+     *
+     * Excel Function:
+     *        CEILING.PRECISE(number[,significance])
+     *
+     * @param mixed $number the number you want to round
+     *                      Or can be an array of values
+     * @param array|float $significance the multiple to which you want to round
+     *                      Or can be an array of values
+     *
+     * @return array|float|string Rounded Number, or a string containing an error
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function precise($number, $significance = 1)
+    {
+        if (is_array($number) || is_array($significance)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $number, $significance);
+        }
+
+        try {
+            $number = Helpers::validateNumericNullBool($number);
+            $significance = Helpers::validateNumericNullSubstitution($significance, null);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if (!$significance) {
+            return 0.0;
+        }
+        $result = $number / abs($significance);
+
+        return ceil($result) * $significance * (($significance < 0) ? -1 : 1);
+    }
+
+    /**
+     * Let CEILINGMATH complexity pass Scrutinizer.
+     */
+    private static function ceilingMathTest(float $significance, float $number, int $mode): bool
+    {
+        return ((float) $significance < 0) || ((float) $number < 0 && !empty($mode));
+    }
+
+    /**
+     * Avoid Scrutinizer problems concerning complexity.
+     *
+     * @return float|string
+     */
+    private static function argumentsOk(float $number, float $significance)
+    {
+        if (empty($number * $significance)) {
+            return 0.0;
+        }
+        if (Helpers::returnSign($number) == Helpers::returnSign($significance)) {
+            return ceil($number / $significance) * $significance;
+        }
+
+        return ExcelError::NAN();
+    }
+
+    private static function floorCheck1Arg(): void
+    {
+        $compatibility = Functions::getCompatibilityMode();
+        if ($compatibility === Functions::COMPATIBILITY_EXCEL) {
+            throw new Exception('Excel requires 2 arguments for CEILING');
+        }
+    }
+}

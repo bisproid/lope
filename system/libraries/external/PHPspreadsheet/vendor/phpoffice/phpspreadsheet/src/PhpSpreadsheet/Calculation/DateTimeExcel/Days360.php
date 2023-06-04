@@ -1,92 +1,118 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-2Sc67zcbJMSCaBCWit2Z
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\DateTimeExcel;
+
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+use PhpOffice\PhpSpreadsheet\Shared\Date as SharedDateHelper;
+
+class Days360
+{
+    use ArrayEnabled;
+
+    /**
+     * DAYS360.
+     *
+     * Returns the number of days between two dates based on a 360-day year (twelve 30-day months),
+     * which is used in some accounting calculations. Use this function to help compute payments if
+     * your accounting system is based on twelve 30-day months.
+     *
+     * Excel Function:
+     *        DAYS360(startDate,endDate[,method])
+     *
+     * @param array|mixed $startDate Excel date serial value (float), PHP date timestamp (integer),
+     *                                        PHP DateTime object, or a standard date string
+     *                         Or can be an array of date values
+     * @param array|mixed $endDate Excel date serial value (float), PHP date timestamp (integer),
+     *                                        PHP DateTime object, or a standard date string
+     *                         Or can be an array of date values
+     * @param array|mixed $method US or European Method as a bool
+     *                                        FALSE or omitted: U.S. (NASD) method. If the starting date is
+     *                                        the last day of a month, it becomes equal to the 30th of the
+     *                                        same month. If the ending date is the last day of a month and
+     *                                        the starting date is earlier than the 30th of a month, the
+     *                                        ending date becomes equal to the 1st of the next month;
+     *                                        otherwise the ending date becomes equal to the 30th of the
+     *                                        same month.
+     *                                        TRUE: European method. Starting dates and ending dates that
+     *                                        occur on the 31st of a month become equal to the 30th of the
+     *                                        same month.
+     *                         Or can be an array of methods
+     *
+     * @return array|int|string Number of days between start date and end date
+     *         If an array of values is passed for the $startDate or $endDays,arguments, then the returned result
+     *            will also be an array with matching dimensions
+     */
+    public static function between($startDate = 0, $endDate = 0, $method = false)
+    {
+        if (is_array($startDate) || is_array($endDate) || is_array($method)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $startDate, $endDate, $method);
+        }
+
+        try {
+            $startDate = Helpers::getDateValue($startDate);
+            $endDate = Helpers::getDateValue($endDate);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if (!is_bool($method)) {
+            return ExcelError::VALUE();
+        }
+
+        // Execute function
+        $PHPStartDateObject = SharedDateHelper::excelToDateTimeObject($startDate);
+        $startDay = $PHPStartDateObject->format('j');
+        $startMonth = $PHPStartDateObject->format('n');
+        $startYear = $PHPStartDateObject->format('Y');
+
+        $PHPEndDateObject = SharedDateHelper::excelToDateTimeObject($endDate);
+        $endDay = $PHPEndDateObject->format('j');
+        $endMonth = $PHPEndDateObject->format('n');
+        $endYear = $PHPEndDateObject->format('Y');
+
+        return self::dateDiff360((int) $startDay, (int) $startMonth, (int) $startYear, (int) $endDay, (int) $endMonth, (int) $endYear, !$method);
+    }
+
+    /**
+     * Return the number of days between two dates based on a 360 day calendar.
+     */
+    private static function dateDiff360(int $startDay, int $startMonth, int $startYear, int $endDay, int $endMonth, int $endYear, bool $methodUS): int
+    {
+        $startDay = self::getStartDay($startDay, $startMonth, $startYear, $methodUS);
+        $endDay = self::getEndDay($endDay, $endMonth, $endYear, $startDay, $methodUS);
+
+        return $endDay + $endMonth * 30 + $endYear * 360 - $startDay - $startMonth * 30 - $startYear * 360;
+    }
+
+    private static function getStartDay(int $startDay, int $startMonth, int $startYear, bool $methodUS): int
+    {
+        if ($startDay == 31) {
+            --$startDay;
+        } elseif ($methodUS && ($startMonth == 2 && ($startDay == 29 || ($startDay == 28 && !Helpers::isLeapYear($startYear))))) {
+            $startDay = 30;
+        }
+
+        return $startDay;
+    }
+
+    private static function getEndDay(int $endDay, int &$endMonth, int &$endYear, int $startDay, bool $methodUS): int
+    {
+        if ($endDay == 31) {
+            if ($methodUS && $startDay != 30) {
+                $endDay = 1;
+                if ($endMonth == 12) {
+                    ++$endYear;
+                    $endMonth = 1;
+                } else {
+                    ++$endMonth;
+                }
+            } else {
+                $endDay = 30;
+            }
+        }
+
+        return $endDay;
+    }
+}

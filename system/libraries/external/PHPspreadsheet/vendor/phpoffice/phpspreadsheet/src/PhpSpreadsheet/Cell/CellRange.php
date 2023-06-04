@@ -1,118 +1,136 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Cell;
+
+use PhpOffice\PhpSpreadsheet\Exception;
+use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
+
+class CellRange implements AddressRange
+{
+    /**
+     * @var CellAddress
+     */
+    protected $from;
+
+    /**
+     * @var CellAddress
+     */
+    protected $to;
+
+    public function __construct(CellAddress $from, CellAddress $to)
+    {
+        $this->validateFromTo($from, $to);
+    }
+
+    private function validateFromTo(CellAddress $from, CellAddress $to): void
+    {
+        // Identify actual top-left and bottom-right values (in case we've been given top-right and bottom-left)
+        $firstColumn = min($from->columnId(), $to->columnId());
+        $firstRow = min($from->rowId(), $to->rowId());
+        $lastColumn = max($from->columnId(), $to->columnId());
+        $lastRow = max($from->rowId(), $to->rowId());
+
+        $fromWorksheet = $from->worksheet();
+        $toWorksheet = $to->worksheet();
+        $this->validateWorksheets($fromWorksheet, $toWorksheet);
+
+        $this->from = $this->cellAddressWrapper($firstColumn, $firstRow, $fromWorksheet);
+        $this->to = $this->cellAddressWrapper($lastColumn, $lastRow, $toWorksheet);
+    }
+
+    private function validateWorksheets(?Worksheet $fromWorksheet, ?Worksheet $toWorksheet): void
+    {
+        if ($fromWorksheet !== null && $toWorksheet !== null) {
+            // We could simply compare worksheets rather than worksheet titles; but at some point we may introduce
+            //    support for 3d ranges; and at that point we drop this check and let the validation fall through
+            //    to the check for same workbook; but unless we check on titles, this test will also detect if the
+            //    worksheets are in different spreadsheets, and the next check will never execute or throw its
+            //    own exception.
+            if ($fromWorksheet->getTitle() !== $toWorksheet->getTitle()) {
+                throw new Exception('3d Cell Ranges are not supported');
+            } elseif ($fromWorksheet->getParent() !== $toWorksheet->getParent()) {
+                throw new Exception('Worksheets must be in the same spreadsheet');
+            }
+        }
+    }
+
+    private function cellAddressWrapper(int $column, int $row, ?Worksheet $worksheet = null): CellAddress
+    {
+        $cellAddress = Coordinate::stringFromColumnIndex($column) . (string) $row;
+
+        return new class ($cellAddress, $worksheet) extends CellAddress {
+            public function nextRow(int $offset = 1): CellAddress
+            {
+                /** @var CellAddress $result */
+                $result = parent::nextRow($offset);
+                $this->rowId = $result->rowId;
+                $this->cellAddress = $result->cellAddress;
+
+                return $this;
+            }
+
+            public function previousRow(int $offset = 1): CellAddress
+            {
+                /** @var CellAddress $result */
+                $result = parent::previousRow($offset);
+                $this->rowId = $result->rowId;
+                $this->cellAddress = $result->cellAddress;
+
+                return $this;
+            }
+
+            public function nextColumn(int $offset = 1): CellAddress
+            {
+                /** @var CellAddress $result */
+                $result = parent::nextColumn($offset);
+                $this->columnId = $result->columnId;
+                $this->columnName = $result->columnName;
+                $this->cellAddress = $result->cellAddress;
+
+                return $this;
+            }
+
+            public function previousColumn(int $offset = 1): CellAddress
+            {
+                /** @var CellAddress $result */
+                $result = parent::previousColumn($offset);
+                $this->columnId = $result->columnId;
+                $this->columnName = $result->columnName;
+                $this->cellAddress = $result->cellAddress;
+
+                return $this;
+            }
+        };
+    }
+
+    public function from(): CellAddress
+    {
+        // Re-order from/to in case the cell addresses have been modified
+        $this->validateFromTo($this->from, $this->to);
+
+        return $this->from;
+    }
+
+    public function to(): CellAddress
+    {
+        // Re-order from/to in case the cell addresses have been modified
+        $this->validateFromTo($this->from, $this->to);
+
+        return $this->to;
+    }
+
+    public function __toString(): string
+    {
+        // Re-order from/to in case the cell addresses have been modified
+        $this->validateFromTo($this->from, $this->to);
+
+        if ($this->from->cellAddress() === $this->to->cellAddress()) {
+            return "{$this->from->fullCellAddress()}";
+        }
+
+        $fromAddress = $this->from->fullCellAddress();
+        $toAddress = $this->to->cellAddress();
+
+        return "{$fromAddress}:{$toAddress}";
+    }
+}

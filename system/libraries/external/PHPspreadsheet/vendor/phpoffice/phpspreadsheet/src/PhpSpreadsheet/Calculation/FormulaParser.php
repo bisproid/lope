@@ -1,349 +1,629 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation;
+
+/**
+ * PARTLY BASED ON:
+ * Copyright (c) 2007 E. W. Bachtal, Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+ * and associated documentation files (the "Software"), to deal in the Software without restriction,
+ * including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
+ * and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
+ * subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all copies or substantial
+ * portions of the Software.
+ *
+ * The software is provided "as is", without warranty of any kind, express or implied, including but not
+ * limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In
+ * no event shall the authors or copyright holders be liable for any claim, damages or other liability,
+ * whether in an action of contract, tort or otherwise, arising from, out of or in connection with the
+ * software or the use or other dealings in the software.
+ *
+ * https://ewbi.blogs.com/develops/2007/03/excel_formula_p.html
+ * https://ewbi.blogs.com/develops/2004/12/excel_formula_p.html
+ */
+class FormulaParser
+{
+    // Character constants
+    const QUOTE_DOUBLE = '"';
+    const QUOTE_SINGLE = '\'';
+    const BRACKET_CLOSE = ']';
+    const BRACKET_OPEN = '[';
+    const BRACE_OPEN = '{';
+    const BRACE_CLOSE = '}';
+    const PAREN_OPEN = '(';
+    const PAREN_CLOSE = ')';
+    const SEMICOLON = ';';
+    const WHITESPACE = ' ';
+    const COMMA = ',';
+    const ERROR_START = '#';
+
+    const OPERATORS_SN = '+-';
+    const OPERATORS_INFIX = '+-*/^&=><';
+    const OPERATORS_POSTFIX = '%';
+
+    /**
+     * Formula.
+     *
+     * @var string
+     */
+    private $formula;
+
+    /**
+     * Tokens.
+     *
+     * @var FormulaToken[]
+     */
+    private $tokens = [];
+
+    /**
+     * Create a new FormulaParser.
+     *
+     * @param string $formula Formula to parse
+     */
+    public function __construct($formula = '')
+    {
+        // Check parameters
+        if ($formula === null) {
+            throw new Exception('Invalid parameter passed: formula');
+        }
+
+        // Initialise values
+        $this->formula = trim($formula);
+        // Parse!
+        $this->parseToTokens();
+    }
+
+    /**
+     * Get Formula.
+     *
+     * @return string
+     */
+    public function getFormula()
+    {
+        return $this->formula;
+    }
+
+    /**
+     * Get Token.
+     *
+     * @param int $id Token id
+     */
+    public function getToken(int $id = 0): FormulaToken
+    {
+        if (isset($this->tokens[$id])) {
+            return $this->tokens[$id];
+        }
+
+        throw new Exception("Token with id $id does not exist.");
+    }
+
+    /**
+     * Get Token count.
+     *
+     * @return int
+     */
+    public function getTokenCount()
+    {
+        return count($this->tokens);
+    }
+
+    /**
+     * Get Tokens.
+     *
+     * @return FormulaToken[]
+     */
+    public function getTokens()
+    {
+        return $this->tokens;
+    }
+
+    /**
+     * Parse to tokens.
+     */
+    private function parseToTokens(): void
+    {
+        // No attempt is made to verify formulas; assumes formulas are derived from Excel, where
+        // they can only exist if valid; stack overflows/underflows sunk as nulls without exceptions.
+
+        // Check if the formula has a valid starting =
+        $formulaLength = strlen($this->formula);
+        if ($formulaLength < 2 || $this->formula[0] != '=') {
+            return;
+        }
+
+        // Helper variables
+        $tokens1 = $tokens2 = $stack = [];
+        $inString = $inPath = $inRange = $inError = false;
+        $token = $previousToken = $nextToken = null;
+
+        $index = 1;
+        $value = '';
+
+        $ERRORS = ['#NULL!', '#DIV/0!', '#VALUE!', '#REF!', '#NAME?', '#NUM!', '#N/A'];
+        $COMPARATORS_MULTI = ['>=', '<=', '<>'];
+
+        while ($index < $formulaLength) {
+            // state-dependent character evaluation (order is important)
+
+            // double-quoted strings
+            // embeds are doubled
+            // end marks token
+            if ($inString) {
+                if ($this->formula[$index] == self::QUOTE_DOUBLE) {
+                    if ((($index + 2) <= $formulaLength) && ($this->formula[$index + 1] == self::QUOTE_DOUBLE)) {
+                        $value .= self::QUOTE_DOUBLE;
+                        ++$index;
+                    } else {
+                        $inString = false;
+                        $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_OPERAND, FormulaToken::TOKEN_SUBTYPE_TEXT);
+                        $value = '';
+                    }
+                } else {
+                    $value .= $this->formula[$index];
+                }
+                ++$index;
+
+                continue;
+            }
+
+            // single-quoted strings (links)
+            // embeds are double
+            // end does not mark a token
+            if ($inPath) {
+                if ($this->formula[$index] == self::QUOTE_SINGLE) {
+                    if ((($index + 2) <= $formulaLength) && ($this->formula[$index + 1] == self::QUOTE_SINGLE)) {
+                        $value .= self::QUOTE_SINGLE;
+                        ++$index;
+                    } else {
+                        $inPath = false;
+                    }
+                } else {
+                    $value .= $this->formula[$index];
+                }
+                ++$index;
+
+                continue;
+            }
+
+            // bracked strings (R1C1 range index or linked workbook name)
+            // no embeds (changed to "()" by Excel)
+            // end does not mark a token
+            if ($inRange) {
+                if ($this->formula[$index] == self::BRACKET_CLOSE) {
+                    $inRange = false;
+                }
+                $value .= $this->formula[$index];
+                ++$index;
+
+                continue;
+            }
+
+            // error values
+            // end marks a token, determined from absolute list of values
+            if ($inError) {
+                $value .= $this->formula[$index];
+                ++$index;
+                if (in_array($value, $ERRORS)) {
+                    $inError = false;
+                    $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_OPERAND, FormulaToken::TOKEN_SUBTYPE_ERROR);
+                    $value = '';
+                }
+
+                continue;
+            }
+
+            // scientific notation check
+            if (strpos(self::OPERATORS_SN, $this->formula[$index]) !== false) {
+                if (strlen($value) > 1) {
+                    if (preg_match('/^[1-9]{1}(\\.\\d+)?E{1}$/', $this->formula[$index]) != 0) {
+                        $value .= $this->formula[$index];
+                        ++$index;
+
+                        continue;
+                    }
+                }
+            }
+
+            // independent character evaluation (order not important)
+
+            // establish state-dependent character evaluations
+            if ($this->formula[$index] == self::QUOTE_DOUBLE) {
+                if (strlen($value) > 0) {
+                    // unexpected
+                    $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_UNKNOWN);
+                    $value = '';
+                }
+                $inString = true;
+                ++$index;
+
+                continue;
+            }
+
+            if ($this->formula[$index] == self::QUOTE_SINGLE) {
+                if (strlen($value) > 0) {
+                    // unexpected
+                    $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_UNKNOWN);
+                    $value = '';
+                }
+                $inPath = true;
+                ++$index;
+
+                continue;
+            }
+
+            if ($this->formula[$index] == self::BRACKET_OPEN) {
+                $inRange = true;
+                $value .= self::BRACKET_OPEN;
+                ++$index;
+
+                continue;
+            }
+
+            if ($this->formula[$index] == self::ERROR_START) {
+                if (strlen($value) > 0) {
+                    // unexpected
+                    $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_UNKNOWN);
+                    $value = '';
+                }
+                $inError = true;
+                $value .= self::ERROR_START;
+                ++$index;
+
+                continue;
+            }
+
+            // mark start and end of arrays and array rows
+            if ($this->formula[$index] == self::BRACE_OPEN) {
+                if (strlen($value) > 0) {
+                    // unexpected
+                    $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_UNKNOWN);
+                    $value = '';
+                }
+
+                $tmp = new FormulaToken('ARRAY', FormulaToken::TOKEN_TYPE_FUNCTION, FormulaToken::TOKEN_SUBTYPE_START);
+                $tokens1[] = $tmp;
+                $stack[] = clone $tmp;
+
+                $tmp = new FormulaToken('ARRAYROW', FormulaToken::TOKEN_TYPE_FUNCTION, FormulaToken::TOKEN_SUBTYPE_START);
+                $tokens1[] = $tmp;
+                $stack[] = clone $tmp;
+
+                ++$index;
+
+                continue;
+            }
+
+            if ($this->formula[$index] == self::SEMICOLON) {
+                if (strlen($value) > 0) {
+                    $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_OPERAND);
+                    $value = '';
+                }
+
+                $tmp = array_pop($stack);
+                $tmp->setValue('');
+                $tmp->setTokenSubType(FormulaToken::TOKEN_SUBTYPE_STOP);
+                $tokens1[] = $tmp;
+
+                $tmp = new FormulaToken(',', FormulaToken::TOKEN_TYPE_ARGUMENT);
+                $tokens1[] = $tmp;
+
+                $tmp = new FormulaToken('ARRAYROW', FormulaToken::TOKEN_TYPE_FUNCTION, FormulaToken::TOKEN_SUBTYPE_START);
+                $tokens1[] = $tmp;
+                $stack[] = clone $tmp;
+
+                ++$index;
+
+                continue;
+            }
+
+            if ($this->formula[$index] == self::BRACE_CLOSE) {
+                if (strlen($value) > 0) {
+                    $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_OPERAND);
+                    $value = '';
+                }
+
+                $tmp = array_pop($stack);
+                $tmp->setValue('');
+                $tmp->setTokenSubType(FormulaToken::TOKEN_SUBTYPE_STOP);
+                $tokens1[] = $tmp;
+
+                $tmp = array_pop($stack);
+                $tmp->setValue('');
+                $tmp->setTokenSubType(FormulaToken::TOKEN_SUBTYPE_STOP);
+                $tokens1[] = $tmp;
+
+                ++$index;
+
+                continue;
+            }
+
+            // trim white-space
+            if ($this->formula[$index] == self::WHITESPACE) {
+                if (strlen($value) > 0) {
+                    $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_OPERAND);
+                    $value = '';
+                }
+                $tokens1[] = new FormulaToken('', FormulaToken::TOKEN_TYPE_WHITESPACE);
+                ++$index;
+                while (($this->formula[$index] == self::WHITESPACE) && ($index < $formulaLength)) {
+                    ++$index;
+                }
+
+                continue;
+            }
+
+            // multi-character comparators
+            if (($index + 2) <= $formulaLength) {
+                if (in_array(substr($this->formula, $index, 2), $COMPARATORS_MULTI)) {
+                    if (strlen($value) > 0) {
+                        $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_OPERAND);
+                        $value = '';
+                    }
+                    $tokens1[] = new FormulaToken(substr($this->formula, $index, 2), FormulaToken::TOKEN_TYPE_OPERATORINFIX, FormulaToken::TOKEN_SUBTYPE_LOGICAL);
+                    $index += 2;
+
+                    continue;
+                }
+            }
+
+            // standard infix operators
+            if (strpos(self::OPERATORS_INFIX, $this->formula[$index]) !== false) {
+                if (strlen($value) > 0) {
+                    $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_OPERAND);
+                    $value = '';
+                }
+                $tokens1[] = new FormulaToken($this->formula[$index], FormulaToken::TOKEN_TYPE_OPERATORINFIX);
+                ++$index;
+
+                continue;
+            }
+
+            // standard postfix operators (only one)
+            if (strpos(self::OPERATORS_POSTFIX, $this->formula[$index]) !== false) {
+                if (strlen($value) > 0) {
+                    $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_OPERAND);
+                    $value = '';
+                }
+                $tokens1[] = new FormulaToken($this->formula[$index], FormulaToken::TOKEN_TYPE_OPERATORPOSTFIX);
+                ++$index;
+
+                continue;
+            }
+
+            // start subexpression or function
+            if ($this->formula[$index] == self::PAREN_OPEN) {
+                if (strlen($value) > 0) {
+                    $tmp = new FormulaToken($value, FormulaToken::TOKEN_TYPE_FUNCTION, FormulaToken::TOKEN_SUBTYPE_START);
+                    $tokens1[] = $tmp;
+                    $stack[] = clone $tmp;
+                    $value = '';
+                } else {
+                    $tmp = new FormulaToken('', FormulaToken::TOKEN_TYPE_SUBEXPRESSION, FormulaToken::TOKEN_SUBTYPE_START);
+                    $tokens1[] = $tmp;
+                    $stack[] = clone $tmp;
+                }
+                ++$index;
+
+                continue;
+            }
+
+            // function, subexpression, or array parameters, or operand unions
+            if ($this->formula[$index] == self::COMMA) {
+                if (strlen($value) > 0) {
+                    $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_OPERAND);
+                    $value = '';
+                }
+
+                $tmp = array_pop($stack);
+                $tmp->setValue('');
+                $tmp->setTokenSubType(FormulaToken::TOKEN_SUBTYPE_STOP);
+                $stack[] = $tmp;
+
+                if ($tmp->getTokenType() == FormulaToken::TOKEN_TYPE_FUNCTION) {
+                    $tokens1[] = new FormulaToken(',', FormulaToken::TOKEN_TYPE_OPERATORINFIX, FormulaToken::TOKEN_SUBTYPE_UNION);
+                } else {
+                    $tokens1[] = new FormulaToken(',', FormulaToken::TOKEN_TYPE_ARGUMENT);
+                }
+                ++$index;
+
+                continue;
+            }
+
+            // stop subexpression
+            if ($this->formula[$index] == self::PAREN_CLOSE) {
+                if (strlen($value) > 0) {
+                    $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_OPERAND);
+                    $value = '';
+                }
+
+                $tmp = array_pop($stack);
+                $tmp->setValue('');
+                $tmp->setTokenSubType(FormulaToken::TOKEN_SUBTYPE_STOP);
+                $tokens1[] = $tmp;
+
+                ++$index;
+
+                continue;
+            }
+
+            // token accumulation
+            $value .= $this->formula[$index];
+            ++$index;
+        }
+
+        // dump remaining accumulation
+        if (strlen($value) > 0) {
+            $tokens1[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_OPERAND);
+        }
+
+        // move tokenList to new set, excluding unnecessary white-space tokens and converting necessary ones to intersections
+        $tokenCount = count($tokens1);
+        for ($i = 0; $i < $tokenCount; ++$i) {
+            $token = $tokens1[$i];
+            if (isset($tokens1[$i - 1])) {
+                $previousToken = $tokens1[$i - 1];
+            } else {
+                $previousToken = null;
+            }
+            if (isset($tokens1[$i + 1])) {
+                $nextToken = $tokens1[$i + 1];
+            } else {
+                $nextToken = null;
+            }
+
+            if ($token === null) {
+                continue;
+            }
+
+            if ($token->getTokenType() != FormulaToken::TOKEN_TYPE_WHITESPACE) {
+                $tokens2[] = $token;
+
+                continue;
+            }
+
+            if ($previousToken === null) {
+                continue;
+            }
+
+            if (
+                !(
+                    (($previousToken->getTokenType() == FormulaToken::TOKEN_TYPE_FUNCTION) && ($previousToken->getTokenSubType() == FormulaToken::TOKEN_SUBTYPE_STOP)) ||
+                (($previousToken->getTokenType() == FormulaToken::TOKEN_TYPE_SUBEXPRESSION) && ($previousToken->getTokenSubType() == FormulaToken::TOKEN_SUBTYPE_STOP)) ||
+                ($previousToken->getTokenType() == FormulaToken::TOKEN_TYPE_OPERAND)
+                )
+            ) {
+                continue;
+            }
+
+            if ($nextToken === null) {
+                continue;
+            }
+
+            if (
+                !(
+                    (($nextToken->getTokenType() == FormulaToken::TOKEN_TYPE_FUNCTION) && ($nextToken->getTokenSubType() == FormulaToken::TOKEN_SUBTYPE_START)) ||
+                (($nextToken->getTokenType() == FormulaToken::TOKEN_TYPE_SUBEXPRESSION) && ($nextToken->getTokenSubType() == FormulaToken::TOKEN_SUBTYPE_START)) ||
+                ($nextToken->getTokenType() == FormulaToken::TOKEN_TYPE_OPERAND)
+                )
+            ) {
+                continue;
+            }
+
+            $tokens2[] = new FormulaToken($value, FormulaToken::TOKEN_TYPE_OPERATORINFIX, FormulaToken::TOKEN_SUBTYPE_INTERSECTION);
+        }
+
+        // move tokens to final list, switching infix "-" operators to prefix when appropriate, switching infix "+" operators
+        // to noop when appropriate, identifying operand and infix-operator subtypes, and pulling "@" from function names
+        $this->tokens = [];
+
+        $tokenCount = count($tokens2);
+        for ($i = 0; $i < $tokenCount; ++$i) {
+            $token = $tokens2[$i];
+            if (isset($tokens2[$i - 1])) {
+                $previousToken = $tokens2[$i - 1];
+            } else {
+                $previousToken = null;
+            }
+            if (isset($tokens2[$i + 1])) {
+                $nextToken = $tokens2[$i + 1];
+            } else {
+                $nextToken = null;
+            }
+
+            if ($token === null) {
+                continue;
+            }
+
+            if ($token->getTokenType() == FormulaToken::TOKEN_TYPE_OPERATORINFIX && $token->getValue() == '-') {
+                if ($i == 0) {
+                    $token->setTokenType(FormulaToken::TOKEN_TYPE_OPERATORPREFIX);
+                } elseif (
+                    (($previousToken->getTokenType() == FormulaToken::TOKEN_TYPE_FUNCTION) &&
+                        ($previousToken->getTokenSubType() == FormulaToken::TOKEN_SUBTYPE_STOP)) ||
+                    (($previousToken->getTokenType() == FormulaToken::TOKEN_TYPE_SUBEXPRESSION) &&
+                        ($previousToken->getTokenSubType() == FormulaToken::TOKEN_SUBTYPE_STOP)) ||
+                    ($previousToken->getTokenType() == FormulaToken::TOKEN_TYPE_OPERATORPOSTFIX) ||
+                    ($previousToken->getTokenType() == FormulaToken::TOKEN_TYPE_OPERAND)
+                ) {
+                    $token->setTokenSubType(FormulaToken::TOKEN_SUBTYPE_MATH);
+                } else {
+                    $token->setTokenType(FormulaToken::TOKEN_TYPE_OPERATORPREFIX);
+                }
+
+                $this->tokens[] = $token;
+
+                continue;
+            }
+
+            if ($token->getTokenType() == FormulaToken::TOKEN_TYPE_OPERATORINFIX && $token->getValue() == '+') {
+                if ($i == 0) {
+                    continue;
+                } elseif (
+                    (($previousToken->getTokenType() == FormulaToken::TOKEN_TYPE_FUNCTION) &&
+                        ($previousToken->getTokenSubType() == FormulaToken::TOKEN_SUBTYPE_STOP)) ||
+                    (($previousToken->getTokenType() == FormulaToken::TOKEN_TYPE_SUBEXPRESSION) &&
+                        ($previousToken->getTokenSubType() == FormulaToken::TOKEN_SUBTYPE_STOP)) ||
+                    ($previousToken->getTokenType() == FormulaToken::TOKEN_TYPE_OPERATORPOSTFIX) ||
+                    ($previousToken->getTokenType() == FormulaToken::TOKEN_TYPE_OPERAND)
+                ) {
+                    $token->setTokenSubType(FormulaToken::TOKEN_SUBTYPE_MATH);
+                } else {
+                    continue;
+                }
+
+                $this->tokens[] = $token;
+
+                continue;
+            }
+
+            if (
+                $token->getTokenType() == FormulaToken::TOKEN_TYPE_OPERATORINFIX &&
+                $token->getTokenSubType() == FormulaToken::TOKEN_SUBTYPE_NOTHING
+            ) {
+                if (strpos('<>=', substr($token->getValue(), 0, 1)) !== false) {
+                    $token->setTokenSubType(FormulaToken::TOKEN_SUBTYPE_LOGICAL);
+                } elseif ($token->getValue() == '&') {
+                    $token->setTokenSubType(FormulaToken::TOKEN_SUBTYPE_CONCATENATION);
+                } else {
+                    $token->setTokenSubType(FormulaToken::TOKEN_SUBTYPE_MATH);
+                }
+
+                $this->tokens[] = $token;
+
+                continue;
+            }
+
+            if (
+                $token->getTokenType() == FormulaToken::TOKEN_TYPE_OPERAND &&
+                $token->getTokenSubType() == FormulaToken::TOKEN_SUBTYPE_NOTHING
+            ) {
+                if (!is_numeric($token->getValue())) {
+                    if (strtoupper($token->getValue()) == 'TRUE' || strtoupper($token->getValue()) == 'FALSE') {
+                        $token->setTokenSubType(FormulaToken::TOKEN_SUBTYPE_LOGICAL);
+                    } else {
+                        $token->setTokenSubType(FormulaToken::TOKEN_SUBTYPE_RANGE);
+                    }
+                } else {
+                    $token->setTokenSubType(FormulaToken::TOKEN_SUBTYPE_NUMBER);
+                }
+
+                $this->tokens[] = $token;
+
+                continue;
+            }
+
+            if ($token->getTokenType() == FormulaToken::TOKEN_TYPE_FUNCTION) {
+                if (strlen($token->getValue()) > 0) {
+                    if (substr($token->getValue(), 0, 1) == '@') {
+                        $token->setValue(substr($token->getValue(), 1));
+                    }
+                }
+            }
+
+            $this->tokens[] = $token;
+        }
+    }
+}

@@ -1,204 +1,226 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+$finder = PhpCsFixer\Finder::create()
+    ->exclude('vendor')
+    ->in(__DIR__);
+
+$config = new PhpCsFixer\Config();
+$config
+    ->setRiskyAllowed(true)
+    ->setFinder($finder)
+    ->setCacheFile(sys_get_temp_dir() . '/php-cs-fixer' . preg_replace('~\W~', '-', __DIR__))
+    ->setRules([
+        'align_multiline_comment' => true,
+        'array_indentation' => true,
+        'array_syntax' => ['syntax' => 'short'],
+        'backtick_to_shell_exec' => true,
+        'binary_operator_spaces' => true,
+        'blank_line_after_namespace' => true,
+        'blank_line_after_opening_tag' => true,
+        'blank_line_before_statement' => true,
+        'braces' => true,
+        'cast_spaces' => true,
+        'class_attributes_separation' => ['elements' => ['method' => 'one', 'property' => 'one']], // const are often grouped with other related const
+        'class_definition' => false,
+        'class_keyword_remove' => false, // ::class keyword gives us better support in IDE
+        'combine_consecutive_issets' => true,
+        'combine_consecutive_unsets' => true,
+        'combine_nested_dirname' => true,
+        'comment_to_phpdoc' => false, // interferes with annotations
+        'compact_nullable_typehint' => true,
+        'concat_space' => ['spacing' => 'one'],
+        'constant_case' => true,
+        'date_time_immutable' => false, // Break our unit tests
+        'declare_equal_normalize' => true,
+        'declare_strict_types' => false, // Too early to adopt strict types
+        'dir_constant' => true,
+        'doctrine_annotation_array_assignment' => true,
+        'doctrine_annotation_braces' => true,
+        'doctrine_annotation_indentation' => true,
+        'doctrine_annotation_spaces' => true,
+        'elseif' => true,
+        'encoding' => true,
+        'ereg_to_preg' => true,
+        'escape_implicit_backslashes' => true,
+        'explicit_indirect_variable' => false, // I feel it makes the code actually harder to read
+        'explicit_string_variable' => false, // I feel it makes the code actually harder to read
+        'final_class' => false, // We need non-final classes
+        'final_internal_class' => true,
+        'final_public_method_for_abstract_class' => false, // We need non-final methods
+        'self_static_accessor' => true,
+        'fopen_flag_order' => true,
+        'fopen_flags' => true,
+        'full_opening_tag' => true,
+        'fully_qualified_strict_types' => true,
+        'function_declaration' => true,
+        'function_to_constant' => true,
+        'function_typehint_space' => true,
+        'general_phpdoc_annotation_remove' => ['annotations' => ['access', 'category', 'copyright', 'throws']],
+        'global_namespace_import' => true,
+        'header_comment' => false, // We don't use common header in all our files
+        'heredoc_indentation' => false, // Requires PHP >= 7.3
+        'heredoc_to_nowdoc' => false, // Not sure about this one
+        'implode_call' => true,
+        'include' => true,
+        'increment_style' => true,
+        'indentation_type' => true,
+        'is_null' => true,
+        'line_ending' => true,
+        'linebreak_after_opening_tag' => true,
+        'list_syntax' => ['syntax' => 'short'],
+        'logical_operators' => true,
+        'lowercase_cast' => true,
+        'lowercase_keywords' => true,
+        'lowercase_static_reference' => true,
+        'magic_constant_casing' => true,
+        'magic_method_casing' => true,
+        'mb_str_functions' => false, // No, too dangerous to change that
+        'method_argument_space' => true,
+        'method_chaining_indentation' => true,
+        'modernize_types_casting' => true,
+        'multiline_comment_opening_closing' => true,
+        'multiline_whitespace_before_semicolons' => true,
+        'native_constant_invocation' => false, // Micro optimization that look messy
+        'native_function_casing' => true,
+        'native_function_invocation' => false, // I suppose this would be best, but I am still unconvinced about the visual aspect of it
+        'native_function_type_declaration_casing' => true,
+        'new_with_braces' => true,
+        'no_alias_functions' => true,
+        'no_alternative_syntax' => true,
+        'no_binary_string' => true,
+        'no_blank_lines_after_class_opening' => true,
+        'no_blank_lines_after_phpdoc' => true,
+        'no_blank_lines_before_namespace' => false, // we want 1 blank line before namespace
+        'no_break_comment' => true,
+        'no_closing_tag' => true,
+        'no_empty_comment' => true,
+        'no_empty_phpdoc' => true,
+        'no_empty_statement' => true,
+        'no_extra_blank_lines' => true,
+        'no_homoglyph_names' => true,
+        'no_leading_import_slash' => true,
+        'no_leading_namespace_whitespace' => true,
+        'no_mixed_echo_print' => true,
+        'no_multiline_whitespace_around_double_arrow' => true,
+        'no_null_property_initialization' => true,
+        'no_php4_constructor' => true,
+        'no_short_bool_cast' => true,
+        'echo_tag_syntax' => ['format' => 'long'],
+        'no_singleline_whitespace_before_semicolons' => true,
+        'no_spaces_after_function_name' => true,
+        'no_spaces_around_offset' => true,
+        'no_spaces_inside_parenthesis' => true,
+        'no_superfluous_elseif' => false, // Might be risky on a huge code base
+        'no_superfluous_phpdoc_tags' => ['allow_mixed' => true],
+        'no_trailing_comma_in_list_call' => true,
+        'no_trailing_comma_in_singleline_array' => true,
+        'no_trailing_whitespace' => true,
+        'no_trailing_whitespace_in_comment' => true,
+        'no_unneeded_control_parentheses' => true,
+        'no_unneeded_curly_braces' => true,
+        'no_unneeded_final_method' => true,
+        'no_unreachable_default_argument_value' => true,
+        'no_unset_cast' => true,
+        'no_unset_on_property' => true,
+        'no_unused_imports' => true,
+        'no_useless_else' => true,
+        'no_useless_return' => true,
+        'no_whitespace_before_comma_in_array' => true,
+        'no_whitespace_in_blank_line' => true,
+        'non_printable_character' => true,
+        'normalize_index_brace' => true,
+        'not_operator_with_space' => false, // No we prefer to keep '!' without spaces
+        'not_operator_with_successor_space' => false, // idem
+        'nullable_type_declaration_for_default_null_value' => true,
+        'object_operator_without_whitespace' => true,
+        'ordered_class_elements' => false, // We prefer to keep some freedom
+        'ordered_imports' => true,
+        'ordered_interfaces' => true,
+        'php_unit_construct' => true,
+        'php_unit_dedicate_assert' => true,
+        'php_unit_dedicate_assert_internal_type' => true,
+        'php_unit_expectation' => true,
+        'php_unit_fqcn_annotation' => true,
+        'php_unit_internal_class' => false, // Because tests are excluded from package
+        'php_unit_method_casing' => true,
+        'php_unit_mock' => true,
+        'php_unit_mock_short_will_return' => true,
+        'php_unit_namespaced' => true,
+        'php_unit_no_expectation_annotation' => true,
+        'phpdoc_order_by_value' => ['annotations' => ['covers']],
+        'php_unit_set_up_tear_down_visibility' => true,
+        'php_unit_size_class' => false, // That seems extra work to maintain for little benefits
+        'php_unit_strict' => false, // We sometime actually need assertEquals
+        'php_unit_test_annotation' => true,
+        'php_unit_test_case_static_method_calls' => ['call_type' => 'self'],
+        'php_unit_test_class_requires_covers' => false, // We don't care as much as we should about coverage
+        'phpdoc_add_missing_param_annotation' => false, // Don't add things that bring no value
+        'phpdoc_align' => false, // Waste of time
+        'phpdoc_annotation_without_dot' => true,
+        'phpdoc_indent' => true,
+        //'phpdoc_inline_tag' => true,
+        'phpdoc_line_span' => false, // Unfortunately our old comments turn even uglier with this
+        'phpdoc_no_access' => true,
+        'phpdoc_no_alias_tag' => true,
+        'phpdoc_no_empty_return' => true,
+        'phpdoc_no_package' => true,
+        'phpdoc_no_useless_inheritdoc' => true,
+        'phpdoc_order' => true,
+        'phpdoc_return_self_reference' => true,
+        'phpdoc_scalar' => true,
+        'phpdoc_separation' => true,
+        'phpdoc_single_line_var_spacing' => true,
+        'phpdoc_summary' => true,
+        'phpdoc_to_comment' => false, // interferes with annotations
+        'phpdoc_to_param_type' => false, // Because experimental, but interesting for one shot use
+        'phpdoc_to_return_type' => false, // idem
+        'phpdoc_trim' => true,
+        'phpdoc_trim_consecutive_blank_line_separation' => true,
+        'phpdoc_types' => true,
+        'phpdoc_types_order' => true,
+        'phpdoc_var_annotation_correct_order' => true,
+        'phpdoc_var_without_name' => true,
+        'pow_to_exponentiation' => true,
+        'protected_to_private' => true,
+        //'psr0' => true,
+        //'psr4' => true,
+        'random_api_migration' => true,
+        'return_assignment' => false, // Sometimes useful for clarity or debug
+        'return_type_declaration' => true,
+        'self_accessor' => true,
+        'self_static_accessor' => true,
+        'semicolon_after_instruction' => false, // Buggy in `samples/index.php`
+        'set_type_to_cast' => true,
+        'short_scalar_cast' => true,
+        'simple_to_complex_string_variable' => false, // Would differ from TypeScript without obvious advantages
+        'simplified_null_return' => false, // Even if technically correct we prefer to be explicit
+        'single_blank_line_at_eof' => true,
+        'single_blank_line_before_namespace' => true,
+        'single_class_element_per_statement' => true,
+        'single_import_per_statement' => true,
+        'single_line_after_imports' => true,
+        'single_line_comment_style' => true,
+        'single_line_throw' => false, // I don't see any reason for having a special case for Exception
+        'single_quote' => true,
+        'single_trait_insert_per_statement' => true,
+        'space_after_semicolon' => true,
+        'standardize_increment' => true,
+        'standardize_not_equals' => true,
+        'static_lambda' => false, // Risky if we can't guarantee nobody use `bindTo()`
+        'strict_comparison' => false, // No, too dangerous to change that
+        'strict_param' => false, // No, too dangerous to change that
+        'string_line_ending' => true,
+        'switch_case_semicolon_to_colon' => true,
+        'switch_case_space' => true,
+        'ternary_operator_spaces' => true,
+        'ternary_to_null_coalescing' => true,
+        'trailing_comma_in_multiline' => true,
+        'trim_array_spaces' => true,
+        'unary_operator_spaces' => true,
+        'visibility_required' => ['elements' => ['property', 'method']], // not const
+        'void_return' => true,
+        'whitespace_after_comma_in_array' => true,
+        'yoda_style' => false,
+    ]);
+
+return $config;

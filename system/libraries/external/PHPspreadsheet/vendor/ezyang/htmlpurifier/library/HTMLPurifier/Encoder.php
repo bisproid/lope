@@ -1,207 +1,617 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+/**
+ * A UTF-8 specific character encoder that handles cleaning and transforming.
+ * @note All functions in this class should be static.
+ */
+class HTMLPurifier_Encoder
+{
+
+    /**
+     * Constructor throws fatal error if you attempt to instantiate class
+     */
+    private function __construct()
+    {
+        trigger_error('Cannot instantiate encoder, call methods statically', E_USER_ERROR);
+    }
+
+    /**
+     * Error-handler that mutes errors, alternative to shut-up operator.
+     */
+    public static function muteErrorHandler()
+    {
+    }
+
+    /**
+     * iconv wrapper which mutes errors, but doesn't work around bugs.
+     * @param string $in Input encoding
+     * @param string $out Output encoding
+     * @param string $text The text to convert
+     * @return string
+     */
+    public static function unsafeIconv($in, $out, $text)
+    {
+        set_error_handler(array('HTMLPurifier_Encoder', 'muteErrorHandler'));
+        $r = iconv($in, $out, $text);
+        restore_error_handler();
+        return $r;
+    }
+
+    /**
+     * iconv wrapper which mutes errors and works around bugs.
+     * @param string $in Input encoding
+     * @param string $out Output encoding
+     * @param string $text The text to convert
+     * @param int $max_chunk_size
+     * @return string
+     */
+    public static function iconv($in, $out, $text, $max_chunk_size = 8000)
+    {
+        $code = self::testIconvTruncateBug();
+        if ($code == self::ICONV_OK) {
+            return self::unsafeIconv($in, $out, $text);
+        } elseif ($code == self::ICONV_TRUNCATES) {
+            // we can only work around this if the input character set
+            // is utf-8
+            if ($in == 'utf-8') {
+                if ($max_chunk_size < 4) {
+                    trigger_error('max_chunk_size is too small', E_USER_WARNING);
+                    return false;
+                }
+                // split into 8000 byte chunks, but be careful to handle
+                // multibyte boundaries properly
+                if (($c = strlen($text)) <= $max_chunk_size) {
+                    return self::unsafeIconv($in, $out, $text);
+                }
+                $r = '';
+                $i = 0;
+                while (true) {
+                    if ($i + $max_chunk_size >= $c) {
+                        $r .= self::unsafeIconv($in, $out, substr($text, $i));
+                        break;
+                    }
+                    // wibble the boundary
+                    if (0x80 != (0xC0 & ord($text[$i + $max_chunk_size]))) {
+                        $chunk_size = $max_chunk_size;
+                    } elseif (0x80 != (0xC0 & ord($text[$i + $max_chunk_size - 1]))) {
+                        $chunk_size = $max_chunk_size - 1;
+                    } elseif (0x80 != (0xC0 & ord($text[$i + $max_chunk_size - 2]))) {
+                        $chunk_size = $max_chunk_size - 2;
+                    } elseif (0x80 != (0xC0 & ord($text[$i + $max_chunk_size - 3]))) {
+                        $chunk_size = $max_chunk_size - 3;
+                    } else {
+                        return false; // rather confusing UTF-8...
+                    }
+                    $chunk = substr($text, $i, $chunk_size); // substr doesn't mind overlong lengths
+                    $r .= self::unsafeIconv($in, $out, $chunk);
+                    $i += $chunk_size;
+                }
+                return $r;
+            } else {
+                return false;
+            }
+        } else {
+            return false;
+        }
+    }
+
+    /**
+     * Cleans a UTF-8 string for well-formedness and SGML validity
+     *
+     * It will parse according to UTF-8 and return a valid UTF8 string, with
+     * non-SGML codepoints excluded.
+     *
+     * Specifically, it will permit:
+     * \x{9}\x{A}\x{D}\x{20}-\x{7E}\x{A0}-\x{D7FF}\x{E000}-\x{FFFD}\x{10000}-\x{10FFFF}
+     * Source: https://www.w3.org/TR/REC-xml/#NT-Char
+     * Arguably this function should be modernized to the HTML5 set
+     * of allowed characters:
+     * https://www.w3.org/TR/html5/syntax.html#preprocessing-the-input-stream
+     * which simultaneously expand and restrict the set of allowed characters.
+     *
+     * @param string $str The string to clean
+     * @param bool $force_php
+     * @return string
+     *
+     * @note Just for reference, the non-SGML code points are 0 to 31 and
+     *       127 to 159, inclusive.  However, we allow code points 9, 10
+     *       and 13, which are the tab, line feed and carriage return
+     *       respectively. 128 and above the code points map to multibyte
+     *       UTF-8 representations.
+     *
+     * @note Fallback code adapted from utf8ToUnicode by Henri Sivonen and
+     *       hsivonen@iki.fi at <http://iki.fi/hsivonen/php-utf8/> under the
+     *       LGPL license.  Notes on what changed are inside, but in general,
+     *       the original code transformed UTF-8 text into an array of integer
+     *       Unicode codepoints. Understandably, transforming that back to
+     *       a string would be somewhat expensive, so the function was modded to
+     *       directly operate on the string.  However, this discourages code
+     *       reuse, and the logic enumerated here would be useful for any
+     *       function that needs to be able to understand UTF-8 characters.
+     *       As of right now, only smart lossless character encoding converters
+     *       would need that, and I'm probably not going to implement them.
+     */
+    public static function cleanUTF8($str, $force_php = false)
+    {
+        // UTF-8 validity is checked since PHP 4.3.5
+        // This is an optimization: if the string is already valid UTF-8, no
+        // need to do PHP stuff. 99% of the time, this will be the case.
+        if (preg_match(
+            '/^[\x{9}\x{A}\x{D}\x{20}-\x{7E}\x{A0}-\x{D7FF}\x{E000}-\x{FFFD}\x{10000}-\x{10FFFF}]*$/Du',
+            $str
+        )) {
+            return $str;
+        }
+
+        $mState = 0; // cached expected number of octets after the current octet
+                     // until the beginning of the next UTF8 character sequence
+        $mUcs4  = 0; // cached Unicode character
+        $mBytes = 1; // cached expected number of octets in the current sequence
+
+        // original code involved an $out that was an array of Unicode
+        // codepoints.  Instead of having to convert back into UTF-8, we've
+        // decided to directly append valid UTF-8 characters onto a string
+        // $out once they're done.  $char accumulates raw bytes, while $mUcs4
+        // turns into the Unicode code point, so there's some redundancy.
+
+        $out = '';
+        $char = '';
+
+        $len = strlen($str);
+        for ($i = 0; $i < $len; $i++) {
+            $in = ord($str[$i]);
+            $char .= $str[$i]; // append byte to char
+            if (0 == $mState) {
+                // When mState is zero we expect either a US-ASCII character
+                // or a multi-octet sequence.
+                if (0 == (0x80 & ($in))) {
+                    // US-ASCII, pass straight through.
+                    if (($in <= 31 || $in == 127) &&
+                        !($in == 9 || $in == 13 || $in == 10) // save \r\t\n
+                    ) {
+                        // control characters, remove
+                    } else {
+                        $out .= $char;
+                    }
+                    // reset
+                    $char = '';
+                    $mBytes = 1;
+                } elseif (0xC0 == (0xE0 & ($in))) {
+                    // First octet of 2 octet sequence
+                    $mUcs4 = ($in);
+                    $mUcs4 = ($mUcs4 & 0x1F) << 6;
+                    $mState = 1;
+                    $mBytes = 2;
+                } elseif (0xE0 == (0xF0 & ($in))) {
+                    // First octet of 3 octet sequence
+                    $mUcs4 = ($in);
+                    $mUcs4 = ($mUcs4 & 0x0F) << 12;
+                    $mState = 2;
+                    $mBytes = 3;
+                } elseif (0xF0 == (0xF8 & ($in))) {
+                    // First octet of 4 octet sequence
+                    $mUcs4 = ($in);
+                    $mUcs4 = ($mUcs4 & 0x07) << 18;
+                    $mState = 3;
+                    $mBytes = 4;
+                } elseif (0xF8 == (0xFC & ($in))) {
+                    // First octet of 5 octet sequence.
+                    //
+                    // This is illegal because the encoded codepoint must be
+                    // either:
+                    // (a) not the shortest form or
+                    // (b) outside the Unicode range of 0-0x10FFFF.
+                    // Rather than trying to resynchronize, we will carry on
+                    // until the end of the sequence and let the later error
+                    // handling code catch it.
+                    $mUcs4 = ($in);
+                    $mUcs4 = ($mUcs4 & 0x03) << 24;
+                    $mState = 4;
+                    $mBytes = 5;
+                } elseif (0xFC == (0xFE & ($in))) {
+                    // First octet of 6 octet sequence, see comments for 5
+                    // octet sequence.
+                    $mUcs4 = ($in);
+                    $mUcs4 = ($mUcs4 & 1) << 30;
+                    $mState = 5;
+                    $mBytes = 6;
+                } else {
+                    // Current octet is neither in the US-ASCII range nor a
+                    // legal first octet of a multi-octet sequence.
+                    $mState = 0;
+                    $mUcs4  = 0;
+                    $mBytes = 1;
+                    $char = '';
+                }
+            } else {
+                // When mState is non-zero, we expect a continuation of the
+                // multi-octet sequence
+                if (0x80 == (0xC0 & ($in))) {
+                    // Legal continuation.
+                    $shift = ($mState - 1) * 6;
+                    $tmp = $in;
+                    $tmp = ($tmp & 0x0000003F) << $shift;
+                    $mUcs4 |= $tmp;
+
+                    if (0 == --$mState) {
+                        // End of the multi-octet sequence. mUcs4 now contains
+                        // the final Unicode codepoint to be output
+
+                        // Check for illegal sequences and codepoints.
+
+                        // From Unicode 3.1, non-shortest form is illegal
+                        if (((2 == $mBytes) && ($mUcs4 < 0x0080)) ||
+                            ((3 == $mBytes) && ($mUcs4 < 0x0800)) ||
+                            ((4 == $mBytes) && ($mUcs4 < 0x10000)) ||
+                            (4 < $mBytes) ||
+                            // From Unicode 3.2, surrogate characters = illegal
+                            (($mUcs4 & 0xFFFFF800) == 0xD800) ||
+                            // Codepoints outside the Unicode range are illegal
+                            ($mUcs4 > 0x10FFFF)
+                        ) {
+
+                        } elseif (0xFEFF != $mUcs4 && // omit BOM
+                            // check for valid Char unicode codepoints
+                            (
+                                0x9 == $mUcs4 ||
+                                0xA == $mUcs4 ||
+                                0xD == $mUcs4 ||
+                                (0x20 <= $mUcs4 && 0x7E >= $mUcs4) ||
+                                // 7F-9F is not strictly prohibited by XML,
+                                // but it is non-SGML, and thus we don't allow it
+                                (0xA0 <= $mUcs4 && 0xD7FF >= $mUcs4) ||
+                                (0xE000 <= $mUcs4 && 0xFFFD >= $mUcs4) ||
+                                (0x10000 <= $mUcs4 && 0x10FFFF >= $mUcs4)
+                            )
+                        ) {
+                            $out .= $char;
+                        }
+                        // initialize UTF8 cache (reset)
+                        $mState = 0;
+                        $mUcs4  = 0;
+                        $mBytes = 1;
+                        $char = '';
+                    }
+                } else {
+                    // ((0xC0 & (*in) != 0x80) && (mState != 0))
+                    // Incomplete multi-octet sequence.
+                    // used to result in complete fail, but we'll reset
+                    $mState = 0;
+                    $mUcs4  = 0;
+                    $mBytes = 1;
+                    $char ='';
+                }
+            }
+        }
+        return $out;
+    }
+
+    /**
+     * Translates a Unicode codepoint into its corresponding UTF-8 character.
+     * @note Based on Feyd's function at
+     *       <http://forums.devnetwork.net/viewtopic.php?p=191404#191404>,
+     *       which is in public domain.
+     * @note While we're going to do code point parsing anyway, a good
+     *       optimization would be to refuse to translate code points that
+     *       are non-SGML characters.  However, this could lead to duplication.
+     * @note This is very similar to the unichr function in
+     *       maintenance/generate-entity-file.php (although this is superior,
+     *       due to its sanity checks).
+     */
+
+    // +----------+----------+----------+----------+
+    // | 33222222 | 22221111 | 111111   |          |
+    // | 10987654 | 32109876 | 54321098 | 76543210 | bit
+    // +----------+----------+----------+----------+
+    // |          |          |          | 0xxxxxxx | 1 byte 0x00000000..0x0000007F
+    // |          |          | 110yyyyy | 10xxxxxx | 2 byte 0x00000080..0x000007FF
+    // |          | 1110zzzz | 10yyyyyy | 10xxxxxx | 3 byte 0x00000800..0x0000FFFF
+    // | 11110www | 10wwzzzz | 10yyyyyy | 10xxxxxx | 4 byte 0x00010000..0x0010FFFF
+    // +----------+----------+----------+----------+
+    // | 00000000 | 00011111 | 11111111 | 11111111 | Theoretical upper limit of legal scalars: 2097151 (0x001FFFFF)
+    // | 00000000 | 00010000 | 11111111 | 11111111 | Defined upper limit of legal scalar codes
+    // +----------+----------+----------+----------+
+
+    public static function unichr($code)
+    {
+        if ($code > 1114111 or $code < 0 or
+          ($code >= 55296 and $code <= 57343) ) {
+            // bits are set outside the "valid" range as defined
+            // by UNICODE 4.1.0
+            return '';
+        }
+
+        $x = $y = $z = $w = 0;
+        if ($code < 128) {
+            // regular ASCII character
+            $x = $code;
+        } else {
+            // set up bits for UTF-8
+            $x = ($code & 63) | 128;
+            if ($code < 2048) {
+                $y = (($code & 2047) >> 6) | 192;
+            } else {
+                $y = (($code & 4032) >> 6) | 128;
+                if ($code < 65536) {
+                    $z = (($code >> 12) & 15) | 224;
+                } else {
+                    $z = (($code >> 12) & 63) | 128;
+                    $w = (($code >> 18) & 7)  | 240;
+                }
+            }
+        }
+        // set up the actual character
+        $ret = '';
+        if ($w) {
+            $ret .= chr($w);
+        }
+        if ($z) {
+            $ret .= chr($z);
+        }
+        if ($y) {
+            $ret .= chr($y);
+        }
+        $ret .= chr($x);
+
+        return $ret;
+    }
+
+    /**
+     * @return bool
+     */
+    public static function iconvAvailable()
+    {
+        static $iconv = null;
+        if ($iconv === null) {
+            $iconv = function_exists('iconv') && self::testIconvTruncateBug() != self::ICONV_UNUSABLE;
+        }
+        return $iconv;
+    }
+
+    /**
+     * Convert a string to UTF-8 based on configuration.
+     * @param string $str The string to convert
+     * @param HTMLPurifier_Config $config
+     * @param HTMLPurifier_Context $context
+     * @return string
+     */
+    public static function convertToUTF8($str, $config, $context)
+    {
+        $encoding = $config->get('Core.Encoding');
+        if ($encoding === 'utf-8') {
+            return $str;
+        }
+        static $iconv = null;
+        if ($iconv === null) {
+            $iconv = self::iconvAvailable();
+        }
+        if ($iconv && !$config->get('Test.ForceNoIconv')) {
+            // unaffected by bugs, since UTF-8 support all characters
+            $str = self::unsafeIconv($encoding, 'utf-8//IGNORE', $str);
+            if ($str === false) {
+                // $encoding is not a valid encoding
+                trigger_error('Invalid encoding ' . $encoding, E_USER_ERROR);
+                return '';
+            }
+            // If the string is bjorked by Shift_JIS or a similar encoding
+            // that doesn't support all of ASCII, convert the naughty
+            // characters to their true byte-wise ASCII/UTF-8 equivalents.
+            $str = strtr($str, self::testEncodingSupportsASCII($encoding));
+            return $str;
+        } elseif ($encoding === 'iso-8859-1') {
+            $str = utf8_encode($str);
+            return $str;
+        }
+        $bug = HTMLPurifier_Encoder::testIconvTruncateBug();
+        if ($bug == self::ICONV_OK) {
+            trigger_error('Encoding not supported, please install iconv', E_USER_ERROR);
+        } else {
+            trigger_error(
+                'You have a buggy version of iconv, see https://bugs.php.net/bug.php?id=48147 ' .
+                'and http://sourceware.org/bugzilla/show_bug.cgi?id=13541',
+                E_USER_ERROR
+            );
+        }
+    }
+
+    /**
+     * Converts a string from UTF-8 based on configuration.
+     * @param string $str The string to convert
+     * @param HTMLPurifier_Config $config
+     * @param HTMLPurifier_Context $context
+     * @return string
+     * @note Currently, this is a lossy conversion, with unexpressable
+     *       characters being omitted.
+     */
+    public static function convertFromUTF8($str, $config, $context)
+    {
+        $encoding = $config->get('Core.Encoding');
+        if ($escape = $config->get('Core.EscapeNonASCIICharacters')) {
+            $str = self::convertToASCIIDumbLossless($str);
+        }
+        if ($encoding === 'utf-8') {
+            return $str;
+        }
+        static $iconv = null;
+        if ($iconv === null) {
+            $iconv = self::iconvAvailable();
+        }
+        if ($iconv && !$config->get('Test.ForceNoIconv')) {
+            // Undo our previous fix in convertToUTF8, otherwise iconv will barf
+            $ascii_fix = self::testEncodingSupportsASCII($encoding);
+            if (!$escape && !empty($ascii_fix)) {
+                $clear_fix = array();
+                foreach ($ascii_fix as $utf8 => $native) {
+                    $clear_fix[$utf8] = '';
+                }
+                $str = strtr($str, $clear_fix);
+            }
+            $str = strtr($str, array_flip($ascii_fix));
+            // Normal stuff
+            $str = self::iconv('utf-8', $encoding . '//IGNORE', $str);
+            return $str;
+        } elseif ($encoding === 'iso-8859-1') {
+            $str = utf8_decode($str);
+            return $str;
+        }
+        trigger_error('Encoding not supported', E_USER_ERROR);
+        // You might be tempted to assume that the ASCII representation
+        // might be OK, however, this is *not* universally true over all
+        // encodings.  So we take the conservative route here, rather
+        // than forcibly turn on %Core.EscapeNonASCIICharacters
+    }
+
+    /**
+     * Lossless (character-wise) conversion of HTML to ASCII
+     * @param string $str UTF-8 string to be converted to ASCII
+     * @return string ASCII encoded string with non-ASCII character entity-ized
+     * @warning Adapted from MediaWiki, claiming fair use: this is a common
+     *       algorithm. If you disagree with this license fudgery,
+     *       implement it yourself.
+     * @note Uses decimal numeric entities since they are best supported.
+     * @note This is a DUMB function: it has no concept of keeping
+     *       character entities that the projected character encoding
+     *       can allow. We could possibly implement a smart version
+     *       but that would require it to also know which Unicode
+     *       codepoints the charset supported (not an easy task).
+     * @note Sort of with cleanUTF8() but it assumes that $str is
+     *       well-formed UTF-8
+     */
+    public static function convertToASCIIDumbLossless($str)
+    {
+        $bytesleft = 0;
+        $result = '';
+        $working = 0;
+        $len = strlen($str);
+        for ($i = 0; $i < $len; $i++) {
+            $bytevalue = ord($str[$i]);
+            if ($bytevalue <= 0x7F) { //0xxx xxxx
+                $result .= chr($bytevalue);
+                $bytesleft = 0;
+            } elseif ($bytevalue <= 0xBF) { //10xx xxxx
+                $working = $working << 6;
+                $working += ($bytevalue & 0x3F);
+                $bytesleft--;
+                if ($bytesleft <= 0) {
+                    $result .= "&#" . $working . ";";
+                }
+            } elseif ($bytevalue <= 0xDF) { //110x xxxx
+                $working = $bytevalue & 0x1F;
+                $bytesleft = 1;
+            } elseif ($bytevalue <= 0xEF) { //1110 xxxx
+                $working = $bytevalue & 0x0F;
+                $bytesleft = 2;
+            } else { //1111 0xxx
+                $working = $bytevalue & 0x07;
+                $bytesleft = 3;
+            }
+        }
+        return $result;
+    }
+
+    /** No bugs detected in iconv. */
+    const ICONV_OK = 0;
+
+    /** Iconv truncates output if converting from UTF-8 to another
+     *  character set with //IGNORE, and a non-encodable character is found */
+    const ICONV_TRUNCATES = 1;
+
+    /** Iconv does not support //IGNORE, making it unusable for
+     *  transcoding purposes */
+    const ICONV_UNUSABLE = 2;
+
+    /**
+     * glibc iconv has a known bug where it doesn't handle the magic
+     * //IGNORE stanza correctly.  In particular, rather than ignore
+     * characters, it will return an EILSEQ after consuming some number
+     * of characters, and expect you to restart iconv as if it were
+     * an E2BIG.  Old versions of PHP did not respect the errno, and
+     * returned the fragment, so as a result you would see iconv
+     * mysteriously truncating output. We can work around this by
+     * manually chopping our input into segments of about 8000
+     * characters, as long as PHP ignores the error code.  If PHP starts
+     * paying attention to the error code, iconv becomes unusable.
+     *
+     * @return int Error code indicating severity of bug.
+     */
+    public static function testIconvTruncateBug()
+    {
+        static $code = null;
+        if ($code === null) {
+            // better not use iconv, otherwise infinite loop!
+            $r = self::unsafeIconv('utf-8', 'ascii//IGNORE', "\xCE\xB1" . str_repeat('a', 9000));
+            if ($r === false) {
+                $code = self::ICONV_UNUSABLE;
+            } elseif (($c = strlen($r)) < 9000) {
+                $code = self::ICONV_TRUNCATES;
+            } elseif ($c > 9000) {
+                trigger_error(
+                    'Your copy of iconv is extremely buggy. Please notify HTML Purifier maintainers: ' .
+                    'include your iconv version as per phpversion()',
+                    E_USER_ERROR
+                );
+            } else {
+                $code = self::ICONV_OK;
+            }
+        }
+        return $code;
+    }
+
+    /**
+     * This expensive function tests whether or not a given character
+     * encoding supports ASCII. 7/8-bit encodings like Shift_JIS will
+     * fail this test, and require special processing. Variable width
+     * encodings shouldn't ever fail.
+     *
+     * @param string $encoding Encoding name to test, as per iconv format
+     * @param bool $bypass Whether or not to bypass the precompiled arrays.
+     * @return Array of UTF-8 characters to their corresponding ASCII,
+     *      which can be used to "undo" any overzealous iconv action.
+     */
+    public static function testEncodingSupportsASCII($encoding, $bypass = false)
+    {
+        // All calls to iconv here are unsafe, proof by case analysis:
+        // If ICONV_OK, no difference.
+        // If ICONV_TRUNCATE, all calls involve one character inputs,
+        // so bug is not triggered.
+        // If ICONV_UNUSABLE, this call is irrelevant
+        static $encodings = array();
+        if (!$bypass) {
+            if (isset($encodings[$encoding])) {
+                return $encodings[$encoding];
+            }
+            $lenc = strtolower($encoding);
+            switch ($lenc) {
+                case 'shift_jis':
+                    return array("\xC2\xA5" => '\\', "\xE2\x80\xBE" => '~');
+                case 'johab':
+                    return array("\xE2\x82\xA9" => '\\');
+            }
+            if (strpos($lenc, 'iso-8859-') === 0) {
+                return array();
+            }
+        }
+        $ret = array();
+        if (self::unsafeIconv('UTF-8', $encoding, 'a') === false) {
+            return false;
+        }
+        for ($i = 0x20; $i <= 0x7E; $i++) { // all printable ASCII chars
+            $c = chr($i); // UTF-8 char
+            $r = self::unsafeIconv('UTF-8', "$encoding//IGNORE", $c); // initial conversion
+            if ($r === '' ||
+                // This line is needed for iconv implementations that do not
+                // omit characters that do not exist in the target character set
+                ($r === $c && self::unsafeIconv($encoding, 'UTF-8//IGNORE', $r) !== $c)
+            ) {
+                // Reverse engineer: what's the UTF-8 equiv of this byte
+                // sequence? This assumes that there's no variable width
+                // encoding that doesn't support ASCII.
+                $ret[self::unsafeIconv($encoding, 'UTF-8//IGNORE', $c)] = $c;
+            }
+        }
+        $encodings[$encoding] = $ret;
+        return $ret;
+    }
+}
+
+// vim: et sw=4 sts=4

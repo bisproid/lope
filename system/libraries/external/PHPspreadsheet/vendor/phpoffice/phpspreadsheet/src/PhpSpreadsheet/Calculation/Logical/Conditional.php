@@ -1,95 +1,209 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Logical;
+
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ErrorValue;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\Value;
+
+class Conditional
+{
+    use ArrayEnabled;
+
+    /**
+     * STATEMENT_IF.
+     *
+     * Returns one value if a condition you specify evaluates to TRUE and another value if it evaluates to FALSE.
+     *
+     * Excel Function:
+     *        =IF(condition[,returnIfTrue[,returnIfFalse]])
+     *
+     *        Condition is any value or expression that can be evaluated to TRUE or FALSE.
+     *            For example, A10=100 is a logical expression; if the value in cell A10 is equal to 100,
+     *            the expression evaluates to TRUE. Otherwise, the expression evaluates to FALSE.
+     *            This argument can use any comparison calculation operator.
+     *        ReturnIfTrue is the value that is returned if condition evaluates to TRUE.
+     *            For example, if this argument is the text string "Within budget" and
+     *                the condition argument evaluates to TRUE, then the IF function returns the text "Within budget"
+     *            If condition is TRUE and ReturnIfTrue is blank, this argument returns 0 (zero).
+     *            To display the word TRUE, use the logical value TRUE for this argument.
+     *            ReturnIfTrue can be another formula.
+     *        ReturnIfFalse is the value that is returned if condition evaluates to FALSE.
+     *            For example, if this argument is the text string "Over budget" and the condition argument evaluates
+     *                to FALSE, then the IF function returns the text "Over budget".
+     *            If condition is FALSE and ReturnIfFalse is omitted, then the logical value FALSE is returned.
+     *            If condition is FALSE and ReturnIfFalse is blank, then the value 0 (zero) is returned.
+     *            ReturnIfFalse can be another formula.
+     *
+     * @param mixed $condition Condition to evaluate
+     * @param mixed $returnIfTrue Value to return when condition is true
+     *              Note that this can be an array value
+     * @param mixed $returnIfFalse Optional value to return when condition is false
+     *              Note that this can be an array value
+     *
+     * @return mixed The value of returnIfTrue or returnIfFalse determined by condition
+     */
+    public static function statementIf($condition = true, $returnIfTrue = 0, $returnIfFalse = false)
+    {
+        $condition = ($condition === null) ? true : Functions::flattenSingleValue($condition);
+
+        if (ErrorValue::isError($condition)) {
+            return $condition;
+        }
+
+        $returnIfTrue = $returnIfTrue ?? 0;
+        $returnIfFalse = $returnIfFalse ?? false;
+
+        return ((bool) $condition) ? $returnIfTrue : $returnIfFalse;
+    }
+
+    /**
+     * STATEMENT_SWITCH.
+     *
+     * Returns corresponding with first match (any data type such as a string, numeric, date, etc).
+     *
+     * Excel Function:
+     *        =SWITCH (expression, value1, result1, value2, result2, ... value_n, result_n [, default])
+     *
+     *        Expression
+     *              The expression to compare to a list of values.
+     *        value1, value2, ... value_n
+     *              A list of values that are compared to expression.
+     *              The SWITCH function is looking for the first value that matches the expression.
+     *        result1, result2, ... result_n
+     *              A list of results. The SWITCH function returns the corresponding result when a value
+     *              matches expression.
+     *              Note that these can be array values to be returned
+     *         default
+     *              Optional. It is the default to return if expression does not match any of the values
+     *              (value1, value2, ... value_n).
+     *              Note that this can be an array value to be returned
+     *
+     * @param mixed $arguments Statement arguments
+     *
+     * @return mixed The value of matched expression
+     */
+    public static function statementSwitch(...$arguments)
+    {
+        $result = ExcelError::VALUE();
+
+        if (count($arguments) > 0) {
+            $targetValue = Functions::flattenSingleValue($arguments[0]);
+            $argc = count($arguments) - 1;
+            $switchCount = floor($argc / 2);
+            $hasDefaultClause = $argc % 2 !== 0;
+            $defaultClause = $argc % 2 === 0 ? null : $arguments[$argc];
+
+            $switchSatisfied = false;
+            if ($switchCount > 0) {
+                for ($index = 0; $index < $switchCount; ++$index) {
+                    if ($targetValue == $arguments[$index * 2 + 1]) {
+                        $result = $arguments[$index * 2 + 2];
+                        $switchSatisfied = true;
+
+                        break;
+                    }
+                }
+            }
+
+            if ($switchSatisfied !== true) {
+                $result = $hasDefaultClause ? $defaultClause : ExcelError::NA();
+            }
+        }
+
+        return $result;
+    }
+
+    /**
+     * IFERROR.
+     *
+     * Excel Function:
+     *        =IFERROR(testValue,errorpart)
+     *
+     * @param mixed $testValue Value to check, is also the value returned when no error
+     *                      Or can be an array of values
+     * @param mixed $errorpart Value to return when testValue is an error condition
+     *              Note that this can be an array value to be returned
+     *
+     * @return mixed The value of errorpart or testValue determined by error condition
+     *         If an array of values is passed as the $testValue argument, then the returned result will also be
+     *            an array with the same dimensions
+     */
+    public static function IFERROR($testValue = '', $errorpart = '')
+    {
+        if (is_array($testValue)) {
+            return self::evaluateArrayArgumentsSubset([self::class, __FUNCTION__], 1, $testValue, $errorpart);
+        }
+
+        $errorpart = $errorpart ?? '';
+
+        return self::statementIf(ErrorValue::isError($testValue), $errorpart, $testValue);
+    }
+
+    /**
+     * IFNA.
+     *
+     * Excel Function:
+     *        =IFNA(testValue,napart)
+     *
+     * @param mixed $testValue Value to check, is also the value returned when not an NA
+     *                      Or can be an array of values
+     * @param mixed $napart Value to return when testValue is an NA condition
+     *              Note that this can be an array value to be returned
+     *
+     * @return mixed The value of errorpart or testValue determined by error condition
+     *         If an array of values is passed as the $testValue argument, then the returned result will also be
+     *            an array with the same dimensions
+     */
+    public static function IFNA($testValue = '', $napart = '')
+    {
+        if (is_array($testValue)) {
+            return self::evaluateArrayArgumentsSubset([self::class, __FUNCTION__], 1, $testValue, $napart);
+        }
+
+        $napart = $napart ?? '';
+
+        return self::statementIf(ErrorValue::isNa($testValue), $napart, $testValue);
+    }
+
+    /**
+     * IFS.
+     *
+     * Excel Function:
+     *         =IFS(testValue1;returnIfTrue1;testValue2;returnIfTrue2;...;testValue_n;returnIfTrue_n)
+     *
+     *         testValue1 ... testValue_n
+     *             Conditions to Evaluate
+     *         returnIfTrue1 ... returnIfTrue_n
+     *             Value returned if corresponding testValue (nth) was true
+     *
+     * @param mixed ...$arguments Statement arguments
+     *              Note that this can be an array value to be returned
+     *
+     * @return mixed|string The value of returnIfTrue_n, if testValue_n was true. #N/A if none of testValues was true
+     */
+    public static function IFS(...$arguments)
+    {
+        $argumentCount = count($arguments);
+
+        if ($argumentCount % 2 != 0) {
+            return ExcelError::NA();
+        }
+        // We use instance of Exception as a falseValue in order to prevent string collision with value in cell
+        $falseValueException = new Exception();
+        for ($i = 0; $i < $argumentCount; $i += 2) {
+            $testValue = ($arguments[$i] === null) ? '' : Functions::flattenSingleValue($arguments[$i]);
+            $returnIfTrue = ($arguments[$i + 1] === null) ? '' : $arguments[$i + 1];
+            $result = self::statementIf($testValue, $returnIfTrue, $falseValueException);
+
+            if ($result !== $falseValueException) {
+                return $result;
+            }
+        }
+
+        return ExcelError::NA();
+    }
+}

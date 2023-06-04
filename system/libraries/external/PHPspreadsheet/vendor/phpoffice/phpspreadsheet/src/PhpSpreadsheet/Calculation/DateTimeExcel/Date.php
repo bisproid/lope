@@ -1,105 +1,172 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-opSVDkrUY/IvTH7Dp0==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\DateTimeExcel;
+
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+use PhpOffice\PhpSpreadsheet\Shared\Date as SharedDateHelper;
+use PhpOffice\PhpSpreadsheet\Shared\StringHelper;
+
+class Date
+{
+    use ArrayEnabled;
+
+    /**
+     * DATE.
+     *
+     * The DATE function returns a value that represents a particular date.
+     *
+     * NOTE: When used in a Cell Formula, MS Excel changes the cell format so that it matches the date
+     * format of your regional settings. PhpSpreadsheet does not change cell formatting in this way.
+     *
+     * Excel Function:
+     *        DATE(year,month,day)
+     *
+     * PhpSpreadsheet is a lot more forgiving than MS Excel when passing non numeric values to this function.
+     * A Month name or abbreviation (English only at this point) such as 'January' or 'Jan' will still be accepted,
+     *     as will a day value with a suffix (e.g. '21st' rather than simply 21); again only English language.
+     *
+     * @param array|int $year The value of the year argument can include one to four digits.
+     *                                Excel interprets the year argument according to the configured
+     *                                date system: 1900 or 1904.
+     *                                If year is between 0 (zero) and 1899 (inclusive), Excel adds that
+     *                                value to 1900 to calculate the year. For example, DATE(108,1,2)
+     *                                returns January 2, 2008 (1900+108).
+     *                                If year is between 1900 and 9999 (inclusive), Excel uses that
+     *                                value as the year. For example, DATE(2008,1,2) returns January 2,
+     *                                2008.
+     *                                If year is less than 0 or is 10000 or greater, Excel returns the
+     *                                #NUM! error value.
+     * @param array|int $month A positive or negative integer representing the month of the year
+     *                                from 1 to 12 (January to December).
+     *                                If month is greater than 12, month adds that number of months to
+     *                                the first month in the year specified. For example, DATE(2008,14,2)
+     *                                returns the serial number representing February 2, 2009.
+     *                                If month is less than 1, month subtracts the magnitude of that
+     *                                number of months, plus 1, from the first month in the year
+     *                                specified. For example, DATE(2008,-3,2) returns the serial number
+     *                                representing September 2, 2007.
+     * @param array|int $day A positive or negative integer representing the day of the month
+     *                                from 1 to 31.
+     *                                If day is greater than the number of days in the month specified,
+     *                                day adds that number of days to the first day in the month. For
+     *                                example, DATE(2008,1,35) returns the serial number representing
+     *                                February 4, 2008.
+     *                                If day is less than 1, day subtracts the magnitude that number of
+     *                                days, plus one, from the first day of the month specified. For
+     *                                example, DATE(2008,1,-15) returns the serial number representing
+     *                                December 16, 2007.
+     *
+     * @return mixed Excel date/time serial value, PHP date/time serial value or PHP date/time object,
+     *                        depending on the value of the ReturnDateType flag
+     *         If an array of numbers is passed as the argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function fromYMD($year, $month, $day)
+    {
+        if (is_array($year) || is_array($month) || is_array($day)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $year, $month, $day);
+        }
+
+        $baseYear = SharedDateHelper::getExcelCalendar();
+
+        try {
+            $year = self::getYear($year, $baseYear);
+            $month = self::getMonth($month);
+            $day = self::getDay($day);
+            self::adjustYearMonth($year, $month, $baseYear);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        // Execute function
+        $excelDateValue = SharedDateHelper::formattedPHPToExcel($year, $month, $day);
+
+        return Helpers::returnIn3FormatsFloat($excelDateValue);
+    }
+
+    /**
+     * Convert year from multiple formats to int.
+     *
+     * @param mixed $year
+     */
+    private static function getYear($year, int $baseYear): int
+    {
+        $year = ($year !== null) ? StringHelper::testStringAsNumeric((string) $year) : 0;
+        if (!is_numeric($year)) {
+            throw new Exception(ExcelError::VALUE());
+        }
+        $year = (int) $year;
+
+        if ($year < ($baseYear - 1900)) {
+            throw new Exception(ExcelError::NAN());
+        }
+        if ((($baseYear - 1900) !== 0) && ($year < $baseYear) && ($year >= 1900)) {
+            throw new Exception(ExcelError::NAN());
+        }
+
+        if (($year < $baseYear) && ($year >= ($baseYear - 1900))) {
+            $year += 1900;
+        }
+
+        return (int) $year;
+    }
+
+    /**
+     * Convert month from multiple formats to int.
+     *
+     * @param mixed $month
+     */
+    private static function getMonth($month): int
+    {
+        if (($month !== null) && (!is_numeric($month))) {
+            $month = SharedDateHelper::monthStringToNumber($month);
+        }
+
+        $month = ($month !== null) ? StringHelper::testStringAsNumeric((string) $month) : 0;
+        if (!is_numeric($month)) {
+            throw new Exception(ExcelError::VALUE());
+        }
+
+        return (int) $month;
+    }
+
+    /**
+     * Convert day from multiple formats to int.
+     *
+     * @param mixed $day
+     */
+    private static function getDay($day): int
+    {
+        if (($day !== null) && (!is_numeric($day))) {
+            $day = SharedDateHelper::dayStringToNumber($day);
+        }
+
+        $day = ($day !== null) ? StringHelper::testStringAsNumeric((string) $day) : 0;
+        if (!is_numeric($day)) {
+            throw new Exception(ExcelError::VALUE());
+        }
+
+        return (int) $day;
+    }
+
+    private static function adjustYearMonth(int &$year, int &$month, int $baseYear): void
+    {
+        if ($month < 1) {
+            //    Handle year/month adjustment if month < 1
+            --$month;
+            $year += ceil($month / 12) - 1;
+            $month = 13 - abs($month % 12);
+        } elseif ($month > 12) {
+            //    Handle year/month adjustment if month > 12
+            $year += floor($month / 12);
+            $month = ($month % 12);
+        }
+
+        // Re-validate the year parameter after adjustments
+        if (($year < $baseYear) || ($year >= 10000)) {
+            throw new Exception(ExcelError::NAN());
+        }
+    }
+}

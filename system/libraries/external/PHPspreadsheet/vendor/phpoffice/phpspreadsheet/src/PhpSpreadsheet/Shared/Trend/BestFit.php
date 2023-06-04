@@ -1,176 +1,461 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-kRlVuKO=
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Shared\Trend;
+
+abstract class BestFit
+{
+    /**
+     * Indicator flag for a calculation error.
+     *
+     * @var bool
+     */
+    protected $error = false;
+
+    /**
+     * Algorithm type to use for best-fit.
+     *
+     * @var string
+     */
+    protected $bestFitType = 'undetermined';
+
+    /**
+     * Number of entries in the sets of x- and y-value arrays.
+     *
+     * @var int
+     */
+    protected $valueCount = 0;
+
+    /**
+     * X-value dataseries of values.
+     *
+     * @var float[]
+     */
+    protected $xValues = [];
+
+    /**
+     * Y-value dataseries of values.
+     *
+     * @var float[]
+     */
+    protected $yValues = [];
+
+    /**
+     * Flag indicating whether values should be adjusted to Y=0.
+     *
+     * @var bool
+     */
+    protected $adjustToZero = false;
+
+    /**
+     * Y-value series of best-fit values.
+     *
+     * @var float[]
+     */
+    protected $yBestFitValues = [];
+
+    protected $goodnessOfFit = 1;
+
+    protected $stdevOfResiduals = 0;
+
+    protected $covariance = 0;
+
+    protected $correlation = 0;
+
+    protected $SSRegression = 0;
+
+    protected $SSResiduals = 0;
+
+    protected $DFResiduals = 0;
+
+    protected $f = 0;
+
+    protected $slope = 0;
+
+    protected $slopeSE = 0;
+
+    protected $intersect = 0;
+
+    protected $intersectSE = 0;
+
+    protected $xOffset = 0;
+
+    protected $yOffset = 0;
+
+    public function getError()
+    {
+        return $this->error;
+    }
+
+    public function getBestFitType()
+    {
+        return $this->bestFitType;
+    }
+
+    /**
+     * Return the Y-Value for a specified value of X.
+     *
+     * @param float $xValue X-Value
+     *
+     * @return float Y-Value
+     */
+    abstract public function getValueOfYForX($xValue);
+
+    /**
+     * Return the X-Value for a specified value of Y.
+     *
+     * @param float $yValue Y-Value
+     *
+     * @return float X-Value
+     */
+    abstract public function getValueOfXForY($yValue);
+
+    /**
+     * Return the original set of X-Values.
+     *
+     * @return float[] X-Values
+     */
+    public function getXValues()
+    {
+        return $this->xValues;
+    }
+
+    /**
+     * Return the Equation of the best-fit line.
+     *
+     * @param int $dp Number of places of decimal precision to display
+     *
+     * @return string
+     */
+    abstract public function getEquation($dp = 0);
+
+    /**
+     * Return the Slope of the line.
+     *
+     * @param int $dp Number of places of decimal precision to display
+     *
+     * @return float
+     */
+    public function getSlope($dp = 0)
+    {
+        if ($dp != 0) {
+            return round($this->slope, $dp);
+        }
+
+        return $this->slope;
+    }
+
+    /**
+     * Return the standard error of the Slope.
+     *
+     * @param int $dp Number of places of decimal precision to display
+     *
+     * @return float
+     */
+    public function getSlopeSE($dp = 0)
+    {
+        if ($dp != 0) {
+            return round($this->slopeSE, $dp);
+        }
+
+        return $this->slopeSE;
+    }
+
+    /**
+     * Return the Value of X where it intersects Y = 0.
+     *
+     * @param int $dp Number of places of decimal precision to display
+     *
+     * @return float
+     */
+    public function getIntersect($dp = 0)
+    {
+        if ($dp != 0) {
+            return round($this->intersect, $dp);
+        }
+
+        return $this->intersect;
+    }
+
+    /**
+     * Return the standard error of the Intersect.
+     *
+     * @param int $dp Number of places of decimal precision to display
+     *
+     * @return float
+     */
+    public function getIntersectSE($dp = 0)
+    {
+        if ($dp != 0) {
+            return round($this->intersectSE, $dp);
+        }
+
+        return $this->intersectSE;
+    }
+
+    /**
+     * Return the goodness of fit for this regression.
+     *
+     * @param int $dp Number of places of decimal precision to return
+     *
+     * @return float
+     */
+    public function getGoodnessOfFit($dp = 0)
+    {
+        if ($dp != 0) {
+            return round($this->goodnessOfFit, $dp);
+        }
+
+        return $this->goodnessOfFit;
+    }
+
+    /**
+     * Return the goodness of fit for this regression.
+     *
+     * @param int $dp Number of places of decimal precision to return
+     *
+     * @return float
+     */
+    public function getGoodnessOfFitPercent($dp = 0)
+    {
+        if ($dp != 0) {
+            return round($this->goodnessOfFit * 100, $dp);
+        }
+
+        return $this->goodnessOfFit * 100;
+    }
+
+    /**
+     * Return the standard deviation of the residuals for this regression.
+     *
+     * @param int $dp Number of places of decimal precision to return
+     *
+     * @return float
+     */
+    public function getStdevOfResiduals($dp = 0)
+    {
+        if ($dp != 0) {
+            return round($this->stdevOfResiduals, $dp);
+        }
+
+        return $this->stdevOfResiduals;
+    }
+
+    /**
+     * @param int $dp Number of places of decimal precision to return
+     *
+     * @return float
+     */
+    public function getSSRegression($dp = 0)
+    {
+        if ($dp != 0) {
+            return round($this->SSRegression, $dp);
+        }
+
+        return $this->SSRegression;
+    }
+
+    /**
+     * @param int $dp Number of places of decimal precision to return
+     *
+     * @return float
+     */
+    public function getSSResiduals($dp = 0)
+    {
+        if ($dp != 0) {
+            return round($this->SSResiduals, $dp);
+        }
+
+        return $this->SSResiduals;
+    }
+
+    /**
+     * @param int $dp Number of places of decimal precision to return
+     *
+     * @return float
+     */
+    public function getDFResiduals($dp = 0)
+    {
+        if ($dp != 0) {
+            return round($this->DFResiduals, $dp);
+        }
+
+        return $this->DFResiduals;
+    }
+
+    /**
+     * @param int $dp Number of places of decimal precision to return
+     *
+     * @return float
+     */
+    public function getF($dp = 0)
+    {
+        if ($dp != 0) {
+            return round($this->f, $dp);
+        }
+
+        return $this->f;
+    }
+
+    /**
+     * @param int $dp Number of places of decimal precision to return
+     *
+     * @return float
+     */
+    public function getCovariance($dp = 0)
+    {
+        if ($dp != 0) {
+            return round($this->covariance, $dp);
+        }
+
+        return $this->covariance;
+    }
+
+    /**
+     * @param int $dp Number of places of decimal precision to return
+     *
+     * @return float
+     */
+    public function getCorrelation($dp = 0)
+    {
+        if ($dp != 0) {
+            return round($this->correlation, $dp);
+        }
+
+        return $this->correlation;
+    }
+
+    /**
+     * @return float[]
+     */
+    public function getYBestFitValues()
+    {
+        return $this->yBestFitValues;
+    }
+
+    protected function calculateGoodnessOfFit($sumX, $sumY, $sumX2, $sumY2, $sumXY, $meanX, $meanY, $const): void
+    {
+        $SSres = $SScov = $SScor = $SStot = $SSsex = 0.0;
+        foreach ($this->xValues as $xKey => $xValue) {
+            $bestFitY = $this->yBestFitValues[$xKey] = $this->getValueOfYForX($xValue);
+
+            $SSres += ($this->yValues[$xKey] - $bestFitY) * ($this->yValues[$xKey] - $bestFitY);
+            if ($const === true) {
+                $SStot += ($this->yValues[$xKey] - $meanY) * ($this->yValues[$xKey] - $meanY);
+            } else {
+                $SStot += $this->yValues[$xKey] * $this->yValues[$xKey];
+            }
+            $SScov += ($this->xValues[$xKey] - $meanX) * ($this->yValues[$xKey] - $meanY);
+            if ($const === true) {
+                $SSsex += ($this->xValues[$xKey] - $meanX) * ($this->xValues[$xKey] - $meanX);
+            } else {
+                $SSsex += $this->xValues[$xKey] * $this->xValues[$xKey];
+            }
+        }
+
+        $this->SSResiduals = $SSres;
+        $this->DFResiduals = $this->valueCount - 1 - ($const === true ? 1 : 0);
+
+        if ($this->DFResiduals == 0.0) {
+            $this->stdevOfResiduals = 0.0;
+        } else {
+            $this->stdevOfResiduals = sqrt($SSres / $this->DFResiduals);
+        }
+        if (($SStot == 0.0) || ($SSres == $SStot)) {
+            $this->goodnessOfFit = 1;
+        } else {
+            $this->goodnessOfFit = 1 - ($SSres / $SStot);
+        }
+
+        $this->SSRegression = $this->goodnessOfFit * $SStot;
+        $this->covariance = $SScov / $this->valueCount;
+        $this->correlation = ($this->valueCount * $sumXY - $sumX * $sumY) / sqrt(($this->valueCount * $sumX2 - $sumX ** 2) * ($this->valueCount * $sumY2 - $sumY ** 2));
+        $this->slopeSE = $this->stdevOfResiduals / sqrt($SSsex);
+        $this->intersectSE = $this->stdevOfResiduals * sqrt(1 / ($this->valueCount - ($sumX * $sumX) / $sumX2));
+        if ($this->SSResiduals != 0.0) {
+            if ($this->DFResiduals == 0.0) {
+                $this->f = 0.0;
+            } else {
+                $this->f = $this->SSRegression / ($this->SSResiduals / $this->DFResiduals);
+            }
+        } else {
+            if ($this->DFResiduals == 0.0) {
+                $this->f = 0.0;
+            } else {
+                $this->f = $this->SSRegression / $this->DFResiduals;
+            }
+        }
+    }
+
+    private function sumSquares(array $values)
+    {
+        return array_sum(
+            array_map(
+                function ($value) {
+                    return $value ** 2;
+                },
+                $values
+            )
+        );
+    }
+
+    /**
+     * @param float[] $yValues
+     * @param float[] $xValues
+     */
+    protected function leastSquareFit(array $yValues, array $xValues, bool $const): void
+    {
+        // calculate sums
+        $sumValuesX = array_sum($xValues);
+        $sumValuesY = array_sum($yValues);
+        $meanValueX = $sumValuesX / $this->valueCount;
+        $meanValueY = $sumValuesY / $this->valueCount;
+        $sumSquaresX = $this->sumSquares($xValues);
+        $sumSquaresY = $this->sumSquares($yValues);
+        $mBase = $mDivisor = 0.0;
+        $xy_sum = 0.0;
+        for ($i = 0; $i < $this->valueCount; ++$i) {
+            $xy_sum += $xValues[$i] * $yValues[$i];
+
+            if ($const === true) {
+                $mBase += ($xValues[$i] - $meanValueX) * ($yValues[$i] - $meanValueY);
+                $mDivisor += ($xValues[$i] - $meanValueX) * ($xValues[$i] - $meanValueX);
+            } else {
+                $mBase += $xValues[$i] * $yValues[$i];
+                $mDivisor += $xValues[$i] * $xValues[$i];
+            }
+        }
+
+        // calculate slope
+        $this->slope = $mBase / $mDivisor;
+
+        // calculate intersect
+        $this->intersect = ($const === true) ? $meanValueY - ($this->slope * $meanValueX) : 0.0;
+
+        $this->calculateGoodnessOfFit($sumValuesX, $sumValuesY, $sumSquaresX, $sumSquaresY, $xy_sum, $meanValueX, $meanValueY, $const);
+    }
+
+    /**
+     * Define the regression.
+     *
+     * @param float[] $yValues The set of Y-values for this regression
+     * @param float[] $xValues The set of X-values for this regression
+     */
+    public function __construct($yValues, $xValues = [])
+    {
+        //    Calculate number of points
+        $yValueCount = count($yValues);
+        $xValueCount = count($xValues);
+
+        //    Define X Values if necessary
+        if ($xValueCount === 0) {
+            $xValues = range(1, $yValueCount);
+        } elseif ($yValueCount !== $xValueCount) {
+            //    Ensure both arrays of points are the same size
+            $this->error = true;
+        }
+
+        $this->valueCount = $yValueCount;
+        $this->xValues = $xValues;
+        $this->yValues = $yValues;
+    }
+}

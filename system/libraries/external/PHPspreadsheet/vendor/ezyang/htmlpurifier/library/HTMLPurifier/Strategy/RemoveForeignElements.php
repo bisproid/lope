@@ -1,127 +1,207 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP/FIJewbZREXm17RhHzspb/KatXKIOtSbjKGapzVepkiu2u5V7yNDzTxiDCKQTN6uX39r1A5
-Kl/KaLM3h0S6EMVv6MdWIEbUep5zxLiiqXSBb43B+qZSsoi9JAd/OXsxzFRXSLKUjerfghxKYKou
-ae884Rj4WK+gJej/LmewhPY1B1KntICWlO8mQP/afF29oKo1u/bzkRBtmfBMGUN2R8uT6gBZTMeT
-slh2WgFPqG1UUBBuy5ovulE7Ua5IkfOIWoLdp7lbqy9cRYTAe5rGjEBxx+63uMC16VRTs96l3IzG
-qeL2gG1SSda49+KqM/uHYc2UvrRQbrLvmXWa0YqSqJGqfQV02AAgjhMF1PhqRnkQe9pZ/BdkQg4b
-o65uD4SRKCIItQswh16R4vcY0oCHjBE5AoWbvh+f+WELgd1+ZcjhGd3/3yrsBXUHkzv9M2mpDdlI
-vjI7vx4eQRUwyPDVh5VoxMI8rzvQbqFkwN9hLlt6ffMrBGCXcmADMmM1dU9bccSKNjLSGMXfJ5OR
-P3qbh5THafKWXzq+srCZpQvmW5fHalRcnA1rEhvE3s2dORTiRe7pzNJhqQD/7qaZGlg2qOjfSSPB
-f6yMGyo+yzeXT5AEMjC633EtkyviW8fpscKwwNx2v5sN2mVsqkweBSP5otvPC4sTqoEyKc2IxlQ7
-EVzWtBAPlUYyvHrv1Kdi6/7Aga6DX7Jhsm2CSWuos10Sl3R6zmJYaYT/zoYndf7vz5IYZrsLW+Kv
-iXQXlMUJQZjkAFd4Ngzg8qWZLq/6SK0VPs3TSgQP+onoNuS7wHGxX4616GeplB4+s+4wKKmcJDZd
-rswma88PVvltVH0VR3dZs+P6E2rRKvH/m0ycAXOG/TGwzFpY/nXjTomS32YE5ue8A6lvPnGBoaJA
-4VlLrLlP+71haTxuYJ1cl+c1BV92I0PpGN0GLQDYfM/S5XeGio8iMZc2LqqegERNxBDwvbIss3tZ
-7LoV4Sgp9jPQkq7oPaCKGdZ602BOkNOBHV1X2PTZBWvttYiZLYCBtapf0KTPCYsGtwt8DksNPSIK
-OnJOb4ZUKt9NxbHZ0vaicK4R2iw3U6W1guZQJCuKA/PiCtbNAL80x54B7GHotuE7IHJmQnVFX+Zq
-HeL/wU4nShJuPLARmxmwMysfSyyU5a1EyVCmWrZGZqL0nMIxsnBs+3N544Lt/grsLmXL+n7FmEYx
-v9BrMQZVAW3Ho4xSKrVbcv08cyDbOdmL4D3u8moWVIQ/27fJbk8zvOLU4lW6Plrba/2CWzObuTQD
-Jmg52aeofhz7Zj81O8K0jJJ8soJQbXnthkwf2mirVNJnurgQbHUAB3PoVXM7/45p9IaNzDhvzBX1
-MaJnbtrWH5x/xW/Lkpswc1FFl+dsWyo59y6ck+KWzaOT0HRrQRKlnBBTSNl5kV/wdNLY/UJVb5I6
-lQhiPURWMk9JMxA/NhcQ38Z89+Lvk7RVhOLP+Ux+HBEg0LFVCcIs4oUnfBV7ZSn5/VDlYdaFiaTx
-pRWuXRjN2+3l745YVNoDIHj5CpraX18zhyzNke/5/UtX0IvBuwn+T+8rMPNmL+DylJ08R9ncrgTY
-tCUOX19cX/elBkK+ab4S8gfa4Qzq84S2FZXj7+Mds/fHQFRXIgAWfK/6dWse8qYDWgaM0Fjv2hG3
-8WDy1FVL4+XY2NQMbZrbKUcgpZCFTRjkGWD0/BatrvB0P3v2PWtn1g2zhgG4Umef5QiAXiSIyPAY
-LsP03aYFsCbULCzBdkZhqjCkphvtTEy6VpI/YXQyZ+x8doIcUQwL6HpxkkGS5MYmPURaowZ7utxU
-K9c3gIZuzUTxWiU/d14C5Kr24nf2ieYLSLf+qy5AoyG3kK2Ki0mx4b5ZP9uz+kqlrowowfrdmRr8
-P0nXa5vEw/A6F/P3OZvSk0JOfaE8VAsi1nXXrJkY3XjHKfHcYM5p0CZhMVDWrpVzJw9t8mRQ1s77
-68mRBJ2y9n16eG/Z8l46ED4CAPUHzDe60Un/h9VR3Z4HMsvXyZJF6tBxVGmb+prxWpM+DdWI1ipQ
-iKrWtUNZcrVsoE8R/yLRa72ejs++AFJIrmM2kcV98AspEehqyIOeUcKMmOaZ5rmYErjN8qOEb7ZW
-qjFqwkJYt9PGScOF2b4NzbWFDBd5jHeN/39yHIjmDzEx8DDGeI+4/IjGZAOFYF4vxyPZ0RlEQqx9
-F+n4VrtA3XJ1md2JxObe0tAORgpgWihd9EFmlx2fcpuV+CYBqu2fICFb/PgSW/Z5BwoJ2dVOPUUf
-zDwS5gQTzoqXjToMRvF+Rofy+p8QB0drapkz9YWWEYd3/WL7CaFwCAisDHHNmV/D4iGFQDbzEHZt
-myNXW2csFQRvyUHdyBuTzuyvBRMvY8jHgSVSe/ch+Os++0t0q9fQ0Yd/rAMEEnPG73B6lIjIln5A
-XSHx9tIyJSxXhQJvqszYLMn1oiE9msppfe9UmsXJOb/4w/bDfJU0vRBhsFVJqGytco1Bn+kFgYOa
-WJgqpfDgQYt7tuZOjd16IKR+lZCJmgn8uXykeD+EzFbC665ZqtZC6TCwRg/PKUoC9T94T2P9XSk6
-eTbnBn5ET6FP6G/qFWJkNdxxIaZeMUY5DXoXjez4cd+NnDbtQ4p8jbk7LcFLl2FmGHQfJMBV30gs
-dOKrOg0VjJesls9BeVOuNJNwVnTyj1Oz1CQz2o9kUKJJMwN6IGWxCPkc4+ZbOhnZR77D6dtNcvGH
-iRUvBDMZBlnnZEz1UDsaD9TQknxMXQbzIQnDC/4rNiIboCD+aXax+g6qq9qsXyelCLYMyUVSIWmj
-RcMJyPFwpKfEtXxpD4I+XvgJ3PZXR801TEAIG8rzU59RccfHba7L/SRg3aZNuVqkQd5BUadEsM79
-V6qg4dGMDvsjkLhLKgUmcRPZPu0TcZcB9BRTQjuX/Fm/CdVekCbKvfc0v3FkT0eYmKRxZaaM+mia
-+pO0PBuZS7Y8ECG77rnOYvb4jSRxZuqJJ7keYAFSuldqgZ+d30AKC2nuzWbDBNNKxr+2SGJ2ewsr
-+Ak5kaKMW9X/9267tRbEklZEdi7BrONTP1vS6SNo4OYjFyDh9CRhUEO1SSWf//aHTdGbyg/CbeYg
-YIgDzoXuR8Xb+qHbh4TDg+rZlt/S15OVgvn0qrSg3mtk2A5zr36ivaYfRXU9BmJhWHxhOalXXFKV
-ncGWQO8NYTGLuPUxgDHYkpVlccFosGrch7m6b9YTBn+T3o1moOwMIjFVj2FvOvqq+Prmubb736by
-UzTIZM5lZqrva3AD5HWTBXjkFrqxAUAPuzV4y5Pw7v1uQAxpzaN9S4uOliC24rYt/9kJzIIUeQGS
-6ps6bZfdy3i1BV60qsTc4cxaKLSswX1n8g4mio341nBMFT8NtBreL09gH+ZE9zUu90ibHSP+I+M4
-gTgBxcF5KCYABR1l/4xSe4GujBz4BswBlrtTrhq50vQDz+LSkqus7mokQjFStllHhSNSXuQ0B+qS
-38OYtWhpYEj9pnigTMRrGuo4gXt6PztYqjyXhGJw19X6lNaSbyZuWIb0TIjyndKJKVE0wt4kWC/U
-YaVznRtvh/hTDWzmfDwch95R79x58EmhyaatDf3S9mvhNvK9Pi6QYV9nlolez14I+P2Un1BUqxNR
-CXS79zgC4uqjQVp0CqY9hf/hcu9MiEQApoVSUGc6RTB/2UXulg/PFhfhmRuZisT+K0U1nSQKsXdm
-Owjusrp//LqE2N8z0dfsV0l8vEInCvw26qTg5kYl4EioZRaBYCqSVqmqP1oVavbRGNCfZqGhm6wS
-nTn0G/oq3uUs4Vpi2MoeLkbngPROCDnBsJJLj/EPk+Hgmpy0bT/NdzN3UyyP/0nuSa9wpOEq+QkX
-wwop/X8gcSq9iUI3NB3qYHsKzl8RkeC5WTwTXreG/m+zamBoFIF6cLf6vj9ltgLPRKSmWUDUYz6E
-0gDpw6aQzdwsfb0xlKnf+OVBeTQBZRCn4RCofJuQil1aaOir0Zu+YYl2Mv0fviSaxi/eqpWeSO+M
-M4oH0prtUDjtCpuApEd7QbgwwXoxEzrBo0zakuDutLycjexsHjIb5nxhOYJi9VHWVPbHc9NnTiT7
-XnWBbXjUOPE6QuwTReNFuC8QkQV+rVaBtqxSBWCvgJ/+bGbf6gBG6T/9NKRkZ9j6zKq2awk7Z8nG
-SizmKnwXOmfRoSq3BwcnE2C4eN6Ho2G1o1PAK2A8uU93SIORPMSgvAU35VwaCgnLxeuOhqbOdPIu
-kScBRJyDu/WeoCeTBj65rhXBLZW6QIP7czIrP85GihEu9bzRHLWlLekcVnjuP7qnW/GwmiqJU8Ev
-DjQd2NVpaFnhu3Urq6XIhFuUDSb05yzp+cc0XcO1MtGspgPe8gq+nX6rM/IwOt+ZqxFB0xMKijuL
-UgSL2e4TpvXML7LUDjqMvIZcoakBZ2mHyXcaOX0pvK9iunjGBvC2vjYCD3KDkGZGY5+E7JNjZp4T
-Ast/ZUXkpYW1rhO1jf5ZU6bsYOnZHujupojPRZ7/BBY9urL6IY+V2acuVPz2xhoKrG/bCBMYB7qh
-2AnvLQBu8y/Lax/qzYDZHn+25GQ+LJgGL2QLRfbSBUlwmi0wr6EgoL0ZsGSUqRc1zA+pa3K3anjR
-99ikuY1Oahv6pBy9dxsVAKoH8CGG2tZApIktbVjAugRSY0hb23FcVsbPdHjZCLYj51cqAWiC2tY1
-Iz+s51W/hYseJg2zbUKdN8KA0j+8rzv1G09nFV+r4dM5k4E389lIXRsX6vY8sz3VdpDQ83rrtMUc
-jty4WoF9kG1Bwzxzuc4FKBe64UZpQyGTaY5kOTdZ9l+lFna/3wrAXtJZAkj9y2Xt2x1NAumxqSt2
-nsHM2IBBc+RGlLQaiPL0aIjC9roDblGupsmMcVu6gtSkY4RgTRpYPIlkOQYjZSZaCOkZ17+rEWnY
-IgMR+nx+RbuRQc37pM9Gdhca99VXm4J7FRfYCkURIWtbajsWdVqB6isFnMINWPyYcIJDbEDB92fs
-IMi3Hp6I8bN4xeLKZwZrS+rD4ZrEM8eI7HrcUE/0ijY26fQmDEdQRUxog13Dae5L2E+xROmq9E0A
-pcb4y/4G06w6q2SX9WhKm1AoDO4qe9I0ErexqEAMVXyEoFM/9dxlsToA5T6qQ+8io1IeJzxt5vSD
-Fof9ZJRyUCbzyelPCapy8lo+wwZvTjkqNPvs0H5ccvkL4YoTGkKCDr9hDE6nDpS85wE4xgCnRH59
-0ZvnPJkSoC+wc+v7HpXmGNmmse47RhNPxp1rZATauxVXPTkPuApZe/0pWsoK0HS5G91/ykJ99Fp6
-40L9Hz9owxP0owBl5kxk1YF1eToGgxyJkanczZ5gEudnHt7CiVAHNKu5DFztT1kTZ4sAZ4vitnhV
-NnIbnJa4jYUuCfpBynJsLg9L/EjcJWwbjDNsxrDjZPveyQXaqtuS+Xi3Mgl6Uko0aezDb0H9zFwj
-zFsyl8NbC9Wk769VZ2HxpcsYkJY7vpggeS5PK5UzFfwjCHb0xi+27O8V+9RP0qQyyHhLSOC0mkfU
-3kLytnmtuCiJYCifyRQuic4ZbnELiiWAGJLwxfZ7gq12eP9O/XwBrAu4g9bUVW9xtPupB1nrPF2b
-dRpbJztJ6LR0p1HnTXbwOFEWBvjjh6gQZAKadWLknHU0766yZ8AUDd/wCNrUHKmOlWRRNQM2CDXX
-+pPTuq/jNpb2AZJhEjNHozyOC2N68liBl6pS14O8j0ZhyIdQyUETp9/lUJk0Pma5/U0/a4NZG+yf
-Z2fjGi4NPwOlm+ZCK4zL+qYqh3T2Mxqg6qDIk7qBT29FJGvz+GF44bXCnz2sk2jVR1gPCloNmBHX
-0uW2qcdE78CcNago8DoRFVzvsHnGxIbDSCYLU63FiQUL4mxUfehuukhwI5/sMep5y7BOGm0/TpZo
-Yoa+1SNLisLuGsyNEGiLAWhjb1fXPpHKMBZ3syd38PTsvJ0+f6UPToGYgt6Mts/7z6ZCdTGSt9mo
-libM7asVWXa3f46ptymHyMSYyuMTMwya8ugOjeKPJj74MFRZc2rHH3w3lZH7T659yxLEp6rOOCUr
-hzgVreeaHARhIF6blVmG/u/Cbsp49BTw9XavE8R+qIIIwIzYEc+x/lhWcMNrSQHxh0kaaTd8DSPh
-WAfMG7fKGhpfvajgWxgIQr3c4Jl8TMwIVPjvQACGU5AQBXb5ZYxsdBaajQju/rsSdAiNPIuexC2I
-so+aDPzRgCUEAAuCf5cT1EgzBUaS2gmSYY5rhQV1shoAcLqgDRy0/mWu8fh5vt/+RHhLhBgYnrR2
-WceWTXhrNpNE8b2pt/QCnatduBkx9oWaBMdwldp7fz8aze50MRMgmapTWk6CBBOICaVN//OUoBuN
-FuJlcucuVrfTu/l8rGY18dmxycwj0favcttQbBTDFnbiEUyr97fsUYSIzE+yDHqio4/VSaCPCFtb
-nTN0GQqXC6FGaKbOlz1LyIXA3N9Ga5Slqu0aw+GE72TmZd/QtNVsmXq1d0DRFm2Tlak1oK7/SX+B
-H/IQCxp9eyo2YhPi8Qaa05p/HVY5FVaYAQrBANGOPRSP5oVj1zlrYoh4XQQJ01GtRQWQPtiCX5Y9
-RMpidIWF28ZSMsRvE/7JQbr0vbw7AJTnXApS5TJpaWrQ1AFreW82R1RPhYGD1gYv/2OI9/oFIbHX
-umEO6YxaancR01Mildsez6THVcOT8NxaZ478pck42kWTY+dX3gJVBM4LgpY3lAHJYnxjJcXnOBZN
-KHR0xes+M6RVwBld1ZAS23Y6JzuV9J8tNM9dQ9PVmddJv2e8uHMw4ulF1nqCUn10rj3yIIp0Wc7r
-u5mTL0u3nvSfoJkkMDYvYjx2pIVe0jBNC+2Qd1N6HtrkaITLJMJM/PhZC31V7ovVop/lxANc5XEx
-feQb4CWEN/4w6yQpjvLwohYzPf1C2GnFiAZp8pDQb70Q78a2dtHbq1+D0IP4Dfd7+OywuoZRaf9h
-mOvY7bYLGhXDP5oOWQpYJ+mocUTMqJdFQcMg2PhbT+orvLCkN7W/gBXTePdMrFIpxQd2/mjfULCn
-Nfsi5Fnt5e5/WUP0PzsuMpO+cGjOt3G0boweJO8wUvLjAWVFYGEmLuRgfHse5okgqb32Prea33uv
-KeT2sJOrgtg8SMVha6Cly94fAirAoi+2oYSi9KeHgaC1aNdYQdg6jQ2nhTTArWAX1M9k9F6PBP+b
-HQ0qoccCkJAtJDL5Licz0OCgofLkzHHuYTiRsLeRzyji1esyP2spzpjyRPTnLPcxE3Nn4gTHPciu
-ZV0Fn4rYQOlSWBT+fXeO92xxsWVBbGrl/oQRFu5MlkRmZfSfNHcOtwuonhBF88zj6W5460KMzyGk
-XKf9GY6sagCFlG7l4cjEJ41/6ZbV0VbJhRAc5xjpnwKSOx5jMH9gGX7l+ORcDDgrftdwjv+LfvZ6
-8HEuCo0LaY7FOsfSBGaVR3kSnz6WggNGW4XDIPQjdMHW2w5g3OltzPjV30cVJFw0xAqN7Efyp2D3
-A8kbc7fPGj/G2fcwx1KFlaYDhbw80jwQs7zbay5+zx4ly1y5KMtBZXbk2USI20j2AnawdImZf0mn
-PkFgXladwxBZhM82RN23IypJ4WDQFPzBBCYlY2cBtJkCXLuVGl+55T5cvqUkIeEwR3PqqyHUbz90
-6u9ECmpFueHtePwAJpiPIpsIVGvfR03aNtxhscgeHrqNpfAWhVxTDPz6P5Dplhl9TcOdVBhOYiiz
-PoDeaSMrv9fvGX7NQ2GsU3u1xvvRR7xxfQM7TizTGIR21xmY9x1GfsJQv+LutnuIrlLqNEL+fO8/
-WZ/FpCz7pQ/34UnTEBQbNFBPh1NhAtQxe8N1Tzv/Z61zKBubabwsnfixYXVvnCcYiOXHO93/DkPw
-/Jy30scuECOa6UGxU0FujNJMhf6BAgw6byEvaKua49duQJS8KqW2Qbv0lrOgdNycjmPdViklJ2Ir
-v/TYxS2MpkbTzEmsxUcuIJSvTnfXvLjaBjGatfJfcfu2wYHbBc5HYUWP2xm/r7fH6/DrAT3CBkmc
-2aqBFrToYAyugudGBBju/CFADvOJ+kyFwBNCYyknPM6o08NBQtYWDvrcUNaJhmbhpNbKSMRwkWn0
-YTCJxx9Rv5TZxdji0GpLG7KQRtFAEddxOZdBgY41oz5LpDMlRyMtzvoS/mx9XYQNaOGunnLc+0TO
-yAkucIOaXTBD3RajMlPmkCbgpjprScPo7cGkpeVuT5ZIaiVS65xzyj0ruxNVECCcwT0K8ZLuexfB
-oqfBumvhOWuFSt3/aZaTfgdcavsBAcjhCu1NbxAFrV3whdnPoTEMU/hnnayqP9uMJITshbUc5le6
-BTJiKiY62dFwAM26yy+uXQVQsY7ZmGI2wF4CaijX4+EwVhnh7Gr4TTP4doprGGZ/qAH1WC+UyQAl
-LjKYAsIeZevngWlu5DzVAdTBXYx0zUq1lAFj1SoW/t6BDw6WtZKtlOoLnV1vXwWMR2Swypladpfa
-7/bjwiYTcem9fybeBZHOafoswLsAt/vDHQfq3uixVtB+xHznGIcKDbTODigXK42O2v6+C4BzBbfg
-rTh4oBfMEtewphczt7ignnwvy51lO4OIpgRjzXm/tFSfqsjIP92yGhxPL9FDXkMU/Z55Z8QUUc5B
-IXVPrUh9BUjjQehOecsuFG4ZxCWzx2cfGI+9WZFaw1Ng+cF+SeE8zmdBOiFh/OHMCn+wcJcZwkIc
-lyewhQ8+IqRBd5rTid3eM651fiY2LzeemFCs7RHPvf9AAMNZoTln+CrHYf0CX29th9lx5ZDsWe2+
-xNedlYoQJBXiuscs3ZFAAjmbYoP0X5cOYBgx98iXdS7oemomG+ApskAnukdwbnk1XNtdwml1PN52
-soqpioYAdFK=
+<?php
+
+/**
+ * Removes all unrecognized tags from the list of tokens.
+ *
+ * This strategy iterates through all the tokens and removes unrecognized
+ * tokens. If a token is not recognized but a TagTransform is defined for
+ * that element, the element will be transformed accordingly.
+ */
+
+class HTMLPurifier_Strategy_RemoveForeignElements extends HTMLPurifier_Strategy
+{
+
+    /**
+     * @param HTMLPurifier_Token[] $tokens
+     * @param HTMLPurifier_Config $config
+     * @param HTMLPurifier_Context $context
+     * @return array|HTMLPurifier_Token[]
+     */
+    public function execute($tokens, $config, $context)
+    {
+        $definition = $config->getHTMLDefinition();
+        $generator = new HTMLPurifier_Generator($config, $context);
+        $result = array();
+
+        $escape_invalid_tags = $config->get('Core.EscapeInvalidTags');
+        $remove_invalid_img = $config->get('Core.RemoveInvalidImg');
+
+        // currently only used to determine if comments should be kept
+        $trusted = $config->get('HTML.Trusted');
+        $comment_lookup = $config->get('HTML.AllowedComments');
+        $comment_regexp = $config->get('HTML.AllowedCommentsRegexp');
+        $check_comments = $comment_lookup !== array() || $comment_regexp !== null;
+
+        $remove_script_contents = $config->get('Core.RemoveScriptContents');
+        $hidden_elements = $config->get('Core.HiddenElements');
+
+        // remove script contents compatibility
+        if ($remove_script_contents === true) {
+            $hidden_elements['script'] = true;
+        } elseif ($remove_script_contents === false && isset($hidden_elements['script'])) {
+            unset($hidden_elements['script']);
+        }
+
+        $attr_validator = new HTMLPurifier_AttrValidator();
+
+        // removes tokens until it reaches a closing tag with its value
+        $remove_until = false;
+
+        // converts comments into text tokens when this is equal to a tag name
+        $textify_comments = false;
+
+        $token = false;
+        $context->register('CurrentToken', $token);
+
+        $e = false;
+        if ($config->get('Core.CollectErrors')) {
+            $e =& $context->get('ErrorCollector');
+        }
+
+        foreach ($tokens as $token) {
+            if ($remove_until) {
+                if (empty($token->is_tag) || $token->name !== $remove_until) {
+                    continue;
+                }
+            }
+            if (!empty($token->is_tag)) {
+                // DEFINITION CALL
+
+                // before any processing, try to transform the element
+                if (isset($definition->info_tag_transform[$token->name])) {
+                    $original_name = $token->name;
+                    // there is a transformation for this tag
+                    // DEFINITION CALL
+                    $token = $definition->
+                        info_tag_transform[$token->name]->transform($token, $config, $context);
+                    if ($e) {
+                        $e->send(E_NOTICE, 'Strategy_RemoveForeignElements: Tag transform', $original_name);
+                    }
+                }
+
+                if (isset($definition->info[$token->name])) {
+                    // mostly everything's good, but
+                    // we need to make sure required attributes are in order
+                    if (($token instanceof HTMLPurifier_Token_Start || $token instanceof HTMLPurifier_Token_Empty) &&
+                        $definition->info[$token->name]->required_attr &&
+                        ($token->name != 'img' || $remove_invalid_img) // ensure config option still works
+                    ) {
+                        $attr_validator->validateToken($token, $config, $context);
+                        $ok = true;
+                        foreach ($definition->info[$token->name]->required_attr as $name) {
+                            if (!isset($token->attr[$name])) {
+                                $ok = false;
+                                break;
+                            }
+                        }
+                        if (!$ok) {
+                            if ($e) {
+                                $e->send(
+                                    E_ERROR,
+                                    'Strategy_RemoveForeignElements: Missing required attribute',
+                                    $name
+                                );
+                            }
+                            continue;
+                        }
+                        $token->armor['ValidateAttributes'] = true;
+                    }
+
+                    if (isset($hidden_elements[$token->name]) && $token instanceof HTMLPurifier_Token_Start) {
+                        $textify_comments = $token->name;
+                    } elseif ($token->name === $textify_comments && $token instanceof HTMLPurifier_Token_End) {
+                        $textify_comments = false;
+                    }
+
+                } elseif ($escape_invalid_tags) {
+                    // invalid tag, generate HTML representation and insert in
+                    if ($e) {
+                        $e->send(E_WARNING, 'Strategy_RemoveForeignElements: Foreign element to text');
+                    }
+                    $token = new HTMLPurifier_Token_Text(
+                        $generator->generateFromToken($token)
+                    );
+                } else {
+                    // check if we need to destroy all of the tag's children
+                    // CAN BE GENERICIZED
+                    if (isset($hidden_elements[$token->name])) {
+                        if ($token instanceof HTMLPurifier_Token_Start) {
+                            $remove_until = $token->name;
+                        } elseif ($token instanceof HTMLPurifier_Token_Empty) {
+                            // do nothing: we're still looking
+                        } else {
+                            $remove_until = false;
+                        }
+                        if ($e) {
+                            $e->send(E_ERROR, 'Strategy_RemoveForeignElements: Foreign meta element removed');
+                        }
+                    } else {
+                        if ($e) {
+                            $e->send(E_ERROR, 'Strategy_RemoveForeignElements: Foreign element removed');
+                        }
+                    }
+                    continue;
+                }
+            } elseif ($token instanceof HTMLPurifier_Token_Comment) {
+                // textify comments in script tags when they are allowed
+                if ($textify_comments !== false) {
+                    $data = $token->data;
+                    $token = new HTMLPurifier_Token_Text($data);
+                } elseif ($trusted || $check_comments) {
+                    // always cleanup comments
+                    $trailing_hyphen = false;
+                    if ($e) {
+                        // perform check whether or not there's a trailing hyphen
+                        if (substr($token->data, -1) == '-') {
+                            $trailing_hyphen = true;
+                        }
+                    }
+                    $token->data = rtrim($token->data, '-');
+                    $found_double_hyphen = false;
+                    while (strpos($token->data, '--') !== false) {
+                        $found_double_hyphen = true;
+                        $token->data = str_replace('--', '-', $token->data);
+                    }
+                    if ($trusted || !empty($comment_lookup[trim($token->data)]) ||
+                        ($comment_regexp !== null && preg_match($comment_regexp, trim($token->data)))) {
+                        // OK good
+                        if ($e) {
+                            if ($trailing_hyphen) {
+                                $e->send(
+                                    E_NOTICE,
+                                    'Strategy_RemoveForeignElements: Trailing hyphen in comment removed'
+                                );
+                            }
+                            if ($found_double_hyphen) {
+                                $e->send(E_NOTICE, 'Strategy_RemoveForeignElements: Hyphens in comment collapsed');
+                            }
+                        }
+                    } else {
+                        if ($e) {
+                            $e->send(E_NOTICE, 'Strategy_RemoveForeignElements: Comment removed');
+                        }
+                        continue;
+                    }
+                } else {
+                    // strip comments
+                    if ($e) {
+                        $e->send(E_NOTICE, 'Strategy_RemoveForeignElements: Comment removed');
+                    }
+                    continue;
+                }
+            } elseif ($token instanceof HTMLPurifier_Token_Text) {
+            } else {
+                continue;
+            }
+            $result[] = $token;
+        }
+        if ($remove_until && $e) {
+            // we removed tokens until the end, throw error
+            $e->send(E_ERROR, 'Strategy_RemoveForeignElements: Token removed to end', $remove_until);
+        }
+        $context->destroy('CurrentToken');
+        return $result;
+    }
+}
+
+// vim: et sw=4 sts=4

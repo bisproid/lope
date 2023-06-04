@@ -1,103 +1,135 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-fW==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Engineering;
+
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+
+class BesselK
+{
+    use ArrayEnabled;
+
+    /**
+     * BESSELK.
+     *
+     *    Returns the modified Bessel function Kn(x), which is equivalent to the Bessel functions evaluated
+     *        for purely imaginary arguments.
+     *
+     *    Excel Function:
+     *        BESSELK(x,ord)
+     *
+     * @param mixed $x A float value at which to evaluate the function.
+     *                                If x is nonnumeric, BESSELK returns the #VALUE! error value.
+     *                      Or can be an array of values
+     * @param mixed $ord The integer order of the Bessel function.
+     *                       If ord is not an integer, it is truncated.
+     *                                If $ord is nonnumeric, BESSELK returns the #VALUE! error value.
+     *                       If $ord < 0, BESSELKI returns the #NUM! error value.
+     *                      Or can be an array of values
+     *
+     * @return array|float|string Result, or a string containing an error
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function BESSELK($x, $ord)
+    {
+        if (is_array($x) || is_array($ord)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $x, $ord);
+        }
+
+        try {
+            $x = EngineeringValidations::validateFloat($x);
+            $ord = EngineeringValidations::validateInt($ord);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if (($ord < 0) || ($x <= 0.0)) {
+            return ExcelError::NAN();
+        }
+
+        $fBk = self::calculate($x, $ord);
+
+        return (is_nan($fBk)) ? ExcelError::NAN() : $fBk;
+    }
+
+    private static function calculate(float $x, int $ord): float
+    {
+        // special cases
+        switch ($ord) {
+            case 0:
+                return self::besselK0($x);
+            case 1:
+                return self::besselK1($x);
+        }
+
+        return self::besselK2($x, $ord);
+    }
+
+    /**
+     * Mollify Phpstan.
+     *
+     * @codeCoverageIgnore
+     */
+    private static function callBesselI(float $x, int $ord): float
+    {
+        $rslt = BesselI::BESSELI($x, $ord);
+        if (!is_float($rslt)) {
+            throw new Exception('Unexpected array or string');
+        }
+
+        return $rslt;
+    }
+
+    private static function besselK0(float $x): float
+    {
+        if ($x <= 2) {
+            $fNum2 = $x * 0.5;
+            $y = ($fNum2 * $fNum2);
+
+            return -log($fNum2) * self::callBesselI($x, 0) +
+                (-0.57721566 + $y * (0.42278420 + $y * (0.23069756 + $y * (0.3488590e-1 + $y * (0.262698e-2 + $y *
+                                    (0.10750e-3 + $y * 0.74e-5))))));
+        }
+
+        $y = 2 / $x;
+
+        return exp(-$x) / sqrt($x) *
+            (1.25331414 + $y * (-0.7832358e-1 + $y * (0.2189568e-1 + $y * (-0.1062446e-1 + $y *
+                            (0.587872e-2 + $y * (-0.251540e-2 + $y * 0.53208e-3))))));
+    }
+
+    private static function besselK1(float $x): float
+    {
+        if ($x <= 2) {
+            $fNum2 = $x * 0.5;
+            $y = ($fNum2 * $fNum2);
+
+            return log($fNum2) * self::callBesselI($x, 1) +
+                (1 + $y * (0.15443144 + $y * (-0.67278579 + $y * (-0.18156897 + $y * (-0.1919402e-1 + $y *
+                                    (-0.110404e-2 + $y * (-0.4686e-4))))))) / $x;
+        }
+
+        $y = 2 / $x;
+
+        return exp(-$x) / sqrt($x) *
+            (1.25331414 + $y * (0.23498619 + $y * (-0.3655620e-1 + $y * (0.1504268e-1 + $y * (-0.780353e-2 + $y *
+                                (0.325614e-2 + $y * (-0.68245e-3)))))));
+    }
+
+    private static function besselK2(float $x, int $ord): float
+    {
+        $fTox = 2 / $x;
+        $fBkm = self::besselK0($x);
+        $fBk = self::besselK1($x);
+        for ($n = 1; $n < $ord; ++$n) {
+            $fBkp = $fBkm + $n * $fTox * $fBk;
+            $fBkm = $fBk;
+            $fBk = $fBkp;
+        }
+
+        return $fBk;
+    }
+}

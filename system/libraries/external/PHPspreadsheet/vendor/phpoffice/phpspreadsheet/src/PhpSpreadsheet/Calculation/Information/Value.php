@@ -1,174 +1,328 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Information;
+
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Calculation;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Cell\Cell;
+use PhpOffice\PhpSpreadsheet\Cell\Coordinate;
+use PhpOffice\PhpSpreadsheet\NamedRange;
+use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
+
+class Value
+{
+    use ArrayEnabled;
+
+    /**
+     * IS_BLANK.
+     *
+     * @param mixed $value Value to check
+     *                      Or can be an array of values
+     *
+     * @return array|bool
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function isBlank($value = null)
+    {
+        if (is_array($value)) {
+            return self::evaluateSingleArgumentArray([self::class, __FUNCTION__], $value);
+        }
+
+        return $value === null;
+    }
+
+    /**
+     * IS_REF.
+     *
+     * @param mixed $value Value to check
+     *
+     * @return bool
+     */
+    public static function isRef($value, ?Cell $cell = null)
+    {
+        if ($cell === null || $value === $cell->getCoordinate()) {
+            return false;
+        }
+
+        $cellValue = Functions::trimTrailingRange($value);
+        if (preg_match('/^' . Calculation::CALCULATION_REGEXP_CELLREF . '$/ui', $cellValue) === 1) {
+            [$worksheet, $cellValue] = Worksheet::extractSheetTitle($cellValue, true);
+            if (!empty($worksheet) && $cell->getWorksheet()->getParent()->getSheetByName($worksheet) === null) {
+                return false;
+            }
+            [$column, $row] = Coordinate::indexesFromString($cellValue);
+            if ($column > 16384 || $row > 1048576) {
+                return false;
+            }
+
+            return true;
+        }
+
+        $namedRange = $cell->getWorksheet()->getParent()->getNamedRange($value);
+
+        return $namedRange instanceof NamedRange;
+    }
+
+    /**
+     * IS_EVEN.
+     *
+     * @param mixed $value Value to check
+     *                      Or can be an array of values
+     *
+     * @return array|bool|string
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function isEven($value = null)
+    {
+        if (is_array($value)) {
+            return self::evaluateSingleArgumentArray([self::class, __FUNCTION__], $value);
+        }
+
+        if ($value === null) {
+            return ExcelError::NAME();
+        } elseif ((is_bool($value)) || ((is_string($value)) && (!is_numeric($value)))) {
+            return ExcelError::VALUE();
+        }
+
+        return ((int) fmod($value, 2)) === 0;
+    }
+
+    /**
+     * IS_ODD.
+     *
+     * @param mixed $value Value to check
+     *                      Or can be an array of values
+     *
+     * @return array|bool|string
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function isOdd($value = null)
+    {
+        if (is_array($value)) {
+            return self::evaluateSingleArgumentArray([self::class, __FUNCTION__], $value);
+        }
+
+        if ($value === null) {
+            return ExcelError::NAME();
+        } elseif ((is_bool($value)) || ((is_string($value)) && (!is_numeric($value)))) {
+            return ExcelError::VALUE();
+        }
+
+        return ((int) fmod($value, 2)) !== 0;
+    }
+
+    /**
+     * IS_NUMBER.
+     *
+     * @param mixed $value Value to check
+     *                      Or can be an array of values
+     *
+     * @return array|bool
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function isNumber($value = null)
+    {
+        if (is_array($value)) {
+            return self::evaluateSingleArgumentArray([self::class, __FUNCTION__], $value);
+        }
+
+        if (is_string($value)) {
+            return false;
+        }
+
+        return is_numeric($value);
+    }
+
+    /**
+     * IS_LOGICAL.
+     *
+     * @param mixed $value Value to check
+     *                      Or can be an array of values
+     *
+     * @return array|bool
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function isLogical($value = null)
+    {
+        if (is_array($value)) {
+            return self::evaluateSingleArgumentArray([self::class, __FUNCTION__], $value);
+        }
+
+        return is_bool($value);
+    }
+
+    /**
+     * IS_TEXT.
+     *
+     * @param mixed $value Value to check
+     *                      Or can be an array of values
+     *
+     * @return array|bool
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function isText($value = null)
+    {
+        if (is_array($value)) {
+            return self::evaluateSingleArgumentArray([self::class, __FUNCTION__], $value);
+        }
+
+        return is_string($value) && !ErrorValue::isError($value);
+    }
+
+    /**
+     * IS_NONTEXT.
+     *
+     * @param mixed $value Value to check
+     *                      Or can be an array of values
+     *
+     * @return array|bool
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function isNonText($value = null)
+    {
+        if (is_array($value)) {
+            return self::evaluateSingleArgumentArray([self::class, __FUNCTION__], $value);
+        }
+
+        return !self::isText($value);
+    }
+
+    /**
+     * ISFORMULA.
+     *
+     * @param mixed $cellReference The cell to check
+     * @param ?Cell $cell The current cell (containing this formula)
+     *
+     * @return array|bool|string
+     */
+    public static function isFormula($cellReference = '', ?Cell $cell = null)
+    {
+        if ($cell === null) {
+            return ExcelError::REF();
+        }
+
+        $fullCellReference = Functions::expandDefinedName((string) $cellReference, $cell);
+
+        if (strpos($cellReference, '!') !== false) {
+            $cellReference = Functions::trimSheetFromCellReference($cellReference);
+            $cellReferences = Coordinate::extractAllCellReferencesInRange($cellReference);
+            if (count($cellReferences) > 1) {
+                return self::evaluateArrayArgumentsSubset([self::class, __FUNCTION__], 1, $cellReferences, $cell);
+            }
+        }
+
+        $fullCellReference = Functions::trimTrailingRange($fullCellReference);
+
+        preg_match('/^' . Calculation::CALCULATION_REGEXP_CELLREF . '$/i', $fullCellReference, $matches);
+
+        $fullCellReference = $matches[6] . $matches[7];
+        $worksheetName = str_replace("''", "'", trim($matches[2], "'"));
+
+        $worksheet = (!empty($worksheetName))
+            ? $cell->getWorksheet()->getParent()->getSheetByName($worksheetName)
+            : $cell->getWorksheet();
+
+        return ($worksheet !== null) ? $worksheet->getCell($fullCellReference)->isFormula() : ExcelError::REF();
+    }
+
+    /**
+     * N.
+     *
+     * Returns a value converted to a number
+     *
+     * @param null|mixed $value The value you want converted
+     *
+     * @return number N converts values listed in the following table
+     *        If value is or refers to N returns
+     *        A number            That number value
+     *        A date              The Excel serialized number of that date
+     *        TRUE                1
+     *        FALSE               0
+     *        An error value      The error value
+     *        Anything else       0
+     */
+    public static function asNumber($value = null)
+    {
+        while (is_array($value)) {
+            $value = array_shift($value);
+        }
+
+        switch (gettype($value)) {
+            case 'double':
+            case 'float':
+            case 'integer':
+                return $value;
+            case 'boolean':
+                return (int) $value;
+            case 'string':
+                //    Errors
+                if ((strlen($value) > 0) && ($value[0] == '#')) {
+                    return $value;
+                }
+
+                break;
+        }
+
+        return 0;
+    }
+
+    /**
+     * TYPE.
+     *
+     * Returns a number that identifies the type of a value
+     *
+     * @param null|mixed $value The value you want tested
+     *
+     * @return number N converts values listed in the following table
+     *        If value is or refers to N returns
+     *        A number            1
+     *        Text                2
+     *        Logical Value       4
+     *        An error value      16
+     *        Array or Matrix     64
+     */
+    public static function type($value = null)
+    {
+        $value = Functions::flattenArrayIndexed($value);
+        if (is_array($value) && (count($value) > 1)) {
+            end($value);
+            $a = key($value);
+            //    Range of cells is an error
+            if (Functions::isCellValue($a)) {
+                return 16;
+            //    Test for Matrix
+            } elseif (Functions::isMatrixValue($a)) {
+                return 64;
+            }
+        } elseif (empty($value)) {
+            //    Empty Cell
+            return 1;
+        }
+
+        $value = Functions::flattenSingleValue($value);
+        if (($value === null) || (is_float($value)) || (is_int($value))) {
+            return 1;
+        } elseif (is_bool($value)) {
+            return 4;
+        } elseif (is_array($value)) {
+            return 64;
+        } elseif (is_string($value)) {
+            //    Errors
+            if ((strlen($value) > 0) && ($value[0] == '#')) {
+                return 16;
+            }
+
+            return 2;
+        }
+
+        return 0;
+    }
+}

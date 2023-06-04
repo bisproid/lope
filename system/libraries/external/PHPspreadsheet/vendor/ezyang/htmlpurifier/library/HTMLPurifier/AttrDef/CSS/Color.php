@@ -1,93 +1,161 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-sKe=
+<?php
+
+/**
+ * Validates Color as defined by CSS.
+ */
+class HTMLPurifier_AttrDef_CSS_Color extends HTMLPurifier_AttrDef
+{
+
+    /**
+     * @type HTMLPurifier_AttrDef_CSS_AlphaValue
+     */
+    protected $alpha;
+
+    public function __construct()
+    {
+        $this->alpha = new HTMLPurifier_AttrDef_CSS_AlphaValue();
+    }
+
+    /**
+     * @param string $color
+     * @param HTMLPurifier_Config $config
+     * @param HTMLPurifier_Context $context
+     * @return bool|string
+     */
+    public function validate($color, $config, $context)
+    {
+        static $colors = null;
+        if ($colors === null) {
+            $colors = $config->get('Core.ColorKeywords');
+        }
+
+        $color = trim($color);
+        if ($color === '') {
+            return false;
+        }
+
+        $lower = strtolower($color);
+        if (isset($colors[$lower])) {
+            return $colors[$lower];
+        }
+
+        if (preg_match('#(rgb|rgba|hsl|hsla)\(#', $color, $matches) === 1) {
+            $length = strlen($color);
+            if (strpos($color, ')') !== $length - 1) {
+                return false;
+            }
+
+            // get used function : rgb, rgba, hsl or hsla
+            $function = $matches[1];
+
+            $parameters_size = 3;
+            $alpha_channel = false;
+            if (substr($function, -1) === 'a') {
+                $parameters_size = 4;
+                $alpha_channel = true;
+            }
+
+            /*
+             * Allowed types for values :
+             * parameter_position => [type => max_value]
+             */
+            $allowed_types = array(
+                1 => array('percentage' => 100, 'integer' => 255),
+                2 => array('percentage' => 100, 'integer' => 255),
+                3 => array('percentage' => 100, 'integer' => 255),
+            );
+            $allow_different_types = false;
+
+            if (strpos($function, 'hsl') !== false) {
+                $allowed_types = array(
+                    1 => array('integer' => 360),
+                    2 => array('percentage' => 100),
+                    3 => array('percentage' => 100),
+                );
+                $allow_different_types = true;
+            }
+
+            $values = trim(str_replace($function, '', $color), ' ()');
+
+            $parts = explode(',', $values);
+            if (count($parts) !== $parameters_size) {
+                return false;
+            }
+
+            $type = false;
+            $new_parts = array();
+            $i = 0;
+
+            foreach ($parts as $part) {
+                $i++;
+                $part = trim($part);
+
+                if ($part === '') {
+                    return false;
+                }
+
+                // different check for alpha channel
+                if ($alpha_channel === true && $i === count($parts)) {
+                    $result = $this->alpha->validate($part, $config, $context);
+
+                    if ($result === false) {
+                        return false;
+                    }
+
+                    $new_parts[] = (string)$result;
+                    continue;
+                }
+
+                if (substr($part, -1) === '%') {
+                    $current_type = 'percentage';
+                } else {
+                    $current_type = 'integer';
+                }
+
+                if (!array_key_exists($current_type, $allowed_types[$i])) {
+                    return false;
+                }
+
+                if (!$type) {
+                    $type = $current_type;
+                }
+
+                if ($allow_different_types === false && $type != $current_type) {
+                    return false;
+                }
+
+                $max_value = $allowed_types[$i][$current_type];
+
+                if ($current_type == 'integer') {
+                    // Return value between range 0 -> $max_value
+                    $new_parts[] = (int)max(min($part, $max_value), 0);
+                } elseif ($current_type == 'percentage') {
+                    $new_parts[] = (float)max(min(rtrim($part, '%'), $max_value), 0) . '%';
+                }
+            }
+
+            $new_values = implode(',', $new_parts);
+
+            $color = $function . '(' . $new_values . ')';
+        } else {
+            // hexadecimal handling
+            if ($color[0] === '#') {
+                $hex = substr($color, 1);
+            } else {
+                $hex = $color;
+                $color = '#' . $color;
+            }
+            $length = strlen($hex);
+            if ($length !== 3 && $length !== 6) {
+                return false;
+            }
+            if (!ctype_xdigit($hex)) {
+                return false;
+            }
+        }
+        return $color;
+    }
+
+}
+
+// vim: et sw=4 sts=4

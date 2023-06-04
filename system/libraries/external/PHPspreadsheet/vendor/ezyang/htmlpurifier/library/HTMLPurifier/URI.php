@@ -1,144 +1,316 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+/**
+ * HTML Purifier's internal representation of a URI.
+ * @note
+ *      Internal data-structures are completely escaped. If the data needs
+ *      to be used in a non-URI context (which is very unlikely), be sure
+ *      to decode it first. The URI may not necessarily be well-formed until
+ *      validate() is called.
+ */
+class HTMLPurifier_URI
+{
+    /**
+     * @type string
+     */
+    public $scheme;
+
+    /**
+     * @type string
+     */
+    public $userinfo;
+
+    /**
+     * @type string
+     */
+    public $host;
+
+    /**
+     * @type int
+     */
+    public $port;
+
+    /**
+     * @type string
+     */
+    public $path;
+
+    /**
+     * @type string
+     */
+    public $query;
+
+    /**
+     * @type string
+     */
+    public $fragment;
+
+    /**
+     * @param string $scheme
+     * @param string $userinfo
+     * @param string $host
+     * @param int $port
+     * @param string $path
+     * @param string $query
+     * @param string $fragment
+     * @note Automatically normalizes scheme and port
+     */
+    public function __construct($scheme, $userinfo, $host, $port, $path, $query, $fragment)
+    {
+        $this->scheme = is_null($scheme) || ctype_lower($scheme) ? $scheme : strtolower($scheme);
+        $this->userinfo = $userinfo;
+        $this->host = $host;
+        $this->port = is_null($port) ? $port : (int)$port;
+        $this->path = $path;
+        $this->query = $query;
+        $this->fragment = $fragment;
+    }
+
+    /**
+     * Retrieves a scheme object corresponding to the URI's scheme/default
+     * @param HTMLPurifier_Config $config
+     * @param HTMLPurifier_Context $context
+     * @return HTMLPurifier_URIScheme Scheme object appropriate for validating this URI
+     */
+    public function getSchemeObj($config, $context)
+    {
+        $registry = HTMLPurifier_URISchemeRegistry::instance();
+        if ($this->scheme !== null) {
+            $scheme_obj = $registry->getScheme($this->scheme, $config, $context);
+            if (!$scheme_obj) {
+                return false;
+            } // invalid scheme, clean it out
+        } else {
+            // no scheme: retrieve the default one
+            $def = $config->getDefinition('URI');
+            $scheme_obj = $def->getDefaultScheme($config, $context);
+            if (!$scheme_obj) {
+                if ($def->defaultScheme !== null) {
+                    // something funky happened to the default scheme object
+                    trigger_error(
+                        'Default scheme object "' . $def->defaultScheme . '" was not readable',
+                        E_USER_WARNING
+                    );
+                } // suppress error if it's null
+                return false;
+            }
+        }
+        return $scheme_obj;
+    }
+
+    /**
+     * Generic validation method applicable for all schemes. May modify
+     * this URI in order to get it into a compliant form.
+     * @param HTMLPurifier_Config $config
+     * @param HTMLPurifier_Context $context
+     * @return bool True if validation/filtering succeeds, false if failure
+     */
+    public function validate($config, $context)
+    {
+        // ABNF definitions from RFC 3986
+        $chars_sub_delims = '!$&\'()*+,;=';
+        $chars_gen_delims = ':/?#[]@';
+        $chars_pchar = $chars_sub_delims . ':@';
+
+        // validate host
+        if (!is_null($this->host)) {
+            $host_def = new HTMLPurifier_AttrDef_URI_Host();
+            $this->host = $host_def->validate($this->host, $config, $context);
+            if ($this->host === false) {
+                $this->host = null;
+            }
+        }
+
+        // validate scheme
+        // NOTE: It's not appropriate to check whether or not this
+        // scheme is in our registry, since a URIFilter may convert a
+        // URI that we don't allow into one we do.  So instead, we just
+        // check if the scheme can be dropped because there is no host
+        // and it is our default scheme.
+        if (!is_null($this->scheme) && is_null($this->host) || $this->host === '') {
+            // support for relative paths is pretty abysmal when the
+            // scheme is present, so axe it when possible
+            $def = $config->getDefinition('URI');
+            if ($def->defaultScheme === $this->scheme) {
+                $this->scheme = null;
+            }
+        }
+
+        // validate username
+        if (!is_null($this->userinfo)) {
+            $encoder = new HTMLPurifier_PercentEncoder($chars_sub_delims . ':');
+            $this->userinfo = $encoder->encode($this->userinfo);
+        }
+
+        // validate port
+        if (!is_null($this->port)) {
+            if ($this->port < 1 || $this->port > 65535) {
+                $this->port = null;
+            }
+        }
+
+        // validate path
+        $segments_encoder = new HTMLPurifier_PercentEncoder($chars_pchar . '/');
+        if (!is_null($this->host)) { // this catches $this->host === ''
+            // path-abempty (hier and relative)
+            // http://www.example.com/my/path
+            // //www.example.com/my/path (looks odd, but works, and
+            //                            recognized by most browsers)
+            // (this set is valid or invalid on a scheme by scheme
+            // basis, so we'll deal with it later)
+            // file:///my/path
+            // ///my/path
+            $this->path = $segments_encoder->encode($this->path);
+        } elseif ($this->path !== '') {
+            if ($this->path[0] === '/') {
+                // path-absolute (hier and relative)
+                // http:/my/path
+                // /my/path
+                if (strlen($this->path) >= 2 && $this->path[1] === '/') {
+                    // This could happen if both the host gets stripped
+                    // out
+                    // http://my/path
+                    // //my/path
+                    $this->path = '';
+                } else {
+                    $this->path = $segments_encoder->encode($this->path);
+                }
+            } elseif (!is_null($this->scheme)) {
+                // path-rootless (hier)
+                // http:my/path
+                // Short circuit evaluation means we don't need to check nz
+                $this->path = $segments_encoder->encode($this->path);
+            } else {
+                // path-noscheme (relative)
+                // my/path
+                // (once again, not checking nz)
+                $segment_nc_encoder = new HTMLPurifier_PercentEncoder($chars_sub_delims . '@');
+                $c = strpos($this->path, '/');
+                if ($c !== false) {
+                    $this->path =
+                        $segment_nc_encoder->encode(substr($this->path, 0, $c)) .
+                        $segments_encoder->encode(substr($this->path, $c));
+                } else {
+                    $this->path = $segment_nc_encoder->encode($this->path);
+                }
+            }
+        } else {
+            // path-empty (hier and relative)
+            $this->path = ''; // just to be safe
+        }
+
+        // qf = query and fragment
+        $qf_encoder = new HTMLPurifier_PercentEncoder($chars_pchar . '/?');
+
+        if (!is_null($this->query)) {
+            $this->query = $qf_encoder->encode($this->query);
+        }
+
+        if (!is_null($this->fragment)) {
+            $this->fragment = $qf_encoder->encode($this->fragment);
+        }
+        return true;
+    }
+
+    /**
+     * Convert URI back to string
+     * @return string URI appropriate for output
+     */
+    public function toString()
+    {
+        // reconstruct authority
+        $authority = null;
+        // there is a rendering difference between a null authority
+        // (http:foo-bar) and an empty string authority
+        // (http:///foo-bar).
+        if (!is_null($this->host)) {
+            $authority = '';
+            if (!is_null($this->userinfo)) {
+                $authority .= $this->userinfo . '@';
+            }
+            $authority .= $this->host;
+            if (!is_null($this->port)) {
+                $authority .= ':' . $this->port;
+            }
+        }
+
+        // Reconstruct the result
+        // One might wonder about parsing quirks from browsers after
+        // this reconstruction.  Unfortunately, parsing behavior depends
+        // on what *scheme* was employed (file:///foo is handled *very*
+        // differently than http:///foo), so unfortunately we have to
+        // defer to the schemes to do the right thing.
+        $result = '';
+        if (!is_null($this->scheme)) {
+            $result .= $this->scheme . ':';
+        }
+        if (!is_null($authority)) {
+            $result .= '//' . $authority;
+        }
+        $result .= $this->path;
+        if (!is_null($this->query)) {
+            $result .= '?' . $this->query;
+        }
+        if (!is_null($this->fragment)) {
+            $result .= '#' . $this->fragment;
+        }
+
+        return $result;
+    }
+
+    /**
+     * Returns true if this URL might be considered a 'local' URL given
+     * the current context.  This is true when the host is null, or
+     * when it matches the host supplied to the configuration.
+     *
+     * Note that this does not do any scheme checking, so it is mostly
+     * only appropriate for metadata that doesn't care about protocol
+     * security.  isBenign is probably what you actually want.
+     * @param HTMLPurifier_Config $config
+     * @param HTMLPurifier_Context $context
+     * @return bool
+     */
+    public function isLocal($config, $context)
+    {
+        if ($this->host === null) {
+            return true;
+        }
+        $uri_def = $config->getDefinition('URI');
+        if ($uri_def->host === $this->host) {
+            return true;
+        }
+        return false;
+    }
+
+    /**
+     * Returns true if this URL should be considered a 'benign' URL,
+     * that is:
+     *
+     *      - It is a local URL (isLocal), and
+     *      - It has a equal or better level of security
+     * @param HTMLPurifier_Config $config
+     * @param HTMLPurifier_Context $context
+     * @return bool
+     */
+    public function isBenign($config, $context)
+    {
+        if (!$this->isLocal($config, $context)) {
+            return false;
+        }
+
+        $scheme_obj = $this->getSchemeObj($config, $context);
+        if (!$scheme_obj) {
+            return false;
+        } // conservative approach
+
+        $current_scheme_obj = $config->getDefinition('URI')->getDefaultScheme($config, $context);
+        if ($current_scheme_obj->secure) {
+            if (!$scheme_obj->secure) {
+                return false;
+            }
+        }
+        return true;
+    }
+}
+
+// vim: et sw=4 sts=4

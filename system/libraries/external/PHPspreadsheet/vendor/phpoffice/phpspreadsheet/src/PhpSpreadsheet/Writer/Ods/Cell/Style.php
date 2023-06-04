@@ -1,194 +1,240 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Writer\Ods\Cell;
+
+use PhpOffice\PhpSpreadsheet\Helper\Dimension;
+use PhpOffice\PhpSpreadsheet\Shared\XMLWriter;
+use PhpOffice\PhpSpreadsheet\Style\Alignment;
+use PhpOffice\PhpSpreadsheet\Style\Fill;
+use PhpOffice\PhpSpreadsheet\Style\Font;
+use PhpOffice\PhpSpreadsheet\Style\Style as CellStyle;
+use PhpOffice\PhpSpreadsheet\Worksheet\ColumnDimension;
+use PhpOffice\PhpSpreadsheet\Worksheet\RowDimension;
+
+class Style
+{
+    public const CELL_STYLE_PREFIX = 'ce';
+    public const COLUMN_STYLE_PREFIX = 'co';
+    public const ROW_STYLE_PREFIX = 'ro';
+
+    private $writer;
+
+    public function __construct(XMLWriter $writer)
+    {
+        $this->writer = $writer;
+    }
+
+    private function mapHorizontalAlignment(string $horizontalAlignment): string
+    {
+        switch ($horizontalAlignment) {
+            case Alignment::HORIZONTAL_CENTER:
+            case Alignment::HORIZONTAL_CENTER_CONTINUOUS:
+            case Alignment::HORIZONTAL_DISTRIBUTED:
+                return 'center';
+            case Alignment::HORIZONTAL_RIGHT:
+                return 'end';
+            case Alignment::HORIZONTAL_FILL:
+            case Alignment::HORIZONTAL_JUSTIFY:
+                return 'justify';
+        }
+
+        return 'start';
+    }
+
+    private function mapVerticalAlignment(string $verticalAlignment): string
+    {
+        switch ($verticalAlignment) {
+            case Alignment::VERTICAL_TOP:
+                return 'top';
+            case Alignment::VERTICAL_CENTER:
+                return 'middle';
+            case Alignment::VERTICAL_DISTRIBUTED:
+            case Alignment::VERTICAL_JUSTIFY:
+                return 'automatic';
+        }
+
+        return 'bottom';
+    }
+
+    private function writeFillStyle(Fill $fill): void
+    {
+        switch ($fill->getFillType()) {
+            case Fill::FILL_SOLID:
+                $this->writer->writeAttribute('fo:background-color', sprintf(
+                    '#%s',
+                    strtolower($fill->getStartColor()->getRGB())
+                ));
+
+                break;
+            case Fill::FILL_GRADIENT_LINEAR:
+            case Fill::FILL_GRADIENT_PATH:
+                /// TODO :: To be implemented
+                break;
+            case Fill::FILL_NONE:
+            default:
+        }
+    }
+
+    private function writeCellProperties(CellStyle $style): void
+    {
+        // Align
+        $hAlign = $style->getAlignment()->getHorizontal();
+        $vAlign = $style->getAlignment()->getVertical();
+        $wrap = $style->getAlignment()->getWrapText();
+
+        $this->writer->startElement('style:table-cell-properties');
+        if (!empty($vAlign) || $wrap) {
+            if (!empty($vAlign)) {
+                $vAlign = $this->mapVerticalAlignment($vAlign);
+                $this->writer->writeAttribute('style:vertical-align', $vAlign);
+            }
+            if ($wrap) {
+                $this->writer->writeAttribute('fo:wrap-option', 'wrap');
+            }
+        }
+        $this->writer->writeAttribute('style:rotation-align', 'none');
+
+        // Fill
+        if ($fill = $style->getFill()) {
+            $this->writeFillStyle($fill);
+        }
+
+        $this->writer->endElement();
+
+        if (!empty($hAlign)) {
+            $hAlign = $this->mapHorizontalAlignment($hAlign);
+            $this->writer->startElement('style:paragraph-properties');
+            $this->writer->writeAttribute('fo:text-align', $hAlign);
+            $this->writer->endElement();
+        }
+    }
+
+    protected function mapUnderlineStyle(Font $font): string
+    {
+        switch ($font->getUnderline()) {
+            case Font::UNDERLINE_DOUBLE:
+            case Font::UNDERLINE_DOUBLEACCOUNTING:
+                return'double';
+            case Font::UNDERLINE_SINGLE:
+            case Font::UNDERLINE_SINGLEACCOUNTING:
+                return'single';
+        }
+
+        return 'none';
+    }
+
+    protected function writeTextProperties(CellStyle $style): void
+    {
+        // Font
+        $this->writer->startElement('style:text-properties');
+
+        $font = $style->getFont();
+
+        if ($font->getBold()) {
+            $this->writer->writeAttribute('fo:font-weight', 'bold');
+            $this->writer->writeAttribute('style:font-weight-complex', 'bold');
+            $this->writer->writeAttribute('style:font-weight-asian', 'bold');
+        }
+
+        if ($font->getItalic()) {
+            $this->writer->writeAttribute('fo:font-style', 'italic');
+        }
+
+        if ($color = $font->getColor()) {
+            $this->writer->writeAttribute('fo:color', sprintf('#%s', $color->getRGB()));
+        }
+
+        if ($family = $font->getName()) {
+            $this->writer->writeAttribute('fo:font-family', $family);
+        }
+
+        if ($size = $font->getSize()) {
+            $this->writer->writeAttribute('fo:font-size', sprintf('%.1Fpt', $size));
+        }
+
+        if ($font->getUnderline() && $font->getUnderline() !== Font::UNDERLINE_NONE) {
+            $this->writer->writeAttribute('style:text-underline-style', 'solid');
+            $this->writer->writeAttribute('style:text-underline-width', 'auto');
+            $this->writer->writeAttribute('style:text-underline-color', 'font-color');
+
+            $underline = $this->mapUnderlineStyle($font);
+            $this->writer->writeAttribute('style:text-underline-type', $underline);
+        }
+
+        $this->writer->endElement(); // Close style:text-properties
+    }
+
+    protected function writeColumnProperties(ColumnDimension $columnDimension): void
+    {
+        $this->writer->startElement('style:table-column-properties');
+        $this->writer->writeAttribute(
+            'style:column-width',
+            round($columnDimension->getWidth(Dimension::UOM_CENTIMETERS), 3) . 'cm'
+        );
+        $this->writer->writeAttribute('fo:break-before', 'auto');
+
+        // End
+        $this->writer->endElement(); // Close style:table-column-properties
+    }
+
+    public function writeColumnStyles(ColumnDimension $columnDimension, int $sheetId): void
+    {
+        $this->writer->startElement('style:style');
+        $this->writer->writeAttribute('style:family', 'table-column');
+        $this->writer->writeAttribute(
+            'style:name',
+            sprintf('%s_%d_%d', self::COLUMN_STYLE_PREFIX, $sheetId, $columnDimension->getColumnNumeric())
+        );
+
+        $this->writeColumnProperties($columnDimension);
+
+        // End
+        $this->writer->endElement(); // Close style:style
+    }
+
+    protected function writeRowProperties(RowDimension $rowDimension): void
+    {
+        $this->writer->startElement('style:table-row-properties');
+        $this->writer->writeAttribute(
+            'style:row-height',
+            round($rowDimension->getRowHeight(Dimension::UOM_CENTIMETERS), 3) . 'cm'
+        );
+        $this->writer->writeAttribute('style:use-optimal-row-height', 'true');
+        $this->writer->writeAttribute('fo:break-before', 'auto');
+
+        // End
+        $this->writer->endElement(); // Close style:table-row-properties
+    }
+
+    public function writeRowStyles(RowDimension $rowDimension, int $sheetId): void
+    {
+        $this->writer->startElement('style:style');
+        $this->writer->writeAttribute('style:family', 'table-row');
+        $this->writer->writeAttribute(
+            'style:name',
+            sprintf('%s_%d_%d', self::ROW_STYLE_PREFIX, $sheetId, $rowDimension->getRowIndex())
+        );
+
+        $this->writeRowProperties($rowDimension);
+
+        // End
+        $this->writer->endElement(); // Close style:style
+    }
+
+    public function write(CellStyle $style): void
+    {
+        $this->writer->startElement('style:style');
+        $this->writer->writeAttribute('style:name', self::CELL_STYLE_PREFIX . $style->getIndex());
+        $this->writer->writeAttribute('style:family', 'table-cell');
+        $this->writer->writeAttribute('style:parent-style-name', 'Default');
+
+        // Alignment, fill colour, etc
+        $this->writeCellProperties($style);
+
+        // style:text-properties
+        $this->writeTextProperties($style);
+
+        // End
+        $this->writer->endElement(); // Close style:style
+    }
+}

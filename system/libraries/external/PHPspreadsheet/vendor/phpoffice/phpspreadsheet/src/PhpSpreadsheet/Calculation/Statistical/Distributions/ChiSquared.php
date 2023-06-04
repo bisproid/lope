@@ -1,199 +1,337 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Statistical\Distributions;
+
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+
+class ChiSquared
+{
+    use ArrayEnabled;
+
+    private const MAX_ITERATIONS = 256;
+
+    private const EPS = 2.22e-16;
+
+    /**
+     * CHIDIST.
+     *
+     * Returns the one-tailed probability of the chi-squared distribution.
+     *
+     * @param mixed $value Float value for which we want the probability
+     *                      Or can be an array of values
+     * @param mixed $degrees Integer degrees of freedom
+     *                      Or can be an array of values
+     *
+     * @return array|float|string
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function distributionRightTail($value, $degrees)
+    {
+        if (is_array($value) || is_array($degrees)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $value, $degrees);
+        }
+
+        try {
+            $value = DistributionValidations::validateFloat($value);
+            $degrees = DistributionValidations::validateInt($degrees);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($degrees < 1) {
+            return ExcelError::NAN();
+        }
+        if ($value < 0) {
+            if (Functions::getCompatibilityMode() == Functions::COMPATIBILITY_GNUMERIC) {
+                return 1;
+            }
+
+            return ExcelError::NAN();
+        }
+
+        return 1 - (Gamma::incompleteGamma($degrees / 2, $value / 2) / Gamma::gammaValue($degrees / 2));
+    }
+
+    /**
+     * CHIDIST.
+     *
+     * Returns the one-tailed probability of the chi-squared distribution.
+     *
+     * @param mixed $value Float value for which we want the probability
+     *                      Or can be an array of values
+     * @param mixed $degrees Integer degrees of freedom
+     *                      Or can be an array of values
+     * @param mixed $cumulative Boolean value indicating if we want the cdf (true) or the pdf (false)
+     *                      Or can be an array of values
+     *
+     * @return array|float|string
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function distributionLeftTail($value, $degrees, $cumulative)
+    {
+        if (is_array($value) || is_array($degrees) || is_array($cumulative)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $value, $degrees, $cumulative);
+        }
+
+        try {
+            $value = DistributionValidations::validateFloat($value);
+            $degrees = DistributionValidations::validateInt($degrees);
+            $cumulative = DistributionValidations::validateBool($cumulative);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($degrees < 1) {
+            return ExcelError::NAN();
+        }
+        if ($value < 0) {
+            if (Functions::getCompatibilityMode() == Functions::COMPATIBILITY_GNUMERIC) {
+                return 1;
+            }
+
+            return ExcelError::NAN();
+        }
+
+        if ($cumulative === true) {
+            return 1 - self::distributionRightTail($value, $degrees);
+        }
+
+        return (($value ** (($degrees / 2) - 1) * exp(-$value / 2))) /
+            ((2 ** ($degrees / 2)) * Gamma::gammaValue($degrees / 2));
+    }
+
+    /**
+     * CHIINV.
+     *
+     * Returns the inverse of the right-tailed probability of the chi-squared distribution.
+     *
+     * @param mixed $probability Float probability at which you want to evaluate the distribution
+     *                      Or can be an array of values
+     * @param mixed $degrees Integer degrees of freedom
+     *                      Or can be an array of values
+     *
+     * @return array|float|string
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function inverseRightTail($probability, $degrees)
+    {
+        if (is_array($probability) || is_array($degrees)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $probability, $degrees);
+        }
+
+        try {
+            $probability = DistributionValidations::validateProbability($probability);
+            $degrees = DistributionValidations::validateInt($degrees);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($degrees < 1) {
+            return ExcelError::NAN();
+        }
+
+        $callback = function ($value) use ($degrees) {
+            return 1 - (Gamma::incompleteGamma($degrees / 2, $value / 2)
+                    / Gamma::gammaValue($degrees / 2));
+        };
+
+        $newtonRaphson = new NewtonRaphson($callback);
+
+        return $newtonRaphson->execute($probability);
+    }
+
+    /**
+     * CHIINV.
+     *
+     * Returns the inverse of the left-tailed probability of the chi-squared distribution.
+     *
+     * @param mixed $probability Float probability at which you want to evaluate the distribution
+     *                      Or can be an array of values
+     * @param mixed $degrees Integer degrees of freedom
+     *                      Or can be an array of values
+     *
+     * @return array|float|string
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function inverseLeftTail($probability, $degrees)
+    {
+        if (is_array($probability) || is_array($degrees)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $probability, $degrees);
+        }
+
+        try {
+            $probability = DistributionValidations::validateProbability($probability);
+            $degrees = DistributionValidations::validateInt($degrees);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($degrees < 1) {
+            return ExcelError::NAN();
+        }
+
+        return self::inverseLeftTailCalculation($probability, $degrees);
+    }
+
+    /**
+     * CHITEST.
+     *
+     * Uses the chi-square test to calculate the probability that the differences between two supplied data sets
+     *      (of observed and expected frequencies), are likely to be simply due to sampling error,
+     *      or if they are likely to be real.
+     *
+     * @param mixed $actual an array of observed frequencies
+     * @param mixed $expected an array of expected frequencies
+     *
+     * @return float|string
+     */
+    public static function test($actual, $expected)
+    {
+        $rows = count($actual);
+        $actual = Functions::flattenArray($actual);
+        $expected = Functions::flattenArray($expected);
+        $columns = count($actual) / $rows;
+
+        $countActuals = count($actual);
+        $countExpected = count($expected);
+        if ($countActuals !== $countExpected || $countActuals === 1) {
+            return ExcelError::NAN();
+        }
+
+        $result = 0.0;
+        for ($i = 0; $i < $countActuals; ++$i) {
+            if ($expected[$i] == 0.0) {
+                return ExcelError::DIV0();
+            } elseif ($expected[$i] < 0.0) {
+                return ExcelError::NAN();
+            }
+            $result += (($actual[$i] - $expected[$i]) ** 2) / $expected[$i];
+        }
+
+        $degrees = self::degrees($rows, $columns);
+
+        $result = Functions::scalar(self::distributionRightTail($result, $degrees));
+
+        return $result;
+    }
+
+    protected static function degrees(int $rows, int $columns): int
+    {
+        if ($rows === 1) {
+            return $columns - 1;
+        } elseif ($columns === 1) {
+            return $rows - 1;
+        }
+
+        return ($columns - 1) * ($rows - 1);
+    }
+
+    private static function inverseLeftTailCalculation(float $probability, int $degrees): float
+    {
+        // bracket the root
+        $min = 0;
+        $sd = sqrt(2.0 * $degrees);
+        $max = 2 * $sd;
+        $s = -1;
+
+        while ($s * self::pchisq($max, $degrees) > $probability * $s) {
+            $min = $max;
+            $max += 2 * $sd;
+        }
+
+        // Find root using bisection
+        $chi2 = 0.5 * ($min + $max);
+
+        while (($max - $min) > self::EPS * $chi2) {
+            if ($s * self::pchisq($chi2, $degrees) > $probability * $s) {
+                $min = $chi2;
+            } else {
+                $max = $chi2;
+            }
+            $chi2 = 0.5 * ($min + $max);
+        }
+
+        return $chi2;
+    }
+
+    private static function pchisq($chi2, $degrees)
+    {
+        return self::gammp($degrees, 0.5 * $chi2);
+    }
+
+    private static function gammp($n, $x)
+    {
+        if ($x < 0.5 * $n + 1) {
+            return self::gser($n, $x);
+        }
+
+        return 1 - self::gcf($n, $x);
+    }
+
+    // Return the incomplete gamma function P(n/2,x) evaluated by
+    // series representation. Algorithm from numerical recipe.
+    // Assume that n is a positive integer and x>0, won't check arguments.
+    // Relative error controlled by the eps parameter
+    private static function gser($n, $x)
+    {
+        /** @var float */
+        $gln = Gamma::ln($n / 2);
+        $a = 0.5 * $n;
+        $ap = $a;
+        $sum = 1.0 / $a;
+        $del = $sum;
+        for ($i = 1; $i < 101; ++$i) {
+            ++$ap;
+            $del = $del * $x / $ap;
+            $sum += $del;
+            if ($del < $sum * self::EPS) {
+                break;
+            }
+        }
+
+        return $sum * exp(-$x + $a * log($x) - $gln);
+    }
+
+    // Return the incomplete gamma function Q(n/2,x) evaluated by
+    // its continued fraction representation. Algorithm from numerical recipe.
+    // Assume that n is a postive integer and x>0, won't check arguments.
+    // Relative error controlled by the eps parameter
+    private static function gcf($n, $x)
+    {
+        /** @var float */
+        $gln = Gamma::ln($n / 2);
+        $a = 0.5 * $n;
+        $b = $x + 1 - $a;
+        $fpmin = 1.e-300;
+        $c = 1 / $fpmin;
+        $d = 1 / $b;
+        $h = $d;
+        for ($i = 1; $i < 101; ++$i) {
+            $an = -$i * ($i - $a);
+            $b += 2;
+            $d = $an * $d + $b;
+            if (abs($d) < $fpmin) {
+                $d = $fpmin;
+            }
+            $c = $b + $an / $c;
+            if (abs($c) < $fpmin) {
+                $c = $fpmin;
+            }
+            $d = 1 / $d;
+            $del = $d * $c;
+            $h = $h * $del;
+            if (abs($del - 1) < self::EPS) {
+                break;
+            }
+        }
+
+        return $h * exp(-$x + $a * log($x) - $gln);
+    }
+}

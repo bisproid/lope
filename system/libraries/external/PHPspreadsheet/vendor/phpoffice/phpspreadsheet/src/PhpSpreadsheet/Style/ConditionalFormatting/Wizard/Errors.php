@@ -1,98 +1,95 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard;
+
+use PhpOffice\PhpSpreadsheet\Exception;
+use PhpOffice\PhpSpreadsheet\Style\Conditional;
+use PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard;
+
+/**
+ * @method Errors notError()
+ * @method Errors isError()
+ */
+class Errors extends WizardAbstract implements WizardInterface
+{
+    protected const OPERATORS = [
+        'notError' => false,
+        'isError' => true,
+    ];
+
+    protected const EXPRESSIONS = [
+        Wizard::NOT_ERRORS => 'NOT(ISERROR(%s))',
+        Wizard::ERRORS => 'ISERROR(%s)',
+    ];
+
+    /**
+     * @var bool
+     */
+    protected $inverse;
+
+    public function __construct(string $cellRange, bool $inverse = false)
+    {
+        parent::__construct($cellRange);
+        $this->inverse = $inverse;
+    }
+
+    protected function inverse(bool $inverse): void
+    {
+        $this->inverse = $inverse;
+    }
+
+    protected function getExpression(): void
+    {
+        $this->expression = sprintf(
+            self::EXPRESSIONS[$this->inverse ? Wizard::ERRORS : Wizard::NOT_ERRORS],
+            $this->referenceCell
+        );
+    }
+
+    public function getConditional(): Conditional
+    {
+        $this->getExpression();
+
+        $conditional = new Conditional();
+        $conditional->setConditionType(
+            $this->inverse ? Conditional::CONDITION_CONTAINSERRORS : Conditional::CONDITION_NOTCONTAINSERRORS
+        );
+        $conditional->setConditions([$this->expression]);
+        $conditional->setStyle($this->getStyle());
+        $conditional->setStopIfTrue($this->getStopIfTrue());
+
+        return $conditional;
+    }
+
+    public static function fromConditional(Conditional $conditional, string $cellRange = 'A1'): WizardInterface
+    {
+        if (
+            $conditional->getConditionType() !== Conditional::CONDITION_CONTAINSERRORS &&
+            $conditional->getConditionType() !== Conditional::CONDITION_NOTCONTAINSERRORS
+        ) {
+            throw new Exception('Conditional is not an Errors CF Rule conditional');
+        }
+
+        $wizard = new self($cellRange);
+        $wizard->style = $conditional->getStyle();
+        $wizard->stopIfTrue = $conditional->getStopIfTrue();
+        $wizard->inverse = $conditional->getConditionType() === Conditional::CONDITION_CONTAINSERRORS;
+
+        return $wizard;
+    }
+
+    /**
+     * @param string $methodName
+     * @param mixed[] $arguments
+     */
+    public function __call($methodName, $arguments): self
+    {
+        if (!array_key_exists($methodName, self::OPERATORS)) {
+            throw new Exception('Invalid Operation for Errors CF Rule Wizard');
+        }
+
+        $this->inverse(self::OPERATORS[$methodName]);
+
+        return $this;
+    }
+}

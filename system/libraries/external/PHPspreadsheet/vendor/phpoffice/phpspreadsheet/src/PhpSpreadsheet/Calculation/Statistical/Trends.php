@@ -1,208 +1,430 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Statistical;
+
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+use PhpOffice\PhpSpreadsheet\Shared\Trend\Trend;
+
+class Trends
+{
+    use ArrayEnabled;
+
+    private static function filterTrendValues(array &$array1, array &$array2): void
+    {
+        foreach ($array1 as $key => $value) {
+            if ((is_bool($value)) || (is_string($value)) || ($value === null)) {
+                unset($array1[$key], $array2[$key]);
+            }
+        }
+    }
+
+    private static function checkTrendArrays(&$array1, &$array2): void
+    {
+        if (!is_array($array1)) {
+            $array1 = [$array1];
+        }
+        if (!is_array($array2)) {
+            $array2 = [$array2];
+        }
+
+        $array1 = Functions::flattenArray($array1);
+        $array2 = Functions::flattenArray($array2);
+
+        self::filterTrendValues($array1, $array2);
+        self::filterTrendValues($array2, $array1);
+
+        // Reset the array indexes
+        $array1 = array_merge($array1);
+        $array2 = array_merge($array2);
+    }
+
+    protected static function validateTrendArrays(array $yValues, array $xValues): void
+    {
+        $yValueCount = count($yValues);
+        $xValueCount = count($xValues);
+
+        if (($yValueCount === 0) || ($yValueCount !== $xValueCount)) {
+            throw new Exception(ExcelError::NA());
+        } elseif ($yValueCount === 1) {
+            throw new Exception(ExcelError::DIV0());
+        }
+    }
+
+    /**
+     * CORREL.
+     *
+     * Returns covariance, the average of the products of deviations for each data point pair.
+     *
+     * @param mixed $yValues array of mixed Data Series Y
+     * @param null|mixed $xValues array of mixed Data Series X
+     *
+     * @return float|string
+     */
+    public static function CORREL($yValues, $xValues = null)
+    {
+        if (($xValues === null) || (!is_array($yValues)) || (!is_array($xValues))) {
+            return ExcelError::VALUE();
+        }
+
+        try {
+            self::checkTrendArrays($yValues, $xValues);
+            self::validateTrendArrays($yValues, $xValues);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $bestFitLinear = Trend::calculate(Trend::TREND_LINEAR, $yValues, $xValues);
+
+        return $bestFitLinear->getCorrelation();
+    }
+
+    /**
+     * COVAR.
+     *
+     * Returns covariance, the average of the products of deviations for each data point pair.
+     *
+     * @param mixed $yValues array of mixed Data Series Y
+     * @param mixed $xValues array of mixed Data Series X
+     *
+     * @return float|string
+     */
+    public static function COVAR($yValues, $xValues)
+    {
+        try {
+            self::checkTrendArrays($yValues, $xValues);
+            self::validateTrendArrays($yValues, $xValues);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $bestFitLinear = Trend::calculate(Trend::TREND_LINEAR, $yValues, $xValues);
+
+        return $bestFitLinear->getCovariance();
+    }
+
+    /**
+     * FORECAST.
+     *
+     * Calculates, or predicts, a future value by using existing values.
+     * The predicted value is a y-value for a given x-value.
+     *
+     * @param mixed $xValue Float value of X for which we want to find Y
+     *                      Or can be an array of values
+     * @param mixed $yValues array of mixed Data Series Y
+     * @param mixed $xValues of mixed Data Series X
+     *
+     * @return array|bool|float|string
+     *         If an array of numbers is passed as an argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function FORECAST($xValue, $yValues, $xValues)
+    {
+        if (is_array($xValue)) {
+            return self::evaluateArrayArgumentsSubset([self::class, __FUNCTION__], 1, $xValue, $yValues, $xValues);
+        }
+
+        try {
+            $xValue = StatisticalValidations::validateFloat($xValue);
+            self::checkTrendArrays($yValues, $xValues);
+            self::validateTrendArrays($yValues, $xValues);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $bestFitLinear = Trend::calculate(Trend::TREND_LINEAR, $yValues, $xValues);
+
+        return $bestFitLinear->getValueOfYForX($xValue);
+    }
+
+    /**
+     * GROWTH.
+     *
+     * Returns values along a predicted exponential Trend
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param mixed[] $xValues Data Series X
+     * @param mixed[] $newValues Values of X for which we want to find Y
+     * @param mixed $const A logical (boolean) value specifying whether to force the intersect to equal 0 or not
+     *
+     * @return float[]
+     */
+    public static function GROWTH($yValues, $xValues = [], $newValues = [], $const = true)
+    {
+        $yValues = Functions::flattenArray($yValues);
+        $xValues = Functions::flattenArray($xValues);
+        $newValues = Functions::flattenArray($newValues);
+        $const = ($const === null) ? true : (bool) Functions::flattenSingleValue($const);
+
+        $bestFitExponential = Trend::calculate(Trend::TREND_EXPONENTIAL, $yValues, $xValues, $const);
+        if (empty($newValues)) {
+            $newValues = $bestFitExponential->getXValues();
+        }
+
+        $returnArray = [];
+        foreach ($newValues as $xValue) {
+            $returnArray[0][] = [$bestFitExponential->getValueOfYForX($xValue)];
+        }
+
+        return $returnArray;
+    }
+
+    /**
+     * INTERCEPT.
+     *
+     * Calculates the point at which a line will intersect the y-axis by using existing x-values and y-values.
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param mixed[] $xValues Data Series X
+     *
+     * @return float|string
+     */
+    public static function INTERCEPT($yValues, $xValues)
+    {
+        try {
+            self::checkTrendArrays($yValues, $xValues);
+            self::validateTrendArrays($yValues, $xValues);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $bestFitLinear = Trend::calculate(Trend::TREND_LINEAR, $yValues, $xValues);
+
+        return $bestFitLinear->getIntersect();
+    }
+
+    /**
+     * LINEST.
+     *
+     * Calculates the statistics for a line by using the "least squares" method to calculate a straight line
+     *     that best fits your data, and then returns an array that describes the line.
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param null|mixed[] $xValues Data Series X
+     * @param mixed $const A logical (boolean) value specifying whether to force the intersect to equal 0 or not
+     * @param mixed $stats A logical (boolean) value specifying whether to return additional regression statistics
+     *
+     * @return array|int|string The result, or a string containing an error
+     */
+    public static function LINEST($yValues, $xValues = null, $const = true, $stats = false)
+    {
+        $const = ($const === null) ? true : (bool) Functions::flattenSingleValue($const);
+        $stats = ($stats === null) ? false : (bool) Functions::flattenSingleValue($stats);
+        if ($xValues === null) {
+            $xValues = $yValues;
+        }
+
+        try {
+            self::checkTrendArrays($yValues, $xValues);
+            self::validateTrendArrays($yValues, $xValues);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $bestFitLinear = Trend::calculate(Trend::TREND_LINEAR, $yValues, $xValues, $const);
+
+        if ($stats === true) {
+            return [
+                [
+                    $bestFitLinear->getSlope(),
+                    $bestFitLinear->getIntersect(),
+                ],
+                [
+                    $bestFitLinear->getSlopeSE(),
+                    ($const === false) ? ExcelError::NA() : $bestFitLinear->getIntersectSE(),
+                ],
+                [
+                    $bestFitLinear->getGoodnessOfFit(),
+                    $bestFitLinear->getStdevOfResiduals(),
+                ],
+                [
+                    $bestFitLinear->getF(),
+                    $bestFitLinear->getDFResiduals(),
+                ],
+                [
+                    $bestFitLinear->getSSRegression(),
+                    $bestFitLinear->getSSResiduals(),
+                ],
+            ];
+        }
+
+        return [
+            $bestFitLinear->getSlope(),
+            $bestFitLinear->getIntersect(),
+        ];
+    }
+
+    /**
+     * LOGEST.
+     *
+     * Calculates an exponential curve that best fits the X and Y data series,
+     *        and then returns an array that describes the line.
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param null|mixed[] $xValues Data Series X
+     * @param mixed $const A logical (boolean) value specifying whether to force the intersect to equal 0 or not
+     * @param mixed $stats A logical (boolean) value specifying whether to return additional regression statistics
+     *
+     * @return array|int|string The result, or a string containing an error
+     */
+    public static function LOGEST($yValues, $xValues = null, $const = true, $stats = false)
+    {
+        $const = ($const === null) ? true : (bool) Functions::flattenSingleValue($const);
+        $stats = ($stats === null) ? false : (bool) Functions::flattenSingleValue($stats);
+        if ($xValues === null) {
+            $xValues = $yValues;
+        }
+
+        try {
+            self::checkTrendArrays($yValues, $xValues);
+            self::validateTrendArrays($yValues, $xValues);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        foreach ($yValues as $value) {
+            if ($value < 0.0) {
+                return ExcelError::NAN();
+            }
+        }
+
+        $bestFitExponential = Trend::calculate(Trend::TREND_EXPONENTIAL, $yValues, $xValues, $const);
+
+        if ($stats === true) {
+            return [
+                [
+                    $bestFitExponential->getSlope(),
+                    $bestFitExponential->getIntersect(),
+                ],
+                [
+                    $bestFitExponential->getSlopeSE(),
+                    ($const === false) ? ExcelError::NA() : $bestFitExponential->getIntersectSE(),
+                ],
+                [
+                    $bestFitExponential->getGoodnessOfFit(),
+                    $bestFitExponential->getStdevOfResiduals(),
+                ],
+                [
+                    $bestFitExponential->getF(),
+                    $bestFitExponential->getDFResiduals(),
+                ],
+                [
+                    $bestFitExponential->getSSRegression(),
+                    $bestFitExponential->getSSResiduals(),
+                ],
+            ];
+        }
+
+        return [
+            $bestFitExponential->getSlope(),
+            $bestFitExponential->getIntersect(),
+        ];
+    }
+
+    /**
+     * RSQ.
+     *
+     * Returns the square of the Pearson product moment correlation coefficient through data points
+     *     in known_y's and known_x's.
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param mixed[] $xValues Data Series X
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function RSQ($yValues, $xValues)
+    {
+        try {
+            self::checkTrendArrays($yValues, $xValues);
+            self::validateTrendArrays($yValues, $xValues);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $bestFitLinear = Trend::calculate(Trend::TREND_LINEAR, $yValues, $xValues);
+
+        return $bestFitLinear->getGoodnessOfFit();
+    }
+
+    /**
+     * SLOPE.
+     *
+     * Returns the slope of the linear regression line through data points in known_y's and known_x's.
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param mixed[] $xValues Data Series X
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function SLOPE($yValues, $xValues)
+    {
+        try {
+            self::checkTrendArrays($yValues, $xValues);
+            self::validateTrendArrays($yValues, $xValues);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $bestFitLinear = Trend::calculate(Trend::TREND_LINEAR, $yValues, $xValues);
+
+        return $bestFitLinear->getSlope();
+    }
+
+    /**
+     * STEYX.
+     *
+     * Returns the standard error of the predicted y-value for each x in the regression.
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param mixed[] $xValues Data Series X
+     *
+     * @return float|string
+     */
+    public static function STEYX($yValues, $xValues)
+    {
+        try {
+            self::checkTrendArrays($yValues, $xValues);
+            self::validateTrendArrays($yValues, $xValues);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $bestFitLinear = Trend::calculate(Trend::TREND_LINEAR, $yValues, $xValues);
+
+        return $bestFitLinear->getStdevOfResiduals();
+    }
+
+    /**
+     * TREND.
+     *
+     * Returns values along a linear Trend
+     *
+     * @param mixed[] $yValues Data Series Y
+     * @param mixed[] $xValues Data Series X
+     * @param mixed[] $newValues Values of X for which we want to find Y
+     * @param mixed $const A logical (boolean) value specifying whether to force the intersect to equal 0 or not
+     *
+     * @return float[]
+     */
+    public static function TREND($yValues, $xValues = [], $newValues = [], $const = true)
+    {
+        $yValues = Functions::flattenArray($yValues);
+        $xValues = Functions::flattenArray($xValues);
+        $newValues = Functions::flattenArray($newValues);
+        $const = ($const === null) ? true : (bool) Functions::flattenSingleValue($const);
+
+        $bestFitLinear = Trend::calculate(Trend::TREND_LINEAR, $yValues, $xValues, $const);
+        if (empty($newValues)) {
+            $newValues = $bestFitLinear->getXValues();
+        }
+
+        $returnArray = [];
+        foreach ($newValues as $xValue) {
+            $returnArray[0][] = [$bestFitLinear->getValueOfYForX($xValue)];
+        }
+
+        return $returnArray;
+    }
+}

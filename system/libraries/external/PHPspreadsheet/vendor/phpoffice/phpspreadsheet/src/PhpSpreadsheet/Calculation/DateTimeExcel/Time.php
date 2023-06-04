@@ -1,96 +1,130 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-aRVR+csFgyGlENq=
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\DateTimeExcel;
+
+use DateTime;
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+use PhpOffice\PhpSpreadsheet\Shared\Date as SharedDateHelper;
+
+class Time
+{
+    use ArrayEnabled;
+
+    /**
+     * TIME.
+     *
+     * The TIME function returns a value that represents a particular time.
+     *
+     * NOTE: When used in a Cell Formula, MS Excel changes the cell format so that it matches the time
+     * format of your regional settings. PhpSpreadsheet does not change cell formatting in this way.
+     *
+     * Excel Function:
+     *        TIME(hour,minute,second)
+     *
+     * @param array|int $hour A number from 0 (zero) to 32767 representing the hour.
+     *                                    Any value greater than 23 will be divided by 24 and the remainder
+     *                                    will be treated as the hour value. For example, TIME(27,0,0) =
+     *                                    TIME(3,0,0) = .125 or 3:00 AM.
+     * @param array|int $minute A number from 0 to 32767 representing the minute.
+     *                                    Any value greater than 59 will be converted to hours and minutes.
+     *                                    For example, TIME(0,750,0) = TIME(12,30,0) = .520833 or 12:30 PM.
+     * @param array|int $second A number from 0 to 32767 representing the second.
+     *                                    Any value greater than 59 will be converted to hours, minutes,
+     *                                    and seconds. For example, TIME(0,0,2000) = TIME(0,33,22) = .023148
+     *                                    or 12:33:20 AM
+     *         If an array of numbers is passed as the argument, then the returned result will also be an array
+     *            with the same dimensions
+     *
+     * @return array|mixed Excel date/time serial value, PHP date/time serial value or PHP date/time object,
+     *                        depending on the value of the ReturnDateType flag
+     *         If an array of numbers is passed as the argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function fromHMS($hour, $minute, $second)
+    {
+        if (is_array($hour) || is_array($minute) || is_array($second)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $hour, $minute, $second);
+        }
+
+        try {
+            $hour = self::toIntWithNullBool($hour);
+            $minute = self::toIntWithNullBool($minute);
+            $second = self::toIntWithNullBool($second);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        self::adjustSecond($second, $minute);
+        self::adjustMinute($minute, $hour);
+
+        if ($hour > 23) {
+            $hour = $hour % 24;
+        } elseif ($hour < 0) {
+            return ExcelError::NAN();
+        }
+
+        // Execute function
+        $retType = Functions::getReturnDateType();
+        if ($retType === Functions::RETURNDATE_EXCEL) {
+            $calendar = SharedDateHelper::getExcelCalendar();
+            $date = (int) ($calendar !== SharedDateHelper::CALENDAR_WINDOWS_1900);
+
+            return (float) SharedDateHelper::formattedPHPToExcel($calendar, 1, $date, $hour, $minute, $second);
+        }
+        if ($retType === Functions::RETURNDATE_UNIX_TIMESTAMP) {
+            return (int) SharedDateHelper::excelToTimestamp(SharedDateHelper::formattedPHPToExcel(1970, 1, 1, $hour, $minute, $second)); // -2147468400; //    -2147472000 + 3600
+        }
+        // RETURNDATE_PHP_DATETIME_OBJECT
+        // Hour has already been normalized (0-23) above
+        $phpDateObject = new DateTime('1900-01-01 ' . $hour . ':' . $minute . ':' . $second);
+
+        return $phpDateObject;
+    }
+
+    private static function adjustSecond(int &$second, int &$minute): void
+    {
+        if ($second < 0) {
+            $minute += floor($second / 60);
+            $second = 60 - abs($second % 60);
+            if ($second == 60) {
+                $second = 0;
+            }
+        } elseif ($second >= 60) {
+            $minute += floor($second / 60);
+            $second = $second % 60;
+        }
+    }
+
+    private static function adjustMinute(int &$minute, int &$hour): void
+    {
+        if ($minute < 0) {
+            $hour += floor($minute / 60);
+            $minute = 60 - abs($minute % 60);
+            if ($minute == 60) {
+                $minute = 0;
+            }
+        } elseif ($minute >= 60) {
+            $hour += floor($minute / 60);
+            $minute = $minute % 60;
+        }
+    }
+
+    /**
+     * @param mixed $value expect int
+     */
+    private static function toIntWithNullBool($value): int
+    {
+        $value = $value ?? 0;
+        if (is_bool($value)) {
+            $value = (int) $value;
+        }
+        if (!is_numeric($value)) {
+            throw new Exception(ExcelError::VALUE());
+        }
+
+        return (int) $value;
+    }
+}

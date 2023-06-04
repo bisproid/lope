@@ -1,112 +1,448 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation;
+
+use DateTimeInterface;
+
+/**
+ * @deprecated 1.18.0
+ */
+class TextData
+{
+    /**
+     * CHARACTER.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the character() method in the TextData\CharacterConvert class instead
+     *
+     * @param string $character Value
+     *
+     * @return array|string
+     */
+    public static function CHARACTER($character)
+    {
+        return TextData\CharacterConvert::character($character);
+    }
+
+    /**
+     * TRIMNONPRINTABLE.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the nonPrintable() method in the TextData\Trim class instead
+     *
+     * @param mixed $stringValue Value to check
+     *
+     * @return null|array|string
+     */
+    public static function TRIMNONPRINTABLE($stringValue = '')
+    {
+        return TextData\Trim::nonPrintable($stringValue);
+    }
+
+    /**
+     * TRIMSPACES.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the spaces() method in the TextData\Trim class instead
+     *
+     * @param mixed $stringValue Value to check
+     *
+     * @return array|string
+     */
+    public static function TRIMSPACES($stringValue = '')
+    {
+        return TextData\Trim::spaces($stringValue);
+    }
+
+    /**
+     * ASCIICODE.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the code() method in the TextData\CharacterConvert class instead
+     *
+     * @param array|string $characters Value
+     *
+     * @return array|int|string A string if arguments are invalid
+     */
+    public static function ASCIICODE($characters)
+    {
+        return TextData\CharacterConvert::code($characters);
+    }
+
+    /**
+     * CONCATENATE.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the CONCATENATE() method in the TextData\Concatenate class instead
+     *
+     * @return string
+     */
+    public static function CONCATENATE(...$args)
+    {
+        return TextData\Concatenate::CONCATENATE(...$args);
+    }
+
+    /**
+     * DOLLAR.
+     *
+     * This function converts a number to text using currency format, with the decimals rounded to the specified place.
+     * The format used is $#,##0.00_);($#,##0.00)..
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the DOLLAR() method in the TextData\Format class instead
+     *
+     * @param float $value The value to format
+     * @param int $decimals The number of digits to display to the right of the decimal point.
+     *                                    If decimals is negative, number is rounded to the left of the decimal point.
+     *                                    If you omit decimals, it is assumed to be 2
+     *
+     * @return array|string
+     */
+    public static function DOLLAR($value = 0, $decimals = 2)
+    {
+        return TextData\Format::DOLLAR($value, $decimals);
+    }
+
+    /**
+     * FIND.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the sensitive() method in the TextData\Search class instead
+     *
+     * @param array|string $needle The string to look for
+     * @param array|string $haystack The string in which to look
+     * @param array|int $offset Offset within $haystack
+     *
+     * @return array|int|string
+     */
+    public static function SEARCHSENSITIVE($needle, $haystack, $offset = 1)
+    {
+        return TextData\Search::sensitive($needle, $haystack, $offset);
+    }
+
+    /**
+     * SEARCH.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the insensitive() method in the TextData\Search class instead
+     *
+     * @param array|string $needle The string to look for
+     * @param array|string $haystack The string in which to look
+     * @param array|int $offset Offset within $haystack
+     *
+     * @return array|int|string
+     */
+    public static function SEARCHINSENSITIVE($needle, $haystack, $offset = 1)
+    {
+        return TextData\Search::insensitive($needle, $haystack, $offset);
+    }
+
+    /**
+     * FIXEDFORMAT.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the FIXEDFORMAT() method in the TextData\Format class instead
+     *
+     * @param mixed $value Value to check
+     * @param int $decimals
+     * @param bool $no_commas
+     *
+     * @return array|string
+     */
+    public static function FIXEDFORMAT($value, $decimals = 2, $no_commas = false)
+    {
+        return TextData\Format::FIXEDFORMAT($value, $decimals, $no_commas);
+    }
+
+    /**
+     * LEFT.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the left() method in the TextData\Extract class instead
+     *
+     * @param array|string $value Value
+     * @param array|int $chars Number of characters
+     *
+     * @return array|string
+     */
+    public static function LEFT($value = '', $chars = 1)
+    {
+        return TextData\Extract::left($value, $chars);
+    }
+
+    /**
+     * MID.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the mid() method in the TextData\Extract class instead
+     *
+     * @param array|string $value Value
+     * @param array|int $start Start character
+     * @param array|int $chars Number of characters
+     *
+     * @return array|string
+     */
+    public static function MID($value = '', $start = 1, $chars = null)
+    {
+        return TextData\Extract::mid($value, $start, $chars);
+    }
+
+    /**
+     * RIGHT.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the right() method in the TextData\Extract class instead
+     *
+     * @param array|string $value Value
+     * @param array|int $chars Number of characters
+     *
+     * @return array|string
+     */
+    public static function RIGHT($value = '', $chars = 1)
+    {
+        return TextData\Extract::right($value, $chars);
+    }
+
+    /**
+     * STRINGLENGTH.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the length() method in the TextData\Text class instead
+     *
+     * @param string $value Value
+     *
+     * @return array|int
+     */
+    public static function STRINGLENGTH($value = '')
+    {
+        return TextData\Text::length($value);
+    }
+
+    /**
+     * LOWERCASE.
+     *
+     * Converts a string value to lower case.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the lower() method in the TextData\CaseConvert class instead
+     *
+     * @param array|string $mixedCaseString
+     *
+     * @return array|string
+     */
+    public static function LOWERCASE($mixedCaseString)
+    {
+        return TextData\CaseConvert::lower($mixedCaseString);
+    }
+
+    /**
+     * UPPERCASE.
+     *
+     * Converts a string value to upper case.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the upper() method in the TextData\CaseConvert class instead
+     *
+     * @param string $mixedCaseString
+     *
+     * @return array|string
+     */
+    public static function UPPERCASE($mixedCaseString)
+    {
+        return TextData\CaseConvert::upper($mixedCaseString);
+    }
+
+    /**
+     * PROPERCASE.
+     *
+     * Converts a string value to proper/title case.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the proper() method in the TextData\CaseConvert class instead
+     *
+     * @param array|string $mixedCaseString
+     *
+     * @return array|string
+     */
+    public static function PROPERCASE($mixedCaseString)
+    {
+        return TextData\CaseConvert::proper($mixedCaseString);
+    }
+
+    /**
+     * REPLACE.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the replace() method in the TextData\Replace class instead
+     *
+     * @param string $oldText String to modify
+     * @param int $start Start character
+     * @param int $chars Number of characters
+     * @param string $newText String to replace in defined position
+     *
+     * @return array|string
+     */
+    public static function REPLACE($oldText, $start, $chars, $newText)
+    {
+        return TextData\Replace::replace($oldText, $start, $chars, $newText);
+    }
+
+    /**
+     * SUBSTITUTE.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the substitute() method in the TextData\Replace class instead
+     *
+     * @param string $text Value
+     * @param string $fromText From Value
+     * @param string $toText To Value
+     * @param int $instance Instance Number
+     *
+     * @return array|string
+     */
+    public static function SUBSTITUTE($text = '', $fromText = '', $toText = '', $instance = 0)
+    {
+        return TextData\Replace::substitute($text, $fromText, $toText, $instance);
+    }
+
+    /**
+     * RETURNSTRING.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the test() method in the TextData\Text class instead
+     *
+     * @param mixed $testValue Value to check
+     *
+     * @return null|array|string
+     */
+    public static function RETURNSTRING($testValue = '')
+    {
+        return TextData\Text::test($testValue);
+    }
+
+    /**
+     * TEXTFORMAT.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the TEXTFORMAT() method in the TextData\Format class instead
+     *
+     * @param mixed $value Value to check
+     * @param string $format Format mask to use
+     *
+     * @return array|string
+     */
+    public static function TEXTFORMAT($value, $format)
+    {
+        return TextData\Format::TEXTFORMAT($value, $format);
+    }
+
+    /**
+     * VALUE.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the VALUE() method in the TextData\Format class instead
+     *
+     * @param mixed $value Value to check
+     *
+     * @return array|DateTimeInterface|float|int|string A string if arguments are invalid
+     */
+    public static function VALUE($value = '')
+    {
+        return TextData\Format::VALUE($value);
+    }
+
+    /**
+     * NUMBERVALUE.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the NUMBERVALUE() method in the TextData\Format class instead
+     *
+     * @param mixed $value Value to check
+     * @param string $decimalSeparator decimal separator, defaults to locale defined value
+     * @param string $groupSeparator group/thosands separator, defaults to locale defined value
+     *
+     * @return array|float|string
+     */
+    public static function NUMBERVALUE($value = '', $decimalSeparator = null, $groupSeparator = null)
+    {
+        return TextData\Format::NUMBERVALUE($value, $decimalSeparator, $groupSeparator);
+    }
+
+    /**
+     * Compares two text strings and returns TRUE if they are exactly the same, FALSE otherwise.
+     * EXACT is case-sensitive but ignores formatting differences.
+     * Use EXACT to test text being entered into a document.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the exact() method in the TextData\Text class instead
+     *
+     * @param mixed $value1
+     * @param mixed $value2
+     *
+     * @return array|bool
+     */
+    public static function EXACT($value1, $value2)
+    {
+        return TextData\Text::exact($value1, $value2);
+    }
+
+    /**
+     * TEXTJOIN.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the TEXTJOIN() method in the TextData\Concatenate class instead
+     *
+     * @param mixed $delimiter
+     * @param mixed $ignoreEmpty
+     * @param mixed $args
+     *
+     * @return array|string
+     */
+    public static function TEXTJOIN($delimiter, $ignoreEmpty, ...$args)
+    {
+        return TextData\Concatenate::TEXTJOIN($delimiter, $ignoreEmpty, ...$args);
+    }
+
+    /**
+     * REPT.
+     *
+     * Returns the result of builtin function repeat after validating args.
+     *
+     * @Deprecated 1.18.0
+     *
+     * @see Use the builtinREPT() method in the TextData\Concatenate class instead
+     *
+     * @param array|string $str Should be numeric
+     * @param mixed $number Should be int
+     *
+     * @return array|string
+     */
+    public static function builtinREPT($str, $number)
+    {
+        return TextData\Concatenate::builtinREPT($str, $number);
+    }
+}

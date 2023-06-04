@@ -1,103 +1,122 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\LookupRef;
+
+use Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Calculation;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+use PhpOffice\PhpSpreadsheet\Cell\Cell;
+use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
+
+class Indirect
+{
+    /**
+     * Determine whether cell address is in A1 (true) or R1C1 (false) format.
+     *
+     * @param mixed $a1fmt Expect bool Helpers::CELLADDRESS_USE_A1 or CELLADDRESS_USE_R1C1,
+     *                      but can be provided as numeric which is cast to bool
+     */
+    private static function a1Format($a1fmt): bool
+    {
+        $a1fmt = Functions::flattenSingleValue($a1fmt);
+        if ($a1fmt === null) {
+            return Helpers::CELLADDRESS_USE_A1;
+        }
+        if (is_string($a1fmt)) {
+            throw new Exception(ExcelError::VALUE());
+        }
+
+        return (bool) $a1fmt;
+    }
+
+    /**
+     * Convert cellAddress to string, verify not null string.
+     *
+     * @param array|string $cellAddress
+     */
+    private static function validateAddress($cellAddress): string
+    {
+        $cellAddress = Functions::flattenSingleValue($cellAddress);
+        if (!is_string($cellAddress) || !$cellAddress) {
+            throw new Exception(ExcelError::REF());
+        }
+
+        return $cellAddress;
+    }
+
+    /**
+     * INDIRECT.
+     *
+     * Returns the reference specified by a text string.
+     * References are immediately evaluated to display their contents.
+     *
+     * Excel Function:
+     *        =INDIRECT(cellAddress, bool) where the bool argument is optional
+     *
+     * @param array|string $cellAddress $cellAddress The cell address of the current cell (containing this formula)
+     * @param mixed $a1fmt Expect bool Helpers::CELLADDRESS_USE_A1 or CELLADDRESS_USE_R1C1,
+     *                      but can be provided as numeric which is cast to bool
+     * @param Cell $cell The current cell (containing this formula)
+     *
+     * @return array|string An array containing a cell or range of cells, or a string on error
+     */
+    public static function INDIRECT($cellAddress, $a1fmt, Cell $cell)
+    {
+        try {
+            $a1 = self::a1Format($a1fmt);
+            $cellAddress = self::validateAddress($cellAddress);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        [$cellAddress, $worksheet, $sheetName] = Helpers::extractWorksheet($cellAddress, $cell);
+
+        if (preg_match('/^' . Calculation::CALCULATION_REGEXP_COLUMNRANGE_RELATIVE . '$/miu', $cellAddress, $matches)) {
+            $cellAddress = self::handleRowColumnRanges($worksheet, ...explode(':', $cellAddress));
+        } elseif (preg_match('/^' . Calculation::CALCULATION_REGEXP_ROWRANGE_RELATIVE . '$/miu', $cellAddress, $matches)) {
+            $cellAddress = self::handleRowColumnRanges($worksheet, ...explode(':', $cellAddress));
+        }
+
+        [$cellAddress1, $cellAddress2, $cellAddress] = Helpers::extractCellAddresses($cellAddress, $a1, $cell->getWorkSheet(), $sheetName);
+
+        if (
+            (!preg_match('/^' . Calculation::CALCULATION_REGEXP_CELLREF . '$/miu', $cellAddress1, $matches)) ||
+            (($cellAddress2 !== null) && (!preg_match('/^' . Calculation::CALCULATION_REGEXP_CELLREF . '$/miu', $cellAddress2, $matches)))
+        ) {
+            return ExcelError::REF();
+        }
+
+        return self::extractRequiredCells($worksheet, $cellAddress);
+    }
+
+    /**
+     * Extract range values.
+     *
+     * @return mixed Array of values in range if range contains more than one element.
+     *                  Otherwise, a single value is returned.
+     */
+    private static function extractRequiredCells(?Worksheet $worksheet, string $cellAddress)
+    {
+        return Calculation::getInstance($worksheet !== null ? $worksheet->getParent() : null)
+            ->extractCellRange($cellAddress, $worksheet, false);
+    }
+
+    private static function handleRowColumnRanges(?Worksheet $worksheet, string $start, string $end): string
+    {
+        // Being lazy, we're only checking a single row/column to get the max
+        if (ctype_digit($start) && $start <= 1048576) {
+            // Max 16,384 columns for Excel2007
+            $endColRef = ($worksheet !== null) ? $worksheet->getHighestDataColumn((int) $start) : 'XFD';
+
+            return "A{$start}:{$endColRef}{$end}";
+        } elseif (ctype_alpha($start) && strlen($start) <= 3) {
+            // Max 1,048,576 rows for Excel2007
+            $endRowRef = ($worksheet !== null) ? $worksheet->getHighestDataRow($start) : 1048576;
+
+            return "{$start}1:{$end}{$endRowRef}";
+        }
+
+        return "{$start}:{$end}";
+    }
+}

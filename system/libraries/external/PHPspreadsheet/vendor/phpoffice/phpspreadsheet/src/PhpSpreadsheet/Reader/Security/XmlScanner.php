@@ -1,110 +1,157 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-tgWee6Cq
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Reader\Security;
+
+use PhpOffice\PhpSpreadsheet\Reader;
+
+class XmlScanner
+{
+    /**
+     * String used to identify risky xml elements.
+     *
+     * @var string
+     */
+    private $pattern;
+
+    private $callback;
+
+    private static $libxmlDisableEntityLoaderValue;
+
+    /**
+     * @var bool
+     */
+    private static $shutdownRegistered = false;
+
+    public function __construct($pattern = '<!DOCTYPE')
+    {
+        $this->pattern = $pattern;
+
+        $this->disableEntityLoaderCheck();
+
+        // A fatal error will bypass the destructor, so we register a shutdown here
+        if (!self::$shutdownRegistered) {
+            self::$shutdownRegistered = true;
+            register_shutdown_function([__CLASS__, 'shutdown']);
+        }
+    }
+
+    public static function getInstance(Reader\IReader $reader)
+    {
+        switch (true) {
+            case $reader instanceof Reader\Html:
+                return new self('<!ENTITY');
+            case $reader instanceof Reader\Xlsx:
+            case $reader instanceof Reader\Xml:
+            case $reader instanceof Reader\Ods:
+            case $reader instanceof Reader\Gnumeric:
+                return new self('<!DOCTYPE');
+            default:
+                return new self('<!DOCTYPE');
+        }
+    }
+
+    public static function threadSafeLibxmlDisableEntityLoaderAvailability()
+    {
+        if (PHP_MAJOR_VERSION == 7) {
+            switch (PHP_MINOR_VERSION) {
+                case 2:
+                    return PHP_RELEASE_VERSION >= 1;
+                case 1:
+                    return PHP_RELEASE_VERSION >= 13;
+                case 0:
+                    return PHP_RELEASE_VERSION >= 27;
+            }
+
+            return true;
+        }
+
+        return false;
+    }
+
+    private function disableEntityLoaderCheck(): void
+    {
+        if (\PHP_VERSION_ID < 80000) {
+            $libxmlDisableEntityLoaderValue = libxml_disable_entity_loader(true);
+
+            if (self::$libxmlDisableEntityLoaderValue === null) {
+                self::$libxmlDisableEntityLoaderValue = $libxmlDisableEntityLoaderValue;
+            }
+        }
+    }
+
+    public static function shutdown(): void
+    {
+        if (self::$libxmlDisableEntityLoaderValue !== null && \PHP_VERSION_ID < 80000) {
+            libxml_disable_entity_loader(self::$libxmlDisableEntityLoaderValue);
+            self::$libxmlDisableEntityLoaderValue = null;
+        }
+    }
+
+    public function __destruct()
+    {
+        self::shutdown();
+    }
+
+    public function setAdditionalCallback(callable $callback): void
+    {
+        $this->callback = $callback;
+    }
+
+    private function toUtf8($xml)
+    {
+        $pattern = '/encoding="(.*?)"/';
+        $result = preg_match($pattern, $xml, $matches);
+        $charset = strtoupper($result ? $matches[1] : 'UTF-8');
+
+        if ($charset !== 'UTF-8') {
+            $xml = mb_convert_encoding($xml, 'UTF-8', $charset);
+
+            $result = preg_match($pattern, $xml, $matches);
+            $charset = strtoupper($result ? $matches[1] : 'UTF-8');
+            if ($charset !== 'UTF-8') {
+                throw new Reader\Exception('Suspicious Double-encoded XML, spreadsheet file load() aborted to prevent XXE/XEE attacks');
+            }
+        }
+
+        return $xml;
+    }
+
+    /**
+     * Scan the XML for use of <!ENTITY to prevent XXE/XEE attacks.
+     *
+     * @param mixed $xml
+     *
+     * @return string
+     */
+    public function scan($xml)
+    {
+        $this->disableEntityLoaderCheck();
+
+        $xml = $this->toUtf8($xml);
+
+        // Don't rely purely on libxml_disable_entity_loader()
+        $pattern = '/\\0?' . implode('\\0?', str_split($this->pattern)) . '\\0?/';
+
+        if (preg_match($pattern, $xml)) {
+            throw new Reader\Exception('Detected use of ENTITY in XML, spreadsheet file load() aborted to prevent XXE/XEE attacks');
+        }
+
+        if ($this->callback !== null && is_callable($this->callback)) {
+            $xml = call_user_func($this->callback, $xml);
+        }
+
+        return $xml;
+    }
+
+    /**
+     * Scan theXML for use of <!ENTITY to prevent XXE/XEE attacks.
+     *
+     * @param string $filestream
+     *
+     * @return string
+     */
+    public function scanFile($filestream)
+    {
+        return $this->scan(file_get_contents($filestream));
+    }
+}

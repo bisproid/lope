@@ -1,99 +1,115 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\LookupRef;
+
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+use PhpOffice\PhpSpreadsheet\Shared\StringHelper;
+
+class VLookup extends LookupBase
+{
+    use ArrayEnabled;
+
+    /**
+     * VLOOKUP
+     * The VLOOKUP function searches for value in the left-most column of lookup_array and returns the value
+     *     in the same row based on the index_number.
+     *
+     * @param mixed $lookupValue The value that you want to match in lookup_array
+     * @param mixed $lookupArray The range of cells being searched
+     * @param mixed $indexNumber The column number in table_array from which the matching value must be returned.
+     *                                The first column is 1.
+     * @param mixed $notExactMatch determines if you are looking for an exact match based on lookup_value
+     *
+     * @return mixed The value of the found cell
+     */
+    public static function lookup($lookupValue, $lookupArray, $indexNumber, $notExactMatch = true)
+    {
+        if (is_array($lookupValue)) {
+            return self::evaluateArrayArgumentsIgnore([self::class, __FUNCTION__], 1, $lookupValue, $lookupArray, $indexNumber, $notExactMatch);
+        }
+
+        $notExactMatch = (bool) ($notExactMatch ?? true);
+
+        try {
+            self::validateLookupArray($lookupArray);
+            $indexNumber = self::validateIndexLookup($lookupArray, $indexNumber);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $f = array_keys($lookupArray);
+        $firstRow = array_pop($f);
+        if ((!is_array($lookupArray[$firstRow])) || ($indexNumber > count($lookupArray[$firstRow]))) {
+            return ExcelError::REF();
+        }
+        $columnKeys = array_keys($lookupArray[$firstRow]);
+        $returnColumn = $columnKeys[--$indexNumber];
+        $firstColumn = array_shift($columnKeys) ?? 1;
+
+        if (!$notExactMatch) {
+            uasort($lookupArray, ['self', 'vlookupSort']);
+        }
+
+        $rowNumber = self::vLookupSearch($lookupValue, $lookupArray, $firstColumn, $notExactMatch);
+
+        if ($rowNumber !== null) {
+            // return the appropriate value
+            return $lookupArray[$rowNumber][$returnColumn];
+        }
+
+        return ExcelError::NA();
+    }
+
+    private static function vlookupSort($a, $b)
+    {
+        reset($a);
+        $firstColumn = key($a);
+        $aLower = StringHelper::strToLower($a[$firstColumn]);
+        $bLower = StringHelper::strToLower($b[$firstColumn]);
+
+        if ($aLower == $bLower) {
+            return 0;
+        }
+
+        return ($aLower < $bLower) ? -1 : 1;
+    }
+
+    /**
+     * @param mixed $lookupValue The value that you want to match in lookup_array
+     * @param  int|string $column
+     */
+    private static function vLookupSearch($lookupValue, array $lookupArray, $column, bool $notExactMatch): ?int
+    {
+        $lookupLower = StringHelper::strToLower($lookupValue);
+
+        $rowNumber = null;
+        foreach ($lookupArray as $rowKey => $rowData) {
+            $bothNumeric = is_numeric($lookupValue) && is_numeric($rowData[$column]);
+            $bothNotNumeric = !is_numeric($lookupValue) && !is_numeric($rowData[$column]);
+            $cellDataLower = StringHelper::strToLower($rowData[$column]);
+
+            // break if we have passed possible keys
+            if (
+                $notExactMatch &&
+                (($bothNumeric && ($rowData[$column] > $lookupValue)) ||
+                ($bothNotNumeric && ($cellDataLower > $lookupLower)))
+            ) {
+                break;
+            }
+
+            $rowNumber = self::checkMatch(
+                $bothNumeric,
+                $bothNotNumeric,
+                $notExactMatch,
+                $rowKey,
+                $cellDataLower,
+                $lookupLower,
+                $rowNumber
+            );
+        }
+
+        return $rowNumber;
+    }
+}

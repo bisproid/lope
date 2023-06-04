@@ -1,114 +1,218 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\MathTrig;
+
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+
+class Round
+{
+    use ArrayEnabled;
+
+    /**
+     * ROUND.
+     *
+     * Returns the result of builtin function round after validating args.
+     *
+     * @param mixed $number Should be numeric, or can be an array of numbers
+     * @param mixed $precision Should be int, or can be an array of numbers
+     *
+     * @return array|float|string Rounded number
+     *         If an array of numbers is passed as the argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function round($number, $precision)
+    {
+        if (is_array($number) || is_array($precision)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $number, $precision);
+        }
+
+        try {
+            $number = Helpers::validateNumericNullBool($number);
+            $precision = Helpers::validateNumericNullBool($precision);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        return round($number, (int) $precision);
+    }
+
+    /**
+     * ROUNDUP.
+     *
+     * Rounds a number up to a specified number of decimal places
+     *
+     * @param array|float $number Number to round, or can be an array of numbers
+     * @param array|int $digits Number of digits to which you want to round $number, or can be an array of numbers
+     *
+     * @return array|float|string Rounded Number, or a string containing an error
+     *         If an array of numbers is passed as the argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function up($number, $digits)
+    {
+        if (is_array($number) || is_array($digits)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $number, $digits);
+        }
+
+        try {
+            $number = Helpers::validateNumericNullBool($number);
+            $digits = (int) Helpers::validateNumericNullSubstitution($digits, null);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($number == 0.0) {
+            return 0.0;
+        }
+
+        if ($number < 0.0) {
+            return round($number - 0.5 * 0.1 ** $digits, $digits, PHP_ROUND_HALF_DOWN);
+        }
+
+        return round($number + 0.5 * 0.1 ** $digits, $digits, PHP_ROUND_HALF_DOWN);
+    }
+
+    /**
+     * ROUNDDOWN.
+     *
+     * Rounds a number down to a specified number of decimal places
+     *
+     * @param array|float $number Number to round, or can be an array of numbers
+     * @param array|int $digits Number of digits to which you want to round $number, or can be an array of numbers
+     *
+     * @return array|float|string Rounded Number, or a string containing an error
+     *         If an array of numbers is passed as the argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function down($number, $digits)
+    {
+        if (is_array($number) || is_array($digits)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $number, $digits);
+        }
+
+        try {
+            $number = Helpers::validateNumericNullBool($number);
+            $digits = (int) Helpers::validateNumericNullSubstitution($digits, null);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($number == 0.0) {
+            return 0.0;
+        }
+
+        if ($number < 0.0) {
+            return round($number + 0.5 * 0.1 ** $digits, $digits, PHP_ROUND_HALF_UP);
+        }
+
+        return round($number - 0.5 * 0.1 ** $digits, $digits, PHP_ROUND_HALF_UP);
+    }
+
+    /**
+     * MROUND.
+     *
+     * Rounds a number to the nearest multiple of a specified value
+     *
+     * @param mixed $number Expect float. Number to round, or can be an array of numbers
+     * @param mixed $multiple Expect int. Multiple to which you want to round, or can be an array of numbers.
+     *
+     * @return array|float|string Rounded Number, or a string containing an error
+     *         If an array of numbers is passed as the argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function multiple($number, $multiple)
+    {
+        if (is_array($number) || is_array($multiple)) {
+            return self::evaluateArrayArguments([self::class, __FUNCTION__], $number, $multiple);
+        }
+
+        try {
+            $number = Helpers::validateNumericNullSubstitution($number, 0);
+            $multiple = Helpers::validateNumericNullSubstitution($multiple, null);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($number == 0 || $multiple == 0) {
+            return 0;
+        }
+        if ((Helpers::returnSign($number)) == (Helpers::returnSign($multiple))) {
+            $multiplier = 1 / $multiple;
+
+            return round($number * $multiplier) / $multiplier;
+        }
+
+        return ExcelError::NAN();
+    }
+
+    /**
+     * EVEN.
+     *
+     * Returns number rounded up to the nearest even integer.
+     * You can use this function for processing items that come in twos. For example,
+     *        a packing crate accepts rows of one or two items. The crate is full when
+     *        the number of items, rounded up to the nearest two, matches the crate's
+     *        capacity.
+     *
+     * Excel Function:
+     *        EVEN(number)
+     *
+     * @param array|float $number Number to round, or can be an array of numbers
+     *
+     * @return array|float|string Rounded Number, or a string containing an error
+     *         If an array of numbers is passed as the argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function even($number)
+    {
+        if (is_array($number)) {
+            return self::evaluateSingleArgumentArray([self::class, __FUNCTION__], $number);
+        }
+
+        try {
+            $number = Helpers::validateNumericNullBool($number);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        return Helpers::getEven($number);
+    }
+
+    /**
+     * ODD.
+     *
+     * Returns number rounded up to the nearest odd integer.
+     *
+     * @param array|float $number Number to round, or can be an array of numbers
+     *
+     * @return array|float|string Rounded Number, or a string containing an error
+     *         If an array of numbers is passed as the argument, then the returned result will also be an array
+     *            with the same dimensions
+     */
+    public static function odd($number)
+    {
+        if (is_array($number)) {
+            return self::evaluateSingleArgumentArray([self::class, __FUNCTION__], $number);
+        }
+
+        try {
+            $number = Helpers::validateNumericNullBool($number);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        $significance = Helpers::returnSign($number);
+        if ($significance == 0) {
+            return 1;
+        }
+
+        $result = ceil($number / $significance) * $significance;
+        if ($result == Helpers::getEven($result)) {
+            $result += $significance;
+        }
+
+        return $result;
+    }
+}

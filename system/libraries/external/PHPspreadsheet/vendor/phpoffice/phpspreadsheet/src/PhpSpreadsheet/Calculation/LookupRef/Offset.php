@@ -1,106 +1,137 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPrMkwjwl9UyHncb//SGVFfACPyfsHYs1Mikk80fo2eNnbuuzE6LZ/9tWS68Qz/p9/lwJeL4Q
-4Goo99dOajy1EaPwlUYnPC7n+uBkNv00jOx9FvgIFjdfLjW1hbKHRLKWQQ8wQ4EiDZTbw9OeIuH/
-LrFGM1vF9kD5g5udNEx+IP9x+XR7qQZskNkUphe73ZXNzP9wgtKFkJa7/58ihhirajlpzT6gMehc
-92aWNf0LvWXhwJ349SN9jHpc38MFyIgNsIqOfp0OYFfgbnbdj1cTix3gCRC16VRTs96l3IzGqeL2
-gG1S2N9AfNGFSXDJUxW8vzPUR3b7UeoK/khr3kJH8R4xm/K2vj8eRTBllgk+CgPlCX3Cr/wLOw8r
-Q7RAGle84xddLq/9Znfe2eSowraxTzm8mb/AhB0LY2KOehUPQdW4OOzA7PW13w8cPKTNEpPkykt8
-2zIxKcbmEdIxm4Wn1Tk9WqEP5e1U2f/9XzOXUlKXzOnfGva8phmMbvH8gK9spJDSbhdI+/46b2G+
-KrO0otYltUkDZ9tS/ztLpML9WhKZShfi/KI/KKmdYidZn6UHaSTOHGHFHRzruGezoYr0PK3HXGQj
-Bg5JNu0wMZhzMjwyGUedRhN9qQ8JHflB7bpL8vGsedYDRgSVB3+F+JWF7iKbY5T9oSaETxZ34FQD
-7dfjhxQnIW6mas2eldBGMG04VRmX8qT0hzSxE9EUlBy+Q4xD7Kzp6L8QPEDhNnZAz6dtDJ06lgu/
-kDWA3HBf8PV7zH2GX4wGFLONCtHXowtpFyPSl970aty4ydldXS/LIsco7fu9rPZ+U/8kB0DzmKMN
-btmjddb9PwDhwPuO98JOcPFGueJxNDnMW4T7eAcbZ1Mwa86btgBSql8rB03UYgU1fCLh7Mtoek5V
-iLagKhT2QmGTEBZ6ojFqdHZVgcYBmbV5fHwf+LYa2OVTHLnSMDigEVyZpBzRDAvuNoIfi0/nM4At
-OfsicHrMro0byhvgM1Y6sJ6m29ORgAYDb/2xIVwaIpPjHNVq6SV4Vgy4i24d9gXmBom8PJY6+Eig
-hrhW3lbKjyRRdROUhNWubRkNhv6DELbb198RRpacqekWYnXCvs72rpxV0Kji0uqe0hc5PmAzJ29N
-GZUXOIdSkK9F+JNiQMzyfMrYNRESa3G6oNp/cDe8y8CoC62FdR+TIIHtzo1DUEspvYfAg/jVhvU9
-BTyxRydhOuSkg5FiobW+0twleqK+DO8qG4tpfdooYmIqFjKFAJDL02zWn3viSR2dTnNSM/5UJ9QH
-x7HTVSquYSdhAf0eedVwhX1TxtUi9X+pYPubpV2o+6aVTaZMcvZpSmG9Jx2Y2TlK2UIc3latbFGQ
-viMq87HA75ejB+ZKH2H9ngMhAoPOPWTTo5OXyCBtc0vMwHOD9fJB/nPVtAQcGmdPweHYoPUsce5l
-QUE1R8UD+ukvU7c03qGH95Viq5cDUGRmiKhWUTM6LylSZoRUCCm7ajdl47vTSoHc/huGHXn/Ly6a
-ZwswksNAjbc7nUE/miTaZ45DoWk0PyaJYI55QRUqb6Dt9BLqr+OdnciVJEI+C5QJqey4GJv2Turf
-mezR0cbbwYbMHBntoThey9aWgRysZO5mHcrz9uZJHNIxd6nYPdYnJsNlUqLWbxdtfdOKNNR20R7T
-Qe4AHIJ2MnmaOHLSxEYVV3+DWe7GbSAbrswSYNnJdvc0a4McxQ5H3Lg5kcS3FSdcG0w7xbnr7xLJ
-YELiUwzZNu0RJeZia205RtwWEaXTMmZx7GcgrfIcewWsM+O7pKRikM/BI+33189NAva/Iei6D0Uz
-WqJkasyN2r3CMUhe31YTPevKdYHQ6DisYXajOk1+W8f9Qg51GRINDm8ZZx1/YZrsTg5oWiIY/2XZ
-FOkvwBG2Xk0K5zwdzzueQiTZaK/91fM5mZX27eTVQ4f2ZeulP+REvJVbkhU4UKGZtdrdqeTDu6yk
-k3Ty1Lr0tqTzmYqfvGY3qEhhvEZHHCxTW0vMY+ZxYx5fOeJuGKqQkcWKKWzx+A9n7NLu7GiGrM+x
-mLodyWRPLM0Lem35YNcOvB3QXxe+egfGb4jsJkh/fFfgMrrXVZ19B4bUB1ffGfAbC5MuqQ/0xm/7
-wYz9KwhVE4lhx+ZhBDYRU+ed+0qV2GWrGqPeINZv+WKIHIXTKKzznf+olJlBOB/4hPPWVu5mew53
-U1IRPnIlOOZTizqMlQiLt3LzSuCLjZ+Nih2dczvCNog6pAxVCsq9l1/ltaAi/dNnH9QST58XVsXy
-as3yl8djecIDQpX5BLm5tx2lAHPCcqGS4m/jBhCVJ/M5vx+unSDwgXUohmRiwv2twTkw/Hb3G2QP
-qvhMAY5ePoeAaB+VQbqkyoAkrU0v0GA1TqxB+ciPk5Se2fyA3vDTU2uZK11gSRb23RHqJlWH2pNv
-C6r1IpUVqz/n+xRjOfkxU/rmsExxO5vwOXBeKDfvzwv3Ww+dlZYWq9yPdkbUKP204zBAewDkHzHh
-Mrj8+jNy57DutABI0lYnjai77soZixTZ6oi7+tp+XG0ux9wqDGG6bv8FABZQKdd4B0YeQsUqULrz
-QnIVpkr6Hs9/fyme/jjsPQOqvUX9fkSfPidGx1TwxaPD82ts7JC7Q/BHu4NfhCNXT/I1brLWGjPS
-de1/CNYE+BqVNDB1W9xHqM/G66p17bW8tAvZeNXWoeh7JuZ6zKbgwmKU6WfI57bq9iZf1REYazsM
-/dTR8gOkM81dR1mvvRhFOSzrK5cXZuvKz3ivfRpZc1gdT3CSrj0vTt5103xEs3/UNIxpGkBqgqrE
-rhoqOGdmJbwDsetVut3bo3XQyTYmMnYAzKIhsLkNhi/iSdiRuAAbrYkYCb+0fWaOEWcbNB4fK/rV
-xGSYK1OFQtGj/N5BIngqOjjWtujxS48KK1Nx6DqOodU9DEV34O8TIfSFLusKIaiRJESKizxZ+hfS
-AuTv/JR+ctva6c8AwRulYeMsyKnCfQJ2YEtmi5aBQM5iAk0CHscWJeawaluZORnhJPDKlZ8UoO+J
-IKtFhCZpaH2627jIaSexSWWNUScTcrAQmVKOU9XIZyVCo9K1U+zLY14TjxsEKNd6xcVZwvvrAIhf
-rB3AqgWlcriV1f0E3kTS/vI4yFL6ym/qg9cHy8jWhwectyG1JLxvXCAd4lvFVUi9RhlcubfFsPOW
-mJzRV89UuiqH7Hicd69WT16mMfu5SZ7hu0ViVaRnh4hG3ut9GK+aGZK2l5+w6xG6B4sjK4xKc1tG
-7u2/kjcF6ivQnXm3JT8WJrV0ICHgVip91yP2aDunOfXvu4TgxSANfAnEtmlhRk/jNqwZa3/kdRFf
-Nh6yRXsJ1uZty851uirugjG5RB1FsVD7XWXzTKplMzSr/WaUK7LdDRE0VElFDs7K/j5F/Q7pCkF7
-rVMjdhSkXrzV/2uANIgc7Pvj8JYEQIMhEk1H/3SQdzmdm2nTQUWPgjDETorF/VaqvS+7EawMHI5j
-K1ymx6gQhKXz3W9WnX8kWmrySH05uroyunDLytD9b6K0SiTbf5bhtdAYaR9YK5TsDULTe3qE9wiz
-pApCk0l2ylwiH8tmCMYBoWu/Cnc+Qt7CVZa4S8ANBjcg5k9tProNZ/23d7NWr65L4s/OUV+SlwXg
-intn+rR2Xy1OWv9rbOExA1LisMFeaGxbQA5i1sJ5xAm7hYJN8iHdhCPg9cFYyRcx/rtNcLa3QdlF
-uMGVBP5/J4R4MG2WwaC0A4/wfIA4mlriXNDluDS7PIRWPtg0LF5Q4uJRS/m94Lsw4gnsU60gBWpU
-oSxpIwmvr6H2mSyXI2Sr0og7OUDoVSE2iQaWct/TybdofjbJUR2CNKb6PE788fAt9PrtSWHS1qfE
-7YcR4pt1tHgIzWrtzaJ9lr5b2IJgkaprPBUdxeoZrl2AMDdtXclDIdNSeef/alAX1HCpdagbwgSQ
-owsYKfolMbv71BRQG84RrXnKwhnkkyyDg2caHPPZqhwv1k4jpBDlqdLIPTlkgjUk5QvOK6lIKP4B
-nm3hc8R72ON/B0+v2Qfr1OegkS8QRG4q+End7CfZ7JN9ol1jNCGTEAzvyAi56X+TNnuxGoY48FgY
-9Dg0STAnZsZ5eyNKvVX9nm1sltjnEQQVM5aKcsNGqUta+0skPoC1A1uFN3KXDbsKLiMbicLAiI6H
-q5cnWjT1DLuZcSEXt8MU3kUsDHi+mUUjjJs6Rs0ZlG5hIQUdMyJMGloKqLL34nNYbPqEfIUhJRZ2
-iG4pXigDh833vLLSgb7OwKGtwZPjgYTFCU+G4o1+3GLkdG2NP6CYJhpu8NCLfzq94vNrv67dsQKv
-8f01hgjDCuWtpkkjfa37uTKq5cfQUBbsXijBrONN6KquilzAdvFhUKhcuVO8cjVhMPR32s3Bb0tU
-4JCX6OhvB4sXRIK+4TL6LKGnaSojgasydbqx+FXp4hTdnNACKqnGYfqbGfsVJUp1DZ1RBg75Q8gp
-rPHreB/jlvIgr7o/AGCenkG1xAfS6vXMbm8Dhm//DKkNtay9ldcrLs5yaDCxfSw3F/WVScS5k4XP
-ADQSYb0SwL9K6agITVvtououc5ZyYujbYO6WhCGKFbSfSrWfEkT1lf6nQWiGZI+GwrqqBoiSul/a
-esRsBcl8D/vuh8QgFWNyie6VfkWtiwNBn7HDuijQOmBoE90k8iGzPyHJAszq+LNz0QXjmNZv8Eqz
-ErE0hGXld+s0lIsWvkVUeKzmphTzHD+QHZu1u4wywq/YbSZJhDAqYQwhgJLRT9lcNehKkx8SuKTg
-xGlYHe8P0SZnZwFJmfWxWfNxLzVh6ZW5nM0ec4UWQac/twRDMRNO1mQar/+rlB0wGPIb3e21OPNO
-0wTZacGEjHuJFwxuK1Y4XOaF7JI4xiB90/RBrHprclFSfa+scbI8CDMc7ba3rk6aS/fzYPIGN23y
-ILFQ8aslFNvxzUnotu0W31KRJm+bd8AF4zQ/XpGi4U9Dx9S3WxwPYNmFujgM5HE0yFAq/vjr4M/g
-w+jZarsVeHog4E/TzKD5I4gFieZRUVftx4v6cXfiQFmJAM14lkFN3hstAZ6ZT/rQVAnZc6AokeEd
-6LTauaqRJ82YjooOMDQEbB/b4GMVeD2W0tbYBEYYG6ZxrKR7iNXakkzBWOZvjudTvuoqnoghfHhD
-tCPQLrKNbeSSyPk9zhhxRnka25eObiaXgU/vK/QhkwLwPe32csqqY8m6bdqbwGebcnowdlqY4UXb
-wm2QbJfadHkXOM8jHwL4lL0kL2y7hnS0pHl9HmpsK9pNnOckTnxLGb/rlbzLDT8gEUV7jC2/ZEpE
-oVbJlxkiYx+zuECjDjKmjLMAphNQO9hXNfXDIQAuILFN64q6TbanKxaZVqfzGOOKW3E7WSQMOzvH
-MbwGmMnMmuq0Z/iHx++HGBtnofVg5Xpjw2Oj2Pvar9Yl9nLjWFbE3N6Yty2gjtqxszzmTwKHo8s4
-oUjMS6oEQySaU2SKpVPXu9PPy8LKGR69sru00opXGlnrGxhhA4a3y+5v2cjDIvJfRWi4K87hvM+P
-JLVbVEpyG7o7hDycHnyd9IjMRKe9HO995N4i12Q9M5/oGC1Hz3Em3MrtjP0SlUwhZB9NALsMnmr5
-U4pQAGvorAX2k+De8v58NA6aCwvnAeP3Mu78NDb9YVflWA4MfXEUuE6wg+IvzabePKU8WYsAFeMd
-9ieNYnWHX2arMpy1Rhcm5O5msU84hGjwOmp/Rwwrd8KdT/PXd7jyenEEUf+IDJxffuRwy5T/JVQZ
-xYflnTl55f3CpWxMJufqIvVrZDYNagypvaDcBfC0KvwWcBz+Xkkrl2ptboJ1ziD+yrE54HEVR0eC
-b5I7/OT+GsdTAe5DW3hHhlq/sRx8iwMkSz1R7HRSzXvg43B9Yla9MF/rp+6BuBIv3gk3e/vGJj5u
-ivhHce5Gdp/OUXl57vz2dCWCPZjkITIGpfWeX7vgIrh6Zn79iJFekSElhvkWDw3d8QlHZxjT5rej
-q5piwKWQe4VPutuA0BaxtB4YV+MG/2nhFNty/aJAHFqsY0ViZ42l840bm3HIa2o8A/R7t6OIBfJM
-gUOvDhPjYVUT5y3PjjqGuXmKNpMqLnNZ6icGM7gLQ/efQjLhBgrFOHp+tZNjXyjJ59LSjx283Fby
-FPo4qQ2L5QoKWNo5nw/ib8uPjKrhkS3Po1YTwBKAN8ml1UaM/BnYoBqmWnJ0MPJHqobab53U5mdF
-Lg0sy0Z/SalnJWzCBH1QkJ10kUgWOcKrxryNfW3WRCRbpgEK07mo5vbErcG84TMwiz1cdgtrNiIP
-JOnZTz6TECVZkI14yJHbdikQEwSMauEU+icXj/O2SPpnHVb8MHiYZ6mxQiXOT6g540ds84TeN2Kq
-N9MbGp/nh9vOS2DWjHJojK1NE4es98gJXVetk75Ze6UlS/nBk86Zk9Pts2YbrxWNzUmxeEacQL8z
-l4Jy1NAH7/p/qSn80wVU4c5HWjL27B1xQSQ0kLP7z2bPUMeYedoqsEigL8ZAbkTOUFG92EncRCO/
-BqytukqYPAjLAJJND3kqfi6IehiGh9XmxAdCmgHY12sC6BCRA4ELjVK1mI9EQq6rqjZKAjWFYhOd
-ewdBFHCe1YiRb39YDp6k1ruexSlbyGo5BL7lDhOhg4X2uCXyl1HdP7eE09tzXUfldDhunIDjdWHE
-YsTUgPmk8OGfWcnkiBPmh79DnAM3Z1/lb5dD9zESD/bJe511jI4uoDDNngh7wxy3fuCwyxK+7KEI
-NjtdMX2cQ/mIfqB9SOdrCe+6PG9AIVymFssfQN9BQ6uVh2foaCywo0vl/pVIADFQ9t3CXmdDSn8A
-BWLltTGeBnnTYaI7OZ50yBxDHM5CcS5gx0nUpu5UHtp/Ry+20wWdWMJBMqr6XDJhGvrNmtV1/Zgv
-BIL4Wn6XqcAmMmEpOE/lMYog6Co8EikvI5+sBUs1jokpdRNSkksiwXXDjKSUH5ctOi7CdtIzzjBp
-ZMDTmu7KTLWf8f32u1V3GaH6QBPSXRuBfbe99E+DID+bSSV7e5R2xg6GOh79AcUicO3K+xcYl55f
-phfM0juZrLLPK9ZXDCkjLqs3XrX1Dz1k9sWYCPeCWC76CHFFibpxq0BQhvSloQxBmfekEE6SOATV
-Ft4VHYwpkMnGQ1ZRafgvLwNKi+ciN6Yd1fXPmaeQNywlwUZQ7rOWzh3R0Q9EMMjx3kJLQR+OfXao
-ad+bbrhdxdIK0Hua1BfGP9ukdBP7KDsDFZgbKNgzxefIR6hjGKBmtc1MKbHddTrsHW5m5UeN4VUg
-CGrYGuFn67GHUH1pW6do/g0wDb8Z
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\LookupRef;
+
+use PhpOffice\PhpSpreadsheet\Calculation\Calculation;
+use PhpOffice\PhpSpreadsheet\Calculation\Functions;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+use PhpOffice\PhpSpreadsheet\Cell\Cell;
+use PhpOffice\PhpSpreadsheet\Cell\Coordinate;
+use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
+
+class Offset
+{
+    /**
+     * OFFSET.
+     *
+     * Returns a reference to a range that is a specified number of rows and columns from a cell or range of cells.
+     * The reference that is returned can be a single cell or a range of cells. You can specify the number of rows and
+     * the number of columns to be returned.
+     *
+     * Excel Function:
+     *        =OFFSET(cellAddress, rows, cols, [height], [width])
+     *
+     * @param null|string $cellAddress The reference from which you want to base the offset.
+     *                                     Reference must refer to a cell or range of adjacent cells;
+     *                                     otherwise, OFFSET returns the #VALUE! error value.
+     * @param mixed $rows The number of rows, up or down, that you want the upper-left cell to refer to.
+     *                        Using 5 as the rows argument specifies that the upper-left cell in the
+     *                        reference is five rows below reference. Rows can be positive (which means
+     *                        below the starting reference) or negative (which means above the starting
+     *                        reference).
+     * @param mixed $columns The number of columns, to the left or right, that you want the upper-left cell
+     *                           of the result to refer to. Using 5 as the cols argument specifies that the
+     *                           upper-left cell in the reference is five columns to the right of reference.
+     *                           Cols can be positive (which means to the right of the starting reference)
+     *                           or negative (which means to the left of the starting reference).
+     * @param mixed $height The height, in number of rows, that you want the returned reference to be.
+     *                          Height must be a positive number.
+     * @param mixed $width The width, in number of columns, that you want the returned reference to be.
+     *                         Width must be a positive number.
+     *
+     * @return array|int|string An array containing a cell or range of cells, or a string on error
+     */
+    public static function OFFSET($cellAddress = null, $rows = 0, $columns = 0, $height = null, $width = null, ?Cell $cell = null)
+    {
+        $rows = Functions::flattenSingleValue($rows);
+        $columns = Functions::flattenSingleValue($columns);
+        $height = Functions::flattenSingleValue($height);
+        $width = Functions::flattenSingleValue($width);
+
+        if ($cellAddress === null || $cellAddress === '') {
+            return ExcelError::VALUE();
+        }
+
+        if (!is_object($cell)) {
+            return ExcelError::REF();
+        }
+
+        [$cellAddress, $worksheet] = self::extractWorksheet($cellAddress, $cell);
+
+        $startCell = $endCell = $cellAddress;
+        if (strpos($cellAddress, ':')) {
+            [$startCell, $endCell] = explode(':', $cellAddress);
+        }
+        [$startCellColumn, $startCellRow] = Coordinate::coordinateFromString($startCell);
+        [$endCellColumn, $endCellRow] = Coordinate::coordinateFromString($endCell);
+
+        $startCellRow += $rows;
+        $startCellColumn = Coordinate::columnIndexFromString($startCellColumn) - 1;
+        $startCellColumn += $columns;
+
+        if (($startCellRow <= 0) || ($startCellColumn < 0)) {
+            return ExcelError::REF();
+        }
+
+        $endCellColumn = self::adjustEndCellColumnForWidth($endCellColumn, $width, $startCellColumn, $columns);
+        $startCellColumn = Coordinate::stringFromColumnIndex($startCellColumn + 1);
+
+        $endCellRow = self::adustEndCellRowForHeight($height, $startCellRow, $rows, $endCellRow);
+
+        if (($endCellRow <= 0) || ($endCellColumn < 0)) {
+            return ExcelError::REF();
+        }
+        $endCellColumn = Coordinate::stringFromColumnIndex($endCellColumn + 1);
+
+        $cellAddress = "{$startCellColumn}{$startCellRow}";
+        if (($startCellColumn != $endCellColumn) || ($startCellRow != $endCellRow)) {
+            $cellAddress .= ":{$endCellColumn}{$endCellRow}";
+        }
+
+        return self::extractRequiredCells($worksheet, $cellAddress);
+    }
+
+    private static function extractRequiredCells(?Worksheet $worksheet, string $cellAddress)
+    {
+        return Calculation::getInstance($worksheet !== null ? $worksheet->getParent() : null)
+            ->extractCellRange($cellAddress, $worksheet, false);
+    }
+
+    private static function extractWorksheet($cellAddress, Cell $cell): array
+    {
+        $sheetName = '';
+        if (strpos($cellAddress, '!') !== false) {
+            [$sheetName, $cellAddress] = Worksheet::extractSheetTitle($cellAddress, true);
+            $sheetName = trim($sheetName, "'");
+        }
+
+        $worksheet = ($sheetName !== '')
+            ? $cell->getWorksheet()->getParent()->getSheetByName($sheetName)
+            : $cell->getWorksheet();
+
+        return [$cellAddress, $worksheet];
+    }
+
+    private static function adjustEndCellColumnForWidth(string $endCellColumn, $width, int $startCellColumn, $columns)
+    {
+        $endCellColumn = Coordinate::columnIndexFromString($endCellColumn) - 1;
+        if (($width !== null) && (!is_object($width))) {
+            $endCellColumn = $startCellColumn + (int) $width - 1;
+        } else {
+            $endCellColumn += (int) $columns;
+        }
+
+        return $endCellColumn;
+    }
+
+    private static function adustEndCellRowForHeight($height, int $startCellRow, $rows, $endCellRow): int
+    {
+        if (($height !== null) && (!is_object($height))) {
+            $endCellRow = $startCellRow + (int) $height - 1;
+        } else {
+            $endCellRow += (int) $rows;
+        }
+
+        return $endCellRow;
+    }
+}

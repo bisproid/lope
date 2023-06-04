@@ -1,91 +1,110 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\LookupRef;
+
+use PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+use PhpOffice\PhpSpreadsheet\Calculation\LookupRef;
+
+class Lookup
+{
+    use ArrayEnabled;
+
+    /**
+     * LOOKUP
+     * The LOOKUP function searches for value either from a one-row or one-column range or from an array.
+     *
+     * @param mixed $lookupValue The value that you want to match in lookup_array
+     * @param mixed $lookupVector The range of cells being searched
+     * @param null|mixed $resultVector The column from which the matching value must be returned
+     *
+     * @return mixed The value of the found cell
+     */
+    public static function lookup($lookupValue, $lookupVector, $resultVector = null)
+    {
+        if (is_array($lookupValue)) {
+            return self::evaluateArrayArgumentsSubset([self::class, __FUNCTION__], 1, $lookupValue, $lookupVector, $resultVector);
+        }
+
+        if (!is_array($lookupVector)) {
+            return ExcelError::NA();
+        }
+        $hasResultVector = isset($resultVector);
+        $lookupRows = self::rowCount($lookupVector);
+        $lookupColumns = self::columnCount($lookupVector);
+        // we correctly orient our results
+        if (($lookupRows === 1 && $lookupColumns > 1) || (!$hasResultVector && $lookupRows === 2 && $lookupColumns !== 2)) {
+            $lookupVector = LookupRef\Matrix::transpose($lookupVector);
+            $lookupRows = self::rowCount($lookupVector);
+            $lookupColumns = self::columnCount($lookupVector);
+        }
+
+        $resultVector = self::verifyResultVector($lookupVector, $resultVector);
+
+        if ($lookupRows === 2 && !$hasResultVector) {
+            $resultVector = array_pop($lookupVector);
+            $lookupVector = array_shift($lookupVector);
+        }
+
+        if ($lookupColumns !== 2) {
+            $lookupVector = self::verifyLookupValues($lookupVector, $resultVector);
+        }
+
+        return VLookup::lookup($lookupValue, $lookupVector, 2);
+    }
+
+    private static function verifyLookupValues(array $lookupVector, array $resultVector): array
+    {
+        foreach ($lookupVector as &$value) {
+            if (is_array($value)) {
+                $k = array_keys($value);
+                $key1 = $key2 = array_shift($k);
+                ++$key2;
+                $dataValue1 = $value[$key1];
+            } else {
+                $key1 = 0;
+                $key2 = 1;
+                $dataValue1 = $value;
+            }
+
+            $dataValue2 = array_shift($resultVector);
+            if (is_array($dataValue2)) {
+                $dataValue2 = array_shift($dataValue2);
+            }
+            $value = [$key1 => $dataValue1, $key2 => $dataValue2];
+        }
+        unset($value);
+
+        return $lookupVector;
+    }
+
+    private static function verifyResultVector(array $lookupVector, $resultVector)
+    {
+        if ($resultVector === null) {
+            $resultVector = $lookupVector;
+        }
+
+        $resultRows = self::rowCount($resultVector);
+        $resultColumns = self::columnCount($resultVector);
+
+        // we correctly orient our results
+        if ($resultRows === 1 && $resultColumns > 1) {
+            $resultVector = LookupRef\Matrix::transpose($resultVector);
+        }
+
+        return $resultVector;
+    }
+
+    private static function rowCount(array $dataArray): int
+    {
+        return count($dataArray);
+    }
+
+    private static function columnCount(array $dataArray): int
+    {
+        $rowKeys = array_keys($dataArray);
+        $row = array_shift($rowKeys);
+
+        return count($dataArray[$row]);
+    }
+}

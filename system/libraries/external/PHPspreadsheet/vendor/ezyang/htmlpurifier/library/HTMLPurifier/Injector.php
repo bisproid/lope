@@ -1,100 +1,283 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-gn4aZwExAOnCeTH6dnasj729dwnZ7GQdeu0/C0==
+<?php
+
+/**
+ * Injects tokens into the document while parsing for well-formedness.
+ * This enables "formatter-like" functionality such as auto-paragraphing,
+ * smiley-ification and linkification to take place.
+ *
+ * A note on how handlers create changes; this is done by assigning a new
+ * value to the $token reference. These values can take a variety of forms and
+ * are best described HTMLPurifier_Strategy_MakeWellFormed->processToken()
+ * documentation.
+ *
+ * @todo Allow injectors to request a re-run on their output. This
+ *       would help if an operation is recursive.
+ */
+abstract class HTMLPurifier_Injector
+{
+
+    /**
+     * Advisory name of injector, this is for friendly error messages.
+     * @type string
+     */
+    public $name;
+
+    /**
+     * @type HTMLPurifier_HTMLDefinition
+     */
+    protected $htmlDefinition;
+
+    /**
+     * Reference to CurrentNesting variable in Context. This is an array
+     * list of tokens that we are currently "inside"
+     * @type array
+     */
+    protected $currentNesting;
+
+    /**
+     * Reference to current token.
+     * @type HTMLPurifier_Token
+     */
+    protected $currentToken;
+
+    /**
+     * Reference to InputZipper variable in Context.
+     * @type HTMLPurifier_Zipper
+     */
+    protected $inputZipper;
+
+    /**
+     * Array of elements and attributes this injector creates and therefore
+     * need to be allowed by the definition. Takes form of
+     * array('element' => array('attr', 'attr2'), 'element2')
+     * @type array
+     */
+    public $needed = array();
+
+    /**
+     * Number of elements to rewind backwards (relative).
+     * @type bool|int
+     */
+    protected $rewindOffset = false;
+
+    /**
+     * Rewind to a spot to re-perform processing. This is useful if you
+     * deleted a node, and now need to see if this change affected any
+     * earlier nodes. Rewinding does not affect other injectors, and can
+     * result in infinite loops if not used carefully.
+     * @param bool|int $offset
+     * @warning HTML Purifier will prevent you from fast-forwarding with this
+     *          function.
+     */
+    public function rewindOffset($offset)
+    {
+        $this->rewindOffset = $offset;
+    }
+
+    /**
+     * Retrieves rewind offset, and then unsets it.
+     * @return bool|int
+     */
+    public function getRewindOffset()
+    {
+        $r = $this->rewindOffset;
+        $this->rewindOffset = false;
+        return $r;
+    }
+
+    /**
+     * Prepares the injector by giving it the config and context objects:
+     * this allows references to important variables to be made within
+     * the injector. This function also checks if the HTML environment
+     * will work with the Injector (see checkNeeded()).
+     * @param HTMLPurifier_Config $config
+     * @param HTMLPurifier_Context $context
+     * @return bool|string Boolean false if success, string of missing needed element/attribute if failure
+     */
+    public function prepare($config, $context)
+    {
+        $this->htmlDefinition = $config->getHTMLDefinition();
+        // Even though this might fail, some unit tests ignore this and
+        // still test checkNeeded, so be careful. Maybe get rid of that
+        // dependency.
+        $result = $this->checkNeeded($config);
+        if ($result !== false) {
+            return $result;
+        }
+        $this->currentNesting =& $context->get('CurrentNesting');
+        $this->currentToken   =& $context->get('CurrentToken');
+        $this->inputZipper    =& $context->get('InputZipper');
+        return false;
+    }
+
+    /**
+     * This function checks if the HTML environment
+     * will work with the Injector: if p tags are not allowed, the
+     * Auto-Paragraphing injector should not be enabled.
+     * @param HTMLPurifier_Config $config
+     * @return bool|string Boolean false if success, string of missing needed element/attribute if failure
+     */
+    public function checkNeeded($config)
+    {
+        $def = $config->getHTMLDefinition();
+        foreach ($this->needed as $element => $attributes) {
+            if (is_int($element)) {
+                $element = $attributes;
+            }
+            if (!isset($def->info[$element])) {
+                return $element;
+            }
+            if (!is_array($attributes)) {
+                continue;
+            }
+            foreach ($attributes as $name) {
+                if (!isset($def->info[$element]->attr[$name])) {
+                    return "$element.$name";
+                }
+            }
+        }
+        return false;
+    }
+
+    /**
+     * Tests if the context node allows a certain element
+     * @param string $name Name of element to test for
+     * @return bool True if element is allowed, false if it is not
+     */
+    public function allowsElement($name)
+    {
+        if (!empty($this->currentNesting)) {
+            $parent_token = array_pop($this->currentNesting);
+            $this->currentNesting[] = $parent_token;
+            $parent = $this->htmlDefinition->info[$parent_token->name];
+        } else {
+            $parent = $this->htmlDefinition->info_parent_def;
+        }
+        if (!isset($parent->child->elements[$name]) || isset($parent->excludes[$name])) {
+            return false;
+        }
+        // check for exclusion
+        if (!empty($this->currentNesting)) {
+            for ($i = count($this->currentNesting) - 2; $i >= 0; $i--) {
+                $node = $this->currentNesting[$i];
+                $def  = $this->htmlDefinition->info[$node->name];
+                if (isset($def->excludes[$name])) {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+
+    /**
+     * Iterator function, which starts with the next token and continues until
+     * you reach the end of the input tokens.
+     * @warning Please prevent previous references from interfering with this
+     *          functions by setting $i = null beforehand!
+     * @param int $i Current integer index variable for inputTokens
+     * @param HTMLPurifier_Token $current Current token variable.
+     *          Do NOT use $token, as that variable is also a reference
+     * @return bool
+     */
+    protected function forward(&$i, &$current)
+    {
+        if ($i === null) {
+            $i = count($this->inputZipper->back) - 1;
+        } else {
+            $i--;
+        }
+        if ($i < 0) {
+            return false;
+        }
+        $current = $this->inputZipper->back[$i];
+        return true;
+    }
+
+    /**
+     * Similar to _forward, but accepts a third parameter $nesting (which
+     * should be initialized at 0) and stops when we hit the end tag
+     * for the node $this->inputIndex starts in.
+     * @param int $i Current integer index variable for inputTokens
+     * @param HTMLPurifier_Token $current Current token variable.
+     *          Do NOT use $token, as that variable is also a reference
+     * @param int $nesting
+     * @return bool
+     */
+    protected function forwardUntilEndToken(&$i, &$current, &$nesting)
+    {
+        $result = $this->forward($i, $current);
+        if (!$result) {
+            return false;
+        }
+        if ($nesting === null) {
+            $nesting = 0;
+        }
+        if ($current instanceof HTMLPurifier_Token_Start) {
+            $nesting++;
+        } elseif ($current instanceof HTMLPurifier_Token_End) {
+            if ($nesting <= 0) {
+                return false;
+            }
+            $nesting--;
+        }
+        return true;
+    }
+
+    /**
+     * Iterator function, starts with the previous token and continues until
+     * you reach the beginning of input tokens.
+     * @warning Please prevent previous references from interfering with this
+     *          functions by setting $i = null beforehand!
+     * @param int $i Current integer index variable for inputTokens
+     * @param HTMLPurifier_Token $current Current token variable.
+     *          Do NOT use $token, as that variable is also a reference
+     * @return bool
+     */
+    protected function backward(&$i, &$current)
+    {
+        if ($i === null) {
+            $i = count($this->inputZipper->front) - 1;
+        } else {
+            $i--;
+        }
+        if ($i < 0) {
+            return false;
+        }
+        $current = $this->inputZipper->front[$i];
+        return true;
+    }
+
+    /**
+     * Handler that is called when a text token is processed
+     */
+    public function handleText(&$token)
+    {
+    }
+
+    /**
+     * Handler that is called when a start or empty token is processed
+     */
+    public function handleElement(&$token)
+    {
+    }
+
+    /**
+     * Handler that is called when an end token is processed
+     */
+    public function handleEnd(&$token)
+    {
+        $this->notifyEnd($token);
+    }
+
+    /**
+     * Notifier that is called when an end token is processed
+     * @param HTMLPurifier_Token $token Current token variable.
+     * @note This differs from handlers in that the token is read-only
+     * @deprecated
+     */
+    public function notifyEnd($token)
+    {
+    }
+}
+
+// vim: et sw=4 sts=4

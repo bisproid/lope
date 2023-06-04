@@ -1,149 +1,197 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-x76F
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard;
+
+use PhpOffice\PhpSpreadsheet\Calculation\Calculation;
+use PhpOffice\PhpSpreadsheet\Cell\Coordinate;
+use PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard;
+use PhpOffice\PhpSpreadsheet\Style\Style;
+
+abstract class WizardAbstract
+{
+    /**
+     * @var ?Style
+     */
+    protected $style;
+
+    /**
+     * @var string
+     */
+    protected $expression;
+
+    /**
+     * @var string
+     */
+    protected $cellRange;
+
+    /**
+     * @var string
+     */
+    protected $referenceCell;
+
+    /**
+     * @var int
+     */
+    protected $referenceRow;
+
+    /**
+     * @var bool
+     */
+    protected $stopIfTrue = false;
+
+    /**
+     * @var int
+     */
+    protected $referenceColumn;
+
+    public function __construct(string $cellRange)
+    {
+        $this->setCellRange($cellRange);
+    }
+
+    public function getCellRange(): string
+    {
+        return $this->cellRange;
+    }
+
+    public function setCellRange(string $cellRange): void
+    {
+        $this->cellRange = $cellRange;
+        $this->setReferenceCellForExpressions($cellRange);
+    }
+
+    protected function setReferenceCellForExpressions(string $conditionalRange): void
+    {
+        $conditionalRange = Coordinate::splitRange(str_replace('$', '', strtoupper($conditionalRange)));
+        [$this->referenceCell] = $conditionalRange[0];
+
+        [$this->referenceColumn, $this->referenceRow] = Coordinate::indexesFromString($this->referenceCell);
+    }
+
+    public function getStopIfTrue(): bool
+    {
+        return $this->stopIfTrue;
+    }
+
+    public function setStopIfTrue(bool $stopIfTrue): void
+    {
+        $this->stopIfTrue = $stopIfTrue;
+    }
+
+    public function getStyle(): Style
+    {
+        return $this->style ?? new Style(false, true);
+    }
+
+    public function setStyle(Style $style): void
+    {
+        $this->style = $style;
+    }
+
+    protected function validateOperand(string $operand, string $operandValueType = Wizard::VALUE_TYPE_LITERAL): string
+    {
+        if (
+            $operandValueType === Wizard::VALUE_TYPE_LITERAL &&
+            substr($operand, 0, 1) === '"' &&
+            substr($operand, -1) === '"'
+        ) {
+            $operand = str_replace('""', '"', substr($operand, 1, -1));
+        } elseif ($operandValueType === Wizard::VALUE_TYPE_FORMULA && substr($operand, 0, 1) === '=') {
+            $operand = substr($operand, 1);
+        }
+
+        return $operand;
+    }
+
+    protected static function reverseCellAdjustment(array $matches, int $referenceColumn, int $referenceRow): string
+    {
+        $worksheet = $matches[1];
+        $column = $matches[6];
+        $row = $matches[7];
+
+        if (strpos($column, '$') === false) {
+            $column = Coordinate::columnIndexFromString($column);
+            $column -= $referenceColumn - 1;
+            $column = Coordinate::stringFromColumnIndex($column);
+        }
+
+        if (strpos($row, '$') === false) {
+            $row -= $referenceRow - 1;
+        }
+
+        return "{$worksheet}{$column}{$row}";
+    }
+
+    public static function reverseAdjustCellRef(string $condition, string $cellRange): string
+    {
+        $conditionalRange = Coordinate::splitRange(str_replace('$', '', strtoupper($cellRange)));
+        [$referenceCell] = $conditionalRange[0];
+        [$referenceColumnIndex, $referenceRow] = Coordinate::indexesFromString($referenceCell);
+
+        $splitCondition = explode(Calculation::FORMULA_STRING_QUOTE, $condition);
+        $i = false;
+        foreach ($splitCondition as &$value) {
+            //    Only count/replace in alternating array entries (ie. not in quoted strings)
+            if ($i = !$i) {
+                $value = preg_replace_callback(
+                    '/' . Calculation::CALCULATION_REGEXP_CELLREF_RELATIVE . '/i',
+                    function ($matches) use ($referenceColumnIndex, $referenceRow) {
+                        return self::reverseCellAdjustment($matches, $referenceColumnIndex, $referenceRow);
+                    },
+                    $value
+                );
+            }
+        }
+        unset($value);
+
+        //    Then rebuild the condition string to return it
+        return implode(Calculation::FORMULA_STRING_QUOTE, $splitCondition);
+    }
+
+    protected function conditionCellAdjustment(array $matches): string
+    {
+        $worksheet = $matches[1];
+        $column = $matches[6];
+        $row = $matches[7];
+
+        if (strpos($column, '$') === false) {
+            $column = Coordinate::columnIndexFromString($column);
+            $column += $this->referenceColumn - 1;
+            $column = Coordinate::stringFromColumnIndex($column);
+        }
+
+        if (strpos($row, '$') === false) {
+            $row += $this->referenceRow - 1;
+        }
+
+        return "{$worksheet}{$column}{$row}";
+    }
+
+    protected function cellConditionCheck(string $condition): string
+    {
+        $splitCondition = explode(Calculation::FORMULA_STRING_QUOTE, $condition);
+        $i = false;
+        foreach ($splitCondition as &$value) {
+            //    Only count/replace in alternating array entries (ie. not in quoted strings)
+            if ($i = !$i) {
+                $value = preg_replace_callback(
+                    '/' . Calculation::CALCULATION_REGEXP_CELLREF_RELATIVE . '/i',
+                    [$this, 'conditionCellAdjustment'],
+                    $value
+                );
+            }
+        }
+        unset($value);
+
+        //    Then rebuild the condition string to return it
+        return implode(Calculation::FORMULA_STRING_QUOTE, $splitCondition);
+    }
+
+    protected function adjustConditionsForCellReferences(array $conditions): array
+    {
+        return array_map(
+            [$this, 'cellConditionCheck'],
+            $conditions
+        );
+    }
+}

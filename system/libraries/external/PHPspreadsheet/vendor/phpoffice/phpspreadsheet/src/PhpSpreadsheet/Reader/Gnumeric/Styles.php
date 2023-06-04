@@ -1,226 +1,278 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-c0UhC88o4G==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Reader\Gnumeric;
+
+use PhpOffice\PhpSpreadsheet\Cell\Coordinate;
+use PhpOffice\PhpSpreadsheet\Shared\Date;
+use PhpOffice\PhpSpreadsheet\Spreadsheet;
+use PhpOffice\PhpSpreadsheet\Style\Alignment;
+use PhpOffice\PhpSpreadsheet\Style\Border;
+use PhpOffice\PhpSpreadsheet\Style\Borders;
+use PhpOffice\PhpSpreadsheet\Style\Fill;
+use PhpOffice\PhpSpreadsheet\Style\Font;
+use SimpleXMLElement;
+
+class Styles
+{
+    /**
+     * @var Spreadsheet
+     */
+    private $spreadsheet;
+
+    /**
+     * @var bool
+     */
+    protected $readDataOnly = false;
+
+    /** @var array */
+    public static $mappings = [
+        'borderStyle' => [
+            '0' => Border::BORDER_NONE,
+            '1' => Border::BORDER_THIN,
+            '2' => Border::BORDER_MEDIUM,
+            '3' => Border::BORDER_SLANTDASHDOT,
+            '4' => Border::BORDER_DASHED,
+            '5' => Border::BORDER_THICK,
+            '6' => Border::BORDER_DOUBLE,
+            '7' => Border::BORDER_DOTTED,
+            '8' => Border::BORDER_MEDIUMDASHED,
+            '9' => Border::BORDER_DASHDOT,
+            '10' => Border::BORDER_MEDIUMDASHDOT,
+            '11' => Border::BORDER_DASHDOTDOT,
+            '12' => Border::BORDER_MEDIUMDASHDOTDOT,
+            '13' => Border::BORDER_MEDIUMDASHDOTDOT,
+        ],
+        'fillType' => [
+            '1' => Fill::FILL_SOLID,
+            '2' => Fill::FILL_PATTERN_DARKGRAY,
+            '3' => Fill::FILL_PATTERN_MEDIUMGRAY,
+            '4' => Fill::FILL_PATTERN_LIGHTGRAY,
+            '5' => Fill::FILL_PATTERN_GRAY125,
+            '6' => Fill::FILL_PATTERN_GRAY0625,
+            '7' => Fill::FILL_PATTERN_DARKHORIZONTAL, // horizontal stripe
+            '8' => Fill::FILL_PATTERN_DARKVERTICAL, // vertical stripe
+            '9' => Fill::FILL_PATTERN_DARKDOWN, // diagonal stripe
+            '10' => Fill::FILL_PATTERN_DARKUP, // reverse diagonal stripe
+            '11' => Fill::FILL_PATTERN_DARKGRID, // diagoanl crosshatch
+            '12' => Fill::FILL_PATTERN_DARKTRELLIS, // thick diagonal crosshatch
+            '13' => Fill::FILL_PATTERN_LIGHTHORIZONTAL,
+            '14' => Fill::FILL_PATTERN_LIGHTVERTICAL,
+            '15' => Fill::FILL_PATTERN_LIGHTUP,
+            '16' => Fill::FILL_PATTERN_LIGHTDOWN,
+            '17' => Fill::FILL_PATTERN_LIGHTGRID, // thin horizontal crosshatch
+            '18' => Fill::FILL_PATTERN_LIGHTTRELLIS, // thin diagonal crosshatch
+        ],
+        'horizontal' => [
+            '1' => Alignment::HORIZONTAL_GENERAL,
+            '2' => Alignment::HORIZONTAL_LEFT,
+            '4' => Alignment::HORIZONTAL_RIGHT,
+            '8' => Alignment::HORIZONTAL_CENTER,
+            '16' => Alignment::HORIZONTAL_CENTER_CONTINUOUS,
+            '32' => Alignment::HORIZONTAL_JUSTIFY,
+            '64' => Alignment::HORIZONTAL_CENTER_CONTINUOUS,
+        ],
+        'underline' => [
+            '1' => Font::UNDERLINE_SINGLE,
+            '2' => Font::UNDERLINE_DOUBLE,
+            '3' => Font::UNDERLINE_SINGLEACCOUNTING,
+            '4' => Font::UNDERLINE_DOUBLEACCOUNTING,
+        ],
+        'vertical' => [
+            '1' => Alignment::VERTICAL_TOP,
+            '2' => Alignment::VERTICAL_BOTTOM,
+            '4' => Alignment::VERTICAL_CENTER,
+            '8' => Alignment::VERTICAL_JUSTIFY,
+        ],
+    ];
+
+    public function __construct(Spreadsheet $spreadsheet, bool $readDataOnly)
+    {
+        $this->spreadsheet = $spreadsheet;
+        $this->readDataOnly = $readDataOnly;
+    }
+
+    public function read(SimpleXMLElement $sheet, int $maxRow, int $maxCol): void
+    {
+        if ($sheet->Styles->StyleRegion !== null) {
+            $this->readStyles($sheet->Styles->StyleRegion, $maxRow, $maxCol);
+        }
+    }
+
+    private function readStyles(SimpleXMLElement $styleRegion, int $maxRow, int $maxCol): void
+    {
+        foreach ($styleRegion as $style) {
+            $styleAttributes = $style->attributes();
+            if ($styleAttributes !== null && ($styleAttributes['startRow'] <= $maxRow) && ($styleAttributes['startCol'] <= $maxCol)) {
+                $cellRange = $this->readStyleRange($styleAttributes, $maxCol, $maxRow);
+
+                $styleAttributes = $style->Style->attributes();
+
+                $styleArray = [];
+                // We still set the number format mask for date/time values, even if readDataOnly is true
+                //    so that we can identify whether a float is a float or a date value
+                $formatCode = $styleAttributes ? (string) $styleAttributes['Format'] : null;
+                if ($formatCode && Date::isDateTimeFormatCode($formatCode)) {
+                    $styleArray['numberFormat']['formatCode'] = $formatCode;
+                }
+                if ($this->readDataOnly === false && $styleAttributes !== null) {
+                    //    If readDataOnly is false, we set all formatting information
+                    $styleArray['numberFormat']['formatCode'] = $formatCode;
+                    $styleArray = $this->readStyle($styleArray, $styleAttributes, $style);
+                }
+                $this->spreadsheet->getActiveSheet()->getStyle($cellRange)->applyFromArray($styleArray);
+            }
+        }
+    }
+
+    private function addBorderDiagonal(SimpleXMLElement $srssb, array &$styleArray): void
+    {
+        if (isset($srssb->Diagonal, $srssb->{'Rev-Diagonal'})) {
+            $styleArray['borders']['diagonal'] = self::parseBorderAttributes($srssb->Diagonal->attributes());
+            $styleArray['borders']['diagonalDirection'] = Borders::DIAGONAL_BOTH;
+        } elseif (isset($srssb->Diagonal)) {
+            $styleArray['borders']['diagonal'] = self::parseBorderAttributes($srssb->Diagonal->attributes());
+            $styleArray['borders']['diagonalDirection'] = Borders::DIAGONAL_UP;
+        } elseif (isset($srssb->{'Rev-Diagonal'})) {
+            $styleArray['borders']['diagonal'] = self::parseBorderAttributes($srssb->{'Rev-Diagonal'}->attributes());
+            $styleArray['borders']['diagonalDirection'] = Borders::DIAGONAL_DOWN;
+        }
+    }
+
+    private function addBorderStyle(SimpleXMLElement $srssb, array &$styleArray, string $direction): void
+    {
+        $ucDirection = ucfirst($direction);
+        if (isset($srssb->$ucDirection)) {
+            $styleArray['borders'][$direction] = self::parseBorderAttributes($srssb->$ucDirection->attributes());
+        }
+    }
+
+    private function calcRotation(SimpleXMLElement $styleAttributes): int
+    {
+        $rotation = (int) $styleAttributes->Rotation;
+        if ($rotation >= 270 && $rotation <= 360) {
+            $rotation -= 360;
+        }
+        $rotation = (abs($rotation) > 90) ? 0 : $rotation;
+
+        return $rotation;
+    }
+
+    private static function addStyle(array &$styleArray, string $key, string $value): void
+    {
+        if (array_key_exists($value, self::$mappings[$key])) {
+            $styleArray[$key] = self::$mappings[$key][$value];
+        }
+    }
+
+    private static function addStyle2(array &$styleArray, string $key1, string $key, string $value): void
+    {
+        if (array_key_exists($value, self::$mappings[$key])) {
+            $styleArray[$key1][$key] = self::$mappings[$key][$value];
+        }
+    }
+
+    private static function parseBorderAttributes(?SimpleXMLElement $borderAttributes): array
+    {
+        $styleArray = [];
+        if ($borderAttributes !== null) {
+            if (isset($borderAttributes['Color'])) {
+                $styleArray['color']['rgb'] = self::parseGnumericColour($borderAttributes['Color']);
+            }
+
+            self::addStyle($styleArray, 'borderStyle', (string) $borderAttributes['Style']);
+        }
+
+        return $styleArray;
+    }
+
+    private static function parseGnumericColour(string $gnmColour): string
+    {
+        [$gnmR, $gnmG, $gnmB] = explode(':', $gnmColour);
+        $gnmR = substr(str_pad($gnmR, 4, '0', STR_PAD_RIGHT), 0, 2);
+        $gnmG = substr(str_pad($gnmG, 4, '0', STR_PAD_RIGHT), 0, 2);
+        $gnmB = substr(str_pad($gnmB, 4, '0', STR_PAD_RIGHT), 0, 2);
+
+        return $gnmR . $gnmG . $gnmB;
+    }
+
+    private function addColors(array &$styleArray, SimpleXMLElement $styleAttributes): void
+    {
+        $RGB = self::parseGnumericColour((string) $styleAttributes['Fore']);
+        $styleArray['font']['color']['rgb'] = $RGB;
+        $RGB = self::parseGnumericColour((string) $styleAttributes['Back']);
+        $shade = (string) $styleAttributes['Shade'];
+        if (($RGB !== '000000') || ($shade !== '0')) {
+            $RGB2 = self::parseGnumericColour((string) $styleAttributes['PatternColor']);
+            if ($shade === '1') {
+                $styleArray['fill']['startColor']['rgb'] = $RGB;
+                $styleArray['fill']['endColor']['rgb'] = $RGB2;
+            } else {
+                $styleArray['fill']['endColor']['rgb'] = $RGB;
+                $styleArray['fill']['startColor']['rgb'] = $RGB2;
+            }
+            self::addStyle2($styleArray, 'fill', 'fillType', $shade);
+        }
+    }
+
+    private function readStyleRange(SimpleXMLElement $styleAttributes, int $maxCol, int $maxRow): string
+    {
+        $startColumn = Coordinate::stringFromColumnIndex((int) $styleAttributes['startCol'] + 1);
+        $startRow = $styleAttributes['startRow'] + 1;
+
+        $endColumn = ($styleAttributes['endCol'] > $maxCol) ? $maxCol : (int) $styleAttributes['endCol'];
+        $endColumn = Coordinate::stringFromColumnIndex($endColumn + 1);
+
+        $endRow = 1 + (($styleAttributes['endRow'] > $maxRow) ? $maxRow : (int) $styleAttributes['endRow']);
+        $cellRange = $startColumn . $startRow . ':' . $endColumn . $endRow;
+
+        return $cellRange;
+    }
+
+    private function readStyle(array $styleArray, SimpleXMLElement $styleAttributes, SimpleXMLElement $style): array
+    {
+        self::addStyle2($styleArray, 'alignment', 'horizontal', (string) $styleAttributes['HAlign']);
+        self::addStyle2($styleArray, 'alignment', 'vertical', (string) $styleAttributes['VAlign']);
+        $styleArray['alignment']['wrapText'] = $styleAttributes['WrapText'] == '1';
+        $styleArray['alignment']['textRotation'] = $this->calcRotation($styleAttributes);
+        $styleArray['alignment']['shrinkToFit'] = $styleAttributes['ShrinkToFit'] == '1';
+        $styleArray['alignment']['indent'] = ((int) ($styleAttributes['Indent']) > 0) ? $styleAttributes['indent'] : 0;
+
+        $this->addColors($styleArray, $styleAttributes);
+
+        $fontAttributes = $style->Style->Font->attributes();
+        if ($fontAttributes !== null) {
+            $styleArray['font']['name'] = (string) $style->Style->Font;
+            $styleArray['font']['size'] = (int) ($fontAttributes['Unit']);
+            $styleArray['font']['bold'] = $fontAttributes['Bold'] == '1';
+            $styleArray['font']['italic'] = $fontAttributes['Italic'] == '1';
+            $styleArray['font']['strikethrough'] = $fontAttributes['StrikeThrough'] == '1';
+            self::addStyle2($styleArray, 'font', 'underline', (string) $fontAttributes['Underline']);
+
+            switch ($fontAttributes['Script']) {
+                case '1':
+                    $styleArray['font']['superscript'] = true;
+
+                    break;
+                case '-1':
+                    $styleArray['font']['subscript'] = true;
+
+                    break;
+            }
+        }
+
+        if (isset($style->Style->StyleBorder)) {
+            $srssb = $style->Style->StyleBorder;
+            $this->addBorderStyle($srssb, $styleArray, 'top');
+            $this->addBorderStyle($srssb, $styleArray, 'bottom');
+            $this->addBorderStyle($srssb, $styleArray, 'left');
+            $this->addBorderStyle($srssb, $styleArray, 'right');
+            $this->addBorderDiagonal($srssb, $styleArray);
+        }
+        if (isset($style->Style->HyperLink)) {
+            //    TO DO
+            $hyperlink = $style->Style->HyperLink->attributes();
+        }
+
+        return $styleArray;
+    }
+}

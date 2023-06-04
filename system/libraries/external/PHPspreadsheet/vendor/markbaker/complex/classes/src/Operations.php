@@ -1,121 +1,210 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Complex;
+
+use InvalidArgumentException;
+
+class Operations
+{
+    /**
+     * Adds two or more complex numbers
+     *
+     * @param     array of string|integer|float|Complex    $complexValues   The numbers to add
+     * @return    Complex
+     */
+    public static function add(...$complexValues): Complex
+    {
+        if (count($complexValues) < 2) {
+            throw new \Exception('This function requires at least 2 arguments');
+        }
+
+        $base = array_shift($complexValues);
+        $result = clone Complex::validateComplexArgument($base);
+
+        foreach ($complexValues as $complex) {
+            $complex = Complex::validateComplexArgument($complex);
+
+            if ($result->isComplex() && $complex->isComplex() &&
+                $result->getSuffix() !== $complex->getSuffix()) {
+                throw new Exception('Suffix Mismatch');
+            }
+
+            $real = $result->getReal() + $complex->getReal();
+            $imaginary = $result->getImaginary() + $complex->getImaginary();
+
+            $result = new Complex(
+                $real,
+                $imaginary,
+                ($imaginary == 0.0) ? null : max($result->getSuffix(), $complex->getSuffix())
+            );
+        }
+
+        return $result;
+    }
+
+    /**
+     * Divides two or more complex numbers
+     *
+     * @param     array of string|integer|float|Complex    $complexValues   The numbers to divide
+     * @return    Complex
+     */
+    public static function divideby(...$complexValues): Complex
+    {
+        if (count($complexValues) < 2) {
+            throw new \Exception('This function requires at least 2 arguments');
+        }
+
+        $base = array_shift($complexValues);
+        $result = clone Complex::validateComplexArgument($base);
+
+        foreach ($complexValues as $complex) {
+            $complex = Complex::validateComplexArgument($complex);
+
+            if ($result->isComplex() && $complex->isComplex() &&
+                $result->getSuffix() !== $complex->getSuffix()) {
+                throw new Exception('Suffix Mismatch');
+            }
+            if ($complex->getReal() == 0.0 && $complex->getImaginary() == 0.0) {
+                throw new InvalidArgumentException('Division by zero');
+            }
+
+            $delta1 = ($result->getReal() * $complex->getReal()) +
+                ($result->getImaginary() * $complex->getImaginary());
+            $delta2 = ($result->getImaginary() * $complex->getReal()) -
+                ($result->getReal() * $complex->getImaginary());
+            $delta3 = ($complex->getReal() * $complex->getReal()) +
+                ($complex->getImaginary() * $complex->getImaginary());
+
+            $real = $delta1 / $delta3;
+            $imaginary = $delta2 / $delta3;
+
+            $result = new Complex(
+                $real,
+                $imaginary,
+                ($imaginary == 0.0) ? null : max($result->getSuffix(), $complex->getSuffix())
+            );
+        }
+
+        return $result;
+    }
+
+    /**
+     * Divides two or more complex numbers
+     *
+     * @param     array of string|integer|float|Complex    $complexValues   The numbers to divide
+     * @return    Complex
+     */
+    public static function divideinto(...$complexValues): Complex
+    {
+        if (count($complexValues) < 2) {
+            throw new \Exception('This function requires at least 2 arguments');
+        }
+
+        $base = array_shift($complexValues);
+        $result = clone Complex::validateComplexArgument($base);
+
+        foreach ($complexValues as $complex) {
+            $complex = Complex::validateComplexArgument($complex);
+
+            if ($result->isComplex() && $complex->isComplex() &&
+                $result->getSuffix() !== $complex->getSuffix()) {
+                throw new Exception('Suffix Mismatch');
+            }
+            if ($result->getReal() == 0.0 && $result->getImaginary() == 0.0) {
+                throw new InvalidArgumentException('Division by zero');
+            }
+
+            $delta1 = ($complex->getReal() * $result->getReal()) +
+                ($complex->getImaginary() * $result->getImaginary());
+            $delta2 = ($complex->getImaginary() * $result->getReal()) -
+                ($complex->getReal() * $result->getImaginary());
+            $delta3 = ($result->getReal() * $result->getReal()) +
+                ($result->getImaginary() * $result->getImaginary());
+
+            $real = $delta1 / $delta3;
+            $imaginary = $delta2 / $delta3;
+
+            $result = new Complex(
+                $real,
+                $imaginary,
+                ($imaginary == 0.0) ? null : max($result->getSuffix(), $complex->getSuffix())
+            );
+        }
+
+        return $result;
+    }
+
+    /**
+     * Multiplies two or more complex numbers
+     *
+     * @param     array of string|integer|float|Complex    $complexValues   The numbers to multiply
+     * @return    Complex
+     */
+    public static function multiply(...$complexValues): Complex
+    {
+        if (count($complexValues) < 2) {
+            throw new \Exception('This function requires at least 2 arguments');
+        }
+
+        $base = array_shift($complexValues);
+        $result = clone Complex::validateComplexArgument($base);
+
+        foreach ($complexValues as $complex) {
+            $complex = Complex::validateComplexArgument($complex);
+
+            if ($result->isComplex() && $complex->isComplex() &&
+                $result->getSuffix() !== $complex->getSuffix()) {
+                throw new Exception('Suffix Mismatch');
+            }
+
+            $real = ($result->getReal() * $complex->getReal()) -
+                ($result->getImaginary() * $complex->getImaginary());
+            $imaginary = ($result->getReal() * $complex->getImaginary()) +
+                ($result->getImaginary() * $complex->getReal());
+
+            $result = new Complex(
+                $real,
+                $imaginary,
+                ($imaginary == 0.0) ? null : max($result->getSuffix(), $complex->getSuffix())
+            );
+        }
+
+        return $result;
+    }
+
+    /**
+     * Subtracts two or more complex numbers
+     *
+     * @param     array of string|integer|float|Complex    $complexValues   The numbers to subtract
+     * @return    Complex
+     */
+    public static function subtract(...$complexValues): Complex
+    {
+        if (count($complexValues) < 2) {
+            throw new \Exception('This function requires at least 2 arguments');
+        }
+
+        $base = array_shift($complexValues);
+        $result = clone Complex::validateComplexArgument($base);
+
+        foreach ($complexValues as $complex) {
+            $complex = Complex::validateComplexArgument($complex);
+
+            if ($result->isComplex() && $complex->isComplex() &&
+                $result->getSuffix() !== $complex->getSuffix()) {
+                throw new Exception('Suffix Mismatch');
+            }
+
+            $real = $result->getReal() - $complex->getReal();
+            $imaginary = $result->getImaginary() - $complex->getImaginary();
+
+            $result = new Complex(
+                $real,
+                $imaginary,
+                ($imaginary == 0.0) ? null : max($result->getSuffix(), $complex->getSuffix())
+            );
+        }
+
+        return $result;
+    }
+}

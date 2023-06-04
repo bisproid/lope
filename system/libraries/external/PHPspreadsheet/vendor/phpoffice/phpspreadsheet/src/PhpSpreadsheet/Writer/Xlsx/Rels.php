@@ -1,254 +1,492 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-M0==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Writer\Xlsx;
+
+use PhpOffice\PhpSpreadsheet\Shared\XMLWriter;
+use PhpOffice\PhpSpreadsheet\Spreadsheet;
+use PhpOffice\PhpSpreadsheet\Worksheet\BaseDrawing;
+use PhpOffice\PhpSpreadsheet\Worksheet\MemoryDrawing;
+use PhpOffice\PhpSpreadsheet\Writer\Exception as WriterException;
+
+class Rels extends WriterPart
+{
+    /**
+     * Write relationships to XML format.
+     *
+     * @return string XML Output
+     */
+    public function writeRelationships(Spreadsheet $spreadsheet)
+    {
+        // Create XML writer
+        $objWriter = null;
+        if ($this->getParentWriter()->getUseDiskCaching()) {
+            $objWriter = new XMLWriter(XMLWriter::STORAGE_DISK, $this->getParentWriter()->getDiskCachingDirectory());
+        } else {
+            $objWriter = new XMLWriter(XMLWriter::STORAGE_MEMORY);
+        }
+
+        // XML header
+        $objWriter->startDocument('1.0', 'UTF-8', 'yes');
+
+        // Relationships
+        $objWriter->startElement('Relationships');
+        $objWriter->writeAttribute('xmlns', 'http://schemas.openxmlformats.org/package/2006/relationships');
+
+        $customPropertyList = $spreadsheet->getProperties()->getCustomProperties();
+        if (!empty($customPropertyList)) {
+            // Relationship docProps/app.xml
+            $this->writeRelationship(
+                $objWriter,
+                4,
+                'http://schemas.openxmlformats.org/officeDocument/2006/relationships/custom-properties',
+                'docProps/custom.xml'
+            );
+        }
+
+        // Relationship docProps/app.xml
+        $this->writeRelationship(
+            $objWriter,
+            3,
+            'http://schemas.openxmlformats.org/officeDocument/2006/relationships/extended-properties',
+            'docProps/app.xml'
+        );
+
+        // Relationship docProps/core.xml
+        $this->writeRelationship(
+            $objWriter,
+            2,
+            'http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties',
+            'docProps/core.xml'
+        );
+
+        // Relationship xl/workbook.xml
+        $this->writeRelationship(
+            $objWriter,
+            1,
+            'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument',
+            'xl/workbook.xml'
+        );
+        // a custom UI in workbook ?
+        if ($spreadsheet->hasRibbon()) {
+            $this->writeRelationShip(
+                $objWriter,
+                5,
+                'http://schemas.microsoft.com/office/2006/relationships/ui/extensibility',
+                $spreadsheet->getRibbonXMLData('target')
+            );
+        }
+
+        $objWriter->endElement();
+
+        return $objWriter->getData();
+    }
+
+    /**
+     * Write workbook relationships to XML format.
+     *
+     * @return string XML Output
+     */
+    public function writeWorkbookRelationships(Spreadsheet $spreadsheet)
+    {
+        // Create XML writer
+        $objWriter = null;
+        if ($this->getParentWriter()->getUseDiskCaching()) {
+            $objWriter = new XMLWriter(XMLWriter::STORAGE_DISK, $this->getParentWriter()->getDiskCachingDirectory());
+        } else {
+            $objWriter = new XMLWriter(XMLWriter::STORAGE_MEMORY);
+        }
+
+        // XML header
+        $objWriter->startDocument('1.0', 'UTF-8', 'yes');
+
+        // Relationships
+        $objWriter->startElement('Relationships');
+        $objWriter->writeAttribute('xmlns', 'http://schemas.openxmlformats.org/package/2006/relationships');
+
+        // Relationship styles.xml
+        $this->writeRelationship(
+            $objWriter,
+            1,
+            'http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles',
+            'styles.xml'
+        );
+
+        // Relationship theme/theme1.xml
+        $this->writeRelationship(
+            $objWriter,
+            2,
+            'http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme',
+            'theme/theme1.xml'
+        );
+
+        // Relationship sharedStrings.xml
+        $this->writeRelationship(
+            $objWriter,
+            3,
+            'http://schemas.openxmlformats.org/officeDocument/2006/relationships/sharedStrings',
+            'sharedStrings.xml'
+        );
+
+        // Relationships with sheets
+        $sheetCount = $spreadsheet->getSheetCount();
+        for ($i = 0; $i < $sheetCount; ++$i) {
+            $this->writeRelationship(
+                $objWriter,
+                ($i + 1 + 3),
+                'http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet',
+                'worksheets/sheet' . ($i + 1) . '.xml'
+            );
+        }
+        // Relationships for vbaProject if needed
+        // id : just after the last sheet
+        if ($spreadsheet->hasMacros()) {
+            $this->writeRelationShip(
+                $objWriter,
+                ($i + 1 + 3),
+                'http://schemas.microsoft.com/office/2006/relationships/vbaProject',
+                'vbaProject.bin'
+            );
+            ++$i; //increment i if needed for an another relation
+        }
+
+        $objWriter->endElement();
+
+        return $objWriter->getData();
+    }
+
+    /**
+     * Write worksheet relationships to XML format.
+     *
+     * Numbering is as follows:
+     *     rId1                 - Drawings
+     *  rId_hyperlink_x     - Hyperlinks
+     *
+     * @param int $worksheetId
+     * @param bool $includeCharts Flag indicating if we should write charts
+     * @param int $tableRef Table ID
+     *
+     * @return string XML Output
+     */
+    public function writeWorksheetRelationships(\PhpOffice\PhpSpreadsheet\Worksheet\Worksheet $worksheet, $worksheetId = 1, $includeCharts = false, $tableRef = 1)
+    {
+        // Create XML writer
+        $objWriter = null;
+        if ($this->getParentWriter()->getUseDiskCaching()) {
+            $objWriter = new XMLWriter(XMLWriter::STORAGE_DISK, $this->getParentWriter()->getDiskCachingDirectory());
+        } else {
+            $objWriter = new XMLWriter(XMLWriter::STORAGE_MEMORY);
+        }
+
+        // XML header
+        $objWriter->startDocument('1.0', 'UTF-8', 'yes');
+
+        // Relationships
+        $objWriter->startElement('Relationships');
+        $objWriter->writeAttribute('xmlns', 'http://schemas.openxmlformats.org/package/2006/relationships');
+
+        // Write drawing relationships?
+        $drawingOriginalIds = [];
+        $unparsedLoadedData = $worksheet->getParent()->getUnparsedLoadedData();
+        if (isset($unparsedLoadedData['sheets'][$worksheet->getCodeName()]['drawingOriginalIds'])) {
+            $drawingOriginalIds = $unparsedLoadedData['sheets'][$worksheet->getCodeName()]['drawingOriginalIds'];
+        }
+
+        if ($includeCharts) {
+            $charts = $worksheet->getChartCollection();
+        } else {
+            $charts = [];
+        }
+
+        if (($worksheet->getDrawingCollection()->count() > 0) || (count($charts) > 0) || $drawingOriginalIds) {
+            $rId = 1;
+
+            // Use original $relPath to get original $rId.
+            // Take first. In future can be overwritten.
+            // (! synchronize with \PhpOffice\PhpSpreadsheet\Writer\Xlsx\Worksheet::writeDrawings)
+            reset($drawingOriginalIds);
+            $relPath = key($drawingOriginalIds);
+            if (isset($drawingOriginalIds[$relPath])) {
+                $rId = (int) (substr($drawingOriginalIds[$relPath], 3));
+            }
+
+            // Generate new $relPath to write drawing relationship
+            $relPath = '../drawings/drawing' . $worksheetId . '.xml';
+            $this->writeRelationship(
+                $objWriter,
+                $rId,
+                'http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing',
+                $relPath
+            );
+        }
+
+        // Write hyperlink relationships?
+        $i = 1;
+        foreach ($worksheet->getHyperlinkCollection() as $hyperlink) {
+            if (!$hyperlink->isInternal()) {
+                $this->writeRelationship(
+                    $objWriter,
+                    '_hyperlink_' . $i,
+                    'http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink',
+                    $hyperlink->getUrl(),
+                    'External'
+                );
+
+                ++$i;
+            }
+        }
+
+        // Write comments relationship?
+        $i = 1;
+        if (count($worksheet->getComments()) > 0) {
+            $this->writeRelationship(
+                $objWriter,
+                '_comments_vml' . $i,
+                'http://schemas.openxmlformats.org/officeDocument/2006/relationships/vmlDrawing',
+                '../drawings/vmlDrawing' . $worksheetId . '.vml'
+            );
+
+            $this->writeRelationship(
+                $objWriter,
+                '_comments' . $i,
+                'http://schemas.openxmlformats.org/officeDocument/2006/relationships/comments',
+                '../comments' . $worksheetId . '.xml'
+            );
+        }
+
+        // Write Table
+        $tableCount = $worksheet->getTableCollection()->count();
+        for ($i = 1; $i <= $tableCount; ++$i) {
+            $this->writeRelationship(
+                $objWriter,
+                '_table_' . $i,
+                'http://schemas.openxmlformats.org/officeDocument/2006/relationships/table',
+                '../tables/table' . $tableRef++ . '.xml'
+            );
+        }
+
+        // Write header/footer relationship?
+        $i = 1;
+        if (count($worksheet->getHeaderFooter()->getImages()) > 0) {
+            $this->writeRelationship(
+                $objWriter,
+                '_headerfooter_vml' . $i,
+                'http://schemas.openxmlformats.org/officeDocument/2006/relationships/vmlDrawing',
+                '../drawings/vmlDrawingHF' . $worksheetId . '.vml'
+            );
+        }
+
+        $this->writeUnparsedRelationship($worksheet, $objWriter, 'ctrlProps', 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/ctrlProp');
+        $this->writeUnparsedRelationship($worksheet, $objWriter, 'vmlDrawings', 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/vmlDrawing');
+        $this->writeUnparsedRelationship($worksheet, $objWriter, 'printerSettings', 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings');
+
+        $objWriter->endElement();
+
+        return $objWriter->getData();
+    }
+
+    private function writeUnparsedRelationship(\PhpOffice\PhpSpreadsheet\Worksheet\Worksheet $worksheet, XMLWriter $objWriter, $relationship, $type): void
+    {
+        $unparsedLoadedData = $worksheet->getParent()->getUnparsedLoadedData();
+        if (!isset($unparsedLoadedData['sheets'][$worksheet->getCodeName()][$relationship])) {
+            return;
+        }
+
+        foreach ($unparsedLoadedData['sheets'][$worksheet->getCodeName()][$relationship] as $rId => $value) {
+            $this->writeRelationship(
+                $objWriter,
+                $rId,
+                $type,
+                $value['relFilePath']
+            );
+        }
+    }
+
+    /**
+     * Write drawing relationships to XML format.
+     *
+     * @param int $chartRef Chart ID
+     * @param bool $includeCharts Flag indicating if we should write charts
+     *
+     * @return string XML Output
+     */
+    public function writeDrawingRelationships(\PhpOffice\PhpSpreadsheet\Worksheet\Worksheet $worksheet, &$chartRef, $includeCharts = false)
+    {
+        // Create XML writer
+        $objWriter = null;
+        if ($this->getParentWriter()->getUseDiskCaching()) {
+            $objWriter = new XMLWriter(XMLWriter::STORAGE_DISK, $this->getParentWriter()->getDiskCachingDirectory());
+        } else {
+            $objWriter = new XMLWriter(XMLWriter::STORAGE_MEMORY);
+        }
+
+        // XML header
+        $objWriter->startDocument('1.0', 'UTF-8', 'yes');
+
+        // Relationships
+        $objWriter->startElement('Relationships');
+        $objWriter->writeAttribute('xmlns', 'http://schemas.openxmlformats.org/package/2006/relationships');
+
+        // Loop through images and write relationships
+        $i = 1;
+        $iterator = $worksheet->getDrawingCollection()->getIterator();
+        while ($iterator->valid()) {
+            $drawing = $iterator->current();
+            if (
+                $drawing instanceof \PhpOffice\PhpSpreadsheet\Worksheet\Drawing
+                || $drawing instanceof MemoryDrawing
+            ) {
+                // Write relationship for image drawing
+                $this->writeRelationship(
+                    $objWriter,
+                    $i,
+                    'http://schemas.openxmlformats.org/officeDocument/2006/relationships/image',
+                    '../media/' . $drawing->getIndexedFilename()
+                );
+
+                $i = $this->writeDrawingHyperLink($objWriter, $drawing, $i);
+            }
+
+            $iterator->next();
+            ++$i;
+        }
+
+        if ($includeCharts) {
+            // Loop through charts and write relationships
+            $chartCount = $worksheet->getChartCount();
+            if ($chartCount > 0) {
+                for ($c = 0; $c < $chartCount; ++$c) {
+                    $this->writeRelationship(
+                        $objWriter,
+                        $i++,
+                        'http://schemas.openxmlformats.org/officeDocument/2006/relationships/chart',
+                        '../charts/chart' . ++$chartRef . '.xml'
+                    );
+                }
+            }
+        }
+
+        $objWriter->endElement();
+
+        return $objWriter->getData();
+    }
+
+    /**
+     * Write header/footer drawing relationships to XML format.
+     *
+     * @return string XML Output
+     */
+    public function writeHeaderFooterDrawingRelationships(\PhpOffice\PhpSpreadsheet\Worksheet\Worksheet $worksheet)
+    {
+        // Create XML writer
+        $objWriter = null;
+        if ($this->getParentWriter()->getUseDiskCaching()) {
+            $objWriter = new XMLWriter(XMLWriter::STORAGE_DISK, $this->getParentWriter()->getDiskCachingDirectory());
+        } else {
+            $objWriter = new XMLWriter(XMLWriter::STORAGE_MEMORY);
+        }
+
+        // XML header
+        $objWriter->startDocument('1.0', 'UTF-8', 'yes');
+
+        // Relationships
+        $objWriter->startElement('Relationships');
+        $objWriter->writeAttribute('xmlns', 'http://schemas.openxmlformats.org/package/2006/relationships');
+
+        // Loop through images and write relationships
+        foreach ($worksheet->getHeaderFooter()->getImages() as $key => $value) {
+            // Write relationship for image drawing
+            $this->writeRelationship(
+                $objWriter,
+                $key,
+                'http://schemas.openxmlformats.org/officeDocument/2006/relationships/image',
+                '../media/' . $value->getIndexedFilename()
+            );
+        }
+
+        $objWriter->endElement();
+
+        return $objWriter->getData();
+    }
+
+    public function writeVMLDrawingRelationships(\PhpOffice\PhpSpreadsheet\Worksheet\Worksheet $worksheet): string
+    {
+        // Create XML writer
+        $objWriter = null;
+        if ($this->getParentWriter()->getUseDiskCaching()) {
+            $objWriter = new XMLWriter(XMLWriter::STORAGE_DISK, $this->getParentWriter()->getDiskCachingDirectory());
+        } else {
+            $objWriter = new XMLWriter(XMLWriter::STORAGE_MEMORY);
+        }
+
+        // XML header
+        $objWriter->startDocument('1.0', 'UTF-8', 'yes');
+
+        // Relationships
+        $objWriter->startElement('Relationships');
+        $objWriter->writeAttribute('xmlns', 'http://schemas.openxmlformats.org/package/2006/relationships');
+
+        // Loop through images and write relationships
+        foreach ($worksheet->getComments() as $comment) {
+            if (!$comment->hasBackgroundImage()) {
+                continue;
+            }
+
+            $bgImage = $comment->getBackgroundImage();
+            $this->writeRelationship(
+                $objWriter,
+                $bgImage->getImageIndex(),
+                'http://schemas.openxmlformats.org/officeDocument/2006/relationships/image',
+                '../media/' . $bgImage->getMediaFilename()
+            );
+        }
+
+        $objWriter->endElement();
+
+        return $objWriter->getData();
+    }
+
+    /**
+     * Write Override content type.
+     *
+     * @param int $id Relationship ID. rId will be prepended!
+     * @param string $type Relationship type
+     * @param string $target Relationship target
+     * @param string $targetMode Relationship target mode
+     */
+    private function writeRelationship(XMLWriter $objWriter, $id, $type, $target, $targetMode = ''): void
+    {
+        if ($type != '' && $target != '') {
+            // Write relationship
+            $objWriter->startElement('Relationship');
+            $objWriter->writeAttribute('Id', 'rId' . $id);
+            $objWriter->writeAttribute('Type', $type);
+            $objWriter->writeAttribute('Target', $target);
+
+            if ($targetMode != '') {
+                $objWriter->writeAttribute('TargetMode', $targetMode);
+            }
+
+            $objWriter->endElement();
+        } else {
+            throw new WriterException('Invalid parameters passed.');
+        }
+    }
+
+    private function writeDrawingHyperLink(XMLWriter $objWriter, BaseDrawing $drawing, int $i): int
+    {
+        if ($drawing->getHyperlink() === null) {
+            return $i;
+        }
+
+        ++$i;
+        $this->writeRelationship(
+            $objWriter,
+            $i,
+            'http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink',
+            $drawing->getHyperlink()->getUrl(),
+            $drawing->getHyperlink()->getTypeHyperlink()
+        );
+
+        return $i;
+    }
+}

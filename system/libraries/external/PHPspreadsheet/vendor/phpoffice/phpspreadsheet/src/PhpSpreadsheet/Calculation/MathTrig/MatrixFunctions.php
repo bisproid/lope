@@ -1,101 +1,179 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-5W==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\MathTrig;
+
+use Matrix\Builder;
+use Matrix\Div0Exception as MatrixDiv0Exception;
+use Matrix\Exception as MatrixException;
+use Matrix\Matrix;
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+use PhpOffice\PhpSpreadsheet\Calculation\Information\ExcelError;
+
+class MatrixFunctions
+{
+    /**
+     * Convert parameter to Matrix.
+     *
+     * @param mixed $matrixValues A matrix of values
+     */
+    private static function getMatrix($matrixValues): Matrix
+    {
+        $matrixData = [];
+        if (!is_array($matrixValues)) {
+            $matrixValues = [[$matrixValues]];
+        }
+
+        $row = 0;
+        foreach ($matrixValues as $matrixRow) {
+            if (!is_array($matrixRow)) {
+                $matrixRow = [$matrixRow];
+            }
+            $column = 0;
+            foreach ($matrixRow as $matrixCell) {
+                if ((is_string($matrixCell)) || ($matrixCell === null)) {
+                    throw new Exception(ExcelError::VALUE());
+                }
+                $matrixData[$row][$column] = $matrixCell;
+                ++$column;
+            }
+            ++$row;
+        }
+
+        return new Matrix($matrixData);
+    }
+
+    /**
+     * SEQUENCE.
+     *
+     * Generates a list of sequential numbers in an array.
+     *
+     * Excel Function:
+     *      SEQUENCE(rows,[columns],[start],[step])
+     *
+     * @param mixed $rows the number of rows to return, defaults to 1
+     * @param mixed $columns the number of columns to return, defaults to 1
+     * @param mixed $start the first number in the sequence, defaults to 1
+     * @param mixed $step the amount to increment each subsequent value in the array, defaults to 1
+     *
+     * @return array|string The resulting array, or a string containing an error
+     */
+    public static function sequence($rows = 1, $columns = 1, $start = 1, $step = 1)
+    {
+        try {
+            $rows = (int) Helpers::validateNumericNullSubstitution($rows, 1);
+            Helpers::validatePositive($rows);
+            $columns = (int) Helpers::validateNumericNullSubstitution($columns, 1);
+            Helpers::validatePositive($columns);
+            $start = Helpers::validateNumericNullSubstitution($start, 1);
+            $step = Helpers::validateNumericNullSubstitution($step, 1);
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+
+        if ($step === 0) {
+            return array_chunk(
+                array_fill(0, $rows * $columns, $start),
+                max($columns, 1)
+            );
+        }
+
+        return array_chunk(
+            range($start, $start + (($rows * $columns - 1) * $step), $step),
+            max($columns, 1)
+        );
+    }
+
+    /**
+     * MDETERM.
+     *
+     * Returns the matrix determinant of an array.
+     *
+     * Excel Function:
+     *        MDETERM(array)
+     *
+     * @param mixed $matrixValues A matrix of values
+     *
+     * @return float|string The result, or a string containing an error
+     */
+    public static function determinant($matrixValues)
+    {
+        try {
+            $matrix = self::getMatrix($matrixValues);
+
+            return $matrix->determinant();
+        } catch (MatrixException $ex) {
+            return ExcelError::VALUE();
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+    }
+
+    /**
+     * MINVERSE.
+     *
+     * Returns the inverse matrix for the matrix stored in an array.
+     *
+     * Excel Function:
+     *        MINVERSE(array)
+     *
+     * @param mixed $matrixValues A matrix of values
+     *
+     * @return array|string The result, or a string containing an error
+     */
+    public static function inverse($matrixValues)
+    {
+        try {
+            $matrix = self::getMatrix($matrixValues);
+
+            return $matrix->inverse()->toArray();
+        } catch (MatrixDiv0Exception $e) {
+            return ExcelError::NAN();
+        } catch (MatrixException $e) {
+            return ExcelError::VALUE();
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+    }
+
+    /**
+     * MMULT.
+     *
+     * @param mixed $matrixData1 A matrix of values
+     * @param mixed $matrixData2 A matrix of values
+     *
+     * @return array|string The result, or a string containing an error
+     */
+    public static function multiply($matrixData1, $matrixData2)
+    {
+        try {
+            $matrixA = self::getMatrix($matrixData1);
+            $matrixB = self::getMatrix($matrixData2);
+
+            return $matrixA->multiply($matrixB)->toArray();
+        } catch (MatrixException $ex) {
+            return ExcelError::VALUE();
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+    }
+
+    /**
+     * MUnit.
+     *
+     * @param mixed $dimension Number of rows and columns
+     *
+     * @return array|string The result, or a string containing an error
+     */
+    public static function identity($dimension)
+    {
+        try {
+            $dimension = (int) Helpers::validateNumericNullBool($dimension);
+            Helpers::validatePositive($dimension, ExcelError::VALUE());
+            $matrix = Builder::createIdentityMatrix($dimension, 0)->toArray();
+
+            return $matrix;
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
+    }
+}

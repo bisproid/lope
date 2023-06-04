@@ -1,109 +1,318 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-HHabscWghncHvxa=
+<?php
+/**
+ * @link    http://github.com/myclabs/php-enum
+ * @license http://www.opensource.org/licenses/mit-license.php MIT (see the LICENSE file)
+ */
+
+namespace MyCLabs\Enum;
+
+/**
+ * Base Enum class
+ *
+ * Create an enum by implementing this class and adding class constants.
+ *
+ * @author Matthieu Napoli <matthieu@mnapoli.fr>
+ * @author Daniel Costa <danielcosta@gmail.com>
+ * @author Miros≈Çaw Filip <mirfilip@gmail.com>
+ *
+ * @psalm-template T
+ * @psalm-immutable
+ * @psalm-consistent-constructor
+ */
+abstract class Enum implements \JsonSerializable
+{
+    /**
+     * Enum value
+     *
+     * @var mixed
+     * @psalm-var T
+     */
+    protected $value;
+
+    /**
+     * Enum key, the constant name
+     *
+     * @var string
+     */
+    private $key;
+
+    /**
+     * Store existing constants in a static cache per object.
+     *
+     *
+     * @var array
+     * @psalm-var array<class-string, array<string, mixed>>
+     */
+    protected static $cache = [];
+
+    /**
+     * Cache of instances of the Enum class
+     *
+     * @var array
+     * @psalm-var array<class-string, array<string, static>>
+     */
+    protected static $instances = [];
+
+    /**
+     * Creates a new value of some type
+     *
+     * @psalm-pure
+     * @param mixed $value
+     *
+     * @psalm-param T $value
+     * @throws \UnexpectedValueException if incompatible type is given.
+     */
+    public function __construct($value)
+    {
+        if ($value instanceof static) {
+           /** @psalm-var T */
+            $value = $value->getValue();
+        }
+
+        /** @psalm-suppress ImplicitToStringCast assertValidValueReturningKey returns always a string but psalm has currently an issue here */
+        $this->key = static::assertValidValueReturningKey($value);
+
+        /** @psalm-var T */
+        $this->value = $value;
+    }
+
+    /**
+     * This method exists only for the compatibility reason when deserializing a previously serialized version
+     * that didn't had the key property
+     */
+    public function __wakeup()
+    {
+        /** @psalm-suppress DocblockTypeContradiction key can be null when deserializing an enum without the key */
+        if ($this->key === null) {
+            /**
+             * @psalm-suppress InaccessibleProperty key is not readonly as marked by psalm
+             * @psalm-suppress PossiblyFalsePropertyAssignmentValue deserializing a case that was removed
+             */
+            $this->key = static::search($this->value);
+        }
+    }
+
+    /**
+     * @param mixed $value
+     * @return static
+     */
+    public static function from($value): self
+    {
+        $key = static::assertValidValueReturningKey($value);
+
+        return self::__callStatic($key, []);
+    }
+
+    /**
+     * @psalm-pure
+     * @return mixed
+     * @psalm-return T
+     */
+    public function getValue()
+    {
+        return $this->value;
+    }
+
+    /**
+     * Returns the enum key (i.e. the constant name).
+     *
+     * @psalm-pure
+     * @return string
+     */
+    public function getKey()
+    {
+        return $this->key;
+    }
+
+    /**
+     * @psalm-pure
+     * @psalm-suppress InvalidCast
+     * @return string
+     */
+    public function __toString()
+    {
+        return (string)$this->value;
+    }
+
+    /**
+     * Determines if Enum should be considered equal with the variable passed as a parameter.
+     * Returns false if an argument is an object of different class or not an object.
+     *
+     * This method is final, for more information read https://github.com/myclabs/php-enum/issues/4
+     *
+     * @psalm-pure
+     * @psalm-param mixed $variable
+     * @return bool
+     */
+    final public function equals($variable = null): bool
+    {
+        return $variable instanceof self
+            && $this->getValue() === $variable->getValue()
+            && static::class === \get_class($variable);
+    }
+
+    /**
+     * Returns the names (keys) of all constants in the Enum class
+     *
+     * @psalm-pure
+     * @psalm-return list<string>
+     * @return array
+     */
+    public static function keys()
+    {
+        return \array_keys(static::toArray());
+    }
+
+    /**
+     * Returns instances of the Enum class of all Enum constants
+     *
+     * @psalm-pure
+     * @psalm-return array<string, static>
+     * @return static[] Constant name in key, Enum instance in value
+     */
+    public static function values()
+    {
+        $values = array();
+
+        /** @psalm-var T $value */
+        foreach (static::toArray() as $key => $value) {
+            $values[$key] = new static($value);
+        }
+
+        return $values;
+    }
+
+    /**
+     * Returns all possible values as an array
+     *
+     * @psalm-pure
+     * @psalm-suppress ImpureStaticProperty
+     *
+     * @psalm-return array<string, mixed>
+     * @return array Constant name in key, constant value in value
+     */
+    public static function toArray()
+    {
+        $class = static::class;
+
+        if (!isset(static::$cache[$class])) {
+            /** @psalm-suppress ImpureMethodCall this reflection API usage has no side-effects here */
+            $reflection            = new \ReflectionClass($class);
+            /** @psalm-suppress ImpureMethodCall this reflection API usage has no side-effects here */
+            static::$cache[$class] = $reflection->getConstants();
+        }
+
+        return static::$cache[$class];
+    }
+
+    /**
+     * Check if is valid enum value
+     *
+     * @param $value
+     * @psalm-param mixed $value
+     * @psalm-pure
+     * @psalm-assert-if-true T $value
+     * @return bool
+     */
+    public static function isValid($value)
+    {
+        return \in_array($value, static::toArray(), true);
+    }
+
+    /**
+     * Asserts valid enum value
+     *
+     * @psalm-pure
+     * @psalm-assert T $value
+     * @param mixed $value
+     */
+    public static function assertValidValue($value): void
+    {
+        self::assertValidValueReturningKey($value);
+    }
+
+    /**
+     * Asserts valid enum value
+     *
+     * @psalm-pure
+     * @psalm-assert T $value
+     * @param mixed $value
+     * @return string
+     */
+    private static function assertValidValueReturningKey($value): string
+    {
+        if (false === ($key = static::search($value))) {
+            throw new \UnexpectedValueException("Value '$value' is not part of the enum " . static::class);
+        }
+
+        return $key;
+    }
+
+    /**
+     * Check if is valid enum key
+     *
+     * @param $key
+     * @psalm-param string $key
+     * @psalm-pure
+     * @return bool
+     */
+    public static function isValidKey($key)
+    {
+        $array = static::toArray();
+
+        return isset($array[$key]) || \array_key_exists($key, $array);
+    }
+
+    /**
+     * Return key for value
+     *
+     * @param mixed $value
+     *
+     * @psalm-param mixed $value
+     * @psalm-pure
+     * @return string|false
+     */
+    public static function search($value)
+    {
+        return \array_search($value, static::toArray(), true);
+    }
+
+    /**
+     * Returns a value when called statically like so: MyEnum::SOME_VALUE() given SOME_VALUE is a class constant
+     *
+     * @param string $name
+     * @param array  $arguments
+     *
+     * @return static
+     * @throws \BadMethodCallException
+     *
+     * @psalm-pure
+     */
+    public static function __callStatic($name, $arguments)
+    {
+        $class = static::class;
+        if (!isset(self::$instances[$class][$name])) {
+            $array = static::toArray();
+            if (!isset($array[$name]) && !\array_key_exists($name, $array)) {
+                $message = "No static method or enum constant '$name' in class " . static::class;
+                throw new \BadMethodCallException($message);
+            }
+            return self::$instances[$class][$name] = new static($array[$name]);
+        }
+        return clone self::$instances[$class][$name];
+    }
+
+    /**
+     * Specify data which should be serialized to JSON. This method returns data that can be serialized by json_encode()
+     * natively.
+     *
+     * @return mixed
+     * @link http://php.net/manual/en/jsonserializable.jsonserialize.php
+     * @psalm-pure
+     */
+    #[\ReturnTypeWillChange]
+    public function jsonSerialize()
+    {
+        return $this->getValue();
+    }
+}

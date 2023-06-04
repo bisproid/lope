@@ -1,150 +1,210 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-g2yY97Zef9X3IuD2oQ8pBupk
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Reader\Xlsx;
+
+use PhpOffice\PhpSpreadsheet\Cell\Coordinate;
+use PhpOffice\PhpSpreadsheet\Reader\DefaultReadFilter;
+use PhpOffice\PhpSpreadsheet\Reader\IReadFilter;
+use PhpOffice\PhpSpreadsheet\Worksheet\Worksheet;
+use SimpleXMLElement;
+
+class ColumnAndRowAttributes extends BaseParserClass
+{
+    private $worksheet;
+
+    private $worksheetXml;
+
+    public function __construct(Worksheet $workSheet, ?SimpleXMLElement $worksheetXml = null)
+    {
+        $this->worksheet = $workSheet;
+        $this->worksheetXml = $worksheetXml;
+    }
+
+    /**
+     * Set Worksheet column attributes by attributes array passed.
+     *
+     * @param string $columnAddress A, B, ... DX, ...
+     * @param array $columnAttributes array of attributes (indexes are attribute name, values are value)
+     *                               'xfIndex', 'visible', 'collapsed', 'outlineLevel', 'width', ... ?
+     */
+    private function setColumnAttributes($columnAddress, array $columnAttributes): void
+    {
+        if (isset($columnAttributes['xfIndex'])) {
+            $this->worksheet->getColumnDimension($columnAddress)->setXfIndex($columnAttributes['xfIndex']);
+        }
+        if (isset($columnAttributes['visible'])) {
+            $this->worksheet->getColumnDimension($columnAddress)->setVisible($columnAttributes['visible']);
+        }
+        if (isset($columnAttributes['collapsed'])) {
+            $this->worksheet->getColumnDimension($columnAddress)->setCollapsed($columnAttributes['collapsed']);
+        }
+        if (isset($columnAttributes['outlineLevel'])) {
+            $this->worksheet->getColumnDimension($columnAddress)->setOutlineLevel($columnAttributes['outlineLevel']);
+        }
+        if (isset($columnAttributes['width'])) {
+            $this->worksheet->getColumnDimension($columnAddress)->setWidth($columnAttributes['width']);
+        }
+    }
+
+    /**
+     * Set Worksheet row attributes by attributes array passed.
+     *
+     * @param int $rowNumber 1, 2, 3, ... 99, ...
+     * @param array $rowAttributes array of attributes (indexes are attribute name, values are value)
+     *                               'xfIndex', 'visible', 'collapsed', 'outlineLevel', 'rowHeight', ... ?
+     */
+    private function setRowAttributes($rowNumber, array $rowAttributes): void
+    {
+        if (isset($rowAttributes['xfIndex'])) {
+            $this->worksheet->getRowDimension($rowNumber)->setXfIndex($rowAttributes['xfIndex']);
+        }
+        if (isset($rowAttributes['visible'])) {
+            $this->worksheet->getRowDimension($rowNumber)->setVisible($rowAttributes['visible']);
+        }
+        if (isset($rowAttributes['collapsed'])) {
+            $this->worksheet->getRowDimension($rowNumber)->setCollapsed($rowAttributes['collapsed']);
+        }
+        if (isset($rowAttributes['outlineLevel'])) {
+            $this->worksheet->getRowDimension($rowNumber)->setOutlineLevel($rowAttributes['outlineLevel']);
+        }
+        if (isset($rowAttributes['rowHeight'])) {
+            $this->worksheet->getRowDimension($rowNumber)->setRowHeight($rowAttributes['rowHeight']);
+        }
+    }
+
+    public function load(?IReadFilter $readFilter = null, bool $readDataOnly = false): void
+    {
+        if ($this->worksheetXml === null) {
+            return;
+        }
+
+        $columnsAttributes = [];
+        $rowsAttributes = [];
+        if (isset($this->worksheetXml->cols)) {
+            $columnsAttributes = $this->readColumnAttributes($this->worksheetXml->cols, $readDataOnly);
+        }
+
+        if ($this->worksheetXml->sheetData && $this->worksheetXml->sheetData->row) {
+            $rowsAttributes = $this->readRowAttributes($this->worksheetXml->sheetData->row, $readDataOnly);
+        }
+
+        if ($readFilter !== null && get_class($readFilter) === DefaultReadFilter::class) {
+            $readFilter = null;
+        }
+
+        // set columns/rows attributes
+        $columnsAttributesAreSet = [];
+        foreach ($columnsAttributes as $columnCoordinate => $columnAttributes) {
+            if (
+                $readFilter === null ||
+                !$this->isFilteredColumn($readFilter, $columnCoordinate, $rowsAttributes)
+            ) {
+                if (!isset($columnsAttributesAreSet[$columnCoordinate])) {
+                    $this->setColumnAttributes($columnCoordinate, $columnAttributes);
+                    $columnsAttributesAreSet[$columnCoordinate] = true;
+                }
+            }
+        }
+
+        $rowsAttributesAreSet = [];
+        foreach ($rowsAttributes as $rowCoordinate => $rowAttributes) {
+            if (
+                $readFilter === null ||
+                !$this->isFilteredRow($readFilter, $rowCoordinate, $columnsAttributes)
+            ) {
+                if (!isset($rowsAttributesAreSet[$rowCoordinate])) {
+                    $this->setRowAttributes($rowCoordinate, $rowAttributes);
+                    $rowsAttributesAreSet[$rowCoordinate] = true;
+                }
+            }
+        }
+    }
+
+    private function isFilteredColumn(IReadFilter $readFilter, $columnCoordinate, array $rowsAttributes)
+    {
+        foreach ($rowsAttributes as $rowCoordinate => $rowAttributes) {
+            if (!$readFilter->readCell($columnCoordinate, $rowCoordinate, $this->worksheet->getTitle())) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    private function readColumnAttributes(SimpleXMLElement $worksheetCols, $readDataOnly)
+    {
+        $columnAttributes = [];
+
+        foreach ($worksheetCols->col as $column) {
+            $startColumn = Coordinate::stringFromColumnIndex((int) $column['min']);
+            $endColumn = Coordinate::stringFromColumnIndex((int) $column['max']);
+            ++$endColumn;
+            for ($columnAddress = $startColumn; $columnAddress !== $endColumn; ++$columnAddress) {
+                $columnAttributes[$columnAddress] = $this->readColumnRangeAttributes($column, $readDataOnly);
+
+                if ((int) ($column['max']) == 16384) {
+                    break;
+                }
+            }
+        }
+
+        return $columnAttributes;
+    }
+
+    private function readColumnRangeAttributes(SimpleXMLElement $column, $readDataOnly)
+    {
+        $columnAttributes = [];
+
+        if ($column['style'] && !$readDataOnly) {
+            $columnAttributes['xfIndex'] = (int) $column['style'];
+        }
+        if (self::boolean($column['hidden'])) {
+            $columnAttributes['visible'] = false;
+        }
+        if (self::boolean($column['collapsed'])) {
+            $columnAttributes['collapsed'] = true;
+        }
+        if (((int) $column['outlineLevel']) > 0) {
+            $columnAttributes['outlineLevel'] = (int) $column['outlineLevel'];
+        }
+        $columnAttributes['width'] = (float) $column['width'];
+
+        return $columnAttributes;
+    }
+
+    private function isFilteredRow(IReadFilter $readFilter, $rowCoordinate, array $columnsAttributes)
+    {
+        foreach ($columnsAttributes as $columnCoordinate => $columnAttributes) {
+            if (!$readFilter->readCell($columnCoordinate, $rowCoordinate, $this->worksheet->getTitle())) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    private function readRowAttributes(SimpleXMLElement $worksheetRow, $readDataOnly)
+    {
+        $rowAttributes = [];
+
+        foreach ($worksheetRow as $row) {
+            if ($row['ht'] && !$readDataOnly) {
+                $rowAttributes[(int) $row['r']]['rowHeight'] = (float) $row['ht'];
+            }
+            if (self::boolean($row['hidden'])) {
+                $rowAttributes[(int) $row['r']]['visible'] = false;
+            }
+            if (self::boolean($row['collapsed'])) {
+                $rowAttributes[(int) $row['r']]['collapsed'] = true;
+            }
+            if ((int) $row['outlineLevel'] > 0) {
+                $rowAttributes[(int) $row['r']]['outlineLevel'] = (int) $row['outlineLevel'];
+            }
+            if ($row['s'] && !$readDataOnly) {
+                $rowAttributes[(int) $row['r']]['xfIndex'] = (int) $row['s'];
+            }
+        }
+
+        return $rowAttributes;
+    }
+}

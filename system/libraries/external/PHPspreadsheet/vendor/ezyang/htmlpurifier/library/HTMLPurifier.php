@@ -1,105 +1,297 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+/*! @mainpage
+ *
+ * HTML Purifier is an HTML filter that will take an arbitrary snippet of
+ * HTML and rigorously test, validate and filter it into a version that
+ * is safe for output onto webpages. It achieves this by:
+ *
+ *  -# Lexing (parsing into tokens) the document,
+ *  -# Executing various strategies on the tokens:
+ *      -# Removing all elements not in the whitelist,
+ *      -# Making the tokens well-formed,
+ *      -# Fixing the nesting of the nodes, and
+ *      -# Validating attributes of the nodes; and
+ *  -# Generating HTML from the purified tokens.
+ *
+ * However, most users will only need to interface with the HTMLPurifier
+ * and HTMLPurifier_Config.
+ */
+
+/*
+    HTML Purifier 4.14.0 - Standards Compliant HTML Filtering
+    Copyright (C) 2006-2008 Edward Z. Yang
+
+    This library is free software; you can redistribute it and/or
+    modify it under the terms of the GNU Lesser General Public
+    License as published by the Free Software Foundation; either
+    version 2.1 of the License, or (at your option) any later version.
+
+    This library is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+    Lesser General Public License for more details.
+
+    You should have received a copy of the GNU Lesser General Public
+    License along with this library; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ */
+
+/**
+ * Facade that coordinates HTML Purifier's subsystems in order to purify HTML.
+ *
+ * @note There are several points in which configuration can be specified
+ *       for HTML Purifier.  The precedence of these (from lowest to
+ *       highest) is as follows:
+ *          -# Instance: new HTMLPurifier($config)
+ *          -# Invocation: purify($html, $config)
+ *       These configurations are entirely independent of each other and
+ *       are *not* merged (this behavior may change in the future).
+ *
+ * @todo We need an easier way to inject strategies using the configuration
+ *       object.
+ */
+class HTMLPurifier
+{
+
+    /**
+     * Version of HTML Purifier.
+     * @type string
+     */
+    public $version = '4.14.0';
+
+    /**
+     * Constant with version of HTML Purifier.
+     */
+    const VERSION = '4.14.0';
+
+    /**
+     * Global configuration object.
+     * @type HTMLPurifier_Config
+     */
+    public $config;
+
+    /**
+     * Array of extra filter objects to run on HTML,
+     * for backwards compatibility.
+     * @type HTMLPurifier_Filter[]
+     */
+    private $filters = array();
+
+    /**
+     * Single instance of HTML Purifier.
+     * @type HTMLPurifier
+     */
+    private static $instance;
+
+    /**
+     * @type HTMLPurifier_Strategy_Core
+     */
+    protected $strategy;
+
+    /**
+     * @type HTMLPurifier_Generator
+     */
+    protected $generator;
+
+    /**
+     * Resultant context of last run purification.
+     * Is an array of contexts if the last called method was purifyArray().
+     * @type HTMLPurifier_Context
+     */
+    public $context;
+
+    /**
+     * Initializes the purifier.
+     *
+     * @param HTMLPurifier_Config|mixed $config Optional HTMLPurifier_Config object
+     *                for all instances of the purifier, if omitted, a default
+     *                configuration is supplied (which can be overridden on a
+     *                per-use basis).
+     *                The parameter can also be any type that
+     *                HTMLPurifier_Config::create() supports.
+     */
+    public function __construct($config = null)
+    {
+        $this->config = HTMLPurifier_Config::create($config);
+        $this->strategy = new HTMLPurifier_Strategy_Core();
+    }
+
+    /**
+     * Adds a filter to process the output. First come first serve
+     *
+     * @param HTMLPurifier_Filter $filter HTMLPurifier_Filter object
+     */
+    public function addFilter($filter)
+    {
+        trigger_error(
+            'HTMLPurifier->addFilter() is deprecated, use configuration directives' .
+            ' in the Filter namespace or Filter.Custom',
+            E_USER_WARNING
+        );
+        $this->filters[] = $filter;
+    }
+
+    /**
+     * Filters an HTML snippet/document to be XSS-free and standards-compliant.
+     *
+     * @param string $html String of HTML to purify
+     * @param HTMLPurifier_Config $config Config object for this operation,
+     *                if omitted, defaults to the config object specified during this
+     *                object's construction. The parameter can also be any type
+     *                that HTMLPurifier_Config::create() supports.
+     *
+     * @return string Purified HTML
+     */
+    public function purify($html, $config = null)
+    {
+        // :TODO: make the config merge in, instead of replace
+        $config = $config ? HTMLPurifier_Config::create($config) : $this->config;
+
+        // implementation is partially environment dependant, partially
+        // configuration dependant
+        $lexer = HTMLPurifier_Lexer::create($config);
+
+        $context = new HTMLPurifier_Context();
+
+        // setup HTML generator
+        $this->generator = new HTMLPurifier_Generator($config, $context);
+        $context->register('Generator', $this->generator);
+
+        // set up global context variables
+        if ($config->get('Core.CollectErrors')) {
+            // may get moved out if other facilities use it
+            $language_factory = HTMLPurifier_LanguageFactory::instance();
+            $language = $language_factory->create($config, $context);
+            $context->register('Locale', $language);
+
+            $error_collector = new HTMLPurifier_ErrorCollector($context);
+            $context->register('ErrorCollector', $error_collector);
+        }
+
+        // setup id_accumulator context, necessary due to the fact that
+        // AttrValidator can be called from many places
+        $id_accumulator = HTMLPurifier_IDAccumulator::build($config, $context);
+        $context->register('IDAccumulator', $id_accumulator);
+
+        $html = HTMLPurifier_Encoder::convertToUTF8($html, $config, $context);
+
+        // setup filters
+        $filter_flags = $config->getBatch('Filter');
+        $custom_filters = $filter_flags['Custom'];
+        unset($filter_flags['Custom']);
+        $filters = array();
+        foreach ($filter_flags as $filter => $flag) {
+            if (!$flag) {
+                continue;
+            }
+            if (strpos($filter, '.') !== false) {
+                continue;
+            }
+            $class = "HTMLPurifier_Filter_$filter";
+            $filters[] = new $class;
+        }
+        foreach ($custom_filters as $filter) {
+            // maybe "HTMLPurifier_Filter_$filter", but be consistent with AutoFormat
+            $filters[] = $filter;
+        }
+        $filters = array_merge($filters, $this->filters);
+        // maybe prepare(), but later
+
+        for ($i = 0, $filter_size = count($filters); $i < $filter_size; $i++) {
+            $html = $filters[$i]->preFilter($html, $config, $context);
+        }
+
+        // purified HTML
+        $html =
+            $this->generator->generateFromTokens(
+                // list of tokens
+                $this->strategy->execute(
+                    // list of un-purified tokens
+                    $lexer->tokenizeHTML(
+                        // un-purified HTML
+                        $html,
+                        $config,
+                        $context
+                    ),
+                    $config,
+                    $context
+                )
+            );
+
+        for ($i = $filter_size - 1; $i >= 0; $i--) {
+            $html = $filters[$i]->postFilter($html, $config, $context);
+        }
+
+        $html = HTMLPurifier_Encoder::convertFromUTF8($html, $config, $context);
+        $this->context =& $context;
+        return $html;
+    }
+
+    /**
+     * Filters an array of HTML snippets
+     *
+     * @param string[] $array_of_html Array of html snippets
+     * @param HTMLPurifier_Config $config Optional config object for this operation.
+     *                See HTMLPurifier::purify() for more details.
+     *
+     * @return string[] Array of purified HTML
+     */
+    public function purifyArray($array_of_html, $config = null)
+    {
+        $context_array = array();
+        $array = array();
+        foreach($array_of_html as $key=>$value){
+            if (is_array($value)) {
+                $array[$key] = $this->purifyArray($value, $config);
+            } else {
+                $array[$key] = $this->purify($value, $config);
+            }
+            $context_array[$key] = $this->context;
+        }
+        $this->context = $context_array;
+        return $array;
+    }
+
+    /**
+     * Singleton for enforcing just one HTML Purifier in your system
+     *
+     * @param HTMLPurifier|HTMLPurifier_Config $prototype Optional prototype
+     *                   HTMLPurifier instance to overload singleton with,
+     *                   or HTMLPurifier_Config instance to configure the
+     *                   generated version with.
+     *
+     * @return HTMLPurifier
+     */
+    public static function instance($prototype = null)
+    {
+        if (!self::$instance || $prototype) {
+            if ($prototype instanceof HTMLPurifier) {
+                self::$instance = $prototype;
+            } elseif ($prototype) {
+                self::$instance = new HTMLPurifier($prototype);
+            } else {
+                self::$instance = new HTMLPurifier();
+            }
+        }
+        return self::$instance;
+    }
+
+    /**
+     * Singleton for enforcing just one HTML Purifier in your system
+     *
+     * @param HTMLPurifier|HTMLPurifier_Config $prototype Optional prototype
+     *                   HTMLPurifier instance to overload singleton with,
+     *                   or HTMLPurifier_Config instance to configure the
+     *                   generated version with.
+     *
+     * @return HTMLPurifier
+     * @note Backwards compatibility, see instance()
+     */
+    public static function getInstance($prototype = null)
+    {
+        return HTMLPurifier::instance($prototype);
+    }
+}
+
+// vim: et sw=4 sts=4

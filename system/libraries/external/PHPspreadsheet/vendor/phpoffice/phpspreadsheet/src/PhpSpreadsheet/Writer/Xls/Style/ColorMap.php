@@ -1,40 +1,90 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Writer\Xls\Style;
+
+use PhpOffice\PhpSpreadsheet\Style\Color;
+
+class ColorMap
+{
+    /**
+     * @var array<string, int>
+     */
+    private static $colorMap = [
+        '#000000' => 0x08,
+        '#FFFFFF' => 0x09,
+        '#FF0000' => 0x0A,
+        '#00FF00' => 0x0B,
+        '#0000FF' => 0x0C,
+        '#FFFF00' => 0x0D,
+        '#FF00FF' => 0x0E,
+        '#00FFFF' => 0x0F,
+        '#800000' => 0x10,
+        '#008000' => 0x11,
+        '#000080' => 0x12,
+        '#808000' => 0x13,
+        '#800080' => 0x14,
+        '#008080' => 0x15,
+        '#C0C0C0' => 0x16,
+        '#808080' => 0x17,
+        '#9999FF' => 0x18,
+        '#993366' => 0x19,
+        '#FFFFCC' => 0x1A,
+        '#CCFFFF' => 0x1B,
+        '#660066' => 0x1C,
+        '#FF8080' => 0x1D,
+        '#0066CC' => 0x1E,
+        '#CCCCFF' => 0x1F,
+        //        '#000080' => 0x20,
+        //        '#FF00FF' => 0x21,
+        //        '#FFFF00' => 0x22,
+        //        '#00FFFF' => 0x23,
+        //        '#800080' => 0x24,
+        //        '#800000' => 0x25,
+        //        '#008080' => 0x26,
+        //        '#0000FF' => 0x27,
+        '#00CCFF' => 0x28,
+        //        '#CCFFFF' => 0x29,
+        '#CCFFCC' => 0x2A,
+        '#FFFF99' => 0x2B,
+        '#99CCFF' => 0x2C,
+        '#FF99CC' => 0x2D,
+        '#CC99FF' => 0x2E,
+        '#FFCC99' => 0x2F,
+        '#3366FF' => 0x30,
+        '#33CCCC' => 0x31,
+        '#99CC00' => 0x32,
+        '#FFCC00' => 0x33,
+        '#FF9900' => 0x34,
+        '#FF6600' => 0x35,
+        '#666699' => 0x36,
+        '#969696' => 0x37,
+        '#003366' => 0x38,
+        '#339966' => 0x39,
+        '#003300' => 0x3A,
+        '#333300' => 0x3B,
+        '#993300' => 0x3C,
+        //        '#993366' => 0x3D,
+        '#333399' => 0x3E,
+        '#333333' => 0x3F,
+    ];
+
+    public static function lookup(Color $color, int $defaultIndex = 0x00): int
+    {
+        $colorRgb = $color->getRGB();
+        if (is_string($colorRgb) && array_key_exists("#{$colorRgb}", self::$colorMap)) {
+            return self::$colorMap["#{$colorRgb}"];
+        }
+
+//      TODO Try and map RGB value to nearest colour within the define pallette
+//        $red =  Color::getRed($colorRgb, false);
+//        $green = Color::getGreen($colorRgb, false);
+//        $blue = Color::getBlue($colorRgb, false);
+
+//        $paletteSpace = 3;
+//        $newColor = ($red * $paletteSpace / 256) * ($paletteSpace * $paletteSpace) +
+//            ($green * $paletteSpace / 256) * $paletteSpace +
+//            ($blue * $paletteSpace / 256);
+
+        return $defaultIndex;
+    }
+}

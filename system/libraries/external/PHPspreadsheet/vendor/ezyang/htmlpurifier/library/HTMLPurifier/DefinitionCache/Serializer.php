@@ -1,145 +1,311 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+class HTMLPurifier_DefinitionCache_Serializer extends HTMLPurifier_DefinitionCache
+{
+
+    /**
+     * @param HTMLPurifier_Definition $def
+     * @param HTMLPurifier_Config $config
+     * @return int|bool
+     */
+    public function add($def, $config)
+    {
+        if (!$this->checkDefType($def)) {
+            return;
+        }
+        $file = $this->generateFilePath($config);
+        if (file_exists($file)) {
+            return false;
+        }
+        if (!$this->_prepareDir($config)) {
+            return false;
+        }
+        return $this->_write($file, serialize($def), $config);
+    }
+
+    /**
+     * @param HTMLPurifier_Definition $def
+     * @param HTMLPurifier_Config $config
+     * @return int|bool
+     */
+    public function set($def, $config)
+    {
+        if (!$this->checkDefType($def)) {
+            return;
+        }
+        $file = $this->generateFilePath($config);
+        if (!$this->_prepareDir($config)) {
+            return false;
+        }
+        return $this->_write($file, serialize($def), $config);
+    }
+
+    /**
+     * @param HTMLPurifier_Definition $def
+     * @param HTMLPurifier_Config $config
+     * @return int|bool
+     */
+    public function replace($def, $config)
+    {
+        if (!$this->checkDefType($def)) {
+            return;
+        }
+        $file = $this->generateFilePath($config);
+        if (!file_exists($file)) {
+            return false;
+        }
+        if (!$this->_prepareDir($config)) {
+            return false;
+        }
+        return $this->_write($file, serialize($def), $config);
+    }
+
+    /**
+     * @param HTMLPurifier_Config $config
+     * @return bool|HTMLPurifier_Config
+     */
+    public function get($config)
+    {
+        $file = $this->generateFilePath($config);
+        if (!file_exists($file)) {
+            return false;
+        }
+        return unserialize(file_get_contents($file));
+    }
+
+    /**
+     * @param HTMLPurifier_Config $config
+     * @return bool
+     */
+    public function remove($config)
+    {
+        $file = $this->generateFilePath($config);
+        if (!file_exists($file)) {
+            return false;
+        }
+        return unlink($file);
+    }
+
+    /**
+     * @param HTMLPurifier_Config $config
+     * @return bool
+     */
+    public function flush($config)
+    {
+        if (!$this->_prepareDir($config)) {
+            return false;
+        }
+        $dir = $this->generateDirectoryPath($config);
+        $dh = opendir($dir);
+        // Apparently, on some versions of PHP, readdir will return
+        // an empty string if you pass an invalid argument to readdir.
+        // So you need this test.  See #49.
+        if (false === $dh) {
+            return false;
+        }
+        while (false !== ($filename = readdir($dh))) {
+            if (empty($filename)) {
+                continue;
+            }
+            if ($filename[0] === '.') {
+                continue;
+            }
+            unlink($dir . '/' . $filename);
+        }
+        closedir($dh);
+        return true;
+    }
+
+    /**
+     * @param HTMLPurifier_Config $config
+     * @return bool
+     */
+    public function cleanup($config)
+    {
+        if (!$this->_prepareDir($config)) {
+            return false;
+        }
+        $dir = $this->generateDirectoryPath($config);
+        $dh = opendir($dir);
+        // See #49 (and above).
+        if (false === $dh) {
+            return false;
+        }
+        while (false !== ($filename = readdir($dh))) {
+            if (empty($filename)) {
+                continue;
+            }
+            if ($filename[0] === '.') {
+                continue;
+            }
+            $key = substr($filename, 0, strlen($filename) - 4);
+            if ($this->isOld($key, $config)) {
+                unlink($dir . '/' . $filename);
+            }
+        }
+        closedir($dh);
+        return true;
+    }
+
+    /**
+     * Generates the file path to the serial file corresponding to
+     * the configuration and definition name
+     * @param HTMLPurifier_Config $config
+     * @return string
+     * @todo Make protected
+     */
+    public function generateFilePath($config)
+    {
+        $key = $this->generateKey($config);
+        return $this->generateDirectoryPath($config) . '/' . $key . '.ser';
+    }
+
+    /**
+     * Generates the path to the directory contain this cache's serial files
+     * @param HTMLPurifier_Config $config
+     * @return string
+     * @note No trailing slash
+     * @todo Make protected
+     */
+    public function generateDirectoryPath($config)
+    {
+        $base = $this->generateBaseDirectoryPath($config);
+        return $base . '/' . $this->type;
+    }
+
+    /**
+     * Generates path to base directory that contains all definition type
+     * serials
+     * @param HTMLPurifier_Config $config
+     * @return mixed|string
+     * @todo Make protected
+     */
+    public function generateBaseDirectoryPath($config)
+    {
+        $base = $config->get('Cache.SerializerPath');
+        $base = is_null($base) ? HTMLPURIFIER_PREFIX . '/HTMLPurifier/DefinitionCache/Serializer' : $base;
+        return $base;
+    }
+
+    /**
+     * Convenience wrapper function for file_put_contents
+     * @param string $file File name to write to
+     * @param string $data Data to write into file
+     * @param HTMLPurifier_Config $config
+     * @return int|bool Number of bytes written if success, or false if failure.
+     */
+    private function _write($file, $data, $config)
+    {
+        $result = file_put_contents($file, $data);
+        if ($result !== false) {
+            // set permissions of the new file (no execute)
+            $chmod = $config->get('Cache.SerializerPermissions');
+            if ($chmod !== null) {
+                chmod($file, $chmod & 0666);
+            }
+        }
+        return $result;
+    }
+
+    /**
+     * Prepares the directory that this type stores the serials in
+     * @param HTMLPurifier_Config $config
+     * @return bool True if successful
+     */
+    private function _prepareDir($config)
+    {
+        $directory = $this->generateDirectoryPath($config);
+        $chmod = $config->get('Cache.SerializerPermissions');
+        if ($chmod === null) {
+            if (!@mkdir($directory) && !is_dir($directory)) {
+                trigger_error(
+                    'Could not create directory ' . $directory . '',
+                    E_USER_WARNING
+                );
+                return false;
+            }
+            return true;
+        }
+        if (!is_dir($directory)) {
+            $base = $this->generateBaseDirectoryPath($config);
+            if (!is_dir($base)) {
+                trigger_error(
+                    'Base directory ' . $base . ' does not exist,
+                    please create or change using %Cache.SerializerPath',
+                    E_USER_WARNING
+                );
+                return false;
+            } elseif (!$this->_testPermissions($base, $chmod)) {
+                return false;
+            }
+            if (!@mkdir($directory, $chmod) && !is_dir($directory)) {
+                trigger_error(
+                    'Could not create directory ' . $directory . '',
+                    E_USER_WARNING
+                );
+                return false;
+            }
+            if (!$this->_testPermissions($directory, $chmod)) {
+                return false;
+            }
+        } elseif (!$this->_testPermissions($directory, $chmod)) {
+            return false;
+        }
+        return true;
+    }
+
+    /**
+     * Tests permissions on a directory and throws out friendly
+     * error messages and attempts to chmod it itself if possible
+     * @param string $dir Directory path
+     * @param int $chmod Permissions
+     * @return bool True if directory is writable
+     */
+    private function _testPermissions($dir, $chmod)
+    {
+        // early abort, if it is writable, everything is hunky-dory
+        if (is_writable($dir)) {
+            return true;
+        }
+        if (!is_dir($dir)) {
+            // generally, you'll want to handle this beforehand
+            // so a more specific error message can be given
+            trigger_error(
+                'Directory ' . $dir . ' does not exist',
+                E_USER_WARNING
+            );
+            return false;
+        }
+        if (function_exists('posix_getuid') && $chmod !== null) {
+            // POSIX system, we can give more specific advice
+            if (fileowner($dir) === posix_getuid()) {
+                // we can chmod it ourselves
+                $chmod = $chmod | 0700;
+                if (chmod($dir, $chmod)) {
+                    return true;
+                }
+            } elseif (filegroup($dir) === posix_getgid()) {
+                $chmod = $chmod | 0070;
+            } else {
+                // PHP's probably running as nobody, so we'll
+                // need to give global permissions
+                $chmod = $chmod | 0777;
+            }
+            trigger_error(
+                'Directory ' . $dir . ' not writable, ' .
+                'please chmod to ' . decoct($chmod),
+                E_USER_WARNING
+            );
+        } else {
+            // generic error message
+            trigger_error(
+                'Directory ' . $dir . ' not writable, ' .
+                'please alter file permissions',
+                E_USER_WARNING
+            );
+        }
+        return false;
+    }
+}
+
+// vim: et sw=4 sts=4

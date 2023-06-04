@@ -1,142 +1,209 @@
-<?php //005b3
-// ========================
-//     PT Yukayoga Karya Persada
-//     Copyright © 2013-2023
-//     Created by Aldo Expert
-//     Powered by Bibit Unggul Team
-// ========================
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPq2ZBDJp5fKR+dovzurGJ0sKj9fN1nhZxl8XHddZ8JeqRDwB13M0lOoFr9ULunRI9bruwkNu
-3xK7q6WOnf6K65NLEdEAqtC1/798Nr/LboAO8sLksAy4+Dvi1orf/XBBAXAdfzR2EKqvNHu1tJYN
-Ut8FGcUZRmTFa+s9HZQ0tiEd9Z3VMzSz/kItqmKIUDwiJwJfnAGOXtPtJe3YQNv3D5+W9VsQWMO8
-3gxH+vjY9sh9W7qPAiOuaTQgE3wapbyKswvG+vRXHAjgiO/Jt5ZmlXI180Gg0HdstTYHhmqlKDA5
-Gga0N4vlKUlkVLQXdfudq+VMu9SE/z9Hok3XYOtPBuAk8y08TjUIwGs/Y0/4wchPAqh4IkB2Ww8l
-D6PeGiuOYlQVWXDCvS3OHkt5/aWIR65sR5rnf6qVc2Pf9hIA2uQrNujQldeSxTYkWZGf3eIFfAKR
-jph1pnhRIqPOq51Jb8ZAzBXNvWwTmtqRKlXyUkF0LqPNKPM3qvgL3U5C4aRHDPH1Vo/he9dyscpY
-1+6TbchKr3gz0YiRAtw1FPNd2pQrLmICXOwoLUT7IXuig0mck4gCRD0c4YRymy7kHLlInNEhDLzA
-KIGlGPRAl+UHG9DownK+PQrTqnYA8oE7cuBDxmPG/TYJ5tTfO1bsNJETtzB8okg6X6nP1i5mnyC5
-BZc/bg9xiAfBAHRF72+GiXeWGbPwtqSshTgpgkZFC1R7GfJcNxH+DXUAitQX435Ovba4ZdWfkcOD
-JXYbr3f0wfAq0DwRr2hxPDPrdZ4tv7AU1OwCw0AbSN7OmFY/hX0uEhkGZaCno8gymORFdaEf/UQy
-FePrQ2+YvJjM/FwPWznCPwt+JZcYSRoAYiqetZdzx/7E5XsiyjzITbgzPmvo9S4ntudxJYrAXUG7
-h2IO0inxpTPL8jCpntgPz76XfdIcZD3KeMArxSNb3VMa2a2XhfV3zIhDS+0in1euyOiqtUvybzYr
-ucYHDkf+XbJ8YQzzq40d8fkMMyn6QPJ74uczsvIwXEej2IsCi19Go8Fc4ZaAKj8EWDBQeYK7rgvl
-CXH28Ef61swErRIM+hOIa0ChkMbh3LJ7VsQDvQpNZWWtZtb7QvP1ODvx4uVegU5D4t3ccesZODKo
-cGmavtyt6SGMa3LHylg7fwYjTLoX1VlCtnY1fGB2XuiPguKI3e0GdmQ2DR6oXKSL2PEf5tK9s7UA
-bu5Q/Y/eqq/tCgj3NKLlAzuKdezqwLdRRFksG9wTeJlVPTXTLkfs6gzUNmib1OpIW+gYxfmUL4E4
-WOcnXG80XntCkCdUbWT216NlmWYYB9BEDRE3ENrQ1wQ+EhG0apexuzW97luM8toWQfFLGaYST/5k
-6tBLa32pgtzpmhMisGGZfxj7s7MpbDBqz2hMsOukJBgnwDN5KQgafhEFlcTvyrXe6EDUfcRNMIOU
-4l0711ct5ZLsjTpmwA4kgwnf7jnvBZsha7sB6BwHg7btD4PF7ccwnJaxO3stZcq4q2YVNDMmGI/u
-MvoyXqxmu2x8eP3tXD4/0jJ4QT2+98t738XYG7/JmRVX9rqkHy6+Un3tVqJXh0BwHkI7Sq195UvE
-UiXfJ1QueBprbwb9owe6cQFEwAWpeCcFjB6IHP7XNk4xdoz7P2x1xGt1okpjKTkCM6qeHhrPDVAl
-P97wHIbmGFI6vhGSMJ4kB+ddP54uRVGleug1fc8Gf1E9LtfgIZynfUtGfensAbnLjF97HEoyVDib
-JtCzLcyBRxZOeqnqWX9wKRcM3z+zcEfKopsSdAwQFvV4IN6ZJAfW/2VvZYLWvpGflVqICN2xqpJh
-8Qf9Vo6enAz8Os5CAF/LAjGVHsbygE3FmmPbhfgYLPJvI0Gu1hn/9ZlHMVGR6C/Rmt+uBZGqdL7A
-BV0XJ/FthJ8Z2f1BaHIkyYmv29wR+YW6kfzDVe9S8dXO9ugC5Zj2UIBJcWDCd2bwiK4WAq0q3zWE
-lRBDzlBt0+A2i36z57GPVDuHyWQLoLDrGmxkCj3zlgkqc82zf4d5rSKIne2i+bsYlJB/NoBmJ+/u
-EpZGsztfsfDeKV/ZbmqAOT8R7+LxnsOsjG58KVSxv84YU6Bs0QxaOGzn55uSv9YOlwZVYi5HOP3u
-EvxWi5GjGAixEzbR65IZKX+smugsZ9wAAbvHA2Ph6jm/BAczf97R/yr0rfAM2lld4h0OAKNAlMKQ
-7IVDEPvmxznOv9lraSuveCyBdAyolLqR+lQl+IzB9e8022XETR+/Y41i2S1yCL7LUyFPWykLVF1+
-bzuMMlC0kWDLvjDk1+VYV5f2SQGID4ORf+hLXIlCo5IluR50gSEiuJ1bzhXqoLg5jdG2iinkZZS+
-d/OpspIr0bpN5A9xGJbFZAlVyI5w8FIG2KNIuy9a6tH2KZKIcLf+XZCQG3/VqIW6eNq4Fsff8W8a
-0CN18M0DSVKgH2E28dVFw3vnkpPLz+IhvKJI0ev+LZGgfejK+fGXR8XI2EdnoB4NiD3JKN3R5+1A
-K4KaIXR5CyEW6Ch6snkEAFOpOEznrS4g6u1z32Oo/rjah8pWYVcZDprhTAozz0H5I1fhuSIhBS5Z
-b/w8dk0pU633FLsXNSS3fr8bxHaz11vKGGp8amA4lYs2fD9AzDEmMQt3iJ2/tsE0AsqT6R73Va1h
-tH5X7guUedUXU0oAFYlFLCnMbeeAf0QL7Web6UOgwilBxRZ2avHpkSzAd465R6AbY+J7gyFT5oqb
-I1f+hIj5U+dQZT9Wcdl/lpFa6wqrZtuNJk+qsIkOO6eSzTSXr86ZTc7a5qonr/OGpyPxE1/jJncW
-SOCmhKD+QSwgmhbcyoZQP9vefayOOU/en0U0oUZlDkwkW0GNiG7ET2vWrFLVew3ISYFEEHW4lszW
-RCWKygmBhUHMdu2Ch9Yt4iWFaWE6aR0OFVZH6XiP9lZy7vrSV1VAe5YyYblnzHDMPxj/wzQbwCTH
-EDZLLg2lkNB5ZM7ajBjQyC4i3l1CYRdE88sosxiuw03p8qgx/BLRJoFA/dHCTw6wREClpkHtf+zI
-WJgmUArR2d5gdWjoNdN0vBHHXS9c21C+qSjrCxqkSBTa3kJwf1cAZpDwa6rGRIoHbCeo8ZdYHo5d
-Hm7cHvBGxYkunEsAR74kMGnmOMONMGcM97+yFaHxGX1uijRcIu6ubmnPue63J0umDwlf7JahT+tD
-8PvucZ8qwMF56TBoAvnuowcWvpJDhOcRSUZmkXAc/G6sR/5wHRc+Io2GvHXhXnegWJDb1N//jvkR
-qWhB/yy0L3ZjNJ5KB1zQitsjc7TEsrXfgZE2bc7MlxX9zTgBJwl96dORRXIbwZy6gSKZVjTl/XQs
-/NS19Wv9KEAT0T5ZfInVMTnHvcuAh5robEpGn9yWqIw3vnvEM16ONHeaO7tmNq8iqg6RUcjZw0x5
-awkTmjbGKg57q/MBx6pXCKS4nLPj8+CMzLZ4qugnnn/zbIPt/LMGSdVTfs713ZHyuxKQFqgIQ1w/
-BwkZ71dqPd7KLniUjQfYufazk49OvUPtPOsbf0iihCU323XVNn73cjQIdSb2dulIRXaatdwFGp4d
-eFkoiY3oRO1Dz6Zpu5rnCUMqc5laQVyBfKQMPBfWutQRCOp6PUdh1W4d8ZuD5cDNR9TGEEoX4WC9
-IOODB5SuVs48uNFs8NDNhlOr0ibYkXFnvMPeA8Bg9UDEO0bpOjpLjFzv8GOIMvGxLdu4ucKv7ikl
-4gLB183D+eJQivofOMb4kkjtmQ1XBeET0nkTUJv3OgwgNG4a1DXpLgU86AoCuo97vEYSIPyleiCK
-peDNc5u6f8Q6EpZ3sOWTV5mRs72ECoiHWyBgeZHquFECP0rOq7li0GxLuRBpyuwKVad/C8zQ1Kn7
-Ifx4C0mc9+o1mXY3CEBUfepFq1LQvex7IMVkiJ2hajr+CjGH1wvazzjTff5I/BltclzKIA+LAMvb
-Itfsrph7+x7XIlqFyTxvzaON+dOPSy2ab+4CR+yLKrUlUI0TXtNFQ+eA/056x8y2IndDLMzDiu4Z
-oSzg/XBh5P94fecsyPLz5D6nYu5hFS7GeCEmEcU9OLjdpTOKjqrQV/iFmncTHkSMvX6gDqJPmjoc
-Zz0btAcUBzAomxkK3HDM7Zk7CAmeVeruqDgBmpy4BTTEEoJ/IXPc6696GmXbBoHEfuOsnPP5qFQh
-SguZlGRccm4tHpQC54C/+jqkm66G1xxik6y0NnHLdmhBXtv4vEyGWPVVmAtQl419dgZXxZReODTv
-t94tI84zxVhRNxPOjA+lBLpF4DvbUdQnjqNa61UKPxv2jzIER0d7BX3gmMQI3GIpLyGWtJGCKrii
-Ri5c3fL4ncLHgXXnZQ/vARwiVvC+1gZ775SJiXlzxRntQqrSWDTrs9PxHdAka7OU0aR2GopvGuRZ
-PxLrwWdPbHGEukXDDWMznurVceYEU76RGpq4z8YFqbKGHptk3WIDKPzo8hxEjfDtGwoc8y5ow/OM
-W59N7klz1V+oYXSD/8RyZukaICMS7w0BinjSxI46raGEU+fKxKPS5zxmIMG0okGIhjSIEBTOmTpz
-LQpQtHd0qxOC2Fm1yQhlP5+HYXyCMfsam0rf3oYLFeCRK2CKeaANfp2tL2iFQUeZoIRbKTOGYgDr
-ZSmwgStbV43+xA5QUBdGU5cLyfDyrelGM/QfOAkxofXxQ6CROLri5JJftDLIP3cL5m3U7RsEaY24
-K39+wCep9C9om0lUJSL7ulV4p0A/AaWMdkpxI4O2lJiuN/YOhPCWXMmzPIWTocy0IOlK6PV5ukY9
-ZLx3hfiGoQA/nTda25CWinkGQeyBGaaOnRXBYlYv0xWtO8Spneh661RPFKRAhnscsiPxeXyQsf+f
-GFLI3BNfokll3/va0gISiOTzGC50cdaHeYA4dMUIo/C3z/Y/dH6lguIr5ThBCqrlCpk8PwiLr7SX
-pdUODbtx9R+u/Exgp6hIvPrd5YiQvwxZTg1GoOfwdgqj5mF3LUOAdKL/TLKRBUiVqqRVZqE2X9Y2
-SZ47Oegpq0tUxTn8SOj8KfuLPO9wlSdsV3MP99bSvIVQp/t+jineuOy03rlkGIP+NpONQs6dpCei
-Zex84P4BCPDY9pWWPackqhWoQZCakSqWJvNDdXnoGEMAkYJHXq45HuK53mBzIycUYoIRFn/XbB3P
-IsKTCVu5JZCH/mQ3ZaIbCjIudm4bwzBp5vB3wpMhDXSWn7BgSfFWgGxUSQCUOsNXosXBc3VagIBC
-JILB4Z1UNlr7lSuLPifmgeUhKA1+XvbGd2TniNAmiMhcRR2qP/SaTCHxdv09BSUYArN+snuq7kcN
-o3bIkE7bkrzwtrdNRnMpBivGfkFCEuO056BCzC26S6OBSH0dvQ1nh0zwdfA61orloOx+xNSSQhMw
-v/iE8zTT5b1d9kE0CoJpq23t3TidpkqCXiCQxxQZHlhtYi047NMiZLb0+T7QtLfBkSiQDbz+hUe1
-0I9/ma4Jg7OHXZ67BJ+1lGu6hUUznjKo1/aE5ONMrmojKiwuW+wcFP7qyOAOJKPejWciK0o3uKLJ
-2BQLLYfWVzk+ASwMLm5n8Fx3iSVEfIEXNLFXDgdqfC7CGtgtRuDa0negV53PQKO4oAbzDYXpbRhe
-Ut89ZMqVWpGUP0YjoDfejJHyfMsuoxxnKBrSVK/XIvYZfO2MwVVlgHjeJ7EMfGQN/O4ncNxHFQ0g
-Ft7Duhbv6usf4mbNUlLxApKrOKhhN7iGN/zMXIKRMg3haSDr/NaX+oZSd55xXgFKp9d+xHPqmMsQ
-2G55guHqM4LOUo4egMxNz7b16za76GDGdtvq9PorXpSmZbXLngkNpWRE2QrXzS4zCaY+aAZu2VQN
-9T4iH1SCSGwK7smE0srMfH6qaDuNyQBbpmbpeLHYKb8aznNWT88XMyezXVy/Qb1DDUiKPUnI64Ek
-DpiUy4MiXW3N0OjjSZTWqJUVOOd4l0176C00+5XRkU6K9br6c6DGo8JqyDNwoc61C0iSqTuFjhV5
-4706CrVKXpVXq9pA91ii1Acos9M874Wm6j6Vi+2Vkpxf61n6uytmdieVPNA5SHEH1mfLPlo1a2Us
-e7rVOXwi3ySaaIlKxhQE3egCa/bPNS6VUiXpcvMFYmss79c7aebfdbRJu5MrhyY/EuJgb2+cCvKQ
-NqpcfTGD6tiD6qEPp0nol5l1V1J3MULs3l7YOljYCRK0AT4CzOKaOcoGnVHxjihhG4OOTen3pHA0
-XN0tTH9p/NKLyRdHcFDuhT+N5n+DpMx25s5jRcs0UI8wOH6PchkTRjuK8jyKbJZjyF8TkEes0Lpk
-XP3n939lz3rjdg1M1eDThko86jkg85wd/hmbVz/2FQreANAAq3fBBEwyWT4gpFsFYwNFezk9xOIN
-HvJYbUwo1DaKKf6CDgxSvJEY6/y6Bw53+tDnb0473p4TWM6wclz7OmKwW5JwROez7Yi+/iXFmiuX
-AP5G0H5P/jnw7JVrejeOMvAr9fvcgYyft16VnV0zd/Tjvk+5soWEFT1JFfDp9DwA7D6kU2/fmtCJ
-H091wRVUSOnkqrYm4uEfDcVwR/swj6E53BreIIQWtX/+LSX/UmuxShQSRwzUH21RxMViCPiTMPk1
-LNedcazX4CQp+49dbJTe+ya8cL12MRBR9ryBjJbc/E8wsd7r8JFfMxQwSwTJaiwFG3GxhaZWsAKx
-ZlqcK4L9ELaNvOU1x3IZFHrIGXxOGJyV0kiB3YeuzWGxycGqB2bEz0qdaXKrOvMITJusIaIha78/
-cWQ/Y45TJjCK2vzJTq1JjLOgrSMH9qCfu1LVqmIOtqjeNCpHyseZH9cB3LHq0LhkG43m8m+p+woC
-R+2IZ49dL3Gu14PzOwpaTPej8WTiGntg/ChbV7pBrBDlAXDJY6oH7XYwiBt8x5ROXS1k88H6N9Ws
-2VvA8EjnS9WJxc6KUcfI/puNkywVRU2TVrx4JDI3x1LyO9QjxuDYRznHyRYBm/5Yy25DeHfE5wmP
-tPuLty5Z6a5FCe7bu5cH8dX/jM2Xye6qGaovhpDpdxT1eTlpI/C1GBI7Chb3OxaC0moxcZa5MOhX
-LzKwPSRODjTa4mB3Rcaj+KGr5TFKIou797o5E0QejRYDYmnpsisA+HvjrtKhJyoGXXF7bqhlfwny
-WLMJyeYz/HhRi2vgSJ/I1sYw0CbuXSiSngen+TfIESjyKDz/fBCEq3ePJeM7z1cG+bnKJ2CvBGBz
-IEx2EjfoII8fUtTUGmw6unOg01bgDlC/H4AOc63xFm5FcctlkwxCgWolhqF/sPMc/zUZ8qktPODh
-osqBoYOBCMILdrSAgvzgg9SEaztEpgZGqjiIkoT+Yy2JfDz00idIs0SZ0nizh1hHZoWB+oz/CroE
-DP/UpbCfKlQpPhEwe5b6a+4WheZZKQY266djkb/pqK48ax9zFw31Uc+Jrph73cflMTJ6HMKchhfX
-JgI93Q/kzUL/ENcFqZK5idZf+4++2HGOfkjPLfH17xyAKgAC0JTVni+37IRnqnf8rmt0u1n6q0xc
-6dgZTzGj3COpcfKZJGq/Wt2d+myEB7KZLbvm5AGfD8iE6Iq6Rzib5c44qr1T21rk9pAhdzcLEbbi
-j3KBGqyLm6RuA09DSMhA084GDGCmoQMKWIrh60XXlyLsdMvzUaaxDhPcQj1+0og7i1oFL3c9Y4YW
-wOZYfVL6fTMflRNw+vZD/3BDGywxVL+EzF5HEhZ+rwfCPj4i15LQwmwBDhI3RxFzYeghnCtXKO0P
-u26rH225HUIKqxlYwrrNMDjDJmnfpd+QsBVxtSb4wgg0BW9JoC5lf4G9T6A6BIfRLsvLbzIyrrfu
-bm86/w1ILcfAUNkEXwNfsSFGmccVQHtTl7QWmIRkW/AdicpW8n0R9vILgsZlXuOGVgDKWnpfbOfT
-t4zA7eo2DZifp3aHjCnK+1+36rEpyhxk4BLsuBQlwd6sd+76l2wl7Gm7pGOxQF5JGWysMuOccfkU
-xybVEYa+GHCvKmDT3t8SlZbGrTyNMCglkckwJ+l12GZNrzfxATmBuaTO/nqTYmJPkm8s0NEZAy1A
-fMbhIn/2itkCaHemb859aC96GWMJ5fc9bqi7HtAM6okZ9JrsOkCZBdYn8ItDvPMyMsjMEp5qxUH+
-25sgewBWZ+pGAqcd1uNlcvmminCh8YBKyCZLQBmerctZzC1u4aIbbFR2n1f8+HlSjRwHyX1bECfY
-ggio/ElRgf4gQqzuyJVvKJ2sYNfX0ww8oFLR/ocRaAD85cuLnuZm4VHXPv11G9c6nNFTPdfHkTd1
-rUg5JaI/YKVlJ18S8wW/xw25L44KYreDkaYxIgFxojwN1K6HQnEoz4Hq8s3kxHOWo2PR7IVwHuUn
-TTbXCrZYEp3Ly5SoEBKAXXY1zQksmBPVAYSGkv9jUvrb4v5T+ZM8PVPlgnM3sStm/gZOP3/vIHMp
-K4STfXkRTGSgYasLbFNHdhZNz32TUfaI34X3IL3zmbpNGeXr25s7XTf5BrLqgRM1Tq7JuPWp+q08
-5h+v+esLmsidELga6aCfoEJtDTm6BxIXNcnQgdvNkwF4hmZfRhNbmTFAd8Xu4KEjV4to4qxlSLI/
-iyFTD6AEvfaPFUKhMvz5j7prUMFTySxrMfQ3iWpLX8ypqmrqDlrVKg/MK/4ZqH0DOb3uWPk5Gjb1
-Ga/GeXjDafZY9rIUD25Ij9P1Stuz/s8AJPvR5vbuddx1fKduRbiMtUWbziAI4oJav2mYavjWh1cN
-eApob8e4UB8Cr8zzJLRMLgUkfcLKktdDWjeiW68Q9fQEoZT3RO4GKJyBP68U2EU6EE+snphwRaaK
-SRT9fPMwOYu2/bnMliMH7z6eyAObzayn4Apt8hjAhRnxCkS1pTmzu/q33wcHI8YWlZBe3WRfYqke
-3JlmNWRmAntm737aOM3mmR5suwaGgzToCOPQ3HeV30tIROFbqAAMj7MSZ5aCBYHySJ9SvhwiEwvw
-BI8seWPDW+Bbp2JbloFTRc8QrCDToLRLgUYPzpIWNLTskiHA/tdIorXaHdubjTh38wJGeW8G3kln
-VqcNM0EuhhK7TdhEAr9z7z/RxijAlAgcIASjXplsSQLK/ALBdiYh3/5klptwaRDCjAy60j2f1pIh
-n6mLxTrZSyi1uvddp7CdaHeoUqihfROjjnGNPK2FXfRQEH9946I4WLF1CRgTnFqAsk6bDyWtPnNC
-Bb5GEKr0o5kdUMckOChu3R8msGObxmnVCZR8vixgGYEnMeecTiQVTJ0H/3Qlko3lawkZN0dyuO0V
-1sddvQyZRkjxNnI2foMZyPjelxzjGKC98ltXwMMSEjk5SolBS2UjHnyf52MrZ/rBVce+VIEXuGLU
-jXimW8cjLc8P5xhJqB6+RmeY3SU6o1Wqo6N4vvhhm8eJpOBJ3UKpcq3HU1XgXWGPqqG26xNg/Kxl
-8HddIraqpn70twZ1OuZyPBzQVQR/nalsQfyIFtkUdXp1+5O4cLLzb63zykR4Z32jnvVgrBWut50M
-HSi09Q7n0Ii4/121RKiF5jNtQWnDOA3FyOeBp+spItQwv+/l6bCQ6iEx7/0j3EAkjHy6Ev+phCkh
-DscxWuV6IPY8ls4lD5DZYhzYhLL8i8kjX4aS5zi8TpRf1IRaYdymoXgxVMIZ0zWkoR+BpI8lxwWx
-XmqdA7ngkLh5p5Ij9xzzRqj3sXUupfVrp+kMPeGX3X2WlvRch6mxGIFNjBjCYFGSNejEh53gNNT7
-mTodqZJPBVcOVNVjP7sGX76Vce58UnoBHwaZMVqQit4o4BMQOJOOHn7HqOZStwcB8O/FczrbllEU
-+1fsOfZ9HmmUVuTfTWSfyhBM7nDvIMMYBE3LiYeVi0rPjt5dK1nZ1KfBkD7+8mCn+0BRXkfbHhg/
-gM1Xy5GglGzu/NaWDW/tE+UPKnsxMY6ESLNNMUKNwIgA1VFsqxmMvV2pmyqM4sZyunetZz+rHm2J
-JayoYkphTysNnsbRJ7/WyAsQ5fz+1sWD5a8ff2uZEawPWhlKLhxZabovkuQ12sLw7jvp+eZF3aMM
-afSxDZiNg37UcWcj5W6zsdCW4CLboORWjeT1S0zPaTB5iBAtvWomcW==
+<?php
+
+namespace PhpOffice\PhpSpreadsheet\Calculation\Engine;
+
+use PhpOffice\PhpSpreadsheet\Calculation\Exception;
+
+class ArrayArgumentHelper
+{
+    /**
+     * @var int
+     */
+    protected $indexStart = 0;
+
+    /**
+     * @var array
+     */
+    protected $arguments;
+
+    /**
+     * @var int
+     */
+    protected $argumentCount;
+
+    /**
+     * @var array
+     */
+    protected $rows;
+
+    /**
+     * @var array
+     */
+    protected $columns;
+
+    public function initialise(array $arguments): void
+    {
+        $keys = array_keys($arguments);
+        $this->indexStart = (int) array_shift($keys);
+        $this->rows = $this->rows($arguments);
+        $this->columns = $this->columns($arguments);
+
+        $this->argumentCount = count($arguments);
+        $this->arguments = $this->flattenSingleCellArrays($arguments, $this->rows, $this->columns);
+
+        $this->rows = $this->rows($arguments);
+        $this->columns = $this->columns($arguments);
+
+        if ($this->arrayArguments() > 2) {
+            throw new Exception('Formulae with more than two array arguments are not supported');
+        }
+    }
+
+    public function arguments(): array
+    {
+        return $this->arguments;
+    }
+
+    public function hasArrayArgument(): bool
+    {
+        return $this->arrayArguments() > 0;
+    }
+
+    public function getFirstArrayArgumentNumber(): int
+    {
+        $rowArrays = $this->filterArray($this->rows);
+        $columnArrays = $this->filterArray($this->columns);
+
+        for ($index = $this->indexStart; $index < $this->argumentCount; ++$index) {
+            if (isset($rowArrays[$index]) || isset($columnArrays[$index])) {
+                return ++$index;
+            }
+        }
+
+        return 0;
+    }
+
+    public function getSingleRowVector(): ?int
+    {
+        $rowVectors = $this->getRowVectors();
+
+        return count($rowVectors) === 1 ? array_pop($rowVectors) : null;
+    }
+
+    private function getRowVectors(): array
+    {
+        $rowVectors = [];
+        for ($index = $this->indexStart; $index < ($this->indexStart + $this->argumentCount); ++$index) {
+            if ($this->rows[$index] === 1 && $this->columns[$index] > 1) {
+                $rowVectors[] = $index;
+            }
+        }
+
+        return $rowVectors;
+    }
+
+    public function getSingleColumnVector(): ?int
+    {
+        $columnVectors = $this->getColumnVectors();
+
+        return count($columnVectors) === 1 ? array_pop($columnVectors) : null;
+    }
+
+    private function getColumnVectors(): array
+    {
+        $columnVectors = [];
+        for ($index = $this->indexStart; $index < ($this->indexStart + $this->argumentCount); ++$index) {
+            if ($this->rows[$index] > 1 && $this->columns[$index] === 1) {
+                $columnVectors[] = $index;
+            }
+        }
+
+        return $columnVectors;
+    }
+
+    public function getMatrixPair(): array
+    {
+        for ($i = $this->indexStart; $i < ($this->indexStart + $this->argumentCount - 1); ++$i) {
+            for ($j = $i + 1; $j < $this->argumentCount; ++$j) {
+                if (isset($this->rows[$i], $this->rows[$j])) {
+                    return [$i, $j];
+                }
+            }
+        }
+
+        return [];
+    }
+
+    public function isVector(int $argument): bool
+    {
+        return $this->rows[$argument] === 1 || $this->columns[$argument] === 1;
+    }
+
+    public function isRowVector(int $argument): bool
+    {
+        return $this->rows[$argument] === 1;
+    }
+
+    public function isColumnVector(int $argument): bool
+    {
+        return $this->columns[$argument] === 1;
+    }
+
+    public function rowCount(int $argument): int
+    {
+        return $this->rows[$argument];
+    }
+
+    public function columnCount(int $argument): int
+    {
+        return $this->columns[$argument];
+    }
+
+    private function rows(array $arguments): array
+    {
+        return array_map(
+            function ($argument) {
+                return is_countable($argument) ? count($argument) : 1;
+            },
+            $arguments
+        );
+    }
+
+    private function columns(array $arguments): array
+    {
+        return array_map(
+            function ($argument) {
+                return is_array($argument) && is_array($argument[array_keys($argument)[0]])
+                    ? count($argument[array_keys($argument)[0]])
+                    : 1;
+            },
+            $arguments
+        );
+    }
+
+    public function arrayArguments(): int
+    {
+        $count = 0;
+        foreach (array_keys($this->arguments) as $argument) {
+            if ($this->rows[$argument] > 1 || $this->columns[$argument] > 1) {
+                ++$count;
+            }
+        }
+
+        return $count;
+    }
+
+    private function flattenSingleCellArrays(array $arguments, array $rows, array $columns): array
+    {
+        foreach ($arguments as $index => $argument) {
+            if ($rows[$index] === 1 && $columns[$index] === 1) {
+                while (is_array($argument)) {
+                    $argument = array_pop($argument);
+                }
+                $arguments[$index] = $argument;
+            }
+        }
+
+        return $arguments;
+    }
+
+    private function filterArray(array $array): array
+    {
+        return array_filter(
+            $array,
+            function ($value) {
+                return $value > 1;
+            }
+        );
+    }
+}
